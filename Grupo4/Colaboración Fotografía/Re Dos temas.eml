@@ -1,0 +1,117 @@
+Return-path: <launion4.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Thu, 17 Jun 2010 16:02:51 -0600
+Received: from mail-vw0-f43.google.com ([209.85.212.43])
+	by host221.hostmonster.com with esmtp (Exim 4.69)
+	(envelope-from <launion4.lomas@gmail.com>)
+	id 1OPNAh-0005wp-NI; Thu, 17 Jun 2010 16:02:51 -0600
+Received: by vws11 with SMTP id 11so4035803vws.16
+        for <multiple recipients>; Thu, 17 Jun 2010 15:02:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:in-reply-to
+         :references:date:message-id:subject:from:to:cc:content-type
+         :content-transfer-encoding;
+        bh=lvLdiNiRcJ/k1VT0toS5Ck6jhirQ4HhpVaYUMq0Sy4M=;
+        b=rCjy+AVn3IkcA6VAIqUFMsExvEkBVD+rdvrwzbvSgPI4AXnUwt/ebeon7NsBa1tn45
+         81YG64okRvfYjJjxGUBCH/9s3Svf2cUW2p5nMnlk0RyHG14xfEfftKzv8X8ygGe9XSTP
+         YBoaLeJok7vJjz+yRdheFjp5McJqhMfRs8SKQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type:content-transfer-encoding;
+        b=ENup5zsJoPSxdoEovWHZ8XQt7tAQDWgBEjQwXTkeV1gJ8jWobe4aSip/OK7U6/9oVt
+         U/CK1tWfVLLr8Yd7A7JPqqtnqe7Eq5YXPWN0O2nKkLjg6q51gYpkZAeVJFjrcwiKu79G
+         fZXiEUZEF5nocISfibha0GMiFPiQWVEhii82Q=
+MIME-Version: 1.0
+Received: by 10.224.109.8 with SMTP id h8mr119101qap.60.1276812170381; Thu, 17 
+	Jun 2010 15:02:50 -0700 (PDT)
+Received: by 10.229.10.4 with HTTP; Thu, 17 Jun 2010 15:02:50 -0700 (PDT)
+In-Reply-To: <49FDDF66EBE9408DAFD7EBE6A8914DE8@launion.com>
+References: <49FDDF66EBE9408DAFD7EBE6A8914DE8@launion.com>
+Date: Thu, 17 Jun 2010 19:02:50 -0300
+Message-ID: <AANLkTimQUSGu-CGvv1wlhO3EZeO8gc0BcPyF4SMwjms4@mail.gmail.com>
+Subject: Re: Dos temas
+From: Diario LA UNION <launion4.lomas@gmail.com>
+To: Carlos-Diario La Union <carlos@launion.com.ar>
+Cc: informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Carlos:
+
+Al respecto de tu menci=F3n del sistema SDClass, debo comentarte que
+desconozco el por qu=E9 se "planta" en la primer hoja.
+Hay dos listados. Uno de total de caja y otro discriminado.
+
+Termino de enviarte este correo y voy a la Administraci=F3n de la
+Avenida para ver ese tema. Yo saqu=E9 una prueba y sali=F3 bien.
+
+Referente al n=FAmero de factura, es cierta la no coincidencia de
+numeraci=F3n. Es un error de c=F3digo de programaci=F3n en el bloqueo y
+modificaci=F3n del n=FAmero de registro y, cuando antes se controlaba, yo
+deb=EDa ajustar la numeraci=F3n una vez por semana.
+El n=FAmero de factura fue ajustado el d=EDa Martes pasado (antes de
+enviarte los informes).
+
+Puedo realizar una aplicaci=F3n para que las chicas de mostrador
+modifiquen el n=FAmero de factura sin tocar la base de datos para evitar
+inconvenientes.
+
+Con esto, quiero decir que el problema no es de "los sistemas", sino
+"del sistema" que compraron antes de mi ingreso a la Empresa.
+
+Y con respecto al CD que te envi=E9, te hago una nueva copia. Ya s=E9 que
+no es el que me diste en mano porque tu copia "desapareci=F3" al
+dej=E1rtelo en una oportunidad anterior que me olvid=E9 de comentarte.
+Hice una copia en mi casa y te lo entregu=E9.
+Puede ser que mi copiadora este funcionando mal. No puedo asegurarlo
+porque revis=E9 la copia y funciona.
+Este tema, quer=EDa conversarlo personalmente con vos en reserva, pero
+debo expres=E1rtelo ahora.
+
+Para finalizar, todos los requerimientos que me van realizando los
+ejecuto. Habr=E1s observado mis horarios de retiro de la Empresa en los
+=FAltimos meses. Se juntan los nuevos requerimientos con los "antiguos
+procedimientos" de mi sector, con tareas fuera de incumbencias y
+dem=E1s.
+
+El objeto de insistirte con una charla personal era para, adem=E1s de
+informarme de tareas y coordinar requerimientos, comentarte lo
+anteriormente mencionado (lo cual me est=E1 desorganizando mi vida
+"extra Empresa" y no recibo compensaci=F3n alguna).
+
+
+Un abrazo para vos. Y a tu disposici=F3n para informarte acerca de lo que d=
+esees.
+
+
+Juli=E1n M. Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+
+
+
+
+
+El 17/06/10, Carlos-Diario La Union <carlos@launion.com.ar> escribi=F3:
+> Querido Juli=E1n:
+>
+> Con respecto al programa "CD class",  intent=E9 listar desde la opci=F3n
+> "listados y estadisticas" y, si bien imprime en la impresora chica se pla=
+nta
+> en la primer hoja y no sale completo - Al m=E1rgen de esto, los Nos. de
+> factura no tienen nada que ver con los reales y, en resumidas cuentas, sa=
+lvo
+> mejor opini=F3n, tanto el programa como la m=E1quina en la que corre,  ya
+> fueron.  Estaba bueno el archivo "xls" que me mandaste vos   aunque me
+> parece dificil que las chicas de mostrador sepan convertir los archivos d=
+e
+> ese programa.
+>
+> Gracias por el CD del Office 2003,  pero este que me mandaste no es,    e=
+sta
+> vacio o da=F1ado,   fijate si ten=E9s el que te di yo
+>
+>
+> Un abrazo .........  Carlos

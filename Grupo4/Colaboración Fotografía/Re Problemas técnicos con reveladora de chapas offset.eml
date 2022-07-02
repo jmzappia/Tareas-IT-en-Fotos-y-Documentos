@@ -1,0 +1,88 @@
+Return-path: <launion5.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Fri, 25 Jun 2010 20:32:01 -0600
+Received: from mail-iw0-f171.google.com ([209.85.214.171])
+	by host221.hostmonster.com with esmtp (Exim 4.69)
+	(envelope-from <launion5.lomas@gmail.com>)
+	id 1OSLBZ-0002av-1U
+	for informatica@launion.com.ar; Fri, 25 Jun 2010 20:32:01 -0600
+Received: by iwn33 with SMTP id 33so7648556iwn.16
+        for <informatica@launion.com.ar>; Fri, 25 Jun 2010 19:31:58 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:sender:received
+         :in-reply-to:references:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type:content-transfer-encoding;
+        bh=N74hGHB7N5QCWRXv+P0gqdOjNom4aPJpulZK6/jp59g=;
+        b=ff5AoLcX2JDxAXuDNNL8g8diRejaVEw8dmghasm2paD0EQFxL9DV0eSKlYljwJySPC
+         QHlpbyONAVujkqZc+oYLaVxyx6soRAY3NmsIkiWz7fvQ0wdt8CW4SJQp0/YZ/4xSJB+g
+         b4JO4s8Exo7uzsDl6ECUKzpUTPGlJA6qIez/Y=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:sender:in-reply-to:references:date
+         :x-google-sender-auth:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        b=wGG/ii6spNefOuqE30Udw4gN2yPCMkewF1c/tBbcokczsJ2JUJhw2o7xBeYwCVJBSo
+         ThZEhDu2wGV1qaDCVqe869OoqhqH3HJ4CgrAEMD9AxTmw//vgliNH4Ik8cr/GHTKndKC
+         zgoDsR2p9LZwplZJ+51/maQZHy+tEsP/0xSeY=
+MIME-Version: 1.0
+Received: by 10.231.130.142 with SMTP id t14mr1596784ibs.155.1277519517909; 
+	Fri, 25 Jun 2010 19:31:57 -0700 (PDT)
+Sender: launion5.lomas@gmail.com
+Received: by 10.231.34.71 with HTTP; Fri, 25 Jun 2010 19:31:57 -0700 (PDT)
+In-Reply-To: <AANLkTimyBYdserKGNOiVVEv9wFrd19FYPUNhUHBqxBAa@mail.gmail.com>
+References: <AANLkTikZVYMbbUhv5gWHNYgNeEEGRFi23dq1ZLUXbia_@mail.gmail.com>
+	<AANLkTimyBYdserKGNOiVVEv9wFrd19FYPUNhUHBqxBAa@mail.gmail.com>
+Date: Fri, 25 Jun 2010 23:31:57 -0300
+X-Google-Sender-Auth: EE33_QviRZ1m5BXOBKq0ptSr9Rs
+Message-ID: <AANLkTilRioT6AdD7CRR4zyGHcd52dYByg_OQwg9-3Dna@mail.gmail.com>
+Subject: =?ISO-8859-1?Q?Re=3A_Problemas_t=E9cnicos_con_reveladora_de_chapas_off?=
+	=?ISO-8859-1?Q?set?=
+From: =?ISO-8859-1?Q?Taller_Gr=E1fico_=2D_LA_UNION?= <imprenta@launion.com.ar>
+To: informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Carlos.
+
+Al respecto del t=E9cnico para la reveladora, te comunicamos que a la
+fecha no se ha presentado en las instalaciones de Loria 475.
+
+Saludos.
+
+Omar / Juli=E1n / Juan Carlos
+
+El 23/06/10, Taller Gr=E1fico - LA UNION <imprenta@launion.com.ar> escribi=
+=F3:
+> ---------- Forwarded message ----------
+> From: Taller Gr=E1fico - LA UNION <imprenta@launion.com.ar>
+> Date: Tue, 22 Jun 2010 23:36:33 -0300
+> Subject: Problemas t=E9cnicos con reveladora de chapas offset
+> To: carlos@launion.com.ar
+> Cc: administracion@launion.com.ar
+>
+> SRES.
+> ADMINISTRACION
+> DIARIO LA UNION S.A.
+>
+> Se informa que, en el d=EDa de la fecha, se han incrementado los
+> inconvenientes t=E9cnicos en la reveladora de chapas offset InterPlater
+> PP86.
+>
+> El ingreso de chapas offset a trav=E9s del sistema de alimentaci=F3n del
+> equipo se ve demorado por atasco, cada vez m=E1s severo.
+>
+> Adem=E1s, se ha producido un error en el sensor de carga de revelador
+> que fue solucionado por el Sr. Mario Rezzano.
+>
+> El Sr. Mario Rezzano ha informado, adem=E1s de lo anteriormente
+> mencionado, que el pedido de mantenimiento para la reveladora de
+> planchas y ambas insoladoras ya fue realizado con anterioridad.
+>
+>
+> Saludamos atentamente.
+>
+>
+> Juan Carlos D=EDaz
+> Juli=E1n Marcelo Zappia
+>

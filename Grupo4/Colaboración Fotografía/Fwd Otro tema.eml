@@ -1,0 +1,52 @@
+Return-path: <launion4.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Tue, 15 Jun 2010 18:50:22 -0600
+Received: from mail-vw0-f43.google.com ([209.85.212.43])
+	by host221.hostmonster.com with esmtp (Exim 4.69)
+	(envelope-from <launion4.lomas@gmail.com>)
+	id 1OOgpi-00007D-7H
+	for informatica@launion.com.ar; Tue, 15 Jun 2010 18:50:22 -0600
+Received: by vws11 with SMTP id 11so1220347vws.16
+        for <informatica@launion.com.ar>; Tue, 15 Jun 2010 17:50:21 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:in-reply-to
+         :references:date:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=e/V5qkV0doh75xgtS8lzbKCgnEA2LAqjLyJT0VvaX7U=;
+        b=qSVWFRe2l2fPl2P8ZlWDPipClmKiQmrIIjqwWCkqUwYLG4Gk3gOOie6cQ3Nu4AjoXu
+         ZLCK7xyjgoC1WJMqBFyXyl17w2R9ZE5ho0iMWADF2mt/QWUWnahnMdkgm4Sy0LzfTXrp
+         8kwnEGXNjHA+jhdo23fhol+UibRuOt4LqCr0k=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type:content-transfer-encoding;
+        b=kAKPX6EmgGgH3192sIEYvUF8aL3b3P5TJA/e5iQ0TQNsTQFPtqkTAmmn0uN0c6iylK
+         iEXD/opnr+E0TA7R+uKDj3RTKIydgJqgauWA6/5uoo8bRxMrcO97J42Rano8pd1sxFS8
+         HvqvcKuxgGB8BJHhmss04jCQWetyGYe2nftYA=
+MIME-Version: 1.0
+Received: by 10.229.215.65 with SMTP id hd1mr3579398qcb.258.1276649421125; 
+	Tue, 15 Jun 2010 17:50:21 -0700 (PDT)
+Received: by 10.229.10.4 with HTTP; Tue, 15 Jun 2010 17:50:20 -0700 (PDT)
+In-Reply-To: <DCCAFCE5ED9B4331BCC812FF4AB29C5E@launion.com>
+References: <DCCAFCE5ED9B4331BCC812FF4AB29C5E@launion.com>
+Date: Tue, 15 Jun 2010 21:50:20 -0300
+Message-ID: <AANLkTinn8Sl3z10NklpvxKBixlxYr5znyKJO8zqk--aQ@mail.gmail.com>
+Subject: Fwd: Otro tema
+From: Diario LA UNION <launion4.lomas@gmail.com>
+To: informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------
+From: Carlos-Diario La Union <carlos@launion.com.ar>
+Date: Tue, 15 Jun 2010 18:31:38 -0300
+Subject: Otro tema
+To: Julian Zappia <launion.lomas@gmail.com>
+
+Juli=E1n:
+Si tense tiempo y podes,  necesitar=EDa que vieras la m=E1quina que est=E1
+en la recepci=F3n,  reci=E9n se instal=F3 y aparentemente no tendr=EDa
+configurada la red  en consecuencia no tiene acceso a Internet.
+
+Gracias ....... Carlos

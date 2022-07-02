@@ -1,0 +1,73 @@
+Return-path: <launion5.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Tue, 29 Jun 2010 16:09:18 -0600
+Received: from mail-iw0-f171.google.com ([209.85.214.171])
+	by host221.hostmonster.com with esmtp (Exim 4.69)
+	(envelope-from <launion5.lomas@gmail.com>)
+	id 1OTizW-0003kU-GL; Tue, 29 Jun 2010 16:09:18 -0600
+Received: by iwn33 with SMTP id 33so174492iwn.16
+        for <multiple recipients>; Tue, 29 Jun 2010 15:09:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:sender:received:date
+         :x-google-sender-auth:message-id:subject:from:to:cc:content-type
+         :content-transfer-encoding;
+        bh=WPQ2G6oQgMQo92Ti9nq/bK0cQM4MnZ3ar5MS/qMyIIM=;
+        b=fHs3TNuKKF3o6DekJ1bb63TpxX1zvyCwMct1iHQLo1xMLHiHawEZIJ+MtZvXU1BBJJ
+         lhiK87LCZdmRKq+uE/5sL01GD33UqV1mE/h2EsSvMRHz1jE/DLVzHtAl1dbu2qw2VFdt
+         g4kHqWbUwNO2rnO1wHjWDCJNIl2m2kL8GI4DA=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:cc:content-type:content-transfer-encoding;
+        b=iEFV3ZW42FyRDkRAG4/NgB8XAcHTHdlHnMQnK9hTjnQh1g1Xj320sM45fmHdMm7VcU
+         iHkKoZ7XlJw74ezVHEH0SmFOOz+HCZiOywX3I2TpkNUdyika7QTFy+EgtN+/HuiVKJ41
+         xuBZh5+Q9injE35piDC5HjoNARhwqju+U8QXE=
+MIME-Version: 1.0
+Received: by 10.231.82.145 with SMTP id b17mr7562852ibl.187.1277849357294; 
+	Tue, 29 Jun 2010 15:09:17 -0700 (PDT)
+Sender: launion5.lomas@gmail.com
+Received: by 10.231.34.71 with HTTP; Tue, 29 Jun 2010 15:09:17 -0700 (PDT)
+Date: Tue, 29 Jun 2010 19:09:17 -0300
+X-Google-Sender-Auth: I_DTq9KpGIM5VxICA7ygzdotgjA
+Message-ID: <AANLkTim-RWjIVBlsruzYkmME8fg3KI0SgUDDuQyVi_Hd@mail.gmail.com>
+Subject: Toner reciclado recibido
+From: =?ISO-8859-1?Q?Taller_Gr=E1fico_=2D_LA_UNION?= <imprenta@launion.com.ar>
+To: haydee <haydee@launion.com.ar>
+Cc: administracion <administracion@launion.com.ar>, informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Haydee.
+
+En la fecha, recib=ED el cartucho de toner reciclado (o remanufacturado).
+Lo prob=E9 en la impresora y tiene un funcionamiento regular.
+
+No recuerdo bien nuestra conversaci=F3n, pero creo que me comentaste que
+el proveedor te lo hab=EDa entregado como "arreglado".
+
+La caja del cartucho est=E1 vencida (no entra bien en la bandeja del
+toner de la impresora), y produce algunos atascos de papel debajo del
+cartucho.
+
+La impresi=F3n es de calidad regular, como cualquier cartucho reciclado
+(baja densidad de toner, aparici=F3n de franjas un poco m=E1s claras,
+etc.).
+
+Puede llegar a utilizarse en caso de "emergencia" o para pruebas en
+papel obra blanco.
+
+Solo fue probado imprimiendo 5 copias. Es imposible determinar la
+duraci=F3n final pero, seg=FAn los promedios de este tipo de reciclados,
+puede tener una vida =FAtil de 7 =F3 10 d=EDas (no olvides que triplicamos
+la cantidad de impresiones).
+
+Un beso.
+
+Juli=E1n M. Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+
+P.D. En la impresora de vegetales, sigue en funcionamiento el cartucho
+original recibido aproximadamente hace 15 d=EDas. En la otra, el
+cartucho retirado en el recambio anterior.

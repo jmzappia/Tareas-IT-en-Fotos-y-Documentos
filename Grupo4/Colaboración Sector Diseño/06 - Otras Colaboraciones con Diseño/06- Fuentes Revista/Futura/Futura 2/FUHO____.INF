@@ -1,0 +1,27 @@
+FontName (Futura-HeavyOblique)
+FullName (Futura Heavy Oblique)
+AppleName (Futura HeavyOblique)
+AppleFONDID 14833
+FamilyName (Futura)
+version (001.002)
+isFixedPitch false
+CharacterSet (isoadobe)
+Encoding (StandardEncoding)
+ItalicAngle -9
+CapHeight 754
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 140
+Serif false
+Pi false
+SuperiorBaseline 302
+MSMenuName (Futura Medium)
+VPMenuName (Futura Medium)
+WORDMenuName (FuturaMedium)
+VPTypefaceID 251
+VPStyle (T)
+PCFileNamePrefix (FUHO_)
+PCLTypefaceID 20494
+PCLStrokeWeight 2
+PCLStyle 1
+

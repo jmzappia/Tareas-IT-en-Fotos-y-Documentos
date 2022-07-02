@@ -1,0 +1,104 @@
+Return-path: <launion4.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Tue, 15 Jun 2010 18:49:59 -0600
+Received: from mail-yx0-f171.google.com ([209.85.213.171])
+	by host221.hostmonster.com with esmtp (Exim 4.69)
+	(envelope-from <launion4.lomas@gmail.com>)
+	id 1OOgpL-0008Gx-Gs
+	for informatica@launion.com.ar; Tue, 15 Jun 2010 18:49:59 -0600
+Received: by yxn22 with SMTP id 22so2234478yxn.16
+        for <informatica@launion.com.ar>; Tue, 15 Jun 2010 17:49:58 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:in-reply-to
+         :references:date:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=QkidkEO2Sj/OX55VWgFLZUi7uQwP3gA4G9/DiqtPj24=;
+        b=ooi2nrfX6yLv67g4RfMt1HiEuyTuhU3wxl6YrwjJ2tFYaGbsL8ivatL2j90i7YBwTJ
+         +M/21RaiWkYWDj01ffgIVP4A9kR9ocDa4Vev90b3zTfMADJde/p5LhDKi+Tb+7Ze+AtA
+         BJdAOYVM4l2EkROogubItjpTCvW1zDwVcrHjU=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type:content-transfer-encoding;
+        b=oUONRGyu8yNIe9Rok661Ot6hVcK/pmyLIuk1BA8/6mMnuV+ZNhmhw09lWtR0fdcTfh
+         1/V0/RRYGg9qynulOJQvcEjf9OgqokOsP/OlCm651Y8qtaHoIA1iBqyiejEdWURLT9iu
+         Lbw+M4d7C4XjYoYrYpHc4dc5ciq95An1g8pSg=
+MIME-Version: 1.0
+Received: by 10.229.185.1 with SMTP id cm1mr3611571qcb.57.1276649398397; Tue, 
+	15 Jun 2010 17:49:58 -0700 (PDT)
+Received: by 10.229.10.4 with HTTP; Tue, 15 Jun 2010 17:49:58 -0700 (PDT)
+In-Reply-To: <AANLkTil6Q2fnQRKPxmvWP3aTrUPnXbqzIz8y8l1m8pm0@mail.gmail.com>
+References: <8C76EECCA09C441A8386B3F2EAE3E4F0@launion.com>
+	<AANLkTil6Q2fnQRKPxmvWP3aTrUPnXbqzIz8y8l1m8pm0@mail.gmail.com>
+Date: Tue, 15 Jun 2010 21:49:58 -0300
+Message-ID: <AANLkTik19LXn1Z7ou4rooSBCEiUDRnW1srE2W2n_rxB3@mail.gmail.com>
+Subject: =?ISO-8859-1?Q?Fwd=3A_Impresi=F3n_repote?=
+From: Diario LA UNION <launion4.lomas@gmail.com>
+To: informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------
+From: Diario LA UNION <launion4.lomas@gmail.com>
+Date: Tue, 15 Jun 2010 21:49:28 -0300
+Subject: Re: Impresi=F3n repote
+To: Carlos-Diario La Union <carlos@launion.com.ar>
+
+Carlos.
+
+He recibido todos sus requerimientos.
+En cuanto al presente, debo informarle que:
+
+1. La impresora posee orden de reparaci=F3n desde inicios del corriente a=
+=F1o.
+2. Es imposible redireccionar la impresi=F3n desde el sistema porque el
+direccionamiento de las informes los realiza el mismo sistema.
+
+Como siempre, ver=E9 que es lo que puedo hacer, como en el caso todos
+los requerimientos recibidos desde otras =E1reas.
+Caso contrario, el sistema tiene una opci=F3n de generaci=F3n de archivo
+de base de datos con la facturaci=F3n del d=EDa que podr=EDa llegar a
+utilizarse.
+
+Aprovecho para informarle comentarios realizados por la Srta. Jesica
+Aguirre, al respecto de:
+
+a. Copia de factura de clasificados muy clara. Es debido a la calidad
+del papel qu=EDmico.
+b. Indicaci=F3n de separaci=F3n de facturaci=F3n de receptor=EDas, por
+receptor=EDa, enviadas en formato Excel desde la falta de impresora en
+la Administraci=F3n de la Empresa. Se realizar=E1 en hojas separadas
+dentro del mismo archivo, debido a reclamo de "recorte uno por uno" de
+informe enviado hasta el momento.
+
+
+Sin otro particular, lo saludo muy cordialmente.
+
+Juli=E1n M. Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+
+Nota: espero poder tener a la brevedad la reuni=F3n convenida con Ud.
+hace 15 d=EDas. Los temas de la conversaci=F3n que deseaba tener con Ud.
+era alguno de los mencionados, m=E1s mi situaci=F3n personal de horarios
+(salidas muy tarde), horas extras y el tema pendiente de deuda de
+haberes del mes de Abril de 2010 m=E1s vacaciones no gozadas, aun no
+resueltas por el estudio contable (al menos yo no tengo noticias al
+respecto).
+
+
+El 15/06/10, Carlos-Diario La Union <carlos@launion.com.ar> escribi=F3:
+> Juli=E1n:
+> Necesito que veas el programa de facturaci=F3n del mostrador de Yrigoyen.
+> Al respecto s=E9 que el mismo,  emite un reporte con fecha, hora, Factura=
+ y N=BA
+> de aviso  y lo imprime a trav=E9s de la impresora de carro ancho   que no=
+ anda
+> hace tiempo.
+> La idea es direccionar ese reporte a la impresora que anda para poder lis=
+tar
+> al final de cada d=EDa esos dato  -   Te agradecer=EDa si podes modificar=
+lo.
+> Un abrazo .... Carlos
+>

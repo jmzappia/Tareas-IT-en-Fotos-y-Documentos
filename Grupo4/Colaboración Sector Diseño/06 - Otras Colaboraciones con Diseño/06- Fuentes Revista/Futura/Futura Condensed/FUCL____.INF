@@ -1,0 +1,27 @@
+FontName (Futura-CondensedLight)
+FullName (Futura Condensed Light)
+AppleName (Futura CondensedLight)
+AppleFONDID 14830
+FamilyName (Futura)
+version (001.003)
+isFixedPitch false
+CharacterSet (isoadobe)
+Encoding (StandardEncoding)
+ItalicAngle 0
+CapHeight 754
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 65
+Serif false
+Pi false
+SuperiorBaseline 306
+MSMenuName (Futura CondensedLight)
+VPMenuName (Futura CondensedLight)
+WORDMenuName (FuturaCondensedLight)
+VPTypefaceID 249
+VPStyle (N)
+PCFileNamePrefix (FUCL_)
+PCLTypefaceID 20494
+PCLStrokeWeight -3
+PCLStyle 4
+

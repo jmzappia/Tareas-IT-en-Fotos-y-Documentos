@@ -1,0 +1,52 @@
+Return-path: <launion4.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Tue, 15 Jun 2010 18:50:48 -0600
+Received: from mail-vw0-f43.google.com ([209.85.212.43])
+	by host221.hostmonster.com with esmtp (Exim 4.69)
+	(envelope-from <launion4.lomas@gmail.com>)
+	id 1OOgq8-00007D-GH
+	for informatica@launion.com.ar; Tue, 15 Jun 2010 18:50:48 -0600
+Received: by mail-vw0-f43.google.com with SMTP id 11so1220347vws.16
+        for <informatica@launion.com.ar>; Tue, 15 Jun 2010 17:50:48 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:in-reply-to
+         :references:date:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=MBaZOgsGeJKPb+pxfOqL+q0mWztIvwlEv1TdNlDNLKw=;
+        b=qSlaWWan+qIY1XJBhSSCA9G7oHBInJ5a6lgnRu1lKs5Tvq+nkWfFy3ZmCuztFGTFns
+         czkpjwAHIHk/6fDIy+LpbGkcIvC7+c58XfmzAWmtKJAN+U0VCmMcTsSY6Z2pNfZQzLUm
+         udSCnE7aZYIVdoY/8QZzppf8vHjVdiB5yObuo=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type:content-transfer-encoding;
+        b=Fodd8RUZsACmKdwOBqL3Jv7skJWQrXsAnSTLcYRL8S9gXjCxV9g0K8iqiFKeBs9M/D
+         5ifcNAepATxvk37wwvwwFJl4pxKZ5jVeRQqPad1DCY2uskxyexVdWNTwnzaElGbZ72kS
+         TITJFPhLNZXa3tVdHsq/oy1b3AuY5Hsb9iHmI=
+MIME-Version: 1.0
+Received: by 10.224.27.233 with SMTP id j41mr3875138qac.102.1276649447578; 
+	Tue, 15 Jun 2010 17:50:47 -0700 (PDT)
+Received: by 10.229.10.4 with HTTP; Tue, 15 Jun 2010 17:50:47 -0700 (PDT)
+In-Reply-To: <A0DA406A85004C9E8008F76798FA864E@launion.com>
+References: <A0DA406A85004C9E8008F76798FA864E@launion.com>
+Date: Tue, 15 Jun 2010 21:50:47 -0300
+Message-ID: <AANLkTim9reIsvO4hJ0kxcO86oPJ4LJ5kPq0VGaIQb3hd@mail.gmail.com>
+Subject: Fwd: Office 2003
+From: Diario LA UNION <launion4.lomas@gmail.com>
+To: informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------
+From: Carlos-Diario La Union <carlos@launion.com.ar>
+Date: Tue, 15 Jun 2010 16:05:07 -0300
+Subject: Office 2003
+To: Julian Zappia <launion.lomas@gmail.com>
+
+Juli=E1n:
+
+Te pido si sos tan amable,  me traigas el Office 2003  que te di la
+otra vez,  necesito instalarlo en otras m=E1quinas.
+
+Saludos ...... Carlos

@@ -1,0 +1,242 @@
+%!Adobe-FontList 1.07
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLHVO___.AFM
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLHVO___.INF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-HeavyExtObl
+FamilyName:Helvetica Neue
+StyleName:83 Heavy Extended Oblique
+FullName:Helvetica 83 Heavy Extended Oblique
+WritingScript:Roman
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLHVO___.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:41083
+WeightClass:850
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-HeavyExtObl
+NumMMAxes:0
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLHVO___.PFM
+FileLength:1054
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLHV____.AFM
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLHV____.INF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-HeavyExt
+FamilyName:Helvetica Neue
+StyleName:83 Heavy Extended
+FullName:Helvetica 83 Heavy Extended
+WritingScript:Roman
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLHV____.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30200
+WeightClass:850
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-HeavyExt
+NumMMAxes:0
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLHV____.PFM
+FileLength:1051
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLLVO___.AFM
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLLVO___.INF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-LightExtObl
+FamilyName:Helvetica Neue
+StyleName:43 Light Extended Oblique
+FullName:Helvetica 43 Light Extended Oblique
+WritingScript:Roman
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLLVO___.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:38953
+WeightClass:300
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-LightExtObl
+NumMMAxes:0
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLLVO___.PFM
+FileLength:1045
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLLV____.AFM
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLLV____.INF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-LightExt
+FamilyName:Helvetica Neue
+StyleName:43 Light Extended
+FullName:Helvetica 43 Light Extended
+WritingScript:Roman
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLLV____.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28962
+WeightClass:300
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-LightExt
+NumMMAxes:0
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLLV____.PFM
+FileLength:1042
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLMVO___.AFM
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLMVO___.INF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-MediumExtObl
+FamilyName:Helvetica Neue
+StyleName:63 Medium Extended Oblique
+FullName:Helvetica 63 Medium Extended Oblique
+WritingScript:Roman
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLMVO___.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:38524
+WeightClass:500
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-MediumExtObl
+NumMMAxes:0
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLMVO___.PFM
+FileLength:1047
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLMV____.AFM
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLMV____.INF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-MediumExt
+FamilyName:Helvetica Neue
+StyleName:63 Medium Extended
+FullName:Helvetica 63 Medium Extended
+WritingScript:Roman
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLMV____.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28687
+WeightClass:500
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-MediumExt
+NumMMAxes:0
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\HLMV____.PFM
+FileLength:1044
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Tipografias\Adobe Font Folio Fonts\Helvetica Neue Extended 3\README.TXT
+%EndFont
+

@@ -1,0 +1,221 @@
+Return-path: <vinuales@hotmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Thu, 28 Apr 2011 22:38:54 -0300
+Received: from [65.54.190.155] (helo=bay0-omc3-s17.bay0.hotmail.com)
+	by launio.launion.com.ar with esmtp (Exim 4.63)
+	(envelope-from <vinuales@hotmail.com>)
+	id 1QFcfT-0003a1-KY
+	for informatica@launion.com.ar; Thu, 28 Apr 2011 22:38:54 -0300
+Received: from BAY160-DS8 ([65.54.190.189]) by bay0-omc3-s17.bay0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Thu, 28 Apr 2011 18:38:47 -0700
+X-Originating-IP: [10.8.209.14]
+X-Originating-Email: [vinuales@hotmail.com]
+Message-ID: <BAY160-ds83FDDA53BA9C27EEF13B7D09A0@phx.gbl>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-15"
+Content-Transfer-Encoding: quoted-printable
+From: =?iso-8859-15?Q?Mart=EDn_Vi=F1uales_?= <vinuales@hotmail.com>
+To: =?iso-8859-15?Q?Inform=E1tica_-_LA_UNION_?= <informatica@launion.com.ar>,
+	"carlosbisignano@gmail.com " <carlosbisignano@gmail.com>
+Date: Fri, 29 Apr 2011 01:38:47 +0000
+Subject: Re: Mail
+X-OriginalArrivalTime: 29 Apr 2011 01:38:47.0761 (UTC) FILETIME=[2F2BCC10:01CC060E]
+X-Spam-Score: 6.9
+X-Spam-Score-Int: 69
+X-Spam-Bar: ++++++
+X-Spam-Report: Spam detection software, running on the system "launio.launion.com.ar", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Julian, Necesito me habilites una cuenta ftp con acceso a
+	algún directorio para dejar ahí imagenes para los newsletter Martin Enviado
+	desde mi BlackBerry® de Claro Argentina 
+	Content analysis details:   (6.9 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	2.4 DNS_FROM_OPENWHOIS     RBL: Envelope sender listed in bl.open-whois.org.
+	3.4 FH_DATE_PAST_20XX      The date is grossly in the future.
+	1.0 FUZZY_AMBIEN           BODY: Attempt to obfuscate words in spam
+	0.1 RDNS_NONE              Delivered to trusted network by a host with no rDNS
+X-Antivirus: AVG for E-mail 10.0.1209 [1500/3603]
+X-AVG-ID: ID2ECAAB4C-215DCAD7
+
+Julian,
+Necesito me habilites una cuenta ftp con acceso a alg=FAn directorio para de=
+jar ah=ED imagenes para los newsletter
+
+Martin
+Enviado desde mi BlackBerry=AE de Claro Argentina
+
+-----Original Message-----
+From: Inform=E1tica - LA UNION <informatica=40launion.com.ar>
+Date: Fri, 29 Apr 2011 02:08:31 
+To: <carlosbisignano=40gmail.com>
+Cc: <vinuales=40hotmail.com>
+Subject: Re: Mail
+
+Estimado Carlos: 
+=A0 
+En el env=EDo anteriormente citado, ocurri=F3 un solo=
+ error, y no por problemas en nuestro sistema de e-mails. 
+Copio y pego el c=
+ontenido del mail de respuesta de inconveniente: 
+=A0 
+=A0 
+=A0 
+----- Origi=
+nal Message ----- 
+From: =22Mail Delivery System=22 <Mailer-Daemon=40launio.=
+launion.com.ar <mailto:Mailer-Daemon=40launio.launion.com.ar> > 
+To: <newsle=
+tter=40launion.com.ar <mailto:newsletter=40launion.com.ar> > 
+Sent: Thursday=
+, April 28, 2011 6:57 PM 
+Subject: Mail delivery failed: returning message t=
+o sender 
+
+ 
+> This message was created automatically by mail delivery softw=
+are.
+> 
+> A message that you sent could not be delivered to one or more of i=
+ts
+> recipients. This is a permanent error. The following address(es) failed=
+:
+> 
+>=A0 ignacionitto=40lomasdezamora.gov.ar <mailto:ignacionitto=40lomasde=
+zamora.gov.ar> 
+>=A0=A0=A0 SMTP error from remote mail server after MAIL FRO=
+M:<newsletter=40launion.com.ar <mailto:newsletter=40launion.com.ar> > SIZE=
+=3D7154895:
+>=A0=A0=A0 host mail.lomasdezamora.gov.ar =5B200.5.114.181=5D:
+>=
+=A0=A0=A0 552 Requested mail action aborted: exceeded storage allocation
+> 
+=
+> ------ This is a copy of the message, including all the headers. ------
+> =
+------ The body of the message is 7061318 characters long; only the first
+> =
+------ 106496 or so are included here.
+ 
+=A0 
+=A0 
+El error ocurre sobre el =
+mail server de la casilla de correo con dominio lomasdezamora.gov.ar; el err=
+or =23502 indica: Requested mail action aborted: exceeded storage allocation=
+=2E Significa que excede la capacidad de almacenamiento. 
+=A0 
+Adjunto captu=
+ras de pantalla de configuraciones en Outlook, con el fin de informar nuevam=
+ente ante cualquier duda. Tambi=E9n, adjunto correo electr=F3nico con conten=
+ido completo del error anteriormente mencionado. 
+=A0 
+Si el error se produc=
+e desde el mail server (dominio) anteriormente mencionado, deber=EDa consult=
+arse con el proveedor del servicio. No es un inconveniente=A0en=A0nuestros c=
+orreos electr=F3nicos. 
+=A0 
+=A0 
+Saludos cordiales 
+=A0 
+=A0 
+Juli=E1n Marc=
+elo Zappia 
+Analista de Sistemas 
+Diario LA UNION S.A. 
+=A0 
+----- Original =
+Message ----- 
+From: Carlos Bisignano Burgos <mailto:carlosbisignano=40gmail=
+=2Ecom>  
+To: Inform=E1tica LA UNION <mailto:informatica=40launion.com.ar>  =
+
+Cc: Mart=EDn Vi=F1uales <mailto:vinuales=40hotmail.com>  
+Sent: Thursday, A=
+pril 28, 2011 2:41 PM 
+Subject: Re: Mail 
+
+Mart=EDn, te pido que le pases el=
+ error a Julian, a fin de solucionar los inconvenientes.
+
+Saludos.
+
+ 
+El 28 =
+de abril de 2011 16:26, Inform=E1tica LA UNION <informatica=40launion.com.ar=
+ <mailto:informatica=40launion.com.ar> > escribi=F3:
+ 
+ 
+Carlos: 
+=A0 
+Por f=
+avor, remitime en detalle el error que est=E1 produciendo el env=EDo masivo =
+de correos,=A0e indicame si son errores temporarios o constantes. 
+=A0 
+Salu=
+dos 
+=A0 
+Juli=E1n Marcelo Zappia 
+Analista de Sistemas 
+Diario LA UNION S.A=
+=2E 
+ 
+ 
+ 
+=A0 
+----- Original Message ----- 
+From: Carlos Bisignano Burgos =
+<mailto:carlosbisignano=40gmail.com>  
+To: Inform=E1tica - LA UNION <mailto:=
+informatica=40launion.com.ar>  
+Cc: Mart=EDn Vi=F1uales <mailto:vinuales=40h=
+otmail.com>  
+Sent: Thursday, April 28, 2011 1:48 PM 
+Subject: Mail 
+
+Julian=
+, no me puedo comunicar telefonicamente con vos.
+Me informan que est=E1 dand=
+o error el env=EDo de mails con el servidor que pasaste la otra vez, para en=
+viar newsletters.
+Te pido por favor que te comuniques urgente conmigo o con =
+Mart=EDn Vi=F1uales (vinuales=40hotmail.com <mailto:vinuales=40hotmail.com> =
+)
+
+Gracias.
+
+-- 
+Carlos Bisignano Burgos
+carlosbisignano=40gmail.com <mailto=
+:carlosbisignano=40gmail.com> 
+
+
+
+
+-- 
+Carlos Bisignano Burgos
+carlosbisigna=
+no=40gmail.com <mailto:carlosbisignano=40gmail.com> 
+
+
+ 
+----------------
+ 
+=
+----------------
+ 
+Se certific=F3 que el correo no contiene virus.
+Comprobad=
+a por AVG - www.avg.es <http://www.avg.es> 
+Versi=F3n: 10.0.1209 / Base de d=
+atos de virus: 1500/3603 - Fecha de la versi=F3n: 28/04/2011
+
+
+-----
+Se certific=F3 que el correo no contiene virus.
+Comprobada por AVG - www.avg.es
+Versi=F3n: 10.0.1209 / Base de datos de virus: 1500/3603 - Fecha de la versi=
+=F3n: 28/04/2011
+

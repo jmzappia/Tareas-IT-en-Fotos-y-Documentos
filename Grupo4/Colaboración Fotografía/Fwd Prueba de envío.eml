@@ -1,0 +1,69 @@
+Return-path: <launion5.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Tue, 15 Jun 2010 00:53:55 -0600
+Received: from mail-iw0-f171.google.com ([209.85.214.171])
+	by host221.hostmonster.com with esmtp (Exim 4.69)
+	(envelope-from <launion5.lomas@gmail.com>)
+	id 1OOQ1z-0007We-Q4
+	for informatica@launion.com.ar; Tue, 15 Jun 2010 00:53:55 -0600
+Received: by iwn6 with SMTP id 6so1811958iwn.16
+        for <informatica@launion.com.ar>; Mon, 14 Jun 2010 23:53:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:sender:received
+         :in-reply-to:references:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type:content-transfer-encoding;
+        bh=/xk9SYApdQggVEi4UXuYmtY7EjgvQZiQq5HoY4rCSHA=;
+        b=R/EbaoiUeTV11Gv242AYeTbk4marcYXkiBfRjek+cPnm+q6Mebw4H33xjqDMdq4sak
+         XbNFuToXUQD/j/hpKjpe9y7aZPDDeseCP3EvOnlXdr0grY1uEyafoPTVxt8XSE3/ktiM
+         WD+2QKJWMro19P2qHqK1AnWVMXBy3x30k/TvU=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:sender:in-reply-to:references:date
+         :x-google-sender-auth:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        b=A3owvH4GKPq5EZAaTnTgSitZzcTceRl+k1eF6+kdetsuNWK9RB27OP6yRBhbjLwsh+
+         KADNJ2uVSMxrAkjnH+s7oBdcqlCo6vjUaSCuBHAnFK0rG0FXDGc4/DHtys0pPHDr/g2r
+         eTAo2FTZjGsigg/OmoU1YNLw2lVuvHmTUbnZY=
+MIME-Version: 1.0
+Received: by 10.231.139.148 with SMTP id e20mr7670124ibu.164.1276584834620; 
+	Mon, 14 Jun 2010 23:53:54 -0700 (PDT)
+Sender: launion5.lomas@gmail.com
+Received: by 10.231.17.130 with HTTP; Mon, 14 Jun 2010 23:53:54 -0700 (PDT)
+In-Reply-To: <000c01cb0c39$a298c060$66c8a8c0@Jorge>
+References: <AANLkTimm8ShqJfuOy1n9G1TPLKTvjTsid1UY8G3lIpk6@mail.gmail.com>
+	<000c01cb0c39$a298c060$66c8a8c0@Jorge>
+Date: Tue, 15 Jun 2010 03:53:54 -0300
+X-Google-Sender-Auth: LUw7UgLHqJXmT3EZNS4T3XhiAp0
+Message-ID: <AANLkTimFEpEKbyr_AaiHFGl4dS3xyczzBRkZg_DXv95I@mail.gmail.com>
+Subject: =?ISO-8859-1?Q?Fwd=3A_Prueba_de_env=EDo?=
+From: =?ISO-8859-1?Q?Taller_Gr=E1fico_=2D_LA_UNION?= <imprenta@launion.com.ar>
+To: informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------
+From: Director Diario LA UNION <director@launion.com.ar>
+Date: Mon, 14 Jun 2010 22:19:56 -0500
+Subject: Re: Prueba de env=EDo
+To: Taller Gr=E1fico - LA UNION <imprenta@launion.com.ar>
+
+ok
+
+
+    DIARIO LA UNION
+    Jorge  Pablo  Conti
+      Director  General
+4243-1800 (L. Rotativas)
+  www.launion.com.ar
+----- Original Message -----
+From: "Taller Gr=E1fico - LA UNION" <imprenta@launion.com.ar>
+To: <director@launion.com.ar>
+Cc: <gerencia@launion.com.ar>
+Sent: Monday, June 14, 2010 7:42 PM
+Subject: Prueba de env=EDo
+
+
+Juli=E1n M. Zappia
+Analista de Sistemas
+Diario LA UNION S.A.

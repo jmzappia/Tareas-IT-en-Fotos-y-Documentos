@@ -1,0 +1,59 @@
+Return-path: <launion4.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Wed, 23 Jun 2010 15:26:01 -0600
+Received: from mail-gy0-f171.google.com ([209.85.160.171])
+	by host221.hostmonster.com with esmtp (Exim 4.69)
+	(envelope-from <launion4.lomas@gmail.com>)
+	id 1ORXSL-0006D1-BE
+	for informatica@launion.com.ar; Wed, 23 Jun 2010 15:26:01 -0600
+Received: by gyf3 with SMTP id 3so5027595gyf.16
+        for <informatica@launion.com.ar>; Wed, 23 Jun 2010 14:25:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:in-reply-to
+         :references:date:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=TQFPNZDT319xKsP6Vfo3NrpjicNZml8YRt/MuafdMZo=;
+        b=j4/OzyMiVw3LVNXrbyT7jqGsa/zQyaa/goezPA/R7P+pS+CraemBOiQKO95ykKH2vc
+         MbNeieEEy2rEracR9n837/v5QunVvGTxUwirojYx+S6yWQ1w3wFWO3I2I/0ZJgIGsq/O
+         ZpxgSX/kvL5yH8es3dAurtO8/K/Dq84EBLqo8=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type:content-transfer-encoding;
+        b=EmqFNOrFT6kD+0nS40a/QEh6vUVz6tzz0QXQYKU8+c8Thrc8PKBHokfY5aoQGDkAvl
+         E1WgfQjr/AVsD8n3Dc4/prs5SV/PccvBPJnqCBbxb+tRk708/LWSMqpQPCCX9/YByblW
+         nasdl/UDKWXP/ryFVZMH14VL9n23r1p7CkboQ=
+MIME-Version: 1.0
+Received: by 10.229.211.18 with SMTP id gm18mr4753256qcb.12.1277328359737; 
+	Wed, 23 Jun 2010 14:25:59 -0700 (PDT)
+Received: by 10.229.10.4 with HTTP; Wed, 23 Jun 2010 14:25:58 -0700 (PDT)
+In-Reply-To: <7E00A97A430640A9851914353E63634C@launion.com>
+References: <7E00A97A430640A9851914353E63634C@launion.com>
+Date: Wed, 23 Jun 2010 18:25:58 -0300
+Message-ID: <AANLkTimGKLS4P_K6sCBJEoVARn36WaMdZnhqoiHuMD2T@mail.gmail.com>
+Subject: Fwd: Horas extras
+From: Diario LA UNION <launion4.lomas@gmail.com>
+To: informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------
+From: Carlos-Diario La Union <carlos@launion.com.ar>
+Date: Wed, 23 Jun 2010 09:17:39 -0300
+Subject: Horas extras
+To: Julian Zappia <launion.lomas@gmail.com>
+
+Querido Juli=E1n:
+
+En el dia de hoy he recibido el mail de la asistencia del personal
+donde dej=E1s constancia de 22 hs. extras en el per=EDodo 14 al 22/06;
+el tema es el siguiente:
+Sin poner en duda de lo autentico de esas Hs.   desde mi funci=F3n me es
+imposible abonarlas sin que alguien las autorice y  haga constar en
+que tarea fueron insumidas.
+Esto no es un capricho,  en cualquier empresa con un m=EDnimo de
+organizaci=F3n  las horas extras no se pagan por el solo reclamo del
+interesado.
+
+Un abrazo .... Carlos

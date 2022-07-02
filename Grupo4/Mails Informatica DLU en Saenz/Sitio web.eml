@@ -1,0 +1,76 @@
+Return-path: <carlosbisignano@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Wed, 06 Apr 2011 17:46:02 -0300
+Received: from [209.85.220.171] (helo=mail-vx0-f171.google.com)
+	by launio.launion.com.ar with esmtp (Exim 4.63)
+	(envelope-from <carlosbisignano@gmail.com>)
+	id 1Q7Zbz-0001n1-It; Wed, 06 Apr 2011 17:46:01 -0300
+Received: by vxc40 with SMTP id 40so2313628vxc.16
+        for <multiple recipients>; Wed, 06 Apr 2011 13:45:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:x-rim-org-msg-ref-id:message-id
+         :content-transfer-encoding:reply-to:x-priority:sensitivity
+         :importance:subject:to:from:date:content-type:mime-version;
+        bh=JaFT9EV9n2XLZl1WqdVp18GSUIy/yz6V/P7Owepts3g=;
+        b=KYGVi1j5plUmrAXJcqs/rVu1OmeVFdPZ28SB/hMQXnzG5wD76qwpHjYhRIU6L/REVz
+         UIPrfu7TWZpmylwVqTX5qVG5YqAH7KhYOsGbrVGvyysboFlrPeOL5jVa+MntMKXqy1Cz
+         vAZnxlVi/9OgI/cVEwutC57V6UVguGiFMDKVQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=x-rim-org-msg-ref-id:message-id:content-transfer-encoding:reply-to
+         :x-priority:sensitivity:importance:subject:to:from:date:content-type
+         :mime-version;
+        b=SBXA2/BATZNX/MxJySEbX+gw3i6nwa0EMJuYaBFa/Shp3AnKDboQAxHaX0lAnJdbHu
+         Tl+Z5s+6x2b1rbMqyLh5oXrr45VNb5tvOmNP7GxYGEUhaVpbimvFT12y5S3jHEEorg78
+         FTBstXieRr1EkY3bMOupNtUHLTlvVrDXZWiNI=
+Received: by 10.52.74.34 with SMTP id q2mr101507vdv.114.1302122755767;
+        Wed, 06 Apr 2011 13:45:55 -0700 (PDT)
+Received: from bda481.bisx.prod.on.blackberry (bda-67-223-73-246.bise.na.blackberry.com [67.223.73.246])
+        by mx.google.com with ESMTPS id u9sm556403vbx.9.2011.04.06.13.45.54
+        (version=SSLv3 cipher=OTHER);
+        Wed, 06 Apr 2011 13:45:55 -0700 (PDT)
+X-rim-org-msg-ref-id: 856968624
+Message-ID: <856968624-1302122753-cardhu_decombobulator_blackberry.rim.net-1812788930-@bda2010.bisx.prod.on.blackberry>
+Content-Transfer-Encoding: base64
+Reply-To: carlosbisignano@gmail.com
+X-Priority: Normal
+Sensitivity: Normal
+Importance: Normal
+Subject: Sitio web
+To: informatica@launion.com.ar,"=?Windows-1252?B?Q2Fyb2xpbmEgUHVwcG8gLSBEaWFyaW8gTGEgVW5p824=?=" <carolina@launion.com.ar>
+From: carlosbisignano@gmail.com
+Date: Wed, 6 Apr 2011 20:45:53 +0000
+Content-Type: text/plain; charset="Windows-1252"
+MIME-Version: 1.0
+X-Spam-Score: 8.7
+X-Spam-Score-Int: 87
+X-Spam-Bar: ++++++++
+X-Spam-Report: Spam detection software, running on the system "launio.launion.com.ar", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Julian: efectivamente me informaron sobre la optimizacion
+	del sitio. Mañana lo estare realizando. Te pido que te comuniques conmigo
+	directamente cuando son temas tecnicos del sitio para evitar posibles malentendidos.
+	[...] 
+	Content analysis details:   (8.7 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	2.4 DNS_FROM_OPENWHOIS     RBL: Envelope sender listed in bl.open-whois.org.
+	3.4 FH_DATE_PAST_20XX      The date is grossly in the future.
+	2.8 MIME_BASE64_TEXT       RAW: Message text disguised using base64 encoding
+	0.1 RDNS_NONE              Delivered to trusted network by a host with no rDNS
+X-Antivirus: AVG for E-mail 10.0.1209 [1500/3555]
+X-AVG-ID: ID15696F10-5A0B6198
+
+SnVsaWFuOiBlZmVjdGl2YW1lbnRlIG1lIGluZm9ybWFyb24gc29icmUgbGEgb3B0aW1pemFj
+aW9uIGRlbCBzaXRpby4NCg0KTWHxYW5hIGxvIGVzdGFyZSByZWFsaXphbmRvLg0KDQpUZSBw
+aWRvIHF1ZSB0ZSBjb211bmlxdWVzIGNvbm1pZ28gZGlyZWN0YW1lbnRlIGN1YW5kbyBzb24g
+dGVtYXMgdGVjbmljb3MgZGVsIHNpdGlvIHBhcmEgZXZpdGFyIHBvc2libGVzIG1hbGVudGVu
+ZGlkb3MuDQoNClRlbmVzIG1pIGNvcnJlby4NCk1pIGNlbHVsYXIgZXMgMTUzMzUzODA3NC4N
+Cg0KU2FsdWRvcy4NCg0KLS0tLS0NClNlIGNlcnRpZmlj8yBxdWUgZWwgY29ycmVvIG5vIGNv
+bnRpZW5lIHZpcnVzLg0KQ29tcHJvYmFkYSBwb3IgQVZHIC0gd3d3LmF2Zy5lcw0KVmVyc2nz
+bjogMTAuMC4xMjA5IC8gQmFzZSBkZSBkYXRvcyBkZSB2aXJ1czogMTUwMC8zNTU1IC0gRmVj
+aGEgZGUgbGEgdmVyc2nzbjogMDYvMDQvMjAxMQ0K

@@ -1,0 +1,111 @@
+Return-path: <carlosbisignano@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Tue, 15 Mar 2011 22:49:59 -0300
+Received: from [209.85.214.171] (helo=mail-iw0-f171.google.com)
+	by launio.launion.com.ar with esmtp (Exim 4.63)
+	(envelope-from <carlosbisignano@gmail.com>)
+	id 1Pzfs2-0002nv-MJ; Tue, 15 Mar 2011 22:49:59 -0300
+Received: by iwr19 with SMTP id 19so1601924iwr.16
+        for <multiple recipients>; Tue, 15 Mar 2011 18:49:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=oOGQuql8u3ibZkjh1arYq7MM8DQRGFSeTGguNqaG8Z4=;
+        b=tHjOus/OQoivLWAc/li4dW3twJsOtLzHXYwsCblkd0H0sE/KnV8zrXB5422MuWUa0e
+         T4QXfmUcdyCU9wNXJ/BZjfubLWC62utBnPvSpoVBSSLRfJDVrvifaG+Yhqh2tmyToPgi
+         Q1xDvsYaQJ+ZX4TNFpMk4SGO5SuDdezIgzrtM=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        b=lNG0xG/At2RYLGxarYqkcCRw2NtJMxm7Tq57twdOTAHKeIjO2UjiJpOJO0mkr7NDjU
+         DlN+GiyhP6RQz5wIPyhsYY9ucHak8pEUizbvEjAP0sOh1vF01mhWU3hMPxwK6GmdldaC
+         gvITVU4Fu+VKYVcxEvprsnH05FKARgPdqz27w=
+MIME-Version: 1.0
+Received: by 10.231.186.11 with SMTP id cq11mr177071ibb.43.1300240188959; Tue,
+ 15 Mar 2011 18:49:48 -0700 (PDT)
+Received: by 10.231.173.144 with HTTP; Tue, 15 Mar 2011 18:49:48 -0700 (PDT)
+Date: Tue, 15 Mar 2011 22:49:48 -0300
+Message-ID: <AANLkTikh7dyoN2-Jo2YsGE4iUCBGeWEX1RUJXUMaXLvE@mail.gmail.com>
+Subject: sitio web
+From: Carlos Bisignano Burgos <carlosbisignano@gmail.com>
+To: Grafico - LA UNION <grafico@launion.com.ar>, informatica@launion.com.ar
+Content-Type: multipart/alternative; boundary=001636b2ad3795ecc8049e8fc2b4
+X-Spam-Score: 4.9
+X-Spam-Score-Int: 49
+X-Spam-Bar: ++++
+X-Spam-Report: Spam detection software, running on the system "launio.launion.com.ar", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Les comunico que ya está nuevamente el sitio online, aún sigo
+	subiendo archivos pero de notas viejas (nov, dic 2010 y principio de este
+	año). Lo mas importante que quiero decirles es que la tapita chica, ha cambiado
+	de lugar y de tamaño, ahora tienen que subirla en el widget BN_WIDGET6, en
+	la siguiente medida: 300px x 396px. La tapa grande sigue siendo igual. [...]
+	Content analysis details:   (4.9 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	2.4 DNS_FROM_OPENWHOIS     RBL: Envelope sender listed in bl.open-whois.org.
+	3.4 FH_DATE_PAST_20XX      The date is grossly in the future.
+	0.0 HTML_MESSAGE           BODY: HTML included in message
+	-1.0 RCVD_IN_DNSWL_LOW      RBL: Sender listed at http://www.dnswl.org/, low
+	trust
+	[209.85.214.171 listed in list.dnswl.org]
+	0.1 RDNS_NONE              Delivered to trusted network by a host with no rDNS
+X-Antivirus: AVG for E-mail 10.0.1204 [1498/3508]
+X-AVG-ID: ID103F823B-2864978D
+
+--001636b2ad3795ecc8049e8fc2b4
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Les comunico que ya est=E1 nuevamente el sitio online, a=FAn sigo subiendo
+archivos pero de notas viejas (nov, dic 2010 y principio de este a=F1o).
+Lo mas importante que quiero decirles es que la tapita chica, ha cambiado de=
+
+lugar y de tama=F1o, ahora tienen que subirla en el widget BN_WIDGET6, en la=
+
+siguiente medida: 300px x 396px. La tapa grande sigue siendo igual.
+
+Con respecto al pdf, Julian: le avisaste a Tito sobre el nuevo ftp? venia
+subiendo el pdf?.
+
+Saludos,
+
+-- 
+Carlos Bisignano Burgos
+carlosbisignano=40gmail.com
+
+
+
+-----
+Se certific=F3 que el correo no contiene virus.
+Comprobada por AVG - www.avg.es
+Versi=F3n: 10.0.1204 / Base de datos de virus: 1498/3508 - Fecha de la versi=
+=F3n: 15/03/2011
+
+--001636b2ad3795ecc8049e8fc2b4
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Les comunico que ya est=E1 nuevamente el sitio online, a=FAn sigo subiendo a=
+rchivos pero de notas viejas (nov, dic 2010 y principio de este a=F1o).<br>L=
+o mas importante que quiero decirles es que la tapita chica, ha cambiado de =
+lugar y de tama=F1o, ahora tienen que subirla en el widget BN_WIDGET6, en la=
+ siguiente medida: 300px x 396px. La tapa grande sigue siendo igual.<br>
+<br>Con respecto al pdf, Julian: le avisaste a Tito sobre el nuevo ftp? veni=
+a subiendo el pdf?.<br><br>Saludos,<br clear=3D=22all=22><br>-- <br>Carlos B=
+isignano Burgos<br><a href=3D=22mailto:carlosbisignano=40gmail.com=22>carlos=
+bisignano=40gmail.com</a><br>
+<br>
+
+<br /><hr /><hr noshade=3D=22noshade=22 size=3D=221=22><p class=3D=22avgcert=
+=22 align=3D=22left=22 color=3D=22=23000000=22>Se certific&=23243; que el co=
+rreo no contiene virus.<br>
+Comprobada por AVG - <a href=3D'http://www.avg.es'>www.avg.es</a><br>
+Versi&=23243;n: 10.0.1204 / Base de datos de virus: 1498/3508 - Fecha de la =
+versi&=23243;n: 15/03/2011</p>
+--001636b2ad3795ecc8049e8fc2b4--
+

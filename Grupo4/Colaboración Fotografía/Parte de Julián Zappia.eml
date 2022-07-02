@@ -1,0 +1,102 @@
+Return-path: <launion5.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Thu, 01 Jul 2010 05:47:37 -0600
+Received: from mail-iw0-f171.google.com ([209.85.214.171])
+	by host221.hostmonster.com with esmtp (Exim 4.69)
+	(envelope-from <launion5.lomas@gmail.com>)
+	id 1OUIEy-0006n4-RP; Thu, 01 Jul 2010 05:47:36 -0600
+Received: by iwn41 with SMTP id 41so1061684iwn.16
+        for <multiple recipients>; Thu, 01 Jul 2010 04:47:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:sender:received:date
+         :x-google-sender-auth:message-id:subject:from:to:cc:content-type
+         :content-transfer-encoding;
+        bh=0hNJLdu09/I0x61i6jpR6PDEq/v8PXLdHMHaCDqlCpE=;
+        b=eBnWRRcnzHgIMb3VvmRuPkcTDvkpKbNnor5hSfGqZdmyGyq7KzHBxKHK6E4yANVUgy
+         z0o7HiIINWzgcAEL3iLSbxXoUyKzmYDi0oOGzGt5zg2rLRtQzhiMAXqPL+pgGqWayZkc
+         gnFBESEtMXwj0pnYD84uydEXosjfIir3wTMQA=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:cc:content-type:content-transfer-encoding;
+        b=Ek3maxgfk9nxtgy+LtGeNiFYpXkPhMVh0hgMeiO+YmjFQ4o7KtV06OJY8eIw5x4oJy
+         AnqtzJg4OZhZO4R5ewQjSkHtGTCYKsj66s6lZIHiLfHXG1xQWaxWKkZvYGrNqI6+47rJ
+         GlB5Hn2h+QagLOImfRDE+c/qDOYew5fst4mAA=
+MIME-Version: 1.0
+Received: by 10.231.155.3 with SMTP id q3mr9829004ibw.20.1277984853326; Thu, 
+	01 Jul 2010 04:47:33 -0700 (PDT)
+Sender: launion5.lomas@gmail.com
+Received: by 10.231.35.6 with HTTP; Thu, 1 Jul 2010 04:47:33 -0700 (PDT)
+Date: Thu, 1 Jul 2010 08:47:33 -0300
+X-Google-Sender-Auth: R7GfNVM7PpYVxADoiKJb0p0Xf-U
+Message-ID: <AANLkTikIiOvtTf67jg6jXkadU72nzDsEtXs0m8dUz3Ms@mail.gmail.com>
+Subject: =?ISO-8859-1?Q?Parte_de_Juli=E1n_Zappia?=
+From: =?ISO-8859-1?Q?Taller_Gr=E1fico_=2D_LA_UNION?= <imprenta@launion.com.ar>
+To: Carlos-Diario La Union <carlos@launion.com.ar>
+Cc: informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Carlos:
+
+Informo brevemente las tareas "post cierre" del sistema inform=E1tico,
+tal como convenimos en reuni=F3n oportuna.
+
+
+
+En instalaciones de Saenz 179.
+
+- Contenidos web: limitado por lo que expreso en punto siguiente.
+B=FAsqueda y carga de frase diaria.
+- Por indicaci=F3n del Sr. Alejandro Acu=F1a: configuraci=F3n de
+conectividad a la red de equipo Redactor y equipo destinado a Web.
+Instalaci=F3n de aplicaciones y realizaci=F3n de configuraciones varias.
+Nota: ambos equipos llevan instalaciones y configuraciones diferentes.
+Horario de salida de Saenz 179: 03.30 hs.
+
+
+En instalaciones de Loria 475.
+
+- Estabilizaci=F3n de cableados de red. Se detect=F3 conector en muy mal
+estado en equipo de internet compartida. Se reemplaz=F3 por conector
+usado, funcional, pero en regular condici=F3n. Ello, por falta de
+repuestos.
+- Mantenimiento correctivo de datos en equipos de impresi=F3n de PDF`s
+de las ediciones del diario (algunas de estas tareas son autom=E1ticas,
+por lo que posibilit=F3 realizar otras tareas).
+- Detecci=F3n de partes rotas en Bandeja 3 de impresora HP5000N. En el
+d=EDa de ayer (30/06/2010) se produjeron varios atascos de papel que
+pudieron ser controlados sin causar demoras t=E9cnicas en los procesos.
+Al revisar la bandeja, se detect=F3 rotura en pesta=F1as de sujeci=F3n de
+papel y soporte de peso de papel rotos.
+El arreglo de las pesta=F1as fue improvisado y el soporte de peso de
+papel anulado.
+- Realizaci=F3n de pruebas de carga de impresi=F3n (con el fin de evaluar
+rendimiento de red e impresora). Se observ=F3 un desempe=F1o regular en
+ambos casos.
+
+Informo nuevamente que no soy idoneo en reparaci=F3n de equipamiento
+inform=E1tico, menos aun en impresoras.
+
+Se dejan pruebas de impresi=F3n sobre bandeja de salida de impresora en
+caso de que se desee observar el resultado de la tarea.
+Se almacenan partes rotas de red y de impresora en caso de solicitud.
+
+Sistema inform=E1tico en estado cr=EDtico por antiguedad y falta de repuest=
+os.
+
+Jornada laboral: 18 hs. (del 30/06/2010) a 08.40 hs. (del 01/07/2010).
+Aviso la posibilidad de ingreso tard=EDo a la Empresa en la fecha
+(debido a hora de retiro).
+
+Un abrazo.
+
+
+Juli=E1n M. Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+
+P.D. se utiliza la direcci=F3n de correo del Taller Gr=E1fico por
+encontrarme todav=EDa en las instalaciones de la Empresa de Loria 475.
+Se env=EDa con copia a informatica@launion.com.ar.

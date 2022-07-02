@@ -1,0 +1,128 @@
+Return-path: <launion5.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Tue, 29 Mar 2011 19:02:35 -0300
+Received: from [209.85.214.171] (helo=mail-iw0-f171.google.com)
+	by launio.launion.com.ar with esmtp (Exim 4.63)
+	(envelope-from <launion5.lomas@gmail.com>)
+	id 1Q4gzi-00005i-D7
+	for informatica@launion.com.ar; Tue, 29 Mar 2011 19:02:35 -0300
+Received: by iwn8 with SMTP id 8so871210iwn.16
+        for <informatica@launion.com.ar>; Tue, 29 Mar 2011 15:02:31 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:sender:in-reply-to:references:date
+         :x-google-sender-auth:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=tBRWp617eCxPVFekD8s121bfxRx4XLugy/rj3a1s1xc=;
+        b=W/wV9bSmhWIugagKgyRpbMTOopfWRgBoiFbFoX/nEl8hplb78OghN4JcU8VR3nqvwZ
+         5cH4HUDrfJsLY1N4dTI5+WvRx2a8B2noHL8UxrpAX5DDB/9P+cioBI8WmPKy0FyWDAh/
+         K+hG/dZarZ+bB5VCChuHbCMeTMUVYu/t4EO7E=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:sender:in-reply-to:references:date
+         :x-google-sender-auth:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        b=vSI8Mx5XGm6uRMQc313srZe9EVMVe1FJYmTN3g40tZ4v58vHY8NvXaU6RRk8HiDyoI
+         Go0Ck7+fhC6/S6IuNcvfL7sT9su/LLEwd/x7aQ0CEAOFxF7QeBTDqV7DWL0LbHLr+z4g
+         ok3XyhiVVtQIASHrdRhktPik6jspVPIvJscTI=
+MIME-Version: 1.0
+Received: by 10.231.113.42 with SMTP id y42mr491327ibp.68.1301436151167; Tue,
+ 29 Mar 2011 15:02:31 -0700 (PDT)
+Sender: launion5.lomas@gmail.com
+Received: by 10.231.157.138 with HTTP; Tue, 29 Mar 2011 15:02:31 -0700 (PDT)
+In-Reply-To: <AANLkTimJDCPTW_T8cFgnz-6SdGLpDk-hR4k1KxF3hswt@mail.gmail.com>
+References: <AANLkTimJDCPTW_T8cFgnz-6SdGLpDk-hR4k1KxF3hswt@mail.gmail.com>
+Date: Tue, 29 Mar 2011 17:02:31 -0500
+X-Google-Sender-Auth: DhasEDmyRd07L_20PF9w1FLbKu8
+Message-ID: <AANLkTimaY4pMH6kHv=xCTzT1sqVuV-YQjnSMsD4bfiJj@mail.gmail.com>
+Subject: =?ISO-8859-1?Q?Fwd=3A_Gmail_Confirmaci=F3n_=2D_Enviar_mensajes_como_tall?=
+	=?ISO-8859-1?Q?er=40launion=2Ecom=2Ear?=
+From: =?ISO-8859-1?Q?Taller_Gr=E1fico_=2D_LA_UNION?= <taller@launion.com.ar>
+To: informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Score: 4.9
+X-Spam-Score-Int: 49
+X-Spam-Bar: ++++
+X-Spam-Report: Spam detection software, running on the system "launio.launion.com.ar", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Forwarded message From: Equipo de Gmail <correo-noresponder@google.com>
+	Date: Tue, 29 Mar 2011 16:51:25 -0500 Subject: Gmail Confirmación - Enviar
+	mensajes como taller@launion.com.ar To: taller@launion.com.ar [...] 
+	Content analysis details:   (4.9 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	2.4 DNS_FROM_OPENWHOIS     RBL: Envelope sender listed in bl.open-whois.org.
+	3.4 FH_DATE_PAST_20XX      The date is grossly in the future.
+	-1.0 RCVD_IN_DNSWL_LOW      RBL: Sender listed at http://www.dnswl.org/, low
+	trust
+	[209.85.214.171 listed in list.dnswl.org]
+	0.1 RDNS_NONE              Delivered to trusted network by a host with no rDNS
+X-Antivirus: AVG for E-mail 10.0.1209 [1498/3538]
+X-AVG-ID: ID57B5EBFD-227C00BB
+
+---------- Forwarded message ----------
+From: Equipo de Gmail <correo-noresponder=40google.com>
+Date: Tue, 29 Mar 2011 16:51:25 -0500
+Subject: Gmail Confirmaci=F3n - Enviar mensajes como taller=40launion.com.ar=
+
+To: taller=40launion.com.ar
+
+Has solicitado a=F1adir taller=40launion.com.ar a tu cuenta de Gmail.
+C=F3digo de confirmaci=F3n: 82293611
+
+Antes de que puedas enviar mensajes desde taller=40launion.com.ar usando
+tu cuenta Gmail (launion5.lomas=40gmail.com), haz clic en el siguiente
+v=EDnculo para confirmar tu solicitud:
+
+https://mail.google.com/mail/f-d994387c54-taller%40launion.com.ar-T2QLdiDZ_h=
+uGKIIfo-dsUCUA1l4
+
+Si al hacer clic en el v=EDnculo parece que est=E1 roto, c=F3pialo y p=E9gal=
+o
+en una ventana nueva del navegador. Si no puedes acceder a este
+v=EDnculo, accede a tu cuenta de Gmail y haz clic en =93Configuraci=F3n=94 e=
+n
+la parte superior de cualquier p=E1gina.
+Accede a la pesta=F1a =93Cuentas=94 y selecciona la direcci=F3n de correo
+electr=F3nico que deseas a=F1adir en la secci=F3n =93Enviar mensaje como:=94=
+ A
+continuaci=F3n, haz clic en =93Verificar=94 e introduce tu c=F3digo de
+confirmaci=F3n: 82293611
+
+Gracias por utilizar Gmail.
+
+Atentamente,
+
+El equipo de Gmail
+
+Si no has realizado dicha solicitud o no deseas a=F1adir esta direcci=F3n
+de correo electr=F3nico a tu cuenta de Gmail, no es necesario que lleves
+a cabo ninguna acci=F3n.
+launion5.lomas=40gmail.com no puede enviar mensajes usando tu direcci=F3n
+de correo electr=F3nico a menos que confirmes la solicitud haciendo clic
+en el v=EDnculo anterior. Si has hecho clic en =E9l equivocadamente y no
+deseas que launion5.lomas=40gmail.com env=EDe mensajes con tu direcci=F3n,
+haz clic en este v=EDnculo para anular la verificaci=F3n:
+https://mail.google.com/mail/g-d994387c54-taller%40launion.com.ar-T2QLdiDZ_h=
+uGKIIfo-dsUCUA1l4
+
+Si deseas m=E1s informaci=F3n sobre el posible motivo por el que has
+recibido este mensaje, visita:
+http://mail.google.com/support/bin/answer.py?answer=3D184973.
+
+Por favor, no respondas a este mensaje. Si deseas ponerte en contacto
+con el Equipo Gmail, accede a tu cuenta y haz clic en =93Ayuda=94 en la
+parte superior de cualquier p=E1gina. A continuaci=F3n, haz clic en
+=93Cont=E1ctanos=94 en la parte inferior del Centro de asistencia.
+
+
+-----
+Se certific=F3 que el correo no contiene virus.
+Comprobada por AVG - www.avg.es
+Versi=F3n: 10.0.1209 / Base de datos de virus: 1498/3538 - Fecha de la versi=
+=F3n: 29/03/2011
+

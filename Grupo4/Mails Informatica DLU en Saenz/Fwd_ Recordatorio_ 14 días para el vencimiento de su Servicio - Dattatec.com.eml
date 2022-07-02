@@ -1,0 +1,143 @@
+Return-path: <dlusa.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Mon, 28 Mar 2011 18:33:59 -0300
+Received: from [209.85.214.171] (helo=mail-iw0-f171.google.com)
+	by launio.launion.com.ar with esmtp (Exim 4.63)
+	(envelope-from <dlusa.lomas@gmail.com>)
+	id 1Q4K4U-0000RO-Po
+	for informatica@launion.com.ar; Mon, 28 Mar 2011 18:33:59 -0300
+Received: by iwn8 with SMTP id 8so4902097iwn.16
+        for <informatica@launion.com.ar>; Mon, 28 Mar 2011 14:33:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type:content-transfer-encoding;
+        bh=Bn0UBIqQG/xChhpFn/KI2Rjsy4EdqnoBsnOnbo+Tz5c=;
+        b=rBCtMeX5PeJE3yflY+WWYkfmUW/JWUT8wgtjP07zK87klLaDeNxl8R75GvOcYnclIc
+         iWSfC6yVnYylii5/6V/KRpNTHxlP1h5les8q28RAyx8FHmihc0Tr4BKJ+X0IRKxJMheV
+         tVQ+7b28Hh/Mj/NBEOPraGxb0GXGevM17WT4Q=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type:content-transfer-encoding;
+        b=G11A43R6DWFo8iIQUB0bl+JkF2sJ9l+n657oJOTRzUCkqklc++G+Jk+DIH4RJyfTBn
+         6TPsWO+rUrg0iknsg4n7Yy76z14heh9Zk7NBuBaKn507aqWkhfX+E2gw6cl6wXW1KkaL
+         cqeYTvWiIF7yAqOC1GtEhf0z2yr6ETequ/ddI=
+MIME-Version: 1.0
+Received: by 10.231.51.17 with SMTP id b17mr4744092ibg.0.1301348034328; Mon,
+ 28 Mar 2011 14:33:54 -0700 (PDT)
+Received: by 10.231.80.73 with HTTP; Mon, 28 Mar 2011 14:33:54 -0700 (PDT)
+In-Reply-To: <20110324063003.8612.nobody@dattatec.com>
+References: <20110324063003.8612.nobody@dattatec.com>
+Date: Mon, 28 Mar 2011 16:33:54 -0500
+Message-ID: <AANLkTimNNbFKNZd7nkNzzOgvDxpEB_S2B7P-qd3nP3rU@mail.gmail.com>
+Subject: =?ISO-8859-1?Q?Fwd=3A_Recordatorio=3A_14_d=EDas_para_el_vencimiento_de_s?=
+	=?ISO-8859-1?Q?u_Servicio_=2D_Dattatec=2Ecom?=
+From: Diario LA UNION <dlusa.lomas@gmail.com>
+To: informatica@launion.com.ar
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Score: 4.9
+X-Spam-Score-Int: 49
+X-Spam-Bar: ++++
+X-Spam-Report: Spam detection software, running on the system "launio.launion.com.ar", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Forwarded message From: Departamento de Administracion <nobody@dattatec.com>
+	Date: Thu, 24 Mar 2011 06:30:03 ART Subject: Recordatorio: 14 días para el
+	vencimiento de su Servicio - Dattatec.com To: Diario La Unión SA Diario La
+	Unión SA <dlusa.lomas@gmail.com> [...] 
+	Content analysis details:   (4.9 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	2.4 DNS_FROM_OPENWHOIS     RBL: Envelope sender listed in bl.open-whois.org.
+	3.4 FH_DATE_PAST_20XX      The date is grossly in the future.
+	-1.0 RCVD_IN_DNSWL_LOW      RBL: Sender listed at http://www.dnswl.org/, low
+	trust
+	[209.85.214.171 listed in list.dnswl.org]
+	0.1 RDNS_NONE              Delivered to trusted network by a host with no rDNS
+X-Antivirus: AVG for E-mail 10.0.1204 [1498/3536]
+X-AVG-ID: ID20C55FB1-63DFD091
+
+---------- Forwarded message ----------
+From: Departamento de Administracion <nobody=40dattatec.com>
+Date: Thu, 24 Mar 2011 06:30:03 ART
+Subject: Recordatorio: 14 d=EDas para el vencimiento de su Servicio - Dattat=
+ec.com
+To: Diario La Uni=F3n SA Diario La Uni=F3n SA <dlusa.lomas=40gmail.com>
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+ Dattatec.com :: Soluciones de Web Hosting
+ Su Hosting hecho Simple..=21=21=21
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Hola Diario La Uni=F3n SA Diario La Uni=F3n SA:
+
+----------------------------------------------------------------------------=
+----------------------------------------
+* Record=E1 que le restan 14 d=EDas para pagar el servicio <strong>Plan
+Compa=F1=EDa</strong> para el dominio <strong>launion.com.ar</strong> por el=
+ importe
+de <strong>73.50</strong> que vence el d=EDa <strong>07/04/2011</strong>.
+* Podr=E1s abonarlo a trav=E9s de nuestros distintos medios de pago, los que=
+ se
+detallan en: http://dattatec.com/site/formas-de-pago
+* Record=E1 que seg=FAn el medio de pago elegido deber=E1s realizar el infor=
+me de pago
+desde  el link: Informar sobre mis pagos de su =E1rea de cliente:
+http://dattatec.com/cliente
+
+----------------------------------------------------------------------------=
+-------------------------
+Una vez que hayas recibido el mail que confirma la acreditaci=F3n del pago,=
+
+ingres=E1 al link: Mis servicios de tu =E1rea de clientes, eleg=ED el plan a=
+ renovar y
+acept=E1 la opci=F3n:  Autopago con saldo a fecha de vencimiento. Esto permi=
+tir=E1 que
+el plan sea  renovado a SU  vencimiento, siempre y cuando  tengas saldo a fa=
+vor
+suficiente.
+Para verificar el estado de tu cuenta corriente y el saldo a favor disponibl=
+e
+ingres=E1 al link: Mi cuenta corriente.
+De no haber seleccionado la opci=F3n Autopago con saldo a fecha de vencimien=
+to, el
+servicio no ser=E1 renovado y ser=E1 necesario que ingreses en el link mis
+servicios,
+selecciones el plan que deseas renovar y hac=E9 click en pagar ahora.
+Ante cualquier consulta no dudes en contactarte con nuestro Departamento
+Administrativo desde http://dattatec.com/clientes--> Solicitar soporte
+
+----------------------------------------------------------------------------=
+-----
+-----------------------
+Saludos cordiales
+Dpto. Administrativo
+Dattatec.com
+Hosting Solutions
+Su hosting hecho simple=21
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Dattatec.com es el proveedor l=EDder en Latinoam=E9rica habla hispana de
+servicios relacionados al web hosting (Fuente Netcraft)
+Todos los derechos reservados Dattatec.com  - 2006
+
+Dattatec.com - =22Mejor sitio web exportador de Argentina=22
+Premio a la Excelencia Exportadora 2006 - La Naci=F3n/Banco Galicia
+http://www.dattatec.com/emails/anuncio_premio_exportador.html
+
+
+-----
+Se certific=F3 que el correo no contiene virus.
+Comprobada por AVG - www.avg.es
+Versi=F3n: 10.0.1204 / Base de datos de virus: 1498/3536 - Fecha de la versi=
+=F3n: 28/03/2011
+

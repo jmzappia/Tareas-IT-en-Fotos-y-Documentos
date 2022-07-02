@@ -1,0 +1,71 @@
+Return-path: <launion8.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Fri, 20 May 2011 04:08:27 -0300
+Received: from [209.85.216.178] (helo=mail-qy0-f178.google.com)
+	by launio.launion.com.ar with esmtp (Exim 4.63)
+	(envelope-from <launion8.lomas@gmail.com>)
+	id 1QNJow-000716-Jf
+	for informatica@launion.com.ar; Fri, 20 May 2011 04:08:27 -0300
+Received: by qyk2 with SMTP id 2so2343695qyk.16
+        for <informatica@launion.com.ar>; Fri, 20 May 2011 00:08:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:date:message-id:subject:from:to
+         :content-type:content-transfer-encoding;
+        bh=d3UEHgrFJjkPicFxMcNwRe2V04Yr0Y0u+VHsmB9xtO0=;
+        b=TVyrrFVZUbI0JoMduDcB5p4XjWwXyVqvn/M2C9qBxEO5FDLN9SbZ94E/SVdxiRCipd
+         FHGiqixXyehL9mQ0PEAoZZvTdktkxLG1nUTPKUqFpvXbbKBfEgVV+LN+M3XZ3y/TuQwr
+         NLG/yCcn1LWc8/Eneae3kkuWKuA0v++rBP6+4=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        b=ilwzC7EAHoLEV8Ihaszcj6qyBPGFwCsg6anibgmyE8cE0f4jcmg1q1me9Dn7+L3UxI
+         7VbETC7lG/chRM0jjwPDRE2u9nT3B7XVGA1LY7rJvzKLbCDTY96C+XM+qpgufVpX7gml
+         3mZUcPgoqiY7jcE6yIukMuT2kobnHgQI7OTbA=
+MIME-Version: 1.0
+Received: by 10.229.220.149 with SMTP id hy21mr3124334qcb.51.1305875303470;
+ Fri, 20 May 2011 00:08:23 -0700 (PDT)
+Received: by 10.229.23.15 with HTTP; Fri, 20 May 2011 00:08:22 -0700 (PDT)
+Date: Fri, 20 May 2011 04:08:22 -0300
+Message-ID: <BANLkTi=p5sqhOXH-WZT3NSS9_A5vnzSR3Q@mail.gmail.com>
+Subject: xx
+From: =?ISO-8859-1?Q?LA_UNION_=2D_Taller_Gr=E1fico_=282=29?= <launion8.lomas@gmail.com>
+To: informatica@launion.com.ar
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Score: 4.9
+X-Spam-Score-Int: 49
+X-Spam-Bar: ++++
+X-Spam-Report: Spam detection software, running on the system "launio.launion.com.ar", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Problema: El Windows XP no inicia y aparece el siguiente error:
+	No se ha iniciado windows porque el siguiente archivo falta o esta dañado:
+	Windows\System32\Config\System [...] 
+	Content analysis details:   (4.9 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	2.4 DNS_FROM_OPENWHOIS     RBL: Envelope sender listed in bl.open-whois.org.
+	3.4 FH_DATE_PAST_20XX      The date is grossly in the future.
+	-1.0 RCVD_IN_DNSWL_LOW      RBL: Sender listed at http://www.dnswl.org/, low
+	trust
+	[209.85.216.178 listed in list.dnswl.org]
+	0.1 RDNS_NONE              Delivered to trusted network by a host with no rDNS
+X-Antivirus: AVG for E-mail 10.0.1325 [1509/3647]
+X-AVG-ID: ID57523E6C-2CF581ED
+
+Problema: El Windows XP no inicia y aparece el siguiente error:
+
+No se ha iniciado windows porque el siguiente archivo falta o esta
+da=F1ado: Windows=5CSystem32=5CConfig=5CSystem
+
+
+-----
+Se certific=F3 que el correo no contiene virus.
+Comprobada por AVG - www.avg.es
+Versi=F3n: 10.0.1325 / Base de datos de virus: 1509/3647 - Fecha de la versi=
+=F3n: 19/05/2011
+

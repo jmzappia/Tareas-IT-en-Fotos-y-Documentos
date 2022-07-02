@@ -1,0 +1,317 @@
+Return-path: <dlusa.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Tue, 03 May 2011 21:26:51 -0300
+Received: from [209.85.210.171] (helo=mail-iy0-f171.google.com)
+	by launio.launion.com.ar with esmtp (Exim 4.63)
+	(envelope-from <dlusa.lomas@gmail.com>)
+	id 1QHPvT-00063H-Lr; Tue, 03 May 2011 21:26:49 -0300
+Received: by iyi20 with SMTP id 20so838295iyi.16
+        for <multiple recipients>; Tue, 03 May 2011 17:26:43 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=lJ78lSF5zyh7n1P1j6Ba/+vBsOWumQj9qm1my/kBHS8=;
+        b=Q319fxCufT00iT52dKhorLGrJrcyAtqMTbvcg4Ot3mCKwJC7yRTobwx29KHVmA+fRc
+         PMjd6n9qfYXYVasPxqCnc3i7Z7SRzcjRk6A5073bl1FK2pur4tzmK4/xvH6jaGBAwJeB
+         kZHUOxmvnS57rSg6gbLdK1SwRXncu9MQ5C/B8=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        b=D+GU22oYyGtNkspUkvNI7qNGP1V/LnbfX9Q6k+HMkdLmmfcoocNrWmhk5UBQpQw+RC
+         ibMbOGc+9Me99potEYq5U5MAt1AzQGCibkT5dnMNbmlH5gPGEV8hlz9CrAPYlne2e+YV
+         pfIsCO0GcVlYnUl/cZgtBxnR0vZ+/FutAvxSw=
+MIME-Version: 1.0
+Received: by 10.42.108.199 with SMTP id i7mr741541icp.484.1304468803038; Tue,
+ 03 May 2011 17:26:43 -0700 (PDT)
+Received: by 10.231.159.212 with HTTP; Tue, 3 May 2011 17:26:42 -0700 (PDT)
+In-Reply-To: <20110430063244.8635.nobody@dattatec.com>
+References: <20110430063244.8635.nobody@dattatec.com>
+Date: Tue, 3 May 2011 19:26:42 -0500
+Message-ID: <BANLkTik14gXEYLeNwhyvDCMkaoD+m6Dhdw@mail.gmail.com>
+Subject: =?ISO-8859-1?Q?Re=3A_Recordatorio=3A_7_d=EDas_para_el_vencimiento_de_su_?=
+	=?ISO-8859-1?Q?Servicio_=2D_Dattatec=2Ecom?=
+From: Diario LA UNION <dlusa.lomas@gmail.com>
+To: carlos <carlos@launion.com.ar>, alicia@launion.com.ar, 
+	informatica@launion.com.ar
+Content-Type: multipart/alternative; boundary=20cf303bf984a02db804a2684f49
+X-Spam-Score: 4.9
+X-Spam-Score-Int: 49
+X-Spam-Bar: ++++
+X-Spam-Report: Spam detection software, running on the system "launio.launion.com.ar", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  El 30 de abril de 2011 04:32, Departamento de Administracion
+	< nobody@dattatec.com> escribió: > [image: Inicio] Inicio <http://dattatec.com>[image:
+	Centro de > Información] Centro de Información <http://dattatecayuda.com>[image:
+	Area > de Clientes] Area de Clientes <http://dattatec.com/clientes>[image:
+	Vías > de Contacto] Vías de Contacto <http://dattatec.com/site/contacto>[image:
+	> Dattatec.com :: Soluciones de Web Hosting] > > Hola Diario La Unión SA
+	: > > > * Recordá que le restan 7 días para pagar el servicio *Plan > Compañía*
+	para el dominio *launion.com.ar* por el importe > de *73.50* que vence el
+	día *07/05/2011*. > * Podrás abonarlo a través de nuestros distintos medios
+	de pago, los que se > detallan en: http://dattatec.com/site/formas-de-pago
+	> * Recordá que según el medio de pago elegido deberás realizar el informe
+	de pago > desde el link: Informar sobre mis pagos de su área de cliente:http://dattatec.com/cliente
+	> > > Una vez que hayas recibido el mail que confirma la acreditación del
+	pago, > ingresá al link: Mis servicios de tu área de clientes, elegí el plan
+	a renovar y > aceptá la opción: Autopago con saldo a fecha de vencimiento.
+	Esto permitirá que > el plan sea renovado a SU vencimiento, siempre y cuando
+	tengas saldo a favor > suficiente. > Para verificar el estado de tu cuenta
+	corriente y el saldo a favor disponible > ingresá al link: Mi cuenta corriente.
+	> De no haber seleccionado la opción Autopago con saldo a fecha de vencimiento,
+	el > servicio no será renovado y será necesario que ingreses en el link mis
+	servicios, > selecciones el plan que deseas renovar y hacé click en pagar
+	ahora. > Ante cualquier consulta no dudes en contactarte con nuestro Departamento
+	> Administrativo desde http://dattatec.com/clientes--> Solicitar soporte
+	> > > > Saludos cordiales > Dpto. [...] 
+	Content analysis details:   (4.9 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	-1.0 RCVD_IN_DNSWL_LOW      RBL: Sender listed at http://www.dnswl.org/, low
+	trust
+	[209.85.210.171 listed in list.dnswl.org]
+	2.4 DNS_FROM_OPENWHOIS     RBL: Envelope sender listed in bl.open-whois.org.
+	3.4 FH_DATE_PAST_20XX      The date is grossly in the future.
+	0.0 HTML_MESSAGE           BODY: HTML included in message
+	0.1 RDNS_NONE              Delivered to trusted network by a host with no rDNS
+X-Antivirus: AVG for E-mail 10.0.1325 [1500/3613]
+X-AVG-ID: ID604A7767-730B9695
+
+--20cf303bf984a02db804a2684f49
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+El 30 de abril de 2011 04:32, Departamento de Administracion <
+nobody=40dattatec.com> escribi=F3:
+
+>  =5Bimage: Inicio=5D Inicio <http://dattatec.com>=5Bimage: Centro de
+> Informaci=F3n=5D Centro de Informaci=F3n <http://dattatecayuda.com>=5Bimag=
+e: Area
+> de Clientes=5D Area de Clientes <http://dattatec.com/clientes>=5Bimage: V=
+=EDas
+> de Contacto=5D V=EDas de Contacto <http://dattatec.com/site/contacto>=5Bim=
+age:
+> Dattatec.com :: Soluciones de Web Hosting=5D
+>
+> Hola Diario La Uni=F3n SA :
+>
+> --------------------------------------------------------------------------=
+------------------------------------------
+> * Record=E1 que le restan 7 d=EDas para pagar el servicio *Plan
+> Compa=F1=EDa* para el dominio *launion.com.ar* por el importe
+> de *73.50* que vence el d=EDa *07/05/2011*.
+> * Podr=E1s abonarlo a trav=E9s de nuestros distintos medios de pago, los q=
+ue se
+> detallan en: http://dattatec.com/site/formas-de-pago
+> * Record=E1 que seg=FAn el medio de pago elegido deber=E1s realizar el inf=
+orme de pago
+> desde  el link: Informar sobre mis pagos de su =E1rea de cliente:http://da=
+ttatec.com/cliente
+>
+> --------------------------------------------------------------------------=
+---------------------------
+> Una vez que hayas recibido el mail que confirma la acreditaci=F3n del pago=
+,
+> ingres=E1 al link: Mis servicios de tu =E1rea de clientes, eleg=ED el plan=
+ a renovar y
+> acept=E1 la opci=F3n:  Autopago con saldo a fecha de vencimiento. Esto per=
+mitir=E1 que
+> el plan sea  renovado a SU  vencimiento, siempre y cuando  tengas saldo a =
+favor
+> suficiente.
+> Para verificar el estado de tu cuenta corriente y el saldo a favor disponi=
+ble
+> ingres=E1 al link: Mi cuenta corriente.
+> De no haber seleccionado la opci=F3n Autopago con saldo a fecha de vencimi=
+ento, el
+> servicio no ser=E1 renovado y ser=E1 necesario que ingreses en el link mis=
+ servicios,
+> selecciones el plan que deseas renovar y hac=E9 click en pagar ahora.
+> Ante cualquier consulta no dudes en contactarte con nuestro Departamento
+> Administrativo desde http://dattatec.com/clientes--> Solicitar soporte
+>
+> --------------------------------------------------------------------------=
+-------
+> -----------------------
+> Saludos cordiales
+> Dpto. Administrativo
+> Dattatec.com
+> Hosting Solutions
+> Su hosting hecho simple=21
+>
+>   =5Bimage: Dattatec.com :: Soluciones de Web Hosting=5D
+> Dattatec.com es el proveedor l=EDder en Latinoam=E9rica habla hispana de
+> servicios relacionados al web hosting (Fuente Netcraft)
+> Todos los derechos reservados Dattatec.com - 2006
+> =5Bimage: Premio al mejor sitio web exportador 2006 - La Naci=F3n/Banco
+> Galicia=5DDattatec.com
+> =22Mejor sitio web exportador de Argentina=22
+> Premio a la Excelencia Exportadora 2006
+> La Naci=F3n/Banco Galicia<http://dattatec.com/emails/anuncio_premio_export=
+ador.html>
+>
+
+
+
+-----
+Se certific=F3 que el correo no contiene virus.
+Comprobada por AVG - www.avg.es
+Versi=F3n: 10.0.1325 / Base de datos de virus: 1500/3613 - Fecha de la versi=
+=F3n: 03/05/2011
+
+--20cf303bf984a02db804a2684f49
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<br><br><div class=3D=22gmail_quote=22>El 30 de abril de 2011 04:32, Departa=
+mento de Administracion <span dir=3D=22ltr=22>&lt;<a href=3D=22mailto:nobody=
+=40dattatec.com=22>nobody=40dattatec.com</a>&gt;</span> escribi=F3:<br><bloc=
+kquote class=3D=22gmail_quote=22 style=3D=22margin: 0pt 0pt 0pt 0.8ex; borde=
+r-left: 1px solid rgb(204, 204, 204); padding-left: 1ex;=22>
+
+
+
+
+
+
+<div style=3D=22text-align: center; margin: 0px; font-family: Arial,Helvetic=
+a,sans-serif; font-size: 9pt; text-decoration: none; color: rgb(85, 85, 85);=
+=22><div style=3D=22width: 650px; text-align: left; margin: 0pt auto;=22>
+<a href=3D=22http://dattatec.com=22 title=3D=22Dattatec.com - Soluciones de =
+Web Hosting=22 style=3D=22color: rgb(0, 102, 204); text-decoration: none; ma=
+rgin-right: 15px; padding-left: 18px; display: block; min-height: 18px; line=
+-height: 18px; font-size: 18px; vertical-align: middle; float: left;=22 targ=
+et=3D=22_blank=22><span style=3D=22font-size: 9pt; margin-top: 2px; display:=
+ block;=22><img src=3D=22http://dattatec.com/sp/imagenes/ic_br0_home.gif=22 =
+alt=3D=22Inicio=22 align=3D=22top=22 border=3D=220=22> Inicio</span></a><a h=
+ref=3D=22http://dattatecayuda.com=22 title=3D=22Centro de informaci=F3n - No=
+vedades - Consultas frecentes sobre web hosting - Tutoriales interactivos so=
+bre hosting=22 style=3D=22color: rgb(0, 102, 204); text-decoration: none; ma=
+rgin-right: 15px; padding-left: 18px; display: block; min-height: 18px; line=
+-height: 18px; font-size: 18px; vertical-align: middle; float: left;=22 targ=
+et=3D=22_blank=22><span style=3D=22font-size: 9pt; margin-top: 2px; display:=
+ block;=22><img src=3D=22http://dattatec.com/sp/imagenes/ic_br0_infocenter.g=
+if=22 alt=3D=22Centro de Informaci=F3n=22 align=3D=22top=22 border=3D=220=22=
+> Centro de Informaci=F3n</span></a><a href=3D=22http://dattatec.com/cliente=
+s=22 title=3D=22Usuarios - Area de clientes de dattatec.com - Mesa de ayuda =
+- Soporte=22 style=3D=22color: rgb(0, 102, 204); text-decoration: none; marg=
+in-right: 15px; padding-left: 18px; display: block; min-height: 18px; line-h=
+eight: 18px; font-size: 18px; vertical-align: middle; float: left;=22 target=
+=3D=22_blank=22><span style=3D=22font-size: 9pt; margin-top: 2px; display: b=
+lock;=22><img src=3D=22http://dattatec.com/sp/imagenes/ic_br0_usuario.gif=22=
+ alt=3D=22Area de Clientes=22 align=3D=22top=22 border=3D=220=22> Area de Cl=
+ientes</span></a><a href=3D=22http://dattatec.com/site/contacto=22 title=3D=
+=22V=EDas de contacto - Tel=E9fonos - Asistencia en l=EDnea=22 style=3D=22co=
+lor: rgb(0, 102, 204); text-decoration: none; margin-right: 15px; padding-le=
+ft: 18px; display: block; min-height: 18px; line-height: 18px; font-size: 18=
+px; vertical-align: middle; float: left;=22 target=3D=22_blank=22><span styl=
+e=3D=22font-size: 9pt; margin-top: 2px; display: block;=22><img src=3D=22htt=
+p://dattatec.com/sp/imagenes/ic_br0_contacto.gif=22 alt=3D=22V=EDas de Conta=
+cto=22 align=3D=22top=22 border=3D=220=22> V=EDas de Contacto</span></a><tab=
+le style=3D=22min-height: 76px; clear: both;=22 border=3D=220=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22 width=3D=22100%=22 height=3D=2276=22>
+<tbody><tr><td align=3D=22left=22 background=3D=22http://dattatec.com/sp/ima=
+genes/email_html_head_fdo.jpg=22 valign=3D=22top=22><img src=3D=22http://dat=
+tatec.com/sp/imagenes/email_html_head_logo.jpg=22 style=3D=22margin: 8px 0px=
+ 0px 15px;=22 alt=3D=22Dattatec.com :: Soluciones de Web Hosting=22 border=
+=3D=220=22></td>
+</tr></tbody></table>
+<div style=3D=22padding: 15px 0px 30px;=22>
+<div style=3D=22float: left;=22><div style=3D=22border: 1px solid rgb(204, 2=
+10, 221); margin-top: 1px; padding: 5px; font-size: 10pt; color: rgb(85, 85,=
+ 85);=22><div style=3D=22font-size: 10pt; text-align: justify;=22><pre>Hola =
+Diario La Uni=F3n SA :
+
+----------------------------------------------------------------------------=
+----------------------------------------
+* Record=E1 que le restan 7 d=EDas para pagar el servicio <b>Plan
+Compa=F1=EDa</b> para el dominio <b><a href=3D=22http://launion.com.ar=22 ta=
+rget=3D=22_blank=22>launion.com.ar</a></b> por el importe
+de <b>73.50</b> que vence el d=EDa <b>07/05/2011</b>.
+* Podr=E1s abonarlo a trav=E9s de nuestros distintos medios de pago, los que=
+ se
+detallan en: <a href=3D=22http://dattatec.com/site/formas-de-pago=22 target=
+=3D=22_blank=22>http://dattatec.com/site/formas-de-pago</a>  
+* Record=E1 que seg=FAn el medio de pago elegido deber=E1s realizar el infor=
+me de pago
+desde  el link: Informar sobre mis pagos de su =E1rea de cliente:
+<a href=3D=22http://dattatec.com/cliente=22 target=3D=22_blank=22>http://dat=
+tatec.com/cliente</a>
+
+----------------------------------------------------------------------------=
+-------------------------
+Una vez que hayas recibido el mail que confirma la acreditaci=F3n del pago,=
+
+ingres=E1 al link: Mis servicios de tu =E1rea de clientes, eleg=ED el plan a=
+ renovar y
+acept=E1 la opci=F3n:  Autopago con saldo a fecha de vencimiento. Esto permi=
+tir=E1 que
+el plan sea  renovado a SU  vencimiento, siempre y cuando  tengas saldo a fa=
+vor
+suficiente. 
+Para verificar el estado de tu cuenta corriente y el saldo a favor disponibl=
+e
+ingres=E1 al link: Mi cuenta corriente. 
+De no haber seleccionado la opci=F3n Autopago con saldo a fecha de vencimien=
+to, el
+servicio no ser=E1 renovado y ser=E1 necesario que ingreses en el link mis s=
+ervicios,
+selecciones el plan que deseas renovar y hac=E9 click en pagar ahora. 
+Ante cualquier consulta no dudes en contactarte con nuestro Departamento
+Administrativo desde <a href=3D=22http://dattatec.com/clientes--=22 target=
+=3D=22_blank=22>http://dattatec.com/clientes--</a>&gt; Solicitar soporte
+
+----------------------------------------------------------------------------=
+-----
+-----------------------
+Saludos cordiales
+Dpto. Administrativo
+Dattatec.com
+Hosting Solutions
+Su hosting hecho simple=21
+</pre></div></div></div>
+<div style=3D=22clear: both;=22></div>
+</div>
+<table style=3D=22margin-bottom: 20px;=22 border=3D=220=22 cellpadding=3D=22=
+0=22 cellspacing=3D=220=22 width=3D=22100%=22><tbody><tr><td style=3D=22padd=
+ing: 0px 0px 5px; font-size: 8pt; color: rgb(102, 102, 102); line-height: 1.=
+4;=22 align=3D=22center=22 background=3D=22http://dattatec.com/sp/imagenes/p=
+ie-fondo.jpg=22 valign=3D=22top=22>
+
+<div style=3D=22text-align: left; padding-left: 15px;=22><img src=3D=22http:=
+//dattatec.com/sp/imagenes/pie-logo-dattatec.gif=22 alt=3D=22Dattatec.com ::=
+ Soluciones de Web Hosting=22></div>
+					 Dattatec.com es el proveedor l=EDder en Latinoam=E9rica habla hispana =
+de servicios relacionados al web hosting (Fuente Netcraft)<br>
+					 Todos los derechos reservados Dattatec.com  - 2006
+				</td></tr></tbody></table>
+<div style=3D=22font-size: 9pt; color: rgb(102, 102, 102);=22><a href=3D=22h=
+ttp://dattatec.com/emails/anuncio_premio_exportador.html=22 title=3D=22Premi=
+o al mejor sitio web exportador 2006 - La Naci=F3n/Banco Galicia=22 style=3D=
+=22font-size: 8pt; text-decoration: none; color: rgb(0, 102, 204);=22 target=
+=3D=22_blank=22><img src=3D=22http://dattatec.com/sp/imagenes/logo-premio-pr=
+emio-a-la-excelencia-exportadora.gif=22 alt=3D=22Premio al mejor sitio web e=
+xportador 2006 - La Naci=F3n/Banco Galicia=22 style=3D=22float: left; margin=
+-right: 5px; border: medium none;=22>Dattatec.com<br>
+&quot;Mejor sitio web exportador de Argentina&quot;<br>Premio a la Excelenci=
+a Exportadora 2006<br>La Naci=F3n/Banco Galicia</a></div>
+</div><img src=3D=22http://images.dattatec.com/imgmed/147237_04_11_8cb42eeb.=
+gif=22 width=3D=220=22 height=3D=220=22></div>
+</blockquote></div><br><div style=3D=22visibility: hidden; left: -5000px; po=
+sition: absolute; z-index: 9999; padding: 0px; margin-left: 0px; margin-top:=
+ 0px; overflow: hidden; word-wrap: break-word; color: black; font-size: 10px=
+; text-align: left; line-height: 130%;=22 id=3D=22avg_ls_inline_popup=22>
+</div>
+
+<br /><hr /><hr noshade=3D=22noshade=22 size=3D=221=22><p class=3D=22avgcert=
+=22 align=3D=22left=22 color=3D=22=23000000=22>Se certific&=23243; que el co=
+rreo no contiene virus.<br>
+Comprobada por AVG - <a href=3D'http://www.avg.es'>www.avg.es</a><br>
+Versi&=23243;n: 10.0.1325 / Base de datos de virus: 1500/3613 - Fecha de la =
+versi&=23243;n: 03/05/2011</p>
+--20cf303bf984a02db804a2684f49--
+

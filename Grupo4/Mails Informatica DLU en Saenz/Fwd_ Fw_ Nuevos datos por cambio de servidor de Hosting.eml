@@ -1,0 +1,129 @@
+Return-path: <julian.zappia@gmail.com>
+Envelope-to: director@launion.com.ar
+Delivery-date: Mon, 14 Mar 2011 15:33:17 -0300
+Received: from [209.85.216.43] (helo=mail-qw0-f43.google.com)
+	by launio.launion.com.ar with esmtp (Exim 4.63)
+	(envelope-from <julian.zappia@gmail.com>)
+	id 1PzCZw-0003da-Kr; Mon, 14 Mar 2011 15:33:17 -0300
+Received: by qwf6 with SMTP id 6so1858172qwf.16
+        for <multiple recipients>; Mon, 14 Mar 2011 11:33:13 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:cc:content-type
+         :content-transfer-encoding;
+        bh=VuUjPJl8U4AzkVwxlJc0WCNoIQbyJbXH5uuqSURxC6w=;
+        b=qloAt1Q4GRZupdjtuRrqPBJrzdpoJveXwT7vCYxR4ilr77lX+FtrZTYMNWSH2ERDDB
+         FLCVMuj9hKV7N7vNUPQioCWkySvV+wJjPB7joc9kB6blvn14bFxHlcEb1nGzI/Yp0+Px
+         zuFY+fjr4+3OLtnk8p3rdcOQbki8iVqKWv3YI=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type:content-transfer-encoding;
+        b=J1pj7xYR51Q8J03RUtL6yukAJnJw3aeCanph8fWjWLfXxjNmnR+5KD4AlnQQl5nz88
+         gP/uSLLxpAnX/3AYeWbEptdFWAMlvRDH200U8BVpUORQkqzg60nJCELy0AR6xlLZeXvP
+         4rF/brqR9xkyvhN8AKTVIIX20JVL47A7jdXAw=
+MIME-Version: 1.0
+Received: by 10.224.63.199 with SMTP id c7mr11388864qai.146.1300127593360;
+ Mon, 14 Mar 2011 11:33:13 -0700 (PDT)
+Received: by 10.224.67.14 with HTTP; Mon, 14 Mar 2011 11:33:13 -0700 (PDT)
+In-Reply-To: <004301cbe274$e13016e0$aba633be@aries071>
+References: <004301cbe274$e13016e0$aba633be@aries071>
+Date: Mon, 14 Mar 2011 15:33:13 -0300
+Message-ID: <AANLkTinJRCFsYnco1sspfWye83PKfm_QQX=95CNdJsSW@mail.gmail.com>
+Subject: Fwd: Fw: Nuevos datos por cambio de servidor de Hosting
+From: =?ISO-8859-1?Q?Juli=E1n_Zappia?= <julian.zappia@gmail.com>
+To: carlosbisignano@gmail.com
+Cc: director <director@launion.com.ar>, adrian <adrian@ruetalo.com>, 
+	informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Score: 4.9
+X-Spam-Score-Int: 49
+X-Spam-Bar: ++++
+X-Spam-Report: Spam detection software, running on the system "launio.launion.com.ar", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Forwarded message From: Informática LA UNION <informatica@launion.com.ar>
+	Date: Mon, 14 Mar 2011 15:23:10 -0300 Subject: Fw: Nuevos datos por cambio
+	de servidor de Hosting To: Carlos Bisignano Burgos <carlosbisignano@gmail.com>
+	Cc: julian.zappia@gmail.com, Director Diario LA UNION <director@launion.com.ar>,
+	adrian@ruetalo.com [...] 
+	Content analysis details:   (4.9 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	2.4 DNS_FROM_OPENWHOIS     RBL: Envelope sender listed in bl.open-whois.org.
+	3.4 FH_DATE_PAST_20XX      The date is grossly in the future.
+	0.0 NORMAL_HTTP_TO_IP      URI: Uses a dotted-decimal IP address in URL
+	-1.0 RCVD_IN_DNSWL_LOW      RBL: Sender listed at http://www.dnswl.org/, low
+	trust
+	[209.85.216.43 listed in list.dnswl.org]
+	0.1 RDNS_NONE              Delivered to trusted network by a host with no rDNS
+X-Antivirus: AVG for E-mail 10.0.1204 [1498/3508]
+X-AVG-ID: ID37941CB6-52613CA7
+
+---------- Forwarded message ----------
+From: Inform=E1tica LA UNION <informatica=40launion.com.ar>
+Date: Mon, 14 Mar 2011 15:23:10 -0300
+Subject: Fw: Nuevos datos por cambio de servidor de Hosting
+To: Carlos Bisignano Burgos <carlosbisignano=40gmail.com>
+Cc: julian.zappia=40gmail.com, Director Diario LA UNION
+<director=40launion.com.ar>, adrian=40ruetalo.com
+
+  ----- Original Message -----
+  From: Inform=E1tica - LA UNION
+  To: carlosbisignano=40gmail.com
+  Sent: Jueves, March 10, 2011 2:45 PM
+  Subject: Nuevos datos por cambio de servidor de Hosting
+
+
+  SR.
+  CARLOS BISIGNANO BURGOS
+
+  De mi consideraci=F3n:
+
+
+  Le informo que el pr=F3ximo d=EDa S=E1bado 12/03 a las 00:00 hs. se
+iniciar=E1 el cambio de DNS en sitio Nic.Ar para el dominio
+launion.com.ar.
+
+  El servicio de hosting pasar=E1 a proveerlo la empresa Dattatec.com S.A.
+  Recuerde que la dispersi=F3n DNS del dominio posee una demora de 24 a 72 h=
+s.
+
+  A continuaci=F3n, le detallo los datos t=E9cnicos a tener en cuenta para
+la migraci=F3n del sitio launion.com.ar y para posteriores tareas:
+
+  - Direcci=F3n IP fija: 200.58.126.24
+
+  - URL de acceso (hasta alta de dominio): http://200.58.126.54/=7Elaunio/
+
+  - Acceso a DPanel (Panel de Control Ferozo: http://200.58.126.54/dpanel
+  User: launio
+  Pass: DLUhost00x
+
+  - FTP Host: 200.58.126.54
+  User: ftp1=40launion.com.ar
+  Pass: DLUftp00x
+
+  Los usuarios y contrase=F1as anteriormente mencionados son de caracter
+confidencial.
+
+  Sin otro particular, saludo atte.
+
+
+
+
+  Juli=E1n Marcelo Zappia
+  Analista de Sistemas
+  Diario LA UNION S.A.
+
+
+-----
+Se certific=F3 que el correo no contiene virus.
+Comprobada por AVG - www.avg.es
+Versi=F3n: 10.0.1204 / Base de datos de virus: 1498/3508 - Fecha de la versi=
+=F3n: 15/03/2011
+

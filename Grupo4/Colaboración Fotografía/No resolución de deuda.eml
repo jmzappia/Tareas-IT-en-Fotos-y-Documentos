@@ -1,0 +1,77 @@
+Return-path: <julian.zappia@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Mon, 21 Jun 2010 16:42:28 -0600
+Received: from mail-fx0-f43.google.com ([209.85.161.43])
+	by host221.hostmonster.com with esmtp (Exim 4.69)
+	(envelope-from <julian.zappia@gmail.com>)
+	id 1OQphD-0001xb-IA
+	for informatica@launion.com.ar; Mon, 21 Jun 2010 16:42:27 -0600
+Received: by fxm8 with SMTP id 8so501081fxm.16
+        for <informatica@launion.com.ar>; Mon, 21 Jun 2010 15:42:25 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:date:message-id
+         :subject:from:to:cc:content-type:content-transfer-encoding;
+        bh=TRu4y/+U1QZUBN8q9o5M2QL9kuLPjphN1xmkg2++QT0=;
+        b=arrP06c4mtkOHQnVo7M8Dh83UWAvBQHmFWNEUTzRGlBdURQBIQUx7fodNRjshOIRr+
+         3jPTQnFi3PA/tCIsH+Nqwo1xlR0Trrz6hDaLk3/JRJU8EoGqVZ/9U4otoKwcSiQvB2LF
+         fIpdGHgAa6dumd850UBhyJum2K/1FTiPOQxrU=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:cc:content-type
+         :content-transfer-encoding;
+        b=O/2DoUhyD1w0tejcbSg8pKgmL3ZZJ73PRHFWhutxmftFfvsPKl5yT6qUh7oMa9MTUM
+         KLkSoQRXyoCFc7iUlz+nYQVqOfOto4RiJr6gxiL1+wqPIDLs+Z5oX/9aPVZ+dhB4WkJG
+         PfTXpC8qN/BdnAg2b2KmRYmh1Ieo6lI1yPhic=
+MIME-Version: 1.0
+Received: by 10.103.122.19 with SMTP id z19mr1862882mum.49.1277160145597; Mon, 
+	21 Jun 2010 15:42:25 -0700 (PDT)
+Received: by 10.103.11.17 with HTTP; Mon, 21 Jun 2010 15:42:25 -0700 (PDT)
+Date: Mon, 21 Jun 2010 19:42:25 -0300
+Message-ID: <AANLkTimUKwhSjS08dNEZs71icLp3tRJpZlSqdpvGVIiV@mail.gmail.com>
+Subject: =?ISO-8859-1?Q?No_resoluci=F3n_de_deuda?=
+From: =?ISO-8859-1?Q?Juli=E1n_Zappia?= <julian.zappia@gmail.com>
+To: "l.ferrari" <l.ferrari@estudiofdj.com.ar>
+Cc: ferrarigm <ferrarigm@speedy.com.ar>, adrian <adrian@ruetalo.com>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+SR. CONTADOR
+LEONARDO FERRARI
+
+De mi consideraci=F3n:
+
+No habiendo recibido contestaci=F3n a las deudas manifestadas en correo
+electr=F3nico con fecha 13 de Mayo de 2010, debo expresarle que:
+
+- Diario LA UNION S.A. no ha cancelado deuda de haberes. La =FAltima
+liquidaci=F3n de sueldos entregada, y realizada por su estudio, no
+condice con los datos cotejados e informados a Ud., posterior a
+reuni=F3n oportuna en su Estudio.
+
+- Diario LA UNION S,A. no ha cancelado deuda de vacaciones. No me ha
+informado per=EDodo de goce ni ha existido remuneraci=F3n alguna.
+
+- Las autoridades de Diario LA UNION S.A. dicen desconocer las deudas
+manifestadas.
+
+Habiendo informado como corresponde y no teniendo soluciones al
+respecto de lo conversado con Ud. en fecha anteriormente mencionada,
+solicito tenga a bien comunicar a los directivos de Diario LA UNION
+S.A. (como se lo he solicitado en fecha 13/05/2010) el estado de mi
+situaci=F3n a la brevedad.
+
+Esta solicitud surge de que es mi deseo compensar los d=EDas y haberes
+adeudados luego de mantener una reuni=F3n con los nuevos directivos,
+cuando ellos se encuentren sobreaviso.
+Tambi=E9n deseo expresarle mi disconformidad al respecto de c=F3mo se
+manej=F3 mi situaci=F3n laboral / personal.
+
+Sin otro particular,y a la espera de una pronta respuesta, lo saluda
+cordialmente.
+
+
+Juli=E1n M. Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+CUIL 20-22112490-2

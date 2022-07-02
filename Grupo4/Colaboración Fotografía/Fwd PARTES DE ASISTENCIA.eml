@@ -1,0 +1,55 @@
+Return-path: <launion4.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Tue, 29 Jun 2010 16:37:45 -0600
+Received: from mail-gx0-f171.google.com ([209.85.161.171])
+	by host221.hostmonster.com with esmtp (Exim 4.69)
+	(envelope-from <launion4.lomas@gmail.com>)
+	id 1OTjR3-0005rU-Fg
+	for informatica@launion.com.ar; Tue, 29 Jun 2010 16:37:45 -0600
+Received: by gxk2 with SMTP id 2so115729gxk.16
+        for <informatica@launion.com.ar>; Tue, 29 Jun 2010 15:37:44 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:in-reply-to
+         :references:date:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=UQV2uNjn5D/b7RDUxEIj80dzruJCu99ThVmdib2yxrg=;
+        b=PS1+UlCGRJ53gdQdBdZouXXodhWWGDGR0kXbMQqHPcTI6CA2RjELSTsDgB1kskYKbt
+         tY+3IR/FkMU69KrBWaof/LH01sA9KWTs7FkmRrSFsqFIGihFsXMSNzYqeB3Jcmeub9KM
+         y4nqXUhyUNh7lUrepBb4qcZYsZm2LCBtLRDnU=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type:content-transfer-encoding;
+        b=PyBfbJM2NkEa5ZT3A9DKJHdTplGOoaXkzAcRYhXp8lUQyaHH75ziKFibwYmZpiHdYI
+         0jHPC68q7OFRLGAp4uij27pfBevbVBsG8cFtO+J95eE7I0ssUSeNWLsLT3cESuTWvsyo
+         9tBeH90iF1DbK1GhhzghsOLD7xk7ubUyK3CPw=
+MIME-Version: 1.0
+Received: by 10.229.250.78 with SMTP id mn14mr4408992qcb.16.1277851064220; 
+	Tue, 29 Jun 2010 15:37:44 -0700 (PDT)
+Received: by 10.229.53.77 with HTTP; Tue, 29 Jun 2010 15:37:44 -0700 (PDT)
+In-Reply-To: <BB4F09CF232843DA9B1156BA37A9B51C@launion.com>
+References: <BB4F09CF232843DA9B1156BA37A9B51C@launion.com>
+Date: Tue, 29 Jun 2010 19:37:44 -0300
+Message-ID: <AANLkTikv3pRAz6AVeZtcGwpEZPsTal0FwFny8Omzl9NU@mail.gmail.com>
+Subject: Fwd: PARTES DE ASISTENCIA
+From: Diario LA UNION <launion4.lomas@gmail.com>
+To: informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------
+From: Carlos-Diario La Union <carlos@launion.com.ar>
+Date: Tue, 29 Jun 2010 12:53:48 -0300
+Subject: PARTES DE ASISTENCIA
+To: Diario LA UNION <launion4.lomas@gmail.com>
+
+Julian:
+Necesito que me reenvies los partes de asistencia de los dias 11 - 12
+y 19 de Junio
+
+Gracias
+
+       Carlos A. Crecente
+Administraci=F3n - Diario La Union
+    T.E.  (011) 4243 - 1800

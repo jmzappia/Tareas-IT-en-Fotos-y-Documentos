@@ -1,0 +1,85 @@
+Return-path: <launion8.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Fri, 03 Jun 2011 18:54:33 -0300
+Received: from [209.85.212.176] (helo=mail-px0-f176.google.com)
+	by launio.launion.com.ar with esmtp (Exim 4.63)
+	(envelope-from <launion8.lomas@gmail.com>)
+	id 1QScK8-00050v-El
+	for informatica@launion.com.ar; Fri, 03 Jun 2011 18:54:32 -0300
+Received: by pxi11 with SMTP id 11so1355204pxi.7
+        for <informatica@launion.com.ar>; Fri, 03 Jun 2011 14:54:29 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type:content-transfer-encoding;
+        bh=99zNyz+iWMKWdFmQRpCoY4FbbWMub/2hZjg7PbyQoVg=;
+        b=Q+S4vop/vaQbM0nOkRzEsayu04dLiBwtoWiNc5tXBPEsbXxTdvN/N1ha6zmmiKtTtb
+         MTjNrPuFFh5ibj3jEMwNUmK9KzyOgUdIppEtqvxslbnBD1Mc3L+yj2ku+CV8jDt2Tdji
+         butEdP5xoT0B75WDJBtsKUrVtoyGqG3dO38K0=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type:content-transfer-encoding;
+        b=EKqgazSaFCN6LRlVmimKlbQssTt87i2bTGBvpULNep5ZmemTgYEfKgOgbQLZHbNhXw
+         60xVrwwi3JgWheSU0/oim0wbMZpvpYgpOdfWSlvvMquqfarVsRNwWOu+S1q10u5RW3Pq
+         j27bpfJx/xME0hnFsx/w4Y7ZXx7PQj+Z8ZYik=
+MIME-Version: 1.0
+Received: by 10.142.218.19 with SMTP id q19mr389100wfg.109.1307138069273; Fri,
+ 03 Jun 2011 14:54:29 -0700 (PDT)
+Received: by 10.142.203.11 with HTTP; Fri, 3 Jun 2011 14:54:29 -0700 (PDT)
+In-Reply-To: <004701cc2249$07482f70$6cc8a8c0@launion.com>
+References: <004701cc2249$07482f70$6cc8a8c0@launion.com>
+Date: Fri, 3 Jun 2011 18:54:29 -0300
+Message-ID: <BANLkTiny2WQ372jHvCu-X0cVZLAgE_Ha6Q@mail.gmail.com>
+Subject: Re: Para Juan Carlos.
+From: =?ISO-8859-1?Q?LA_UNION_=2D_Taller_Gr=E1fico_=282=29?= <launion8.lomas@gmail.com>
+To: =?ISO-8859-1?Q?Inform=E1tica_=2D_LA_UNION?= <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Score: 4.9
+X-Spam-Score-Int: 49
+X-Spam-Bar: ++++
+X-Spam-Report: Spam detection software, running on the system "launio.launion.com.ar", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Ya te llama saludos OMAR El 03/06/11, Informática - LA UNION
+	<informatica@launion.com.ar> escribió: > Hola Juanca. > > Contame qué problema
+	tiene el sistema. > > > Saludos. > > Julián Marcelo Zappia > Analista de
+	Sistemas > Diario LA UNION S.A. > [...] 
+	Content analysis details:   (4.9 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	2.4 DNS_FROM_OPENWHOIS     RBL: Envelope sender listed in bl.open-whois.org.
+	3.4 FH_DATE_PAST_20XX      The date is grossly in the future.
+	-1.0 RCVD_IN_DNSWL_LOW      RBL: Sender listed at http://www.dnswl.org/, low
+	trust
+	[209.85.212.176 listed in list.dnswl.org]
+	0.1 RDNS_NONE              Delivered to trusted network by a host with no rDNS
+X-Antivirus: AVG for E-mail 10.0.1325 [1511/3679]
+X-AVG-ID: ID52041874-71AB9C9A
+
+Ya te llama saludos OMAR
+
+El 03/06/11, Inform=E1tica - LA UNION <informatica=40launion.com.ar> escribi=
+=F3:
+> Hola Juanca.
+>
+> Contame qu=E9 problema tiene el sistema.
+>
+>
+> Saludos.
+>
+> Juli=E1n Marcelo Zappia
+> Analista de Sistemas
+> Diario LA UNION S.A.
+>
+
+
+-----
+Se certific=F3 que el correo no contiene virus.
+Comprobada por AVG - www.avg.es
+Versi=F3n: 10.0.1325 / Base de datos de virus: 1511/3679 - Fecha de la versi=
+=F3n: 03/06/2011
+

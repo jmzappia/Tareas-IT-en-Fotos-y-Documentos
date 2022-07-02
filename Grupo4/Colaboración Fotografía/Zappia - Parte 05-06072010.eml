@@ -1,0 +1,85 @@
+Return-path: <launion5.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Tue, 06 Jul 2010 01:05:28 -0600
+Received: from mail-iw0-f171.google.com ([209.85.214.171])
+	by host221.hostmonster.com with esmtp (Exim 4.69)
+	(envelope-from <launion5.lomas@gmail.com>)
+	id 1OW2Dg-0002oX-GY; Tue, 06 Jul 2010 01:05:28 -0600
+Received: by iwn41 with SMTP id 41so6145748iwn.16
+        for <multiple recipients>; Tue, 06 Jul 2010 00:05:27 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:sender:received:date
+         :x-google-sender-auth:message-id:subject:from:to:cc:content-type
+         :content-transfer-encoding;
+        bh=QWDgeM0fYHZNARr5umdqjaNk+Ze9yRRY41fFzbjhmSY=;
+        b=VDW3K15BP4ir+c/QTOXF9+tzS2QtLq+dWIwPeog8Od7kPO6DQi6LTctemxjKK9LC6S
+         Wk7YRl6cXJ7KgSvlNOJZJcduwkfn6/jsr3pnkVwaHRW4C9wuBFQRRXKaZJhqOgb5QdFy
+         JnKS3wpBA6wTOgil6s/m7riNKvQ+qWf8n2jCo=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:cc:content-type:content-transfer-encoding;
+        b=nKXCCaDCFD63PLKmKkylVABqwcccJR0gjVJs9g445ChHtQwdAGt+7ah8UrgcLWjblj
+         zKPwJIMcKtIkD8OZbkSkXHD8nc8T4NaPtK5j6LqDFxQ630EIcGAhA3GHYU0c14WnKMp9
+         VwSlkVIs4cMioCYVvvS+DXx4kUi5DmqaP/B/U=
+MIME-Version: 1.0
+Received: by 10.231.146.136 with SMTP id h8mr4101327ibv.0.1278399927581; Tue, 
+	06 Jul 2010 00:05:27 -0700 (PDT)
+Sender: launion5.lomas@gmail.com
+Received: by 10.231.35.6 with HTTP; Tue, 6 Jul 2010 00:05:27 -0700 (PDT)
+Date: Tue, 6 Jul 2010 04:05:27 -0300
+X-Google-Sender-Auth: U3ZEAkczgZV3Bh30VBC26ngFPuM
+Message-ID: <AANLkTild0m2SY0BHF__zIMdNKIjHGY_vBvmR3mqCzX4Z@mail.gmail.com>
+Subject: Zappia - Parte 05-06/07/2010
+From: =?ISO-8859-1?Q?Taller_Gr=E1fico_=2D_LA_UNION?= <imprenta@launion.com.ar>
+To: Carlos-Diario La Union <carlos@launion.com.ar>
+Cc: informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Carlos.
+
+Te comunico las tareas post cierre (y otras) seg=FAn lo conversado:
+
+
+En domicilio particular (por falta de Pc dedicada a sector Sistemas).
+
+- Depuraci=F3n de casillas de correo electr=F3nico p=FAblicas con dominio
+launion.com.ar y anexas. Duraci=F3n de la tarea: 4 hs.
+- Env=EDo de correos electr=F3nicos varios (aviso de franco a compensar y
+contestaci=F3n a requerimiento de facturaci=F3n de receptor=EDas en formato
+Excel).
+
+
+En Saenz 179.
+
+- Contenidos web.
+- Soluci=F3n de inconveniente de recepci=F3n de noticias de Agencia Telam
+(se observ=F3, al momento de utilizar la Pc para cargar contenidos web,
+la aplicaci=F3n de descarga abierta 3 veces y bloqueo de descarga de
+noticias desde el d=EDa domingo pasado al mediod=EDa).
+- Realizaci=F3n de respaldo y depuraci=F3n de noticias de Agencia Telam.
+- Horario de salida: 01.30 hs. (del 06/07).
+
+En Loria 475 (posterior a tareas en Saenz).
+
+- Procesamiento y generaci=F3n de planillas en formato Microsoft Excel
+con Facturaci=F3n de Receptor=EDas de la 2=BA Quincena de Junio de 2010
+(seg=FAn requerimiento). Env=EDo por correo electr=F3nico.
+- Apagado de equipamiento y cierre de instalaciones. Entrega de llave
+en buz=F3n de Avda. H. Yrigoyen 9265.
+- Horario de salida: 04.00 hs. (del 06/07).
+
+
+Saludos.
+
+
+Juli=E1n Marcelo Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+CUIL 20-22112490-2
+
+
+Nota: utilizando la presente casilla de correo electr=F3nico por
+encontrarme en instalaciones de la Empresa en Loria 475.

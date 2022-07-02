@@ -1,0 +1,420 @@
+Return-path: <informatica@launion.com.ar>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Mon, 25 Apr 2011 18:10:43 -0300
+Received: from [190.51.140.76] (helo=aries071)
+	by launio.launion.com.ar with esmtpa (Exim 4.63)
+	(envelope-from <informatica@launion.com.ar>)
+	id 1QET3K-0004Ho-DH
+	for informatica@launion.com.ar; Mon, 25 Apr 2011 18:10:43 -0300
+Message-ID: <001301cc038c$2a20d000$4c8c33be@aries071>
+Reply-To: =?iso-8859-1?Q?Inform=E1tica_LA_UNION?= <informatica@launion.com.ar>
+From: =?iso-8859-1?Q?Inform=E1tica_LA_UNION?= <informatica@launion.com.ar>
+To: <informatica@launion.com.ar>
+Subject: Fw: LA UNION - Problema de conectividad en HP 8100 N
+Date: Mon, 25 Apr 2011 18:02:59 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01CC0373.0349EAC0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-Spam-Score: 4.4
+X-Spam-Score-Int: 44
+X-Spam-Bar: ++++
+X-Spam-Report: Spam detection software, running on the system "launio.launion.com.ar", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  ----- Original Message ----- From: Javier Flolasco To: Informática
+	- LA UNION Cc: Carlos - Diario LA UNION Sent: Monday, April 25, 2011 11:32
+	AM Subject: Re: LA UNION - Problema de conectividad en HP 8100 N [...] 
+	Content analysis details:   (4.4 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	2.4 DNS_FROM_OPENWHOIS     RBL: Envelope sender listed in bl.open-whois.org.
+	-1.4 ALL_TRUSTED            Passed through trusted hosts only via SMTP
+	3.4 FH_DATE_PAST_20XX      The date is grossly in the future.
+	0.0 HTML_MESSAGE           BODY: HTML included in message
+X-Antivirus: AVG for E-mail 10.0.1209 [1500/3597]
+X-AVG-ID: ID6DA3522D-5C3AA886
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_000E_01CC0373.0349EAC0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+----- Original Message ----- 
+From: Javier Flolasco 
+To: Inform=E1tica - LA UNION 
+Cc: Carlos - Diario LA UNION 
+Sent: Monday, April 25, 2011 11:32 AM
+Subject: Re: LA UNION - Problema de conectividad en HP 8100 N
+
+
+Buen d=EDa Julian,
+
+Gracias por el mail.Le hago llegar el mismo al t=E9cnico y a la brevedad se =
+contactar=E1 para resolver el inconveniente.
+
+
+Saludos,
+
+Javier Eduardo Flolasco
+  Ejecutivo de Cuentas 
+ 
+Insumos Suipacha S.R.L
+Paraguay 271 -Avellaneda-
+Tel: 4209-9099-8921-8992.     
+Sucursal Microcentro
+Tucuman 812.
+
+  ----- Original Message ----- 
+  From: Inform=E1tica - LA UNION 
+  To: javier=40insumosuipacha.com.ar 
+  Sent: Friday, April 22, 2011 12:22 AM
+  Subject: LA UNION - Problema de conectividad en HP 8100 N
+
+
+  Jueves 21 de Abril de 2011
+
+
+  Estimado Javier:
+
+
+  Te escribo el presente, para comentarte que he detectado un posible error =
+de conectividad utilizando JetDirect en la impresora HP 8100 N.
+
+  Realizando ayer las conexiones correspondientes utilizando cable de red Ca=
+tegor=EDa 5, la impresora HP 8150 N conect=F3 correctamente, asignando autom=
+=E1ticamente direcci=F3n IP y posibilitando la impresi=F3n mediante ese prot=
+ocolo.
+
+  Sin embargo, la 8100 N aparenta conectividad activa (por visualizaci=F3n d=
+e estado en led correspondiente de switch) pero no inicializa el protocolo T=
+CP-IP y, por ende, no asigna numeraci=F3n IP.
+
+  Ante todo, te comento que descarto inconvenientes de conectividad en cable=
+ados por haber sido testeados previamente.
+
+  Te detallo algunos items de la p=E1gina de configuraci=F3n de JetDirect em=
+itida por la impresora:
+
+  - HP JETDIRECT: J3113A
+  - DIRECCION HW LAN: 0030C103BDE3
+  - PUERTO SELECCIONADO: RJ45
+  - CONFIG. PUERTO: 100 TX FULL
+  - NEGOCIACION AUTOMATICA: ACT.
+  - TOT. PAQUETES RCBD: 4
+  - PAQUETES TRANSMIT: 44
+
+  (No arroja datos de colisiones ni errores de recepci=F3n, transmisi=F3n y =
+trama).
+
+  En informaci=F3n de protocolos, cita algunos de los puntos que a continuac=
+i=F3n comento:
+
+  - NOMB. CMTY SNMP SET: NINGUNO
+  - ESTADO TCP/IP: INICIALIZAND (constantemente este indicador; en un reinic=
+io de equipo, esper=E9 casi 30 minutos y reimprim=ED las configuraciones, ob=
+teniendo los mismos resultados).
+  - BOOTP/DHCP EN PROGRESO
+
+  - NOMBRE DE SISTEMA: NPI03BDE3
+  - CONFIG. POR: NO CONFIGURADO (cuando en la 8150 dice =22POR USUARIO=22).=
+
+  - DIRECCION IP: 0.0.0.0
+  - PATRON SUBRED: NO ESPECIF
+  (Otros items con el mismo estado, indicando no conectividad IP).
+
+  - ESTADO IPX/SPX: 29
+  - MODO: SERVIDOR DE COLA
+  - NOMBRE DE NODO: NPI03BDE3
+
+  - ESTADO APPLETALK: PREPARADO
+  - RED ETALK: 65218 NODO: 004 F2
+  - NOMBRE APPLETALK: HP LaserJet 8100 Series
+  - ZONA ETALK: *
+
+  - ESTADO DLC/LLC: PREPARADO
+
+  Omito otros items. Aparentar=EDa imposibilidad de conectividad IP =FAnicam=
+ente.
+
+  Adem=E1s, he observado algunas diferencias en las caracter=EDsticas del eq=
+uipo, como por ejemplo:
+
+  - la 8150 N posee 40 MB de memoria total, cuando la 8100 tiene 32 (antes d=
+e la =FAltima actualizaci=F3n por parte del t=E9cnico, ten=EDa 16 MB).
+
+  - la 8100 N, seg=FAn los datos de p=E1ginas de configuraci=F3n, tendr=EDa =
+aproximadamente 18 MB menos en el disco RAM que la 8150, y no tiene memoria =
+flash incorporada.
+
+  Realizo el correspondiente informe debido a que solicit=E9 pedido de asist=
+encia t=E9cnica al Sr. Carlos Crecente; con el fin de que est=E9s al tanto d=
+e una pronta comunicaci=F3n, y tengas documentado previamente los datos t=E9=
+cnicos de la HP 8100 N que no conecta por protocolo TCP/IP.
+
+
+  Saludos cordiales.
+
+
+
+  Juli=E1n Marcelo Zappia
+  Analista de Sistemas
+  Diario LA UNION S.A.
+
+
+
+  __________ Informaci=F3n de NOD32, revisi=F3n 6058 (20110420) __________
+
+  Este mensaje ha sido analizado con NOD32 antivirus system
+  http://www.nod32.com
+
+
+
+-----
+Se certific=F3 que el correo no contiene virus.
+Comprobada por AVG - www.avg.es
+Versi=F3n: 10.0.1209 / Base de datos de virus: 1500/3597 - Fecha de la versi=
+=F3n: 25/04/2011
+
+------=_NextPart_000_000E_01CC0373.0349EAC0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<=21DOCTYPE HTML PUBLIC =22-//W3C//DTD HTML 4.0 Transitional//EN=22>
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D=22text/html; charset=3Diso-8859-1=
+=22>
+<META content=3D=22MSHTML 6.00.2800.1491=22 name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D=23ffffff>
+<DIV>&nbsp;</DIV>
+<DIV style=3D=22FONT: 10pt arial=22>----- Original Message ----- 
+<DIV style=3D=22BACKGROUND: =23e4e4e4; font-color: black=22><B>From:</B> <A =
+
+title=3Djavier=40insumosuipacha.com.ar 
+href=3D=22mailto:javier=40insumosuipacha.com.ar=22>Javier Flolasco</A> </DIV=
+>
+<DIV><B>To:</B> <A title=3Dinformatica=40launion.com.ar 
+href=3D=22mailto:informatica=40launion.com.ar=22>Inform=E1tica - LA UNION</A=
+> </DIV>
+<DIV><B>Cc:</B> <A title=3Dcarlos=40launion.com.ar 
+href=3D=22mailto:carlos=40launion.com.ar=22>Carlos - Diario LA UNION</A> </D=
+IV>
+<DIV><B>Sent:</B> Monday, April 25, 2011 11:32 AM</DIV>
+<DIV><B>Subject:</B> Re: LA UNION - Problema de conectividad en HP 8100 
+N</DIV></DIV>
+<DIV><BR></DIV>
+<DIV><FONT face=3DArial size=3D2>Buen d=EDa Julian,</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Gracias por el mail.</FONT><FONT face=3DAri=
+al 
+size=3D2>Le hago llegar el&nbsp;mismo&nbsp;al t=E9cnico&nbsp;y a la brevedad=
+ se 
+contactar=E1 para resolver el inconveniente.</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial size=3D2>Saludos,</FONT></DIV>
+<DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+<DIV>Javier Eduardo Flolasco<BR>&nbsp; Ejecutivo de Cuentas 
+<BR>&nbsp;<BR>Insumos Suipacha S.R.L<BR>Paraguay 271 -Avellaneda-<BR>Tel: 
+4209-9099-8921-8992.&nbsp;&nbsp;&nbsp;&nbsp; <BR>Sucursal Microcentro<BR>Tuc=
+uman 
+812.<BR></DIV>
+<BLOCKQUOTE 
+style=3D=22PADDING-RIGHT: 0px; PADDING-LEFT: 5px; MARGIN-LEFT: 5px; BORDER-L=
+EFT: =23000000 2px solid; MARGIN-RIGHT: 0px=22>
+  <DIV style=3D=22FONT: 10pt arial=22>----- Original Message ----- </DIV>
+  <DIV 
+  style=3D=22BACKGROUND: =23e4e4e4; FONT: 10pt arial; font-color: black=22><=
+B>From:</B> 
+  <A title=3Dinformatica=40launion.com.ar 
+  href=3D=22mailto:informatica=40launion.com.ar=22>Inform=E1tica - LA UNION<=
+/A> </DIV>
+  <DIV style=3D=22FONT: 10pt arial=22><B>To:</B> <A title=3Djavier=40insumos=
+uipacha.com.ar 
+  href=3D=22mailto:javier=40insumosuipacha.com.ar=22>javier=40insumosuipacha=
+=2Ecom.ar</A> 
+  </DIV>
+  <DIV style=3D=22FONT: 10pt arial=22><B>Sent:</B> Friday, April 22, 2011 12=
+:22 
+  AM</DIV>
+  <DIV style=3D=22FONT: 10pt arial=22><B>Subject:</B> LA UNION - Problema de=
+ 
+  conectividad en HP 8100 N</DIV>
+  <DIV><BR></DIV>
+  <DIV align=3Dright><FONT face=3DArial size=3D2>Jueves 21 de Abril de 
+  2011</FONT></DIV>
+  <DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3DArial size=3D2><STRONG>Estimado Javier:</STRONG></FONT><=
+/DIV>
+  <DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>Te escribo el presente, p=
+ara 
+  comentarte que he detectado un posible error de conectividad utilizando 
+  JetDirect en la impresora HP 8100 N.</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>Realizando ayer las conex=
+iones 
+  correspondientes utilizando cable de red Categor=EDa 5, la impresora HP 81=
+50 N 
+  conect=F3 correctamente, asignando autom=E1ticamente direcci=F3n IP y posi=
+bilitando 
+  la impresi=F3n mediante ese protocolo.</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>Sin embargo, la 8100 N ap=
+arenta 
+  conectividad activa (por visualizaci=F3n de estado en led correspondiente =
+de 
+  switch) pero no inicializa el protocolo TCP-IP y, por ende, no asigna 
+  numeraci=F3n IP.</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>Ante todo, te comento que=
+ descarto 
+  inconvenientes de conectividad en cableados por haber sido testeados 
+  previamente.</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>Te detallo algunos items =
+de la 
+  p=E1gina de configuraci=F3n de JetDirect emitida por la impresora:</FONT><=
+/DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- HP JETDIRECT: J3113A</F=
+ONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- DIRECCION HW LAN: 
+  0030C103BDE3</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- PUERTO SELECCIONADO: 
+  RJ45</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- CONFIG. PUERTO: 100 TX =
+
+  FULL</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- NEGOCIACION AUTOMATICA:=
+ 
+  ACT.</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- TOT. PAQUETES RCBD: 
+4</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- PAQUETES TRANSMIT: 
+44</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>(No arroja datos de colis=
+iones ni 
+  errores de recepci=F3n, transmisi=F3n y trama).</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>En informaci=F3n de proto=
+colos, cita 
+  algunos de los puntos que a continuaci=F3n comento:</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- NOMB. CMTY SNMP SET: 
+  NINGUNO</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- ESTADO TCP/IP: INICIALI=
+ZAND 
+  (constantemente este indicador; en un reinicio de equipo, esper=E9 casi 30=
+ 
+  minutos y reimprim=ED las configuraciones, obteniendo los mismos 
+  resultados).</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- BOOTP/DHCP EN 
+  PROGRESO</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- NOMBRE DE SISTEMA: 
+  NPI03BDE3</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- CONFIG. POR: NO CONFIGU=
+RADO 
+  (cuando en la 8150 dice =22POR USUARIO=22).</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- DIRECCION IP: 
+0.0.0.0</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- PATRON SUBRED: NO 
+  ESPECIF</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>(Otros items con el mismo=
+ estado, 
+  indicando no conectividad IP).</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- ESTADO IPX/SPX: 29</FON=
+T></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- MODO: SERVIDOR DE 
+  COLA</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- NOMBRE DE NODO: 
+  NPI03BDE3</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- ESTADO APPLETALK: 
+  PREPARADO</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- RED ETALK: 65218 NODO: =
+004 
+  F2</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- NOMBRE APPLETALK: HP La=
+serJet 
+  8100 Series</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- ZONA ETALK: *</FONT></D=
+IV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- ESTADO DLC/LLC: 
+  PREPARADO</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>Omito otros items. Aparen=
+tar=EDa 
+  imposibilidad de conectividad IP =FAnicamente.</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>Adem=E1s, he observado al=
+gunas 
+  diferencias en las caracter=EDsticas del equipo, como por ejemplo:</FONT><=
+/DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- la 8150 N posee 40 MB d=
+e memoria 
+  total, cuando la 8100 tiene 32 (antes de la =FAltima actualizaci=F3n por p=
+arte del 
+  t=E9cnico, ten=EDa 16 MB).</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>- la 8100 N, seg=FAn los =
+datos de 
+  p=E1ginas de configuraci=F3n, tendr=EDa aproximadamente 18 MB menos en el =
+disco RAM 
+  que la 8150, y no tiene memoria flash incorporada.</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>Realizo el correspondient=
+e informe 
+  debido a que solicit=E9 pedido de asistencia t=E9cnica al Sr. Carlos Crece=
+nte; con 
+  el fin de que est=E9s al tanto de una pronta comunicaci=F3n, y tengas docu=
+mentado 
+  previamente los datos t=E9cnicos de la HP 8100 N que no conecta por protoc=
+olo 
+  TCP/IP.</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2>Saludos cordiales.</FONT>=
+</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV align=3Dcenter><FONT face=3DArial size=3D2>Juli=E1n Marcelo Zappia</F=
+ONT></DIV>
+  <DIV align=3Dcenter><FONT face=3DArial size=3D2>Analista de Sistemas</FONT=
+></DIV>
+  <DIV align=3Dcenter><FONT face=3DArial size=3D2>Diario LA UNION S.A.</FONT=
+></DIV>
+  <DIV align=3Djustify><FONT face=3DArial 
+  size=3D2></FONT>&nbsp;</DIV><BR><BR>__________ Informaci=F3n de NOD32, rev=
+isi=F3n 
+  6058 (20110420) __________<BR><BR>Este mensaje ha sido analizado con NOD32=
+ 
+  antivirus system<BR><A 
+href=3D=22http://www.nod32.com=22>http://www.nod32.com</A><BR></BLOCKQUOTE><=
+/BODY><hr noshade=3D=22noshade=22 size=3D=221=22><p class=3D=22avgcert=22 al=
+ign=3D=22left=22 color=3D=22=23000000=22>Se certific&=23243; que el correo n=
+o contiene virus.<br>
+Comprobada por AVG - <a href=3D'http://www.avg.es'>www.avg.es</a><br>
+Versi&=23243;n: 10.0.1209 / Base de datos de virus: 1500/3597 - Fecha de la =
+versi&=23243;n: 25/04/2011</p></HTML>
+
+
+------=_NextPart_000_000E_01CC0373.0349EAC0--
+

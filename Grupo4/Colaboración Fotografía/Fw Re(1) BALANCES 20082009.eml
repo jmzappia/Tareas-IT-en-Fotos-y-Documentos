@@ -1,0 +1,1120 @@
+Reply-To: =?Windows-1252?Q?Inform=E1tica_LA_UNION?= <informatica@launion.com.ar>
+From: =?Windows-1252?Q?Inform=E1tica_LA_UNION?= <informatica@launion.com.ar>
+To: "Carlos-Diario La Union" <carlos@launion.com.ar>
+Subject: Fw: Re(1): BALANCES 2008/2009
+Date: Mon, 28 Jun 2010 01:51:38 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0028_01CB1664.72DCBA40"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0028_01CB1664.72DCBA40
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Ejemplo de env=EDo de datos para confecci=F3n de balances al Cdor. =
+Sergio Novick.
+
+Es copia fiel de original.
+A efectos de ser anexado a env=EDos anteriores.
+
+Un abrazo.
+
+
+Juli=E1n M. Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+----- Original Message -----=20
+From: sergio novick=20
+To: informatica@launion.com.ar ; ORLANDO JUAN LEITES ; adrian =
+ruetalo-Diario La Union=20
+Sent: Friday, November 27, 2009 9:54 PM
+Subject: RE: Re(1): BALANCES 2008/2009
+
+
+Julian: muchas gracias por tu mail. Agradeceria cuando puedas me envies =
+via mail la informacion de los balances anteriores, dentro de tus =
+posibilidades, o quien vos decidas me lo envie. Es mi deseo que te =
+encuentres mejorado de tu salud. SLN.
+=20
+
+-------------------------------------------------------------------------=
+-------
+From: informatica@launion.com.ar
+To: slnovick@hotmail.com; adrian@ruetalo.com; orlandolei@hotmail.com
+CC: informatica@launion.com.ar
+Subject: Re(1): BALANCES 2008/2009
+Date: Fri, 27 Nov 2009 15:25:38 -0300
+
+
+Vienres 27 de Noviembre de 2009
+
+CDOR. SERGIO NOVICK
+
+De mi mayor consideraci=F3n:
+
+En el presente, detallo observaciones omitidas por error en el correo =
+electr=F3nico anterior.
+
+1. Ya se encuentran generados todos los datos de los per=EDodos =
+contables desde Julio de 1998, siguiendo la misma metodolog=EDa que los =
+anteriormente remitidos a Ud., y est=E1n almacenados en la Pc de =
+Tesorer=EDa de la Administraci=F3n de Diario LA UNION S.A. para cuando =
+sean requeridos.
+
+2. Las tareas realizadas y remitidas a Ud. el d=EDa mi=E9rcoles 25 del =
+corriente, fueron ejecutadas en per=EDodo de licencia m=E9dica por 72 =
+hs.; esto, entendiendo la necesidad y urgencia de contestaci=F3n de sus =
+requerimientos. Horas trabajadas: 4 horas.
+
+Sin otro particular, lo saludo cordialmente.
+
+
+
+
+Juli=E1n M. Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+CUIL 20-22112490-2
+
+
+  ----- Original Message -----=20
+  From: Inform=E1tica LA UNION=20
+  To: sergio novick ; adrian ruetalo-Diario La Union ; ORLANDO JUAN =
+LEITES=20
+  Cc: informatica@launion.com.ar=20
+  Sent: Wednesday, November 25, 2009 11:55 AM
+  Subject: Re: BALANCES 2008/2009
+
+
+  Mi=E9rcoles 25 de Noviembre de 2009
+
+  CDOR. SERGIO NOVICK
+
+  De mi mayor consideraci=F3n:
+
+  Por el presente, paso a comentar las inquietudes que se manifiestan en =
+el presente correo electr=F3nico.
+
+  An=E1lisis de observaciones realizadas:
+
+  1. IVA COMPRAS / SUBDIARIO COMPRAS 2007-2008
+
+  a. Los importes no gravados no se encuentran en la columna de =
+=93Importe Exento=94 debido a un posible error en el alta inicial de los =
+proveedores. Obs=E9rvese que en la descripci=F3n de IVA del proveedor se =
+observa =93RI=94, =93Responsable Inscripto=94. En el proceso de carga =
+manual no se discrimina el IVA, por lo cual la columna correspondiente a =
+=93Importe IVA=94 se encuentra con valor 0 (cero). El sistema =
+administrativo, al no detectar que el proveedor es tipo =93Exento=94, =
+ingresa el monto en el campo correspondiente a =93Importe Gravado=94. Se =
+adjuntan 2 (dos) archivos en formato Excel (EXENTO1 y EXENTO2) con las =
+correspondientes comprobaciones realizadas mediante aplicaci=F3n =
+inform=E1tica generada denominada =93TESTEO1.PRG=94, la cual tambi=E9n =
+se incluye. N=F3tese que en EXENTO2 (=93Exentos=94 de Subdiario Compras) =
+no se detectan los registros bajo la denominaci=F3n =93IVA CREDITO =
+FISCAL=94.
+
+  Soluci=F3n sugerida: movimiento de datos a columna correspondiente en =
+archivo IVA Compras.
+  Observaciones: se desconoce el procedimiento realizado para el alta de =
+los proveedores.
+
+  b. El primer comprobante con fecha de a=F1o 2000, posee fecha contable =
+con a=F1o 2008. En el proceso de generaci=F3n de archivos, el aistema =
+administrativo Tango 2000 toma como valores de referencia las fechas =
+contables, y no las fechas de emisi=F3n.
+
+  Observaciones: se desconoce fecha real de emisi=F3n. No se detecta =
+error de datos. En otros archivos generados, se observa id=E9ntica =
+situaci=F3n.
+  Sugerencia: cons=FAltese con el personal administrativo encargado del =
+tratamiento de Proveedores acerca de este (y otros posibles) =
+comprobante(s).=20
+
+  c. Faltantes de CUIT. No corresponde a un error de datos, sino a su no =
+ingreso en el alta correspondiente del proveedor.
+
+  Observaciones: cons=FAltese con el personal administrativo encargado =
+del tratamiento de Proveedores.
+
+
+  2. IVA VENTAS / SUBDIARIO VENTAS 2007-2008
+
+  a. Se interpret=F3 como observaci=F3n de faltante de correlatividad al =
+N=FAmero de Comprobante. Se control=F3 mediante aplicaci=F3n generada =
+adjunta (Testeo2.prg), que crea un archivo en formato Microsoft Excel =
+con nombre TESTEO2. No se detectan errores de continuidad en n=FAmeros =
+de comprobante. Ordenando la base de datos por N=FAmero de Comprobante, =
+se obtiene continuidad exacta.
+
+  b. Faltantes de CUIT. No corresponde a un error de datos, sino a su no =
+ingreso en el alta correspondiente del Cliente.
+
+  Observaciones: cons=FAltese con el personal administrativo encargado =
+del tratamiento de Ventas.
+
+  Las aplicaciones de control realizadas fueron generadas y ejecutadas =
+con el software Visual Fox Pro.
+
+  Acerca de los temas varios por Ud. planteados, debo informarle que =
+dichos datos no son de mi conocimiento.
+
+  =20
+  Sin otro particular, lo saludo atentamente.
+
+
+
+  Juli=E1n M. Zappia
+  Analista de Sistemas
+  Diario LA UNION S.A.
+  CUIL 20-22112490-2
+
+
+    ----- Original Message -----=20
+    From: sergio novick=20
+    To: informatica@launion.com.ar ; adrian ruetalo-Diario La Union ; =
+ORLANDO JUAN LEITES=20
+    Sent: Sunday, November 22, 2009 1:45 PM
+    Subject: BALANCES 2008/2009
+
+
+    Julian: con respecto a la informacion que me enviaste referida a dos =
+ejercicios cerrados en el a=F1o 2008/2009, te comento lo siguiente:
+    =20
+          ARCHIVO     =20
+          Iva Compras 2007-2008 / Subdiario Iva Compras 2007-2008   =20
+             =20
+          Observaciones     =20
+          1) Los importes que no estan gravados deben ir a la columna de =
+Importe Exento.=20
+          2) El 1=BA comprobante tiene fecha del a=F1o 2000.    =20
+          3) Faltantes de CUIT     =20
+             =20
+          ARCHIVO     =20
+          Iva Ventas 2007-2008  / Subdiario Iva Ventas 2007-2008   =20
+             =20
+          Observaciones     =20
+          1) Hay faltantes de correlatividad.     =20
+          2) Faltantes de CUIT
+          =20
+
+             =20
+             =20
+          Temas varios:     =20
+          1) La cuenta Banco a quien pertenece? Autorizacion Judicial?   =
+
+          2) Se otorga recibo en mostrador? Esta incluido en la planilla =
+de recibos todas las cobranzas?=20
+          3) Cuantos talonarios de recibos hay en uso?   =20
+          4) Favor solicito copia de todas las DDJJ de SUSS, IB, IVA. =
+desde la actualidad para atras todo lo que tengan.  =20
+          5) Depositos judiciales * juicios laborales / Honorarios =
+Profesionales / cuotas concordatarias.=20
+             =20
+
+    Con los elementos ya recibidos estoy trabajando. Favor continuar =
+procesando la informacion de los a=F1os anteriores que faltan. Como esta =
+viniendo la informacion esta ok en un principio.
+    =20
+    Saludos
+    SLN.
+
+
+-------------------------------------------------------------------------=
+---
+    Windows Live: Make it easier for your friends to see what you=92re =
+up to on Facebook.=20
+
+
+-------------------------------------------------------------------------=
+-------
+Windows Live: Keep your friends up to date with what you do online. 
+------=_NextPart_000_0028_01CB1664.72DCBA40
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dwindows-1252">
+<STYLE>.hmmessage P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px
+}
+BODY.hmmessage {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana
+}
+</STYLE>
+
+<META content=3D"MSHTML 6.00.2800.1491" name=3DGENERATOR></HEAD>
+<BODY class=3Dhmmessage bgColor=3D#ffffff>
+<DIV><FONT face=3DArial>Ejemplo de env=EDo de datos para confecci=F3n de =
+balances al=20
+Cdor. Sergio Novick.</FONT></DIV>
+<DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial>Es copia fiel de original.</FONT></DIV>
+<DIV><FONT face=3DArial>A efectos de ser anexado a env=EDos =
+anteriores.</FONT></DIV>
+<DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial>Un abrazo.</FONT></DIV>
+<DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial>Juli=E1n M. Zappia</FONT></DIV>
+<DIV><FONT face=3DArial>Analista de Sistemas</FONT></DIV>
+<DIV><FONT face=3DArial>Diario LA UNION S.A.</FONT></DIV>
+<DIV style=3D"FONT: 10pt arial">----- Original Message -----=20
+<DIV style=3D"BACKGROUND: #e4e4e4; font-color: black"><B>From:</B> <A=20
+title=3Dslnovick@hotmail.com href=3D"mailto:slnovick@hotmail.com">sergio =
+novick</A>=20
+</DIV>
+<DIV><B>To:</B> <A title=3Dinformatica@launion.com.ar=20
+href=3D"mailto:informatica@launion.com.ar">informatica@launion.com.ar</A>=
+ ; <A=20
+title=3Dorlandolei@hotmail.com =
+href=3D"mailto:orlandolei@hotmail.com">ORLANDO JUAN=20
+LEITES</A> ; <A title=3Dadrian@ruetalo.com =
+href=3D"mailto:adrian@ruetalo.com">adrian=20
+ruetalo-Diario La Union</A> </DIV>
+<DIV><B>Sent:</B> Friday, November 27, 2009 9:54 PM</DIV>
+<DIV><B>Subject:</B> RE: Re(1): BALANCES 2008/2009</DIV></DIV>
+<DIV><BR></DIV>Julian: muchas gracias por tu mail. Agradeceria cuando =
+puedas me=20
+envies via mail la informacion de los balances anteriores, dentro de tus =
+
+posibilidades, o quien vos decidas me lo envie. Es mi deseo que te =
+encuentres=20
+mejorado de tu salud.&nbsp;SLN.<BR>&nbsp;<BR>
+<HR id=3DstopSpelling>
+From: <A=20
+href=3D"mailto:informatica@launion.com.ar">informatica@launion.com.ar</A>=
+<BR>To:=20
+<A href=3D"mailto:slnovick@hotmail.com">slnovick@hotmail.com</A>; <A=20
+href=3D"mailto:adrian@ruetalo.com">adrian@ruetalo.com</A>; <A=20
+href=3D"mailto:orlandolei@hotmail.com">orlandolei@hotmail.com</A><BR>CC: =
+<A=20
+href=3D"mailto:informatica@launion.com.ar">informatica@launion.com.ar</A>=
+<BR>Subject:=20
+Re(1): BALANCES 2008/2009<BR>Date: Fri, 27 Nov 2009 15:25:38 =
+-0300<BR><BR>
+<STYLE>
+.ExternalClass .ecxhmmessage P
+{padding-right:0px;padding-left:0px;padding-bottom:0px;padding-top:0px;}
+.ExternalClass BODY.ecxhmmessage
+{font-size:10pt;font-family:Verdana;}
+</STYLE>
+
+<DIV><FONT face=3DArial>
+<DIV align=3Dright><FONT face=3DArial>Vienres 27 de Noviembre de =
+2009</FONT></DIV>
+<DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial><STRONG>CDOR. SERGIO =
+NOVICK</STRONG></FONT></DIV>
+<DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DArial>De mi mayor consideraci=F3n:</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=3Djustify>En el presente, detallo observaciones omitidas por =
+error en=20
+el correo electr=F3nico anterior.</DIV>
+<DIV align=3Djustify>&nbsp;</DIV>
+<DIV align=3Djustify>1. Ya se encuentran generados todos los datos de =
+los per=EDodos=20
+contables desde Julio de 1998, siguiendo la misma metodolog=EDa que los=20
+anteriormente remitidos a Ud., y est=E1n almacenados en la Pc de =
+Tesorer=EDa de la=20
+Administraci=F3n de Diario LA UNION S.A. para cuando sean =
+requeridos.</DIV>
+<DIV align=3Djustify>&nbsp;</DIV>
+<DIV align=3Djustify>2. Las tareas realizadas y remitidas a Ud. el d=EDa =
+mi=E9rcoles=20
+25 del corriente, fueron ejecutadas en per=EDodo de licencia m=E9dica =
+por 72 hs.;=20
+esto, entendiendo la necesidad y urgencia de contestaci=F3n de sus =
+requerimientos.=20
+Horas trabajadas: 4 horas.</DIV>
+<DIV align=3Djustify>&nbsp;</DIV>
+<DIV align=3Djustify>Sin otro particular, lo saludo cordialmente.</DIV>
+<DIV align=3Djustify>&nbsp;</DIV>
+<DIV align=3Djustify>&nbsp;</DIV>
+<DIV align=3Djustify>&nbsp;</DIV>
+<DIV align=3Djustify>&nbsp;</DIV>
+<DIV align=3Dcenter>Juli=E1n M. Zappia</DIV>
+<DIV align=3Dcenter>Analista de Sistemas</DIV>
+<DIV align=3Dcenter>Diario LA UNION S.A.</DIV>
+<DIV align=3Dcenter>CUIL 20-22112490-2</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV></FONT></DIV>
+<BLOCKQUOTE dir=3Dltr=20
+style=3D"PADDING-RIGHT: 0px; PADDING-LEFT: 5px; MARGIN-LEFT: 5px; =
+BORDER-LEFT: #000000 2px solid; MARGIN-RIGHT: 0px">
+  <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+  <DIV=20
+  style=3D"BACKGROUND: #e4e4e4; FONT: 10pt arial; font-color: =
+black"><B>From:</B>=20
+  <A title=3Dinformatica@launion.com.ar=20
+  href=3D"mailto:informatica@launion.com.ar">Inform=E1tica LA UNION</A> =
+</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A =
+title=3Dslnovick@hotmail.com=20
+  href=3D"mailto:slnovick@hotmail.com">sergio novick</A> ; <A=20
+  title=3Dadrian@ruetalo.com href=3D"mailto:adrian@ruetalo.com">adrian=20
+  ruetalo-Diario La Union</A> ; <A title=3Dorlandolei@hotmail.com=20
+  href=3D"mailto:orlandolei@hotmail.com">ORLANDO JUAN LEITES</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Cc:</B> <A =
+title=3Dinformatica@launion.com.ar=20
+  =
+href=3D"mailto:informatica@launion.com.ar">informatica@launion.com.ar</A>=
+ </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Wednesday, November 25, =
+2009 11:55=20
+  AM</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> Re: BALANCES =
+2008/2009</DIV>
+  <DIV><BR></DIV>
+  <DIV>
+  <DIV align=3Dright><FONT face=3DArial>Mi=E9rcoles 25&nbsp;de Noviembre =
+de=20
+  2009</FONT></DIV>
+  <DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3DArial><STRONG>CDOR. SERGIO =
+NOVICK</STRONG></FONT></DIV>
+  <DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3DArial>De mi mayor consideraci=F3n:</FONT></DIV>
+  <DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3DArial>Por el presente, paso a comentar las =
+inquietudes que se=20
+  manifiestan en el presente correo electr=F3nico.</FONT></DIV>
+  <DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3DArial><STRONG>An=E1lisis de observaciones=20
+  realizadas:</STRONG></FONT></DIV>
+  <DIV><STRONG></STRONG>&nbsp;</DIV>
+  <DIV><FONT face=3DArial><STRONG>1. IVA COMPRAS / SUBDIARIO COMPRAS=20
+  2007-2008</STRONG></FONT></DIV>
+  <DIV>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial>a. Los importes no gravados no =
+se=20
+  encuentran en la columna de =93Importe Exento=94 debido a un posible =
+error en el=20
+  alta inicial de los proveedores. Obs=E9rvese que en la descripci=F3n =
+de IVA del=20
+  proveedor se observa =93RI=94, =93Responsable Inscripto=94. En el =
+proceso de carga=20
+  manual no se discrimina el IVA, por lo cual la columna correspondiente =
+a=20
+  =93Importe IVA=94 se encuentra con valor 0 (cero). El sistema =
+administrativo, al=20
+  no detectar que el proveedor es tipo =93Exento=94, ingresa el monto en =
+el campo=20
+  correspondiente a =93Importe Gravado=94. Se adjuntan 2 (dos) archivos =
+en formato=20
+  Excel (EXENTO1 y EXENTO2) con las correspondientes comprobaciones =
+realizadas=20
+  mediante aplicaci=F3n inform=E1tica generada denominada =
+=93TESTEO1.PRG=94, la cual=20
+  tambi=E9n se incluye. N=F3tese que en EXENTO2 (=93Exentos=94 de =
+Subdiario Compras) no=20
+  se detectan los registros bajo la denominaci=F3n =93IVA CREDITO=20
+  FISCAL=94.</FONT></DIV>
+  <DIV align=3Djustify>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial><STRONG>Soluci=F3n =
+sugerida:</STRONG>=20
+  movimiento de datos a columna correspondiente en archivo IVA=20
+  Compras.<BR><STRONG>Observaciones:</STRONG> se desconoce el =
+procedimiento=20
+  realizado para el alta de los proveedores.</FONT></DIV>
+  <DIV align=3Djustify>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial>b. El primer comprobante con =
+fecha de a=F1o=20
+  2000, posee fecha contable con a=F1o 2008. En el proceso de =
+generaci=F3n de=20
+  archivos, el aistema administrativo Tango 2000 toma como valores de =
+referencia=20
+  las fechas contables, y no las fechas de emisi=F3n.</FONT></DIV>
+  <DIV align=3Djustify>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial><STRONG>Observaciones: =
+</STRONG>se=20
+  desconoce fecha real de emisi=F3n. No se detecta error de datos. En =
+otros=20
+  archivos generados, se observa id=E9ntica=20
+  situaci=F3n.<BR><STRONG>Sugerencia:</STRONG> cons=FAltese con el =
+personal=20
+  administrativo encargado del tratamiento de Proveedores acerca de este =
+(y=20
+  otros posibles) comprobante(s). </FONT></DIV>
+  <DIV align=3Djustify>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT face=3DArial>c. Faltantes de CUIT. No =
+corresponde a un=20
+  error de datos, sino a su no ingreso en el alta correspondiente del=20
+  proveedor.</FONT></DIV>
+  <DIV align=3Djustify>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT =
+face=3DArial><STRONG>Observaciones:</STRONG> cons=FAltese=20
+  con el personal administrativo encargado del tratamiento de=20
+  Proveedores.</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial></FONT>&nbsp;</DIV><FONT =
+face=3DArial>
+  <DIV align=3Djustify><BR><STRONG>2. IVA VENTAS / SUBDIARIO VENTAS=20
+  2007-2008</STRONG></DIV>
+  <DIV align=3Djustify>&nbsp;</DIV>
+  <DIV align=3Djustify>a. Se interpret=F3 como observaci=F3n de faltante =
+de=20
+  correlatividad al N=FAmero de Comprobante. Se control=F3 mediante =
+aplicaci=F3n=20
+  generada adjunta (Testeo2.prg), que crea un archivo en formato =
+Microsoft Excel=20
+  con nombre TESTEO2. No se detectan errores de continuidad en n=FAmeros =
+de=20
+  comprobante. Ordenando la base de datos por N=FAmero de Comprobante, =
+se obtiene=20
+  continuidad exacta.</DIV>
+  <DIV align=3Djustify>&nbsp;</DIV>
+  <DIV align=3Djustify>b. Faltantes de CUIT. No corresponde a un error =
+de datos,=20
+  sino a su no ingreso en el alta correspondiente del Cliente.</DIV>
+  <DIV align=3Djustify>&nbsp;</DIV>
+  <DIV align=3Djustify><STRONG>Observaciones: </STRONG>cons=FAltese con =
+el personal=20
+  administrativo encargado del tratamiento de Ventas.</DIV>
+  <DIV align=3Djustify>&nbsp;</DIV>
+  <DIV align=3Djustify>Las aplicaciones de control realizadas fueron =
+generadas y=20
+  ejecutadas con el software Visual Fox Pro.</DIV>
+  <DIV align=3Djustify>&nbsp;</DIV>
+  <DIV align=3Djustify>Acerca de los temas varios por Ud. planteados, =
+debo=20
+  informarle que dichos datos no son de mi conocimiento.</DIV>
+  <DIV align=3Djustify><BR>&nbsp;</DIV></FONT>
+  <DIV align=3Djustify><FONT face=3DArial>Sin otro particular, lo saludo =
+
+  atentamente.</FONT></DIV>
+  <DIV align=3Djustify><FONT face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+  <DIV align=3Dcenter><FONT face=3DArial>Juli=E1n M. Zappia</FONT></DIV>
+  <DIV align=3Dcenter><FONT face=3DArial>Analista de =
+Sistemas</FONT></DIV>
+  <DIV align=3Dcenter><FONT face=3DArial>Diario LA UNION =
+S.A.</FONT></DIV>
+  <DIV align=3Dcenter><FONT face=3DArial>CUIL 20-22112490-2</FONT></DIV>
+  <DIV><FONT face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3DArial></FONT>&nbsp;</DIV></DIV>
+  <BLOCKQUOTE=20
+  style=3D"PADDING-RIGHT: 0px; PADDING-LEFT: 5px; MARGIN-LEFT: 5px; =
+BORDER-LEFT: #000000 2px solid; MARGIN-RIGHT: 0px">
+    <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+    <DIV=20
+    style=3D"BACKGROUND: #e4e4e4; FONT: 10pt arial; font-color: =
+black"><B>From:</B>=20
+    <A title=3Dslnovick@hotmail.com =
+href=3D"mailto:slnovick@hotmail.com">sergio=20
+    novick</A> </DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A =
+title=3Dinformatica@launion.com.ar=20
+    =
+href=3D"mailto:informatica@launion.com.ar">informatica@launion.com.ar</A>=
+ ; <A=20
+    title=3Dadrian@ruetalo.com href=3D"mailto:adrian@ruetalo.com">adrian =
+
+    ruetalo-Diario La Union</A> ; <A title=3Dorlandolei@hotmail.com=20
+    href=3D"mailto:orlandolei@hotmail.com">ORLANDO JUAN LEITES</A> =
+</DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Sunday, November 22, =
+2009 1:45=20
+    PM</DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> BALANCES =
+2008/2009</DIV>
+    <DIV><BR></DIV>Julian: con respecto a la informacion que me enviaste =
+
+    referida a dos ejercicios cerrados en el a=F1o 2008/2009, te comento =
+lo=20
+    siguiente:<BR>&nbsp;<BR>
+    <TABLE style=3D"WIDTH: 407pt; BORDER-COLLAPSE: collapse" =
+cellSpacing=3D0=20
+    cellPadding=3D0 width=3D543 border=3D0>
+      <COLGROUP>
+      <COL style=3D"WIDTH: 107pt" width=3D143>
+      <COL style=3D"WIDTH: 60pt" span=3D5 width=3D80>
+      <TBODY>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD class=3Decxxl24=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; WIDTH: 107pt; BORDER-BOTTOM: #ece9d8; HEIGHT: =
+12.75pt; BACKGROUND-COLOR: yellow"=20
+        width=3D143 height=3D17><STRONG><U><FONT face=3DArial=20
+          size=3D2>ARCHIVO</FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; WIDTH: 60pt; BORDER-BOTTOM: #ece9d8; =
+BACKGROUND-COLOR: transparent"=20
+        width=3D80><STRONG><U><FONT face=3DArial =
+size=3D2></FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; WIDTH: 60pt; BORDER-BOTTOM: #ece9d8; =
+BACKGROUND-COLOR: transparent"=20
+        width=3D80><STRONG><U><FONT face=3DArial =
+size=3D2></FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; WIDTH: 60pt; BORDER-BOTTOM: #ece9d8; =
+BACKGROUND-COLOR: transparent"=20
+        width=3D80><STRONG><U><FONT face=3DArial =
+size=3D2></FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; WIDTH: 60pt; BORDER-BOTTOM: #ece9d8; =
+BACKGROUND-COLOR: transparent"=20
+        width=3D80><STRONG><U><FONT face=3DArial =
+size=3D2></FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; WIDTH: 60pt; BORDER-BOTTOM: #ece9d8; =
+BACKGROUND-COLOR: transparent"=20
+        width=3D80><STRONG><U><FONT face=3DArial =
+size=3D2></FONT></U></STRONG></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        colSpan=3D4 height=3D17><FONT size=3D2><FONT face=3DArial>Iva =
+Compras=20
+          2007-2008 / Subdiario Iva Compras=20
+          2007-2008<SPAN>&nbsp;</SPAN></FONT></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        height=3D17><FONT face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD class=3Decxxl24=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: yellow"=20
+        height=3D17><STRONG><U><FONT face=3DArial=20
+          size=3D2>Observaciones</FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><STRONG><U><FONT=20
+          face=3DArial size=3D2></FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><STRONG><U><FONT=20
+          face=3DArial size=3D2></FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><STRONG><U><FONT=20
+          face=3DArial size=3D2></FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><STRONG><U><FONT=20
+          face=3DArial size=3D2></FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><STRONG><U><FONT=20
+          face=3DArial size=3D2></FONT></U></STRONG></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        colSpan=3D6 height=3D17><FONT face=3DArial size=3D2>1) Los =
+importes que no=20
+          estan gravados deben ir a la columna de Importe =
+Exento.</FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        colSpan=3D3 height=3D17><FONT size=3D2><FONT face=3DArial>2) El =
+1=BA comprobante=20
+          tiene fecha del a=F1o =
+2000.<SPAN>&nbsp;</SPAN></FONT></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        height=3D17><FONT face=3DArial size=3D2>3) Faltantes de =
+CUIT</FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        height=3D17><FONT face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD class=3Decxxl24=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: yellow"=20
+        height=3D17><STRONG><U><FONT face=3DArial=20
+          size=3D2>ARCHIVO</FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><STRONG><U><FONT=20
+          face=3DArial size=3D2></FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><STRONG><U><FONT=20
+          face=3DArial size=3D2></FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><STRONG><U><FONT=20
+          face=3DArial size=3D2></FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><STRONG><U><FONT=20
+          face=3DArial size=3D2></FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><STRONG><U><FONT=20
+          face=3DArial size=3D2></FONT></U></STRONG></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        colSpan=3D4 height=3D17><FONT size=3D2><FONT face=3DArial>Iva =
+Ventas=20
+          2007-2008<SPAN>&nbsp; </SPAN>/ Subdiario Iva Ventas=20
+          2007-2008<SPAN>&nbsp;</SPAN></FONT></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        height=3D17><FONT face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD class=3Decxxl24=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: yellow"=20
+        height=3D17><STRONG><U><FONT face=3DArial=20
+          size=3D2>Observaciones</FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><STRONG><U><FONT=20
+          face=3DArial size=3D2></FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><STRONG><U><FONT=20
+          face=3DArial size=3D2></FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><STRONG><U><FONT=20
+          face=3DArial size=3D2></FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><STRONG><U><FONT=20
+          face=3DArial size=3D2></FONT></U></STRONG></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><STRONG><U><FONT=20
+          face=3DArial size=3D2></FONT></U></STRONG></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        colSpan=3D2 height=3D17><FONT size=3D2><FONT face=3DArial>1) Hay =
+faltantes de=20
+          correlatividad.<SPAN>&nbsp;</SPAN></FONT></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        height=3D17><FONT face=3DArial size=3D2>2) Faltantes de =
+CUIT</FONT><BR><FONT=20
+          face=3DArial size=3D2></FONT>&nbsp;<BR><BR></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        height=3D17><FONT face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        height=3D17><FONT face=3DArial size=3D2>Temas =
+varios:</FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        colSpan=3D4 height=3D17><FONT face=3DArial size=3D2>1) La cuenta =
+Banco a quien=20
+          pertenece? Autorizacion Judicial?</FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        colSpan=3D6 height=3D17><FONT face=3DArial size=3D2>2) Se otorga =
+recibo en=20
+          mostrador? Esta incluido en la planilla de recibos todas las=20
+          cobranzas?</FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        colSpan=3D3 height=3D17><FONT face=3DArial size=3D2>3) Cuantos =
+talonarios de=20
+          recibos hay en uso?</FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        colSpan=3D4 height=3D17><FONT face=3DArial size=3D2>4) Favor =
+solicito copia de=20
+          todas las DDJJ de SUSS, IB, IVA. desde la actualidad para =
+atras todo=20
+          lo que tengan.</FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"><FONT=20
+          face=3DArial size=3D2></FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        colSpan=3D6 height=3D17><FONT face=3DArial size=3D2>5) Depositos =
+judiciales *=20
+          juicios laborales / Honorarios Profesionales / cuotas=20
+          concordatarias.</FONT></TD></TR>
+      <TR style=3D"HEIGHT: 12.75pt" height=3D17>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; HEIGHT: 12.75pt; =
+BACKGROUND-COLOR: transparent"=20
+        height=3D17></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"></TD>
+        <TD=20
+        style=3D"BORDER-RIGHT: #ece9d8; BORDER-TOP: #ece9d8; =
+BORDER-LEFT: #ece9d8; BORDER-BOTTOM: #ece9d8; BACKGROUND-COLOR: =
+transparent"></TD></TR></TBODY></TABLE><BR>Con=20
+    los elementos ya recibidos estoy trabajando. Favor continuar =
+procesando la=20
+    informacion de los a=F1os anteriores que faltan. Como esta viniendo =
+la=20
+    informacion esta ok en un =
+principio.<BR>&nbsp;<BR>Saludos<BR>SLN.<BR><BR>
+    <HR>
+    Windows Live: Make it easier for your friends to see <A=20
+    href=3D"http://go.microsoft.com/?linkid=3D9691811">what you=92re up =
+to on=20
+    Facebook.</A> </BLOCKQUOTE></BLOCKQUOTE><BR>
+<HR>
+Windows Live: Keep your friends up to date <A=20
+href=3D"http://go.microsoft.com/?linkid=3D9691810" target=3D_new>with =
+what you do=20
+online.</A> </BODY></HTML>
+
+------=_NextPart_000_0028_01CB1664.72DCBA40--

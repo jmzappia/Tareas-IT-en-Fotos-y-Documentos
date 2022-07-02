@@ -1,0 +1,55 @@
+Return-path: <launion5.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Mon, 28 Jun 2010 23:11:19 -0600
+Received: from mail-iw0-f171.google.com ([209.85.214.171])
+	by host221.hostmonster.com with esmtp (Exim 4.69)
+	(envelope-from <launion5.lomas@gmail.com>)
+	id 1OTT6M-0003Mt-U7; Mon, 28 Jun 2010 23:11:18 -0600
+Received: by iwn33 with SMTP id 33so2560228iwn.16
+        for <multiple recipients>; Mon, 28 Jun 2010 22:11:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:sender:received:date
+         :x-google-sender-auth:message-id:subject:from:to:cc:content-type
+         :content-transfer-encoding;
+        bh=tvKDFdjMoNuC4Gp+ZjOkfYi1bEX0r/F8LwjLGo0PSFk=;
+        b=eu2MHfbRdjEckvuRLb5Kul4XNodNA6h1G+N9F1eg3gRAc8RIW65FQyWz+N5PBVemmF
+         iG/1eJ29qzLC5To/bjGxb3CwBtkYu52X6C0nSIUEb4PYU3lkHYd0rivE+uvkUhqNOBrm
+         DW6LsoCdGtRJxhRAQ/j7vHAmKlvWRz3iK4CkA=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:cc:content-type:content-transfer-encoding;
+        b=POZE5vPksyYbvP8QfCQZlJW0I+BIqkCpquuinIWshfVIdJDl2402vw/uyIlZ2h3L33
+         AeY9XaTSerWdpAstbsKrTtgtEXnthGUhGJ6u7/HWXIhtbmAgbSgtbvjxDot/GUr+pFYS
+         mfHkLHGwanmj9NnJa3rAASuNHwkX/SbyYYV8w=
+MIME-Version: 1.0
+Received: by 10.231.124.73 with SMTP id t9mr6352773ibr.170.1277788278117; Mon, 
+	28 Jun 2010 22:11:18 -0700 (PDT)
+Sender: launion5.lomas@gmail.com
+Received: by 10.231.34.71 with HTTP; Mon, 28 Jun 2010 22:11:18 -0700 (PDT)
+Date: Tue, 29 Jun 2010 02:11:18 -0300
+X-Google-Sender-Auth: mNnTMcQxBGXdhhp9LkLBP8SyZG8
+Message-ID: <AANLkTikbkwijMMYzB8w5a3sEIAyzubpFYwH0LpxG1oOv@mail.gmail.com>
+Subject: Cartucho Toner
+From: =?ISO-8859-1?Q?Taller_Gr=E1fico_=2D_LA_UNION?= <imprenta@launion.com.ar>
+To: haydee@launion.com.ar
+Cc: administracion <administracion@launion.com.ar>, informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Haydee:
+
+Te quer=EDa comentar que no hice a tiempo para traer el cartucho de
+toner reciclado que me comentaste telef=F3nicamente en el d=EDa de ayer.
+
+El muchacho que trabaja conmigo perd=EDa el colectivo y tuve que salir
+corriendo de las oficinas de Saenz.
+Te pido disculpas.
+
+Si no es posible que alguien me lo acerque a Loria en el transcurso
+del d=EDa, ma=F1ana lo paso a buscar yo.
+
+Besos.
+
+Juli=E1n.

@@ -1,0 +1,77 @@
+Return-path: <launion4.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Wed, 16 Jun 2010 04:38:37 -0600
+Received: from mail-vw0-f43.google.com ([209.85.212.43])
+	by host221.hostmonster.com with esmtp (Exim 4.69)
+	(envelope-from <launion4.lomas@gmail.com>)
+	id 1OOq0y-0005gG-L7; Wed, 16 Jun 2010 04:38:36 -0600
+Received: by vws11 with SMTP id 11so1825888vws.16
+        for <multiple recipients>; Wed, 16 Jun 2010 03:38:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:date:message-id
+         :subject:from:to:cc:content-type:content-transfer-encoding;
+        bh=rUu0Pe0bxBbcV/cHxzen7dUC1DkB9Qzj9ln3ReWXO1o=;
+        b=TYo1r+rwQrgZhxf0Xi4AyMAhyKzAH313Ma9xurdrVu2asqtBn7NFwHE6Mj2DjaQBzA
+         9u+fZIQWvdhU0Mf3eKswPGoXeDyhGdUf59L73FuG2BSEyb1cNyIZ0w6bCstRr7skFLC/
+         IXGgd0J2rPZQItP8jEQgH0MJVSBhRglCyuWWI=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:cc:content-type
+         :content-transfer-encoding;
+        b=UqcoZwc8ktbsx/N+6Gquj9gRdkRf3pt96FNSjZcArsNL0G6QGggeFtZ+xtMSFXmkLC
+         ZjN431TkvdHfldbZEbaoJ1981nMxvef8RzMBzHgrK9PgQCMeWLTYAAxx9tSPj+bnEu6m
+         aAAFOsLHzkTImL42GP5v0lqZMgL6q8ZUwP0/c=
+MIME-Version: 1.0
+Received: by 10.224.114.89 with SMTP id d25mr3949327qaq.318.1276684714997; 
+	Wed, 16 Jun 2010 03:38:34 -0700 (PDT)
+Received: by 10.229.10.4 with HTTP; Wed, 16 Jun 2010 03:38:34 -0700 (PDT)
+Date: Wed, 16 Jun 2010 07:38:34 -0300
+Message-ID: <AANLkTilhR9wk-jTUx5cxWpNnXMQmou41jtWwz2a-kpA3@mail.gmail.com>
+Subject: Respuesta a correo "Otro tema"
+From: Diario LA UNION <launion4.lomas@gmail.com>
+To: carlos <carlos@launion.com.ar>, administracion <administracion@launion.com.ar>
+Cc: informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Carlos.
+
+El equipo de la Recepci=F3n de las instalaciones de Saenz fue
+configurado con bastantes dificultades t=E9cnicas.
+
+Al iniciar las tareas, la Pc funcionaba con lentitud, pero pudo ser
+instalada completamente.
+Pose=EDa configuraciones incorrectas en la conectividad a la red (por
+ejemplo, estaba para conectar en una red Novell Netware).
+
+No quiero adelantar un diagn=F3stico con respecto a la Pc mencionada
+pero, como ha ocurrido con otras, tambi=E9n parece tener alg=FAn tipo de
+inconveniente de hardware.
+Espero me equivoque.
+
+Otro inconveniente detectado fue su lazo de cable de red. Es probable
+que durante la colocaci=F3n en el cable canal haya sufrido un
+estiramiento. Not=E9 un conector (el que estaba insertado en la toma de
+pared) sin el ajuste conveniente.
+
+Coloqu=E9 un lazo de red que ten=EDa armado para tareas personales, y el
+equipo respondi=F3 mejor.
+
+Qued=F3 configurado con el usuario "REDACCION" de la red porque
+desconozco otro usuario a utilizar, salvo el de amplio perfil de
+acceso como es el de Administrador.
+
+Espero disculpen la desprolijidad temporal del tendido de red. El
+largo del cable personal pre armado no alcanz=F3 para la longitud del
+recorrido originalmente especificado por las personas encargadas de
+esas tareas.
+
+Otro abrazo.
+
+Juli=E1n M. Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+
+Nota: el CD del Office 2003 est=E1 disponible para que te lo alcancen en
+cuanto vayan de Loria a Saenz.

@@ -1,0 +1,47 @@
+Return-path: <launion5.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Mon, 14 Jun 2010 17:27:12 -0600
+Received: from mail-iw0-f171.google.com ([209.85.214.171])
+	by host221.hostmonster.com with esmtp (Exim 4.69)
+	(envelope-from <launion5.lomas@gmail.com>)
+	id 1OOJ3g-0000Wk-5Y
+	for informatica@launion.com.ar; Mon, 14 Jun 2010 17:27:12 -0600
+Received: by iwn6 with SMTP id 6so1404232iwn.16
+        for <informatica@launion.com.ar>; Mon, 14 Jun 2010 16:27:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:sender:received
+         :in-reply-to:references:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type;
+        bh=O8rrBwCRf+Mev1GDP+06jVCV2VQGMgUHktYpoNoAOr0=;
+        b=RZ2ouOxGgTyE8ToGSDr/QL5JME4nqRVxnuZI/4TECWzb9VhMzy+TSxtLASl0zVGFmp
+         NPQVuKjH58RHQbOfMxRzcl+X+4NJAXz2M+pfUipe9X7Mrak2sk5efqsO4VcXEEiUYTKV
+         cpF2d4pr1jCORHpCr53IAaNBX0PD8BACxY7U4=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:sender:in-reply-to:references:date
+         :x-google-sender-auth:message-id:subject:from:to:content-type;
+        b=mL9Ypld23Ex7AAoZ8MKohdPMXsqyRhBmXywXp5yCBj7FQkESuzBr8H3qzg+s2zplVx
+         l5H+GhMY46/Jxy9FQBCKi3As/nrp0EgoBIbo+rD/w3W1wh/4cNnRmqEDFuZLc23CSAg0
+         Ka6MaSyyDdlxkqCz5XHJB1aUujj6+IDBYj4Mk=
+MIME-Version: 1.0
+Received: by 10.231.167.80 with SMTP id p16mr7339789iby.94.1276558031176; Mon, 
+	14 Jun 2010 16:27:11 -0700 (PDT)
+Sender: launion5.lomas@gmail.com
+Received: by 10.231.17.130 with HTTP; Mon, 14 Jun 2010 16:27:11 -0700 (PDT)
+In-Reply-To: <20100614172239.s7htsalg08w0sscs@www.launion.com.ar>
+References: <20100614172239.s7htsalg08w0sscs@www.launion.com.ar>
+Date: Mon, 14 Jun 2010 20:27:11 -0300
+X-Google-Sender-Auth: cLGruf2EV5ab8QcnOd3EeGL7PmI
+Message-ID: <AANLkTinIu9l2pPBzrLY4YCJa4apOYJX8FD4d9PhhkOsJ@mail.gmail.com>
+Subject: Re: PRUEBA
+From: =?ISO-8859-1?Q?Taller_Gr=E1fico_=2D_LA_UNION?= <imprenta@launion.com.ar>
+To: informatica@launion.com.ar
+Content-Type: text/plain; charset=ISO-8859-1
+
+Petero!
+
+2010/6/14, informatica@launion.com.ar <informatica@launion.com.ar>:
+>
+>
+>

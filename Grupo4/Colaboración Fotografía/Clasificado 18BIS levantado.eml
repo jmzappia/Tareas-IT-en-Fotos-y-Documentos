@@ -1,0 +1,61 @@
+Return-path: <launion4.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Wed, 16 Jun 2010 20:35:26 -0600
+Received: from mail-yw0-f199.google.com ([209.85.211.199])
+	by host221.hostmonster.com with esmtp (Exim 4.69)
+	(envelope-from <launion4.lomas@gmail.com>)
+	id 1OP4ww-0003Uk-Lm; Wed, 16 Jun 2010 20:35:26 -0600
+Received: by ywh37 with SMTP id 37so5035265ywh.2
+        for <multiple recipients>; Wed, 16 Jun 2010 19:35:22 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:received:date:message-id
+         :subject:from:to:cc:content-type:content-transfer-encoding;
+        bh=LLXlqOFRif9bfI81fqv9kM1aMogBXbmiVAzGl22x5wo=;
+        b=L+8tUerxHz3zovDJAShLn70mnD3+8pr5e4NceohIizTnc/GbjCerD3X0oyRy/Fw0jz
+         Fm0r/D6p+sUQGK81qah7EmDUS3q4smlmXvuUl7ruDcgETj4nyKINhyKxpHYjYxk8XPx5
+         bWynuGdBYRmVeCWb/kSRZpvhP4mN/vo46Z8pw=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:cc:content-type
+         :content-transfer-encoding;
+        b=VqEMPMRNt3JshrqfZETGpMBbAeCF4mx2ya4qmtWSq+UyEbzQjOBBggGf03zQYZGZLz
+         4W5iu3WA2KOmo9iy0JKMWBaboVqOEEkqOhmzraHNx/RvbNe8JzuwAuZwnif5bNG6Me9d
+         CndYO22loMaAFSBTDoqZXjU/MOJhZ6W8zHn8k=
+MIME-Version: 1.0
+Received: by 10.229.228.137 with SMTP id je9mr4392464qcb.97.1276742122640; 
+	Wed, 16 Jun 2010 19:35:22 -0700 (PDT)
+Received: by 10.229.10.4 with HTTP; Wed, 16 Jun 2010 19:35:22 -0700 (PDT)
+Date: Wed, 16 Jun 2010 23:35:22 -0300
+Message-ID: <AANLkTim-5JXM4V3iIq9MkBKLwQxahj9WP4srR_8AwmkK@mail.gmail.com>
+Subject: Clasificado 18BIS levantado
+From: Diario LA UNION <launion4.lomas@gmail.com>
+To: Director <director@launion.com.ar>, gerencia@launion.com.ar
+Cc: informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+SR. JORGE CONTI
+DIRECTOR
+DIARIO LA UNION S.A.
+
+De mi consideraci=F3n:
+
+Tal como fuera su requerimiento telef=F3nico de remover aviso
+clasificado con n=FAmero interno 342308 del rubro 18 Bis de los
+clasificados de la edici=F3n del diario producida en fecha 16/06/2010
+(edici=F3n del 17/06/2010), con texto inicial "ANALIA nuevo plantel..."
+y, ante su consulta de si yo estaba procesando tales avisos
+clasificados -a lo cual respond=ED que en la fecha no- le informo que le
+he expresado al Sr. Omar Violante, Jefe de Taller de Diario LA UNION,
+su pedido.
+
+El texto del aviso fue retirado de las p=E1ginas armadas por el Sr.
+Violante, como se podr=E1 observar en la edici=F3n del 17/06/2010.
+
+Sin otro particular, lo saludo atte.
+
+
+Juli=E1n M. Zappia
+Analista de Sistemas
+Diario LA UNION S.A.

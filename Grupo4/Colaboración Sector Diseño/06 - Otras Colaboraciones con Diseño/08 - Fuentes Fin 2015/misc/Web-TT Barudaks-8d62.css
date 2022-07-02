@@ -1,0 +1,11 @@
+/* Webfont: Barudaks */@font-face {
+    font-family: 'Barudaks';
+    src: url('Barudaks.eot'); /* IE9 Compat Modes */
+    src: url('Barudaks.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Barudaks.woff') format('woff'), /* Modern Browsers */
+         url('Barudaks.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

@@ -1,0 +1,181 @@
+Return-path: <carlosbisignano@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Wed, 07 Sep 2011 20:54:44 -0300
+Received: from [209.85.213.43] (helo=mail-yw0-f43.google.com)
+	by launio.launion.com.ar with esmtp (Exim 4.63)
+	(envelope-from <carlosbisignano@gmail.com>)
+	id 1R1Rx5-0003to-6n; Wed, 07 Sep 2011 20:54:44 -0300
+Received: by ywm3 with SMTP id 3so263474ywm.16
+        for <multiple recipients>; Wed, 07 Sep 2011 16:54:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=x-rim-org-msg-ref-id:message-id:reply-to:x-priority:references
+         :in-reply-to:sensitivity:importance:subject:to:cc:from:date
+         :content-type:mime-version;
+        bh=0635ASoy0KXAlHBzGkEKxCD+N9Qo/LcBRQYA9L3Te9Y=;
+        b=LOqEyN2nRiHpBbU2Z6yLMBFhGlTOyJVdyVjTHquDuGW13aImjpWTQE1FoEAb2gq4D4
+         VGgDAsMSx4NNTX0S59+5vUk63wAbi0MlvEoin35SKCCHq+C47BsB8FKLLDSSKteqPo3/
+         6VL/5XrVRzaEUiiQ0eqSL2NQqzg897WJwF+LU=
+Received: by 10.236.165.99 with SMTP id d63mr42558yhl.86.1315439679705;
+        Wed, 07 Sep 2011 16:54:39 -0700 (PDT)
+Received: from 172.29.210.173 (bda-74-82-84-187.bis6.us.blackberry.com [74.82.84.187])
+        by mx.google.com with ESMTPS id p73sm604941yhe.19.2011.09.07.16.54.35
+        (version=SSLv3 cipher=OTHER);
+        Wed, 07 Sep 2011 16:54:36 -0700 (PDT)
+X-rim-org-msg-ref-id: 1265898744
+Message-ID: <1265898744-1315439672-cardhu_decombobulator_blackberry.rim.net-306770385-@b17.c17.bise6.blackberry>
+Reply-To: carlosbisignano@gmail.com
+X-Priority: Normal
+References: <007c01cc6dc9$a00f67c0$7dc8a8c0@launion.com>
+In-Reply-To: <007c01cc6dc9$a00f67c0$7dc8a8c0@launion.com>
+Sensitivity: Normal
+Importance: Normal
+Subject: Re: Datos para poner al pie del sitio launion.com.ar
+To: "=?Windows-1252?B?SW5mb3Jt4XRpY2EgLSBMQSBVTklPTg==?=" <informatica@launion.com.ar>
+Cc: "=?Windows-1252?B?Q2Fyb2xpbmEgUHVwcG8gLSBEaWFyaW8gTGEgVW5p824=?=" <carolina@launion.com.ar>,"Director - LA UNION" <director@launion.com.ar>,"=?Windows-1252?B?Q29tZXJjaWFsIC0gRGlhcmlvIExhIFVuafNu?=" <comercial@launion.com.ar>
+From: carlosbisignano@gmail.com
+Date: Wed, 7 Sep 2011 23:54:31 +0000
+Content-Type: multipart/alternative;
+	boundary="part17188-boundary-138617382-1529163950"
+MIME-Version: 1.0
+X-Spam-Score: 7.7
+X-Spam-Score-Int: 77
+X-Spam-Bar: +++++++
+X-Spam-Report: Spam detection software, running on the system "launio.launion.com.ar", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Perfecto, mañana estara online. Gracias, Saludos. 
+	Content analysis details:   (7.7 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	-1.0 RCVD_IN_DNSWL_LOW      RBL: Sender listed at http://www.dnswl.org/, low
+	trust
+	[209.85.213.43 listed in list.dnswl.org]
+	2.4 DNS_FROM_OPENWHOIS     RBL: Envelope sender listed in bl.open-whois.org.
+	3.4 FH_DATE_PAST_20XX      The date is grossly in the future.
+	0.0 HTML_MESSAGE           BODY: HTML included in message
+	2.8 MIME_BASE64_TEXT       RAW: Message text disguised using base64 encoding
+	0.1 RDNS_NONE              Delivered to trusted network by a host with no rDNS
+X-Antivirus: AVG for E-mail 10.0.1392 [1520/3883]
+X-AVG-ID: ID2481B2CC-56BEE2C0
+
+
+--part17188-boundary-138617382-1529163950
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset="Windows-1252"
+
+UGVyZmVjdG8sIG1h8WFuYSBlc3RhcmEgb25saW5lLg0KDQpHcmFjaWFzLA0KDQpTYWx1ZG9z
+Lg0KLS0tLS1PcmlnaW5hbCBNZXNzYWdlLS0tLS0NCkZyb206IEluZm9ybeF0aWNhIC0gTEEg
+VU5JT04gPGluZm9ybWF0aWNhQGxhdW5pb24uY29tLmFyPg0KRGF0ZTogV2VkLCA3IFNlcCAy
+MDExIDIwOjQ5OjU5IA0KVG86IDxjYXJsb3NiaXNpZ25hbm9AZ21haWwuY29tPg0KQ2M6IENh
+cm9saW5hIFB1cHBvIC0gRGlhcmlvIExhIFVuacOzbjxjYXJvbGluYUBsYXVuaW9uLmNvbS5h
+cj47IERpcmVjdG9yIC0gTEEgVU5JT048ZGlyZWN0b3JAbGF1bmlvbi5jb20uYXI+OyBDb21l
+cmNpYWwgLSBEaWFyaW8gTGEgVW5pw7NuPGNvbWVyY2lhbEBsYXVuaW9uLmNvbS5hcj4NClN1
+YmplY3Q6IERhdG9zIHBhcmEgcG9uZXIgYWwgcGllIGRlbCBzaXRpbyBsYXVuaW9uLmNvbS5h
+cg0KDQpNaelyY29sZXMgNyBkZSBTZXB0aWVtYnJlIGRlIDIwMTENCg0KDQpTUi4gQ0FSTE9T
+IEJJU0lHTkFOTyBCVVJHT1MNCldFQk1BU1RFUg0KTEFVTklPTi5DT00uQVINCg0KDQpEZSBt
+aSBjb25zaWRlcmFjafNuOg0KDQpIYWJpZW5kbyBtYW50ZW5pZG8gZW4gbGEgZmVjaGEgdW5h
+IHJldW5p824gZW4gbGEgRGlyZWNjafNuIGRlIERpYXJpbyBMQSBVTklPTiBTLkEuLCBsZSBp
+bmZvcm1vIGRlIHVuYSBtb2RpZmljYWNp824gYSByZWFsaXphciBhbCBwaWUgZGVsIHNpdGlv
+IGxhdW5pb24uY29tLmFyLg0KDQpTZSBkZWJlIGluY2x1aXIgbG9zIHNpZ3VpZW50ZXMgZGF0
+b3M6DQoNCg0KUHJvcGlldGFyaW86IERJQVJJTyBMQSBVTklPTiBTLkEuDQpEb21pY2lsaW8g
+IDogTG9yaWEgNDc1IC0gKDE4MzIpIExvbWFzIGRlIFphbW9yYS4gQnVlbm9zIEFpcmVzLg0K
+RGlyZWN0b3I6IExpYy4gTi4gQWRyaeFuIFJ16XRhbG8gU29yaWEuDQpSZWdpc3RybyBkZSBs
+YSBwcm9waWVkYWQgaW50ZWxlY3R1YWwgLSBFeHB0ZS4gTrogODQ3LjI4Ng0KDQoNClB1ZWRl
+biBtYW50ZW5lcnNlIGxvcyBsb2dvcyB5IHRleHRvcyBhY3R1YWxlczsgc29sbyBlcyBuZWNl
+c2FyaW8gbW9kaWZpY2FyIGVsIGHxbyBkZWwgY29weXJpZ3RoIChkaWNlIDIwMTA7IGRlYmVy
+7WEgZGVjaXIgMjAxMSkuDQoNCkxhIGRpc3RyaWJ1Y2nzbiBkZSBsb3MgZGF0b3MgbWFuaWZl
+c3RhZG9zIGxhIGRlam8gYSBzdSBjb25zaWRlcmFjafNuIGRlIGRpc2Xxby4NCg0KDQpTYWx1
+ZG9zIGNvcmRpYWxlcy4NCg0KDQoNCkp1bGnhbiBNYXJjZWxvIFphcHBpYQ0KQW5hbGlzdGEg
+ZGUgU2lzdGVtYXMNCkRpYXJpbyBMQSBVTklPTiBTLkEuDQpQZXJzb25hIHJlc3BvbnNhYmxl
+IGRlIHd3dy5sYXVuaW9uLmNvbS5hcg0KDQoNCg0KDQoNCi0tLS0tDQpTZSBjZXJ0aWZpY/Mg
+cXVlIGVsIGNvcnJlbyBubyBjb250aWVuZSB2aXJ1cy4NCkNvbXByb2JhZGEgcG9yIEFWRyAt
+IHd3dy5hdmcuZXMNClZlcnNp8246IDEwLjAuMTM5MiAvIEJhc2UgZGUgZGF0b3MgZGUgdmly
+dXM6IDE1MjAvMzg4MyAtIEZlY2hhIGRlIGxhIHZlcnNp8246IDA3LzA5LzIwMTENCg==
+
+--part17188-boundary-138617382-1529163950
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset="Windows-1252"
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9u
+YWwvL0VOIj4NCjxIVE1MPjxIRUFEPg0KPE1FVEEgY29udGVudD0idGV4dC9odG1sOyBjaGFy
+c2V0PWlzby04ODU5LTEiIGh0dHAtZXF1aXY9Q29udGVudC1UeXBlPg0KPE1FVEEgbmFtZT1H
+RU5FUkFUT1IgY29udGVudD0iTVNIVE1MIDguMDAuNjAwMS4xODkyOCI+DQo8U1RZTEU+PC9T
+VFlMRT4NCjwvSEVBRD4NCjxCT0RZIGJnQ29sb3I9I2ZmZmZmZj5QZXJmZWN0bywgbWHxYW5h
+IGVzdGFyYSBvbmxpbmUuPGJyLz48YnIvPkdyYWNpYXMsPGJyLz48YnIvPlNhbHVkb3MuPGhy
+Lz48ZGl2PjxiPkZyb206IDwvYj4gSW5mb3Jt4XRpY2EgLSBMQSBVTklPTiAmbHQ7aW5mb3Jt
+YXRpY2FAbGF1bmlvbi5jb20uYXImZ3Q7DQo8L2Rpdj48ZGl2PjxiPkRhdGU6IDwvYj5XZWQs
+IDcgU2VwIDIwMTEgMjA6NDk6NTkgLTA1MDA8L2Rpdj48ZGl2PjxiPlRvOiA8L2I+Jmx0O2Nh
+cmxvc2Jpc2lnbmFub0BnbWFpbC5jb20mZ3Q7PC9kaXY+PGRpdj48Yj5DYzogPC9iPkNhcm9s
+aW5hIFB1cHBvIC0gRGlhcmlvIExhIFVuacOzbiZsdDtjYXJvbGluYUBsYXVuaW9uLmNvbS5h
+ciZndDs7IERpcmVjdG9yIC0gTEEgVU5JT04mbHQ7ZGlyZWN0b3JAbGF1bmlvbi5jb20uYXIm
+Z3Q7OyBDb21lcmNpYWwgLSBEaWFyaW8gTGEgVW5pw7NuJmx0O2NvbWVyY2lhbEBsYXVuaW9u
+LmNvbS5hciZndDs8L2Rpdj48ZGl2PjxiPlN1YmplY3Q6IDwvYj5EYXRvcyBwYXJhIHBvbmVy
+IGFsIHBpZSBkZWwgc2l0aW8gbGF1bmlvbi5jb20uYXI8L2Rpdj48ZGl2Pjxici8+PC9kaXY+
+DQo8RElWIGFsaWduPXJpZ2h0PjxGT05UIHNpemU9MiBmYWNlPUFyaWFsPk1p6XJjb2xlcyA3
+IGRlIFNlcHRpZW1icmUgZGUgDQoyMDExPC9GT05UPjwvRElWPg0KPERJVj48Rk9OVCBzaXpl
+PTIgZmFjZT1BcmlhbD48L0ZPTlQ+Jm5ic3A7PC9ESVY+DQo8RElWPjxGT05UIHNpemU9MiBm
+YWNlPUFyaWFsPjwvRk9OVD4mbmJzcDs8L0RJVj4NCjxESVY+PEZPTlQgc2l6ZT0yIGZhY2U9
+QXJpYWw+PFNUUk9ORz5TUi4gQ0FSTE9TIEJJU0lHTkFOTyANCkJVUkdPUzwvU1RST05HPjwv
+Rk9OVD48L0RJVj4NCjxESVY+PEZPTlQgc2l6ZT0yIGZhY2U9QXJpYWw+PFNUUk9ORz5XRUJN
+QVNURVI8L1NUUk9ORz48L0ZPTlQ+PC9ESVY+DQo8RElWPjxGT05UIHNpemU9MiBmYWNlPUFy
+aWFsPjxTVFJPTkc+TEFVTklPTi5DT00uQVI8L1NUUk9ORz48L0ZPTlQ+PC9ESVY+DQo8RElW
+PjxGT05UIHNpemU9MiBmYWNlPUFyaWFsPjwvRk9OVD4mbmJzcDs8L0RJVj4NCjxESVY+PEZP
+TlQgc2l6ZT0yIGZhY2U9QXJpYWw+PC9GT05UPiZuYnNwOzwvRElWPg0KPERJVj48Rk9OVCBz
+aXplPTIgZmFjZT1BcmlhbD5EZSBtaSBjb25zaWRlcmFjafNuOjwvRk9OVD48L0RJVj4NCjxE
+SVY+PEZPTlQgc2l6ZT0yIGZhY2U9QXJpYWw+PC9GT05UPiZuYnNwOzwvRElWPg0KPERJViBh
+bGlnbj1qdXN0aWZ5PjxGT05UIHNpemU9MiBmYWNlPUFyaWFsPkhhYmllbmRvIG1hbnRlbmlk
+byBlbiBsYSBmZWNoYSB1bmEgDQpyZXVuafNuIGVuIGxhIERpcmVjY2nzbiBkZSBEaWFyaW8g
+TEEgVU5JT04gUy5BLiwgbGUgaW5mb3JtbyBkZSB1bmEgbW9kaWZpY2FjafNuIA0KYSByZWFs
+aXphciBhbCBwaWUgZGVsIHNpdGlvIGxhdW5pb24uY29tLmFyLjwvRk9OVD48L0RJVj4NCjxE
+SVYgYWxpZ249anVzdGlmeT48Rk9OVCBzaXplPTIgZmFjZT1BcmlhbD48L0ZPTlQ+Jm5ic3A7
+PC9ESVY+DQo8RElWIGFsaWduPWp1c3RpZnk+PEZPTlQgc2l6ZT0yIGZhY2U9QXJpYWw+U2Ug
+ZGViZSBpbmNsdWlyIGxvcyBzaWd1aWVudGVzIA0KZGF0b3M6PC9GT05UPjwvRElWPg0KPERJ
+ViBhbGlnbj1qdXN0aWZ5PjxGT05UIHNpemU9MiBmYWNlPUFyaWFsPjwvRk9OVD4mbmJzcDs8
+L0RJVj4NCjxESVYgYWxpZ249anVzdGlmeT48Rk9OVCBzaXplPTIgZmFjZT1BcmlhbD48L0ZP
+TlQ+Jm5ic3A7PC9ESVY+DQo8RElWIGFsaWduPWp1c3RpZnk+PEZPTlQgc2l6ZT0yIGZhY2U9
+QXJpYWw+UHJvcGlldGFyaW86IERJQVJJTyBMQSBVTklPTiANClMuQS48L0ZPTlQ+PC9ESVY+
+DQo8RElWIGFsaWduPWp1c3RpZnk+PEZPTlQgc2l6ZT0yIGZhY2U9QXJpYWw+RG9taWNpbGlv
+Jm5ic3A7IDogTG9yaWEgNDc1IC0gKDE4MzIpIA0KTG9tYXMgZGUgWmFtb3JhLiBCdWVub3Mg
+QWlyZXMuPC9GT05UPjwvRElWPg0KPERJViBhbGlnbj1qdXN0aWZ5PjxGT05UIHNpemU9MiBm
+YWNlPUFyaWFsPkRpcmVjdG9yOiBMaWMuIE4uIEFkcmnhbiBSdel0YWxvIA0KU29yaWEuPC9G
+T05UPjwvRElWPg0KPERJViBhbGlnbj1qdXN0aWZ5PjxGT05UIHNpemU9MiBmYWNlPUFyaWFs
+PlJlZ2lzdHJvIGRlIGxhIHByb3BpZWRhZCBpbnRlbGVjdHVhbCANCi0gRXhwdGUuIE66IDg0
+Ny4yODY8L0ZPTlQ+PC9ESVY+DQo8RElWIGFsaWduPWp1c3RpZnk+PEZPTlQgc2l6ZT0yIGZh
+Y2U9QXJpYWw+PC9GT05UPiZuYnNwOzwvRElWPg0KPERJViBhbGlnbj1qdXN0aWZ5PiZuYnNw
+OzwvRElWPg0KPERJViBhbGlnbj1qdXN0aWZ5PjxGT05UIHNpemU9MiBmYWNlPUFyaWFsPlB1
+ZWRlbiBtYW50ZW5lcnNlIGxvcyBsb2dvcyB5IHRleHRvcyANCmFjdHVhbGVzOyBzb2xvIGVz
+IG5lY2VzYXJpbyBtb2RpZmljYXIgZWwgYfFvIGRlbCBjb3B5cmlndGggKGRpY2UgMjAxMDsg
+ZGViZXLtYSANCmRlY2lyIDIwMTEpLjwvRk9OVD48L0RJVj4NCjxESVYgYWxpZ249anVzdGlm
+eT48Rk9OVCBzaXplPTIgZmFjZT1BcmlhbD48L0ZPTlQ+Jm5ic3A7PC9ESVY+DQo8RElWIGFs
+aWduPWp1c3RpZnk+PEZPTlQgc2l6ZT0yIGZhY2U9QXJpYWw+TGEgZGlzdHJpYnVjafNuIGRl
+IGxvcyBkYXRvcyANCm1hbmlmZXN0YWRvcyBsYSBkZWpvIGEgc3UgY29uc2lkZXJhY2nzbiBk
+ZSBkaXNl8W8uPC9GT05UPjwvRElWPg0KPERJViBhbGlnbj1qdXN0aWZ5PjxGT05UIHNpemU9
+MiBmYWNlPUFyaWFsPjwvRk9OVD4mbmJzcDs8L0RJVj4NCjxESVYgYWxpZ249anVzdGlmeT48
+Rk9OVCBzaXplPTIgZmFjZT1BcmlhbD48L0ZPTlQ+Jm5ic3A7PC9ESVY+DQo8RElWIGFsaWdu
+PWp1c3RpZnk+PEZPTlQgc2l6ZT0yIGZhY2U9QXJpYWw+U2FsdWRvcyBjb3JkaWFsZXMuPC9G
+T05UPjwvRElWPg0KPERJVj48Rk9OVCBzaXplPTIgZmFjZT1BcmlhbD48L0ZPTlQ+Jm5ic3A7
+PC9ESVY+DQo8RElWPjxGT05UIHNpemU9MiBmYWNlPUFyaWFsPjwvRk9OVD4mbmJzcDs8L0RJ
+Vj4NCjxESVY+PEZPTlQgc2l6ZT0yIGZhY2U9QXJpYWw+PC9GT05UPiZuYnNwOzwvRElWPg0K
+PERJViBhbGlnbj1jZW50ZXI+PEZPTlQgc2l6ZT0yIGZhY2U9QXJpYWw+SnVsaeFuIE1hcmNl
+bG8gWmFwcGlhPC9GT05UPjwvRElWPg0KPERJViBhbGlnbj1jZW50ZXI+PEZPTlQgc2l6ZT0y
+IGZhY2U9QXJpYWw+QW5hbGlzdGEgZGUgU2lzdGVtYXM8L0ZPTlQ+PC9ESVY+DQo8RElWIGFs
+aWduPWNlbnRlcj48Rk9OVCBzaXplPTIgZmFjZT1BcmlhbD5EaWFyaW8gTEEgVU5JT04gUy5B
+LjwvRk9OVD48L0RJVj4NCjxESVYgYWxpZ249Y2VudGVyPjxGT05UIHNpemU9MiBmYWNlPUFy
+aWFsPlBlcnNvbmEgcmVzcG9uc2FibGUgZGUmbmJzcDs8QSANCmhyZWY9Imh0dHA6Ly93d3cu
+bGF1bmlvbi5jb20uYXIiPnd3dy5sYXVuaW9uLmNvbS5hcjwvQT48L0ZPTlQ+PC9ESVY+DQo8
+RElWIGFsaWduPWNlbnRlcj48Rk9OVCBzaXplPTIgZmFjZT1BcmlhbD48L0ZPTlQ+Jm5ic3A7
+PC9ESVY+DQo8RElWPjxGT05UIHNpemU9MiBmYWNlPUFyaWFsPjwvRk9OVD4mbmJzcDs8L0RJ
+Vj4NCjxESVY+PEZPTlQgc2l6ZT0yIGZhY2U9QXJpYWw+PC9GT05UPiZuYnNwOzwvRElWPjwv
+Qk9EWT48aHIgbm9zaGFkZT0ibm9zaGFkZSIgc2l6ZT0iMSI+PGE+PC9hPjxwIGNsYXNzPSJh
+dmdjZXJ0IiBhbGlnbj0ibGVmdCIgY29sb3I9IiMwMDAwMDAiPlNlIGNlcnRpZmljJiMyNDM7
+IHF1ZSBlbCBjb3JyZW8gbm8gY29udGllbmUgdmlydXMuPGJyPg0KQ29tcHJvYmFkYSBwb3Ig
+QVZHIC0gPGEgaHJlZj0naHR0cDovL3d3dy5hdmcuZXMnPnd3dy5hdmcuZXM8L2E+PGJyPg0K
+VmVyc2kmIzI0MztuOiAxMC4wLjEzOTIgLyBCYXNlIGRlIGRhdG9zIGRlIHZpcnVzOiAxNTIw
+LzM4ODMgLSBGZWNoYSBkZSBsYSB2ZXJzaSYjMjQzO246IDA3LzA5LzIwMTE8L3A+PC9IVE1M
+Pg0KDQo=
+
+--part17188-boundary-138617382-1529163950--
+
