@@ -1,0 +1,625 @@
+Indice de Módulo
+Ayuda..
+	Ejecutar Comando 	
+Diagnosticos
+Salida de /usr/share/topschool/scripts/diagnostics.sh | tee /home/topadmin/soporte/diag_"$(date +'%Y%m%d%H%M%S')".txt ...
+
+----------------------
+Configuraciones de Red
+eth0      Link encap:Ethernet  HWaddr b4:99:ba:5c:1d:70  
+          UP BROADCAST MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+          Interrupt:16 
+
+eth1      Link encap:Ethernet  HWaddr b4:99:ba:5c:1d:71  
+          inet6 addr: fe80::b699:baff:fe5c:1d71/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:809 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:620 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:62815 (61.3 KiB)  TX bytes:84048 (82.0 KiB)
+          Interrupt:17 
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:16436  Metric:1
+          RX packets:1499 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1499 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:298965 (291.9 KiB)  TX bytes:298965 (291.9 KiB)
+
+venet0    Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  
+          UP BROADCAST POINTOPOINT RUNNING NOARP  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+veth101.0 Link encap:Ethernet  HWaddr 00:18:51:f8:6e:90  
+          inet6 addr: fe80::218:51ff:fef8:6e90/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:841 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:2120 errors:0 dropped:4 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:84453 (82.4 KiB)  TX bytes:184019 (179.7 KiB)
+
+veth102.0 Link encap:Ethernet  HWaddr 00:18:51:24:45:00  
+          inet6 addr: fe80::218:51ff:fe24:4500/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:263 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1177 errors:0 dropped:6 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:17913 (17.4 KiB)  TX bytes:89033 (86.9 KiB)
+
+veth103.0 Link encap:Ethernet  HWaddr 00:18:51:7f:9e:05  
+          inet6 addr: fe80::218:51ff:fe7f:9e05/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:160 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:263 errors:0 dropped:7 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:21589 (21.0 KiB)  TX bytes:34969 (34.1 KiB)
+
+veth104.0 Link encap:Ethernet  HWaddr 00:18:51:b1:58:9e  
+          inet6 addr: fe80::218:51ff:feb1:589e/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:46 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1254 errors:0 dropped:5 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:6238 (6.0 KiB)  TX bytes:91901 (89.7 KiB)
+
+veth104.1 Link encap:Ethernet  HWaddr 00:18:51:1a:d9:27  
+          inet6 addr: fe80::218:51ff:fe1a:d927/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:38 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:358 errors:0 dropped:9 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:5912 (5.7 KiB)  TX bytes:48350 (47.2 KiB)
+
+veth105.0 Link encap:Ethernet  HWaddr 00:18:51:3d:d2:c5  
+          inet6 addr: fe80::218:51ff:fe3d:d2c5/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:983 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1973 errors:0 dropped:6 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:93190 (91.0 KiB)  TX bytes:175774 (171.6 KiB)
+
+veth105.1 Link encap:Ethernet  HWaddr 00:18:51:6f:04:62  
+          inet6 addr: fe80::218:51ff:fe6f:462/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:63 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:344 errors:0 dropped:11 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:7666 (7.4 KiB)  TX bytes:47607 (46.4 KiB)
+
+veth111.1 Link encap:Ethernet  HWaddr 00:18:51:62:b6:53  
+          inet6 addr: fe80::218:51ff:fe62:b653/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:1266 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1040 errors:0 dropped:5 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:91166 (89.0 KiB)  TX bytes:115170 (112.4 KiB)
+
+veth222.1 Link encap:Ethernet  HWaddr 00:18:51:91:15:e0  
+          inet6 addr: fe80::218:51ff:fe91:15e0/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:40 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:362 errors:0 dropped:8 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:6014 (5.8 KiB)  TX bytes:48743 (47.6 KiB)
+
+veth303.1 Link encap:Ethernet  HWaddr 00:18:51:f7:2d:d8  
+          inet6 addr: fe80::218:51ff:fef7:2dd8/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:646 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1738 errors:0 dropped:16 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:126062 (123.1 KiB)  TX bytes:164144 (160.2 KiB)
+
+vmbr0     Link encap:Ethernet  HWaddr b4:99:ba:5c:1d:70  
+          inet6 addr: fe80::b699:baff:fe5c:1d70/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:62 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:0 (0.0 B)  TX bytes:13658 (13.3 KiB)
+
+vmbr1     Link encap:Ethernet  HWaddr b4:99:ba:5c:1d:71  
+          inet addr:172.16.0.10  Bcast:172.16.255.255  Mask:255.255.0.0
+          inet6 addr: fe80::b699:baff:fe5c:1d71/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:1684 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:585 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:118563 (115.7 KiB)  TX bytes:49967 (48.7 KiB)
+
+vmbr2     Link encap:Ethernet  HWaddr 00:18:51:62:b6:53  
+          inet addr:192.168.254.1  Bcast:192.168.254.255  Mask:255.255.255.0
+          inet6 addr: fe80::2476:e9ff:fe69:d0ea/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:1545 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:787 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:130709 (127.6 KiB)  TX bytes:89365 (87.2 KiB)
+
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+192.168.254.0   0.0.0.0         255.255.255.0   U     0      0        0 vmbr2
+172.16.0.0      0.0.0.0         255.255.0.0     U     0      0        0 vmbr1
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 0.0.0.0:111             0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:10000           0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:62354           0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:83            0.0.0.0:*               LISTEN     
+tcp        0      0 192.168.254.1:53        0.0.0.0:*               LISTEN     
+tcp        0      0 172.16.0.10:53          0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:53            0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:48470           0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:25            0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:953           0.0.0.0:*               LISTEN     
+tcp        4      0 172.16.0.10:54164       172.16.0.3:139          ESTABLISHED
+tcp        0      0 127.0.0.1:50189         127.0.0.1:10000         ESTABLISHED
+tcp        0   7872 127.0.0.1:10000         127.0.0.1:50189         ESTABLISHED
+tcp        4      0 172.16.0.10:54165       172.16.0.3:139          ESTABLISHED
+tcp6       0      0 :::80                   :::*                    LISTEN     
+tcp6       0      0 :::53                   :::*                    LISTEN     
+tcp6       0      0 :::22                   :::*                    LISTEN     
+tcp6       0      0 ::1:953                 :::*                    LISTEN     
+tcp6       0      0 :::443                  :::*                    LISTEN     
+# Generated by iptables-save v1.4.2 on Mon Oct 26 12:26:19 2015
+*nat
+:PREROUTING ACCEPT [1853:140617]
+:POSTROUTING ACCEPT [491:36858]
+:OUTPUT ACCEPT [157:12304]
+-A POSTROUTING -s 192.168.254.0/24 -o vmbr0 -j MASQUERADE 
+COMMIT
+# Completed on Mon Oct 26 12:26:19 2015
+# Generated by iptables-save v1.4.2 on Mon Oct 26 12:26:19 2015
+*filter
+:INPUT DROP [3:285]
+:FORWARD ACCEPT [4698:630244]
+:OUTPUT ACCEPT [2415:385273]
+-A INPUT -i tun0 -j ACCEPT 
+-A INPUT -i vmbr1 -j ACCEPT 
+-A INPUT -i eth1 -j ACCEPT 
+-A INPUT -i vmbr2 -j ACCEPT 
+-A INPUT -i vmbr0 -m state --state ESTABLISHED -j ACCEPT 
+-A INPUT -s 127.0.0.1/32 -j ACCEPT 
+COMMIT
+# Completed on Mon Oct 26 12:26:19 2015
+# Generated by iptables-save v1.4.2 on Mon Oct 26 12:26:19 2015
+*mangle
+:PREROUTING ACCEPT [5240:727486]
+:INPUT ACCEPT [2240:395104]
+:FORWARD ACCEPT [4698:630244]
+:OUTPUT ACCEPT [2415:385273]
+:POSTROUTING ACCEPT [7194:1025431]
+COMMIT
+# Completed on Mon Oct 26 12:26:19 2015
+
+----------------------
+Testeo de comunicacion de red
+PING 172.16.0.1 (172.16.0.1) 56(84) bytes of data.
+64 bytes from 172.16.0.1: icmp_seq=1 ttl=64 time=0.067 ms
+64 bytes from 172.16.0.1: icmp_seq=2 ttl=64 time=0.058 ms
+64 bytes from 172.16.0.1: icmp_seq=3 ttl=64 time=0.040 ms
+
+--- 172.16.0.1 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 0.040/0.055/0.067/0.011 ms
+PING 172.16.0.2 (172.16.0.2) 56(84) bytes of data.
+64 bytes from 172.16.0.2: icmp_seq=1 ttl=64 time=0.042 ms
+64 bytes from 172.16.0.2: icmp_seq=2 ttl=64 time=0.025 ms
+64 bytes from 172.16.0.2: icmp_seq=3 ttl=64 time=0.040 ms
+
+--- 172.16.0.2 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1998ms
+rtt min/avg/max/mdev = 0.025/0.035/0.042/0.010 ms
+PING 172.16.0.3 (172.16.0.3) 56(84) bytes of data.
+64 bytes from 172.16.0.3: icmp_seq=1 ttl=64 time=0.037 ms
+64 bytes from 172.16.0.3: icmp_seq=2 ttl=64 time=0.027 ms
+64 bytes from 172.16.0.3: icmp_seq=3 ttl=64 time=0.031 ms
+
+--- 172.16.0.3 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1999ms
+rtt min/avg/max/mdev = 0.027/0.031/0.037/0.007 ms
+PING 172.16.0.4 (172.16.0.4) 56(84) bytes of data.
+64 bytes from 172.16.0.4: icmp_seq=1 ttl=64 time=0.038 ms
+64 bytes from 172.16.0.4: icmp_seq=2 ttl=64 time=0.032 ms
+64 bytes from 172.16.0.4: icmp_seq=3 ttl=64 time=0.029 ms
+
+--- 172.16.0.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1998ms
+rtt min/avg/max/mdev = 0.029/0.033/0.038/0.003 ms
+PING 172.16.0.5 (172.16.0.5) 56(84) bytes of data.
+64 bytes from 172.16.0.5: icmp_seq=1 ttl=64 time=0.049 ms
+64 bytes from 172.16.0.5: icmp_seq=2 ttl=64 time=0.025 ms
+64 bytes from 172.16.0.5: icmp_seq=3 ttl=64 time=0.041 ms
+
+--- 172.16.0.5 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1998ms
+rtt min/avg/max/mdev = 0.025/0.038/0.049/0.011 ms
+PING 192.168.254.2 (192.168.254.2) 56(84) bytes of data.
+64 bytes from 192.168.254.2: icmp_seq=1 ttl=64 time=0.049 ms
+64 bytes from 192.168.254.2: icmp_seq=2 ttl=64 time=0.032 ms
+64 bytes from 192.168.254.2: icmp_seq=3 ttl=64 time=0.037 ms
+
+--- 192.168.254.2 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1998ms
+rtt min/avg/max/mdev = 0.032/0.039/0.049/0.008 ms
+PING 192.168.254.102 (192.168.254.102) 56(84) bytes of data.
+64 bytes from 192.168.254.102: icmp_seq=1 ttl=64 time=0.038 ms
+64 bytes from 192.168.254.102: icmp_seq=2 ttl=64 time=0.039 ms
+64 bytes from 192.168.254.102: icmp_seq=3 ttl=64 time=0.031 ms
+
+--- 192.168.254.102 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1998ms
+rtt min/avg/max/mdev = 0.031/0.036/0.039/0.003 ms
+PING 192.168.254.3 (192.168.254.3) 56(84) bytes of data.
+64 bytes from 192.168.254.3: icmp_seq=1 ttl=64 time=3.08 ms
+64 bytes from 192.168.254.3: icmp_seq=2 ttl=64 time=0.029 ms
+64 bytes from 192.168.254.3: icmp_seq=3 ttl=64 time=0.040 ms
+
+--- 192.168.254.3 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2000ms
+rtt min/avg/max/mdev = 0.029/1.049/3.080/1.436 ms
+PING 192.168.254.4 (192.168.254.4) 56(84) bytes of data.
+64 bytes from 192.168.254.4: icmp_seq=1 ttl=64 time=0.039 ms
+64 bytes from 192.168.254.4: icmp_seq=2 ttl=64 time=0.025 ms
+64 bytes from 192.168.254.4: icmp_seq=3 ttl=64 time=0.026 ms
+
+--- 192.168.254.4 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1998ms
+rtt min/avg/max/mdev = 0.025/0.030/0.039/0.006 ms
+PING 192.168.254.105 (192.168.254.105) 56(84) bytes of data.
+64 bytes from 192.168.254.105: icmp_seq=1 ttl=64 time=0.038 ms
+64 bytes from 192.168.254.105: icmp_seq=2 ttl=64 time=0.036 ms
+64 bytes from 192.168.254.105: icmp_seq=3 ttl=64 time=0.035 ms
+
+--- 192.168.254.105 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 1998ms
+rtt min/avg/max/mdev = 0.035/0.036/0.038/0.005 ms
+connect: Network is unreachable
+ping: unknown host www.google.com
+
+----------------------
+Memoria libre en MB
+             total       used       free     shared    buffers     cached
+Mem:          7960       1614       6346          0         34        581
+-/+ buffers/cache:        997       6962
+Swap:         8191          0       8191
+
+----------------------
+Estado de discos
+Filesystem             Size   Used  Avail Use% Mounted on
+/dev/mapper/pve1-root
+                        30G   3.9G    25G  14% /
+tmpfs                  4.2G    13k   4.2G   1% /lib/init/rw
+udev                    11M   734k   9.8M   7% /dev
+tmpfs                  4.2G      0   4.2G   0% /dev/shm
+/dev/md0               520M    80M   414M  17% /boot
+/dev/mapper/pve2-data
+                       447G   103G   321G  25% /var/lib/vz
+/dev/mapper/swap_      2.0G    39M   2.0G   2% /mnt/swap_
+/dev/mapper/pve1-root on / type ext3 (rw,errors=remount-ro)
+tmpfs on /lib/init/rw type tmpfs (rw,nosuid,mode=0755)
+proc on /proc type proc (rw,noexec,nosuid,nodev)
+sysfs on /sys type sysfs (rw,noexec,nosuid,nodev)
+procbususb on /proc/bus/usb type usbfs (rw)
+udev on /dev type tmpfs (rw,mode=0755)
+tmpfs on /dev/shm type tmpfs (rw,nosuid,nodev)
+devpts on /dev/pts type devpts (rw,noexec,nosuid,gid=5,mode=620)
+/dev/md0 on /boot type ext3 (rw)
+/dev/mapper/pve2-data on /var/lib/vz type ext3 (rw)
+/dev/mapper/swap_ on /mnt/swap_ type ext3 (rw)
+
+----------------------
+Version de Topschool
+TopSchool VT-L 03.02.01
+Topschool ID
+T002-7232000689
+
+----------------------
+Lista de equipos virtuales
+      CTID      NPROC STATUS    IP_ADDR         HOSTNAME
+       101         65 running   -               services.miescuela.local
+       102         50 running   -               tdserver.miescuela.local
+       103         33 running   -               ldap.miescuela.local
+       104         34 running   -               updates.miescuela.local
+       105         69 running   -               mail.miescuela.local
+Rendimiento de CPU
+Current CPU utilization: 6000
+Power of the node: 960018
+
+----------------------
+Virtuales
+
+----------------------
+CTID=101
+Resource     Current(%)  Promised(%)  Max(%)
+Memory           3.84 1381165202178.44 1381165202178.44
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 127.0.0.1:3306          0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:111             0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:10000           0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:8080            0.0.0.0:*               LISTEN     
+tcp        0      0 192.168.254.2:53        0.0.0.0:*               LISTEN     
+tcp        0      0 172.16.0.1:53           0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:53            0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:3128          0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:25            0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:953           0.0.0.0:*               LISTEN     
+tcp        0      0 172.16.0.1:35697        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.1:35694        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.1:35696        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.1:35691        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.1:35679        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.1:35680        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.1:35678        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.1:35688        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.1:35693        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.1:35695        172.16.0.3:636          ESTABLISHED
+tcp6       0      0 :::139                  :::*                    LISTEN     
+tcp6       0      0 :::80                   :::*                    LISTEN     
+tcp6       0      0 :::21                   :::*                    LISTEN     
+tcp6       0      0 :::53                   :::*                    LISTEN     
+tcp6       0      0 :::22                   :::*                    LISTEN     
+tcp6       0      0 :::445                  :::*                    LISTEN     
+eth0      Link encap:Ethernet  HWaddr f0:01:ba:5c:1d:70  
+          inet addr:172.16.0.1  Bcast:172.16.255.255  Mask:255.255.0.0
+          inet6 addr: fe80::f201:baff:fe5c:1d70/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:2145 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:846 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:185330 (180.9 KiB)  TX bytes:84804 (82.8 KiB)
+
+eth1      Link encap:Ethernet  HWaddr f2:01:ba:5c:1d:71  
+          inet addr:192.168.254.2  Bcast:192.168.254.255  Mask:255.255.255.0
+          inet6 addr: fe80::f001:baff:fe5c:1d71/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:1047 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1272 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:115676 (112.9 KiB)  TX bytes:91588 (89.4 KiB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:16436  Metric:1
+          RX packets:429 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:429 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:33765 (32.9 KiB)  TX bytes:33765 (32.9 KiB)
+
+
+----------------------
+CTID=102
+Resource     Current(%)  Promised(%)  Max(%)
+Memory           8.37 1381165202178.44 1381165202178.44
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 0.0.0.0:111             0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:5432          0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:25            0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:5432          127.0.0.1:33783         ESTABLISHED
+tcp6       0      0 127.0.0.1:8005          :::*                    LISTEN     
+tcp6       0      0 :::8009                 :::*                    LISTEN     
+tcp6       0      0 :::5001                 :::*                    LISTEN     
+tcp6       0      0 :::80                   :::*                    LISTEN     
+tcp6       0      0 ::1:5432                :::*                    LISTEN     
+tcp6       0      0 :::443                  :::*                    LISTEN     
+tcp6       0      0 127.0.0.1:33783         127.0.0.1:5432          ESTABLISHED
+eth0      Link encap:Ethernet  HWaddr f0:02:ba:5c:1d:70  
+          inet addr:172.16.0.2  Bcast:172.16.255.255  Mask:255.255.0.0
+          inet6 addr: fe80::f202:baff:fe5c:1d70/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:1196 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:270 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:90003 (87.8 KiB)  TX bytes:18343 (17.9 KiB)
+
+eth1      Link encap:Ethernet  HWaddr f2:02:ba:5c:1d:71  
+          inet addr:192.168.254.102  Bcast:192.168.254.255  Mask:255.255.255.0
+          inet6 addr: fe80::f002:baff:fe5c:1d71/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:367 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:44 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:49051 (47.9 KiB)  TX bytes:6294 (6.1 KiB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:16436  Metric:1
+          RX packets:672 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:672 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:204270 (199.4 KiB)  TX bytes:204270 (199.4 KiB)
+
+
+----------------------
+CTID=103
+Resource     Current(%)  Promised(%)  Max(%)
+Memory           1.39 1381165202178.44 1381165202178.44
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 0.0.0.0:636             0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:389             0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:111             0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:25            0.0.0.0:*               LISTEN     
+tcp        0      0 172.16.0.3:389          172.16.0.5:56907        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.5:48510        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.5:48522        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.5:48521        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.1:35695        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.5:48518        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.1:35694        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.5:48523        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.1:35688        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.1:35678        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.1:35697        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.5:48507        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.5:48516        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.1:35680        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.1:35679        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.5:48519        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.1:35696        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.5:48520        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.5:48515        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.1:35691        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.1:35693        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.5:48489        ESTABLISHED
+tcp        0      0 172.16.0.3:636          172.16.0.5:48524        ESTABLISHED
+tcp6       0      0 :::636                  :::*                    LISTEN     
+tcp6       0      0 :::445                  :::*                    LISTEN     
+tcp6       0      0 :::389                  :::*                    LISTEN     
+tcp6       0      0 :::139                  :::*                    LISTEN     
+tcp6       0      0 172.16.0.3:139          172.16.0.10:54165       ESTABLISHED
+tcp6       0      0 172.16.0.3:139          172.16.0.10:54164       ESTABLISHED
+eth0      Link encap:Ethernet  HWaddr f0:03:ba:5c:1d:70  
+          inet addr:192.168.254.3  Bcast:192.168.254.255  Mask:255.255.255.0
+          inet6 addr: fe80::f203:baff:fe5c:1d70/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:267 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:164 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:35249 (34.4 KiB)  TX bytes:21869 (21.3 KiB)
+
+eth1      Link encap:Ethernet  HWaddr f2:03:ba:5c:1d:71  
+          inet addr:172.16.0.3  Bcast:172.16.255.255  Mask:255.255.0.0
+          inet6 addr: fe80::f003:baff:fe5c:1d71/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:1761 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:650 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:165310 (161.4 KiB)  TX bytes:126342 (123.3 KiB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:16436  Metric:1
+          RX packets:10 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:10 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:932 (932.0 B)  TX bytes:932 (932.0 B)
+
+
+----------------------
+CTID=104
+Resource     Current(%)  Promised(%)  Max(%)
+Memory           1.58 1381165202178.44 1381165202178.44
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 127.0.0.1:3306          0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:111             0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:25            0.0.0.0:*               LISTEN     
+tcp6       0      0 :::80                   :::*                    LISTEN     
+tcp6       0      0 :::443                  :::*                    LISTEN     
+eth0      Link encap:Ethernet  HWaddr f0:04:ba:5c:1d:70  
+          inet addr:172.16.0.4  Bcast:172.16.255.255  Mask:255.255.0.0
+          inet6 addr: fe80::f204:baff:fe5c:1d70/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:1277 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:50 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:93067 (90.8 KiB)  TX bytes:6518 (6.3 KiB)
+
+eth1      Link encap:Ethernet  HWaddr f2:04:ba:5c:1d:71  
+          inet addr:192.168.254.4  Bcast:192.168.255.255  Mask:255.255.0.0
+          inet6 addr: fe80::f004:baff:fe5c:1d71/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:363 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:42 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:48658 (47.5 KiB)  TX bytes:6192 (6.0 KiB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:16436  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+
+----------------------
+CTID=105
+Resource     Current(%)  Promised(%)  Max(%)
+Memory           3.77 1381165202178.44 1381165202178.44
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 0.0.0.0:993             0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:7777          0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:995             0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:10024         0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:10025         0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:3306          0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:587             0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:110             0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:143             0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:10031         0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:111             0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:2000          0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:465             0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:25              0.0.0.0:*               LISTEN     
+tcp        0      0 172.16.0.5:48519        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.5:48516        172.16.0.3:636          ESTABLISHED
+tcp        0      0 127.0.0.1:3306          127.0.0.1:39675         ESTABLISHED
+tcp        0      0 172.16.0.5:48507        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.5:48510        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.5:48521        172.16.0.3:636          ESTABLISHED
+tcp        0      0 127.0.0.1:39675         127.0.0.1:3306          ESTABLISHED
+tcp        0      0 172.16.0.5:48520        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.5:48515        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.5:48523        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.5:48518        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.5:48524        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.5:48522        172.16.0.3:636          ESTABLISHED
+tcp        0      0 172.16.0.5:56907        172.16.0.3:389          ESTABLISHED
+tcp        0      0 172.16.0.5:48489        172.16.0.3:636          ESTABLISHED
+tcp6       0      0 :::443                  :::*                    LISTEN     
+tcp6       0      0 :::445                  :::*                    LISTEN     
+tcp6       0      0 :::139                  :::*                    LISTEN     
+tcp6       0      0 :::80                   :::*                    LISTEN     
+eth0      Link encap:Ethernet  HWaddr f0:05:ba:5c:1d:70  
+          inet addr:172.16.0.5  Bcast:172.16.255.255  Mask:255.255.0.0
+          inet6 addr: fe80::f205:baff:fe5c:1d70/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:1996 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:987 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:176940 (172.7 KiB)  TX bytes:93470 (91.2 KiB)
+
+eth1      Link encap:Ethernet  HWaddr f2:05:ba:5c:1d:71  
+          inet addr:192.168.254.105  Bcast:192.168.254.255  Mask:255.255.255.0
+          inet6 addr: fe80::f005:baff:fe5c:1d71/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:349 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:67 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:47915 (46.7 KiB)  TX bytes:7946 (7.7 KiB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:16436  Metric:1
+          RX packets:17 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:17 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:1130 (1.1 KiB)  TX bytes:1130 (1.1 KiB)
+
+
+----------------------
+Estado
+cat: /var/lib/topschool/state/*.state: No such file or directory
+
