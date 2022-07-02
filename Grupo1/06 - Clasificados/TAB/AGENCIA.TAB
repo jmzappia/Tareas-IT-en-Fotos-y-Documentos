@@ -1,0 +1,87 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE AGENCIAS				      ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.48 o superior   ;
+;									      ;
+;-----------------------------------------------------------------------------;
+
+
+;	+-------------------------+
+;	| Informaci¢n de Agencias |
+;	+-------------------------+
+; (m x. 30 caracteres)     [LA]=30
+
+
+; Camino de Envio y Recepci¢n de Agencias
+
+[PathEnv]=s:\agencias\envio
+
+[PathRec0]=s:\agencias\recibo
+[NoRec0]=AGENCIA 01
+
+[PathRec1]=c:\tmp
+[NoRec1]=AGENCIA 02
+
+[PathRec2]=c:\tmp
+[NoRec2]=AGENCIA 03
+
+[PathRec3]=c:\tmp
+[NoRec3]=AGENCIA 04
+
+[PathRec4]=c:\tmp
+[NoRec4]=AGENCIA 05
+
+[PathRec5]=c:\tmp
+[NoRec5]=AGENCIA 06
+
+[PathRec6]=c:\tmp
+[NoRec6]=AGENCIA 07
+
+[PathRec7]=c:\tmp
+[NoRec7]=AGENCIA 08
+
+[PathRec8]=c:\tmp
+[NoRec8]=AGENCIA 09
+
+[PathRec9]=c:\tmp
+[NoRec9]=AGENCIA 10
+
+; Agencia a asumir al ingresar al sistema. Al no especificarla (dejar en blanco)
+; se pedir  al usuario seleccionarla de una lista.
+[AgeIni]=
+
+
+; Agencias
+;======================
+[Ag]=inicio
+[Agencia]=AGENCIAS
+[AgeDir]=
+[AgeTel]=
+[AgePcioBase]=1
+[Ag]=fin
+;======================
+[Ag]=inicio
+[Agencia]=ADMINISTRACION
+[AgeDir]=
+[AgeTel]=
+[AgePcioBase]=2
+[Ag]=fin
+;======================
+[Ag]=inicio
+[Agencia]=ORGANISMOS OFICIALES
+[AgeDir]=
+[AgeTel]=
+[AgePcioBase]=3
+[Ag]=fin
+;======================
+
+
+
+; IMPORTANTE: La cantidad de literales depende exclusivamente del
+; n£mero de agencias.
+
+
+; fin de archivo
+
+

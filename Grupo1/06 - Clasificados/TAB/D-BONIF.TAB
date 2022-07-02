@@ -1,0 +1,24 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE DIAS BONIFICADOS			      ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.31 o superior   ;
+;									      ;
+;-----------------------------------------------------------------------------;
+
+
+;	+-----------------------+
+;	|	Tabla (1)	|
+;	+-----------------------+
+
+[Db]=inicio
+[DbRel]= 001             ; N£mero de relaci¢n con los subrubros
+
+Desde [DbDe]= 001   d¡as Hasta [DbA]= 999   d¡as, bonificar [DbBon]= 002   d¡as
+
+[Db]=fin
+
+
+
+; fin de archivo
+

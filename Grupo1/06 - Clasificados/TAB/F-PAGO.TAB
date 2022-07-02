@@ -1,0 +1,103 @@
+;-----------------------------------------------------------------------------;
+;                                                                             ;
+;       TABLA DE CONFIGURACION DE FORMAS DE PAGO                              ;
+;                                                                             ;
+;               Sistema de Avisos Clasificados - SDCLASS V. 1.50 o superior   ;
+;                                                                             ;
+;-----------------------------------------------------------------------------;
+;       +-------------------------------+
+;       |       Forma de Pago (1)       |
+;       +-------------------------------+
+; [LA]=64
+
+[Fp]=inicio
+[FpNom]=01 CONTADO
+;       Importe o porcentaje
+[FpPcioBase]=0
+;       Flag (A Cobrar, A Credito = 1  // Cobrado en la Captura = 0)
+[FpACob]=0
+	Numeraci¢n
+[FpActNum]=si
+[FpNumero]=00023866
+[FpRangoInf]=1
+[FpRangoSup]=99999999
+;       Recibos
+[FpLPT]=0                 ; printer 1 / 2 / 3 (0 printer default)
+[FpReciboAlta]=2
+; 0 no emite recibo por alta
+; 1 emite recibo, pide confirmaci¢n
+; 2 emite recibo y no pide confirmaci¢n
+[FpRecAltaNom]=s:\tab\contado.rec
+[FpReciboModi]=0
+; 0 no emite recibo por modificaci¢n
+; 1 emite recibo, pide confirmaci¢n
+; 2 emite recibo y no pide confirmaci¢n
+[FpRecModiNom]=s:\tab\contado.rec
+[Fp]=fin
+
+;       +-------------------------------+
+;       |       Forma de Pago (2)       |
+;       +-------------------------------+
+; [LA]=64
+
+[Fp]=inicio
+[FpNom]=02 CTA.CTE.
+;       Importe o porcentaje
+[FpPcioBase]=1
+;       Flag (A Cobrar, A Credito = 1  // Cobrado en la Captura = 0)
+[FpACob]=0
+	Numeraci¢n
+[FpActNum]=no
+[FpNumero]=0
+[FpRangoInf]=1
+[FpRangoSup]=999999
+;       Recibos
+[FpLPT]=0                 ; printer 1 / 2 / 3 (0 printer default)
+[FpReciboAlta]=0
+; 0 no emite recibo por alta
+; 1 emite recibo, pide confirmaci¢n
+; 2 emite recibo y no pide confirmaci¢n
+[FpRecAltaNom]=s:\tab\cta-cte.rec
+[FpReciboModi]=0
+; 0 no emite recibo por modificaci¢n
+; 1 emite recibo, pide confirmaci¢n
+; 2 emite recibo y no pide confirmaci¢n
+[FpRecModiNom]=s:\tab\cta-cte.rec
+[Fp]=fin
+
+;       +-------------------------------+
+;       |       Forma de Pago (3)       |
+;       +-------------------------------+
+; [LA]=64
+
+[Fp]=inicio
+[FpNom]=SIN CARGO
+;       Importe o porcentaje
+[FpPcioBase]=2
+;       Flag (A Cobrar, A Credito = 1  // Cobrado en la Captura = 0)
+[FpACob]=0
+	Numeraci¢n
+[FpActNum]=no
+[FpNumero]=0
+[FpRangoInf]=1
+[FpRangoSup]=999999
+;       Recibos
+[FpLPT]=0                 ; printer 1 / 2 / 3 (0 printer default)
+[FpReciboAlta]=0
+; 0 no emite recibo por alta
+; 1 emite recibo, pide confirmaci¢n
+; 2 emite recibo y no pide confirmaci¢n
+[FpRecAltaNom]=s:\tab\sincargo.rec
+[FpReciboModi]=0
+; 0 no emite recibo por modificaci¢n
+; 1 emite recibo, pide confirmaci¢n
+; 2 emite recibo y no pide confirmaci¢n
+[FpRecModiNom]=s:\tab\sincargo.rec
+[Fp]=fin
+
+
+
+; fin de archivo       [EOF]=   
+
+
+

@@ -1,0 +1,898 @@
+;-----------------------------------------------------------------------------;
+;                                                                             ;
+;       TABLA DE CONFIGURACION DE USUARIOS                                    ;
+;                                                                             ;
+;               Sistema de Avisos Clasificados - SDCLASS V. 1.31 (o superior) ;
+;                                                                             ;
+;-----------------------------------------------------------------------------;
+
+
+;       +-----------------------+
+;       |       Usuario (1)     |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=SILVINA              ; 20 car cteres m x.
+[UsCla]=DEMO                     ; 15 car cteres m x.
+[UsCat]=1                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=1                       ; reservado
+[UsFlag09]=1                       ; reservado
+[UsFlag10]=1                       ; reservado
+[UsFlag11]=1                       ; reservado
+[UsFlag12]=1                       ; reservado
+[UsFlag13]=1                       ; reservado
+[UsFlag14]=1                       ; reservado
+[UsFlag15]=1                       ; reservado
+[Us]=fin
+
+
+
+;       +-----------------------+
+;       |       Usuario (2)     |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=silvina               ; 20 car cteres m x.
+[UsCla]=demo                     ; 15 car cteres m x.
+[UsCat]=1                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=1                       ; reservado
+[UsFlag09]=1                       ; reservado
+[UsFlag10]=1                       ; reservado
+[UsFlag11]=1                       ; reservado
+[UsFlag12]=1                       ; reservado
+[UsFlag13]=1                       ; reservado
+[UsFlag14]=1                       ; reservado
+[UsFlag15]=1                       ; reservado
+[Us]=fin
+
+
+;       +-----------------------+
+;       |       Usuario (3)     |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=KARINA               ; 20 car cteres m x.
+[UsCla]=MARCHETTI                ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+
+;       +-----------------------+
+;       |       Usuario (4)     |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=karina                ; 20 car cteres m x.
+[UsCla]=marchetti                ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+;       +-----------------------+
+;       |       Usuario (5)     |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=NANCY                ; 20 car cteres m x.
+[UsCla]=SELLERA                  ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+
+;       +-----------------------+
+;       |       Usuario (6)     |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=nancy                 ; 20 car cteres m x.
+[UsCla]=sellera                  ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+;       +-----------------------+
+;       |       Usuario (7)     |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=ANDREA               ; 20 car cteres m x.
+[UsCla]=IOZZI                    ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+
+;       +-----------------------+
+;       |       Usuario (8)     |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=andrea                ; 20 car cteres m x.
+[UsCla]=iozzi                    ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+;       +-----------------------+
+;       |       Usuario (9)     |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=ADRIANA              ; 20 car cteres m x.
+[UsCla]=ANDRADA                  ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+
+;       +-----------------------+
+;       |       Usuario (10)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=adriana               ; 20 car cteres m x.
+[UsCla]=andrada                  ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+;       +-----------------------+
+;       |       Usuario (11)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=SILVANA              ; 20 car cteres m x.
+[UsCla]=ALBISU                   ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+
+;       +-----------------------+
+;       |       Usuario (12)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=silvana               ; 20 car cteres m x.
+[UsCla]=albisu                   ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+;       +-----------------------+
+;       |       Usuario (13)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=WALTER               ; 20 car cteres m x.
+[UsCla]=IBANEZ                   ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+
+;       +-----------------------+
+;       |       Usuario (14)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=walter                ; 20 car cteres m x.
+[UsCla]=ibanez                   ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+;       +-----------------------+
+;       |       Usuario (15)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=ELENA                ; 20 car cteres m x.
+[UsCla]=LEDESMA                  ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+
+;       +-----------------------+
+;       |       Usuario (16)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=elena                 ; 20 car cteres m x.
+[UsCla]=ledesma                  ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+;       +-----------------------+
+;       |       Usuario (17)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=INES                 ; 20 car cteres m x.
+[UsCla]=BENEITEZ                 ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+
+;       +-----------------------+
+;       |       Usuario (18)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=ines                  ; 20 car cteres m x.
+[UsCla]=beneitez                 ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+;       +-----------------------+
+;       |       Usuario (19)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=PABLO                ; 20 car cteres m x.
+[UsCla]=PILLADO                  ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+
+;       +-----------------------+
+;       |       Usuario (20)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=pablo                 ; 20 car cteres m x.
+[UsCla]=pillado                  ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+;       +-----------------------+
+;       |       Usuario (21)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=ELENA                ; 20 car cteres m x.
+[UsCla]=LENCINA                  ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+
+;       +-----------------------+
+;       |       Usuario (22)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=elena                 ; 20 car cteres m x.
+[UsCla]=lencina                  ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+;       +-----------------------+
+;       |       Usuario (23)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=INES                 ; 20 car cteres m x.
+[UsCla]=BENEITEZ                 ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+
+;       +-----------------------+
+;       |       Usuario (24)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=ines                  ; 20 car cteres m x.
+[UsCla]=beneitez                 ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+;       +-----------------------+
+;       |       Usuario (25)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=EDUARDO              ; 20 car cteres m x.
+[UsCla]=ARIAS                    ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+
+;       +-----------------------+
+;       |       Usuario (26)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=eduardo               ; 20 car cteres m x.
+[UsCla]=arias                    ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+;       +-----------------------+
+;       |       Usuario (27)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=MARCELO              ; 20 car cteres m x.
+[UsCla]=CRISTOBAL                ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+
+;       +-----------------------+
+;       |       Usuario (28)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=marcelo               ; 20 car cteres m x.
+[UsCla]=cristobal                ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+;       +-----------------------+
+;       |       Usuario (29)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=ALICIA               ; 20 car cteres m x.
+[UsCla]=MIRANDA                  ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+
+;       +-----------------------+
+;       |       Usuario (30)    |
+;       +-----------------------+
+
+[Us]=inicio
+[UsNom]=alicia                ; 20 car cteres m x.
+[UsCla]=miranda                  ; 15 car cteres m x.
+[UsCat]=3                    ; 1 instalador   2 supervisor   3 operador
+
+; Seteo de Accesos  ( 1 acceso/habilitaci¢n  0 sin acceso/no habilitado )
+[UsFlag00]=1                       ; bajas de avisos
+[UsFlag01]=1                       ; modificaciones de avisos
+[UsFlag02]=1                       ; descuento externo (ALT D)
+[UsFlag03]=1                       ; recargo externo (ALT R)
+[UsFlag04]=1                       ; precio total externo (ALT P)
+[UsFlag05]=1                       ; codici¢n especial 1 (ALT E)
+[UsFlag06]=1                       ; impuesto externo (ALT I)
+[UsFlag07]=1                       ; re-impresi¢n recibo (ALT F)
+[UsFlag08]=0                       ; reservado
+[UsFlag09]=0                       ; reservado
+[UsFlag10]=0                       ; reservado
+[UsFlag11]=0                       ; reservado
+[UsFlag12]=0                       ; reservado
+[UsFlag13]=0                       ; reservado
+[UsFlag14]=0                       ; reservado
+[UsFlag15]=0                       ; reservado
+[Us]=fin
+
+
+
+
+
+; fin de archivo

@@ -1,0 +1,53 @@
+[1]
+
+
+[ESP(56)][FECHA]
+
+
+
+
+
+[ESP(08)][CLI_NOM][ESP(24)][0][RUB][1]
+[ESP(08)][CLI_DIR]
+
+[ESP(08)][CLI_IVA][ESP(018)][CLI_CUIT][ESP(001)][C_D]
+
+[ESP(15)]Contado
+
+
+
+       [TXT(01)]
+       [TXT(02)]
+       [TXT(03)]
+       [TXT(04)]
+       [TXT(05)]
+       [TXT(06)]
+       [TXT(07)]
+       [TXT(08)]
+       [TXT(09)]
+       [TXT(10)]
+       [TXT(11)]
+       [TXT(12)]
+       [TXT(13)]
+       [TXT(14)]
+
+
+
+
+
+   N£mero de aviso: [NRO_A]  A publicar:[DIA_P(01)] [DIA_P(02)] [DIA_P(03)]
+
+
+[ESP(51)][C_L_REA][ESP(08)][PCIO_TOTAL]
+[DIA_P(01)] [DIA_P(02)] [DIA_P(03)] [DIA_P(04)] [DIA_P(05)]
+[DIA_P(06)] [DIA_P(07)] [DIA_P(08)] [DIA_P(09)] [DIA_P(10)]
+[DIA_P(11)] [DIA_P(12)] [DIA_P(13)] [DIA_P(14)] [DIA_P(15)]
+[DIA_P(16)] [DIA_P(17)] [DIA_P(18)] [DIA_P(19)] [DIA_P(20)]
+
+[ESP(65)][PCIO_TOTAL]
+
+
+
+
+
+[6]

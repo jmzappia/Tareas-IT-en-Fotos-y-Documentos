@@ -1,0 +1,198 @@
+Return-path: <carlosbisignano@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Thu, 28 Apr 2011 16:41:46 -0300
+Received: from [209.85.214.171] (helo=mail-iw0-f171.google.com)
+	by launio.launion.com.ar with esmtp (Exim 4.63)
+	(envelope-from <carlosbisignano@gmail.com>)
+	id 1QFX5t-0006N6-IK
+	for informatica@launion.com.ar; Thu, 28 Apr 2011 16:41:46 -0300
+Received: by iwn8 with SMTP id 8so3912639iwn.16
+        for <informatica@launion.com.ar>; Thu, 28 Apr 2011 12:41:42 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:cc:content-type;
+        bh=MVtmhctWsgAN9RD7yY93vUKfp86YZH71Oq0V2zERqSM=;
+        b=rTD6UChr3FxeyfESlfNJgshQJFXL8+Umjb8C70Ue/wlCOzpXqRsfT7ArbhKFDIARP+
+         0IfVWZIOFXcn6dAK9jJxKLuwMIrn+NE1m9NVA5oMOMaLvt4xgYnepZN7Md50wHpWockX
+         9fRpAp1OkqvASavRA3Y5pVWPcTQMyjifuuXUc=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        b=e+z2GpYGSgbaY9tgGtNGR73hg2GJVxv7+5A80mzRikFYtvBU0BB2M2pNK09gNNiunW
+         DvtNPqB23li8g3oNZ0t6zQHn85YeVMKEnI7oYo3dbUfAkuAdrYzkpRQOXs8KQyJgneY/
+         RhVJnMdShgbbRGl1j5dbS/sAia49uqKwUhwK8=
+MIME-Version: 1.0
+Received: by 10.231.25.94 with SMTP id y30mr3095697ibb.61.1304019702310; Thu,
+ 28 Apr 2011 12:41:42 -0700 (PDT)
+Received: by 10.231.65.80 with HTTP; Thu, 28 Apr 2011 12:41:42 -0700 (PDT)
+In-Reply-To: <000f01cc05da$30c30b80$b1b433be@aries071>
+References: <BANLkTimjvSRxzWG7tw2fj6qUrjSKL4ZbnQ@mail.gmail.com>
+	<000f01cc05da$30c30b80$b1b433be@aries071>
+Date: Thu, 28 Apr 2011 16:41:42 -0300
+Message-ID: <BANLkTikQVjXC_PRM84GJHJncPJKpA9WKEQ@mail.gmail.com>
+Subject: Re: Mail
+From: Carlos Bisignano Burgos <carlosbisignano@gmail.com>
+To: =?ISO-8859-1?Q?Inform=E1tica_LA_UNION?= <informatica@launion.com.ar>
+Cc: =?ISO-8859-1?Q?Mart=EDn_Vi=F1uales?= <vinuales@hotmail.com>
+Content-Type: multipart/alternative; boundary=0015177405fe22e93904a1ffbf4d
+X-Spam-Score: 4.9
+X-Spam-Score-Int: 49
+X-Spam-Bar: ++++
+X-Spam-Report: Spam detection software, running on the system "launio.launion.com.ar", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Martín, te pido que le pases el error a Julian, a fin de solucionar
+	los inconvenientes. Saludos. El 28 de abril de 2011 16:26, Informática LA
+	UNION < informatica@launion.com.ar> escribió: [...] 
+	Content analysis details:   (4.9 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	2.4 DNS_FROM_OPENWHOIS     RBL: Envelope sender listed in bl.open-whois.org.
+	3.4 FH_DATE_PAST_20XX      The date is grossly in the future.
+	0.0 HTML_MESSAGE           BODY: HTML included in message
+	-1.0 RCVD_IN_DNSWL_LOW      RBL: Sender listed at http://www.dnswl.org/, low
+	trust
+	[209.85.214.171 listed in list.dnswl.org]
+	0.1 RDNS_NONE              Delivered to trusted network by a host with no rDNS
+X-Antivirus: AVG for E-mail 10.0.1209 [1500/3603]
+X-AVG-ID: ID698AC08B-6555CBBE
+
+--0015177405fe22e93904a1ffbf4d
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Mart=EDn, te pido que le pases el error a Julian, a fin de solucionar los
+inconvenientes.
+
+Saludos.
+
+El 28 de abril de 2011 16:26, Inform=E1tica LA UNION <
+informatica=40launion.com.ar> escribi=F3:
+
+>  Carlos:
+>
+> Por favor, remitime en detalle el error que est=E1 produciendo el env=EDo=
+
+> masivo de correos, e indicame si son errores temporarios o constantes.
+>
+> Saludos
+>
+> Juli=E1n Marcelo Zappia
+> Analista de Sistemas
+> Diario LA UNION S.A.
+>
+>
+> ----- Original Message -----
+> *From:* Carlos Bisignano Burgos <carlosbisignano=40gmail.com>
+> *To:* Inform=E1tica - LA UNION <informatica=40launion.com.ar>
+> *Cc:* Mart=EDn Vi=F1uales <vinuales=40hotmail.com>
+> *Sent:* Thursday, April 28, 2011 1:48 PM
+> *Subject:* Mail
+>
+> Julian, no me puedo comunicar telefonicamente con vos.
+> Me informan que est=E1 dando error el env=EDo de mails con el servidor que=
+
+> pasaste la otra vez, para enviar newsletters.
+> Te pido por favor que te comuniques urgente conmigo o con Mart=EDn Vi=F1ua=
+les (
+> vinuales=40hotmail.com)
+>
+> Gracias.
+>
+> --
+> Carlos Bisignano Burgos
+> carlosbisignano=40gmail.com
+>
+>
+
+
+-- 
+Carlos Bisignano Burgos
+carlosbisignano=40gmail.com
+
+
+
+-----
+Se certific=F3 que el correo no contiene virus.
+Comprobada por AVG - www.avg.es
+Versi=F3n: 10.0.1209 / Base de datos de virus: 1500/3603 - Fecha de la versi=
+=F3n: 28/04/2011
+
+--0015177405fe22e93904a1ffbf4d
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Mart=EDn, te pido que le pases el error a Julian, a fin de solucionar los in=
+convenientes.<br><br>Saludos.<br><br><div class=3D=22gmail_quote=22>El 28 de=
+ abril de 2011 16:26, Inform=E1tica LA UNION <span dir=3D=22ltr=22>&lt;<a hr=
+ef=3D=22mailto:informatica=40launion.com.ar=22>informatica=40launion.com.ar<=
+/a>&gt;</span> escribi=F3:<br>
+<blockquote class=3D=22gmail_quote=22 style=3D=22margin:0 0 0 .8ex;border-le=
+ft:1px =23ccc solid;padding-left:1ex;=22>
+
+
+
+
+
+<div bgcolor=3D=22=23ffffff=22>
+<div><font face=3D=22Arial=22 size=3D=222=22>Carlos:</font></div>
+<div><font face=3D=22Arial=22 size=3D=222=22></font>=A0</div>
+<div><font face=3D=22Arial=22 size=3D=222=22>Por favor, remitime en detalle =
+el error que est=E1 
+produciendo el env=EDo masivo de correos,=A0e indicame si son errores 
+temporarios o constantes.</font></div>
+<div><font face=3D=22Arial=22 size=3D=222=22></font>=A0</div>
+<div><font face=3D=22Arial=22 size=3D=222=22>Saludos</font></div>
+<div><font face=3D=22Arial=22 size=3D=222=22></font>=A0</div>
+<div align=3D=22center=22><font face=3D=22Arial=22 size=3D=222=22>Juli=E1n M=
+arcelo Zappia</font></div>
+<div align=3D=22center=22><font face=3D=22Arial=22 size=3D=222=22>Analista d=
+e Sistemas</font></div>
+<div align=3D=22center=22><font face=3D=22Arial=22 size=3D=222=22>Diario LA =
+UNION S.A.</font></div><div><div></div><div class=3D=22h5=22>
+<div><font face=3D=22Arial=22 size=3D=222=22></font>=A0</div>
+<blockquote style=3D=22padding-right:0px;padding-left:5px;margin-left:5px;bo=
+rder-left:=23000000 2px solid;margin-right:0px=22>
+  <div style=3D=22font:10pt arial=22>----- Original Message ----- </div>
+  <div style=3D=22background:=23e4e4e4;font:10pt arial=22><b>From:</b> 
+  <a title=3D=22carlosbisignano=40gmail.com=22 href=3D=22mailto:carlosbisign=
+ano=40gmail.com=22 target=3D=22_blank=22>Carlos Bisignano Burgos</a> </div>=
+
+  <div style=3D=22font:10pt arial=22><b>To:</b> <a title=3D=22informatica=40=
+launion..com.ar=22 href=3D=22mailto:informatica=40launion.com.ar=22 target=
+=3D=22_blank=22>Inform=E1tica - LA UNION</a> </div>
+  <div style=3D=22font:10pt arial=22><b>Cc:</b> <a title=3D=22vinuales=40hot=
+mail.com=22 href=3D=22mailto:vinuales=40hotmail.com=22 target=3D=22_blank=22=
+>Mart=EDn Vi=F1uales</a> </div>
+  <div style=3D=22font:10pt arial=22><b>Sent:</b> Thursday, April 28, 2011 1=
+:48 
+  PM</div>
+  <div style=3D=22font:10pt arial=22><b>Subject:</b> Mail</div>
+  <div><br></div>Julian, no me puedo comunicar telefonicamente con vos.<br>M=
+e 
+  informan que est=E1 dando error el env=EDo de mails con el servidor que pa=
+saste la 
+  otra vez, para enviar newsletters.<br>Te pido por favor que te comuniques =
+
+  urgente conmigo o con Mart=EDn Vi=F1uales (<a href=3D=22mailto:vinuales=40=
+hotmail.com=22 target=3D=22_blank=22>vinuales=40hotmail.com</a>)<br><br>Grac=
+ias.<br clear=3D=22all=22><br>-- <br>Carlos Bisignano Burgos<br><a href=3D=
+=22mailto:carlosbisignano=40gmail.com=22 target=3D=22_blank=22>carlosbisigna=
+no=40gmail.com</a><br>
+<br></blockquote></div></div></div>
+</blockquote></div><br><br clear=3D=22all=22><br>-- <br>Carlos Bisignano Bur=
+gos<br><a href=3D=22mailto:carlosbisignano=40gmail.com=22>carlosbisignano=40=
+gmail.com</a><br><br>
+
+<br /><hr /><hr noshade=3D=22noshade=22 size=3D=221=22><p class=3D=22avgcert=
+=22 align=3D=22left=22 color=3D=22=23000000=22>Se certific&=23243; que el co=
+rreo no contiene virus.<br>
+Comprobada por AVG - <a href=3D'http://www.avg.es'>www.avg.es</a><br>
+Versi&=23243;n: 10.0.1209 / Base de datos de virus: 1500/3603 - Fecha de la =
+versi&=23243;n: 28/04/2011</p>
+--0015177405fe22e93904a1ffbf4d--
+

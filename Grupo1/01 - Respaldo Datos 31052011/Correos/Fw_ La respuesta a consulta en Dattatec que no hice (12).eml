@@ -1,0 +1,356 @@
+Return-path: <informatica@launion.com.ar>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Wed, 06 Apr 2011 16:26:58 -0300
+Received: from [190.175.204.213] (helo=aries071)
+	by launio.launion.com.ar with esmtpa (Exim 4.63)
+	(envelope-from <informatica@launion.com.ar>)
+	id 1Q7YNV-0006sI-8v
+	for informatica@launion.com.ar; Wed, 06 Apr 2011 16:26:58 -0300
+Message-ID: <004501cbf48f$9794c080$bc9f33be@aries071>
+Reply-To: =?utf-8?Q?Inform=C3=A1tica_LA_UNION?= <informatica@launion.com.ar>
+From: =?utf-8?Q?Inform=C3=A1tica_LA_UNION?= <informatica@launion.com.ar>
+To: <informatica@launion.com.ar>
+Subject: Fw: La respuesta a consulta en Dattatec que no hice
+Date: Wed, 6 Apr 2011 16:19:44 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0042_01CBF476.708258E0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-Spam-Score: 4.4
+X-Spam-Score-Int: 44
+X-Spam-Bar: ++++
+X-Spam-Report: Spam detection software, running on the system "launio.launion.com.ar", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  ----- Original Message ----- From: Lic. N. Adrian Ruetalo
+	Soria To: Informática - LA UNION Sent: Wednesday, April 06, 2011 7:50 AM
+	Subject: Re: La respuesta a consulta en Dattatec que no hice Nunca ingrese
+	a Dattatec. [...] 
+	Content analysis details:   (4.4 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	2.4 DNS_FROM_OPENWHOIS     RBL: Envelope sender listed in bl.open-whois.org.
+	-1.4 ALL_TRUSTED            Passed through trusted hosts only via SMTP
+	3.4 FH_DATE_PAST_20XX      The date is grossly in the future.
+	0.0 HTML_MESSAGE           BODY: HTML included in message
+X-Antivirus: AVG for E-mail 10.0.1209 [1500/3555]
+X-AVG-ID: ID6B02B6B7-7385D8A
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0042_01CBF476.708258E0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+----- Original Message ----- 
+From: Lic. N. Adrian Ruetalo Soria 
+To: Inform=C3=A1tica - LA UNION 
+Sent: Wednesday, April 06, 2011 7:50 AM
+Subject: Re: La respuesta a consulta en Dattatec que no hice
+
+
+Nunca ingrese a Dattatec.
+
+Conectado por MOTOBLUR=E2=84=A2
+
+
+-----Mensaje original-----
+
+  De: =22Inform=C3=A1tica - LA UNION=22 <informatica=40launion.com.ar>
+  Para: director=40launion.com.ar, =22Lic. N. Adri=C3=A1n Ru=C3=A9talo Soria=
+=22 <adrian=40ruetalo.com>
+  Enviado: mi=C3=A9, 06 abr 2011, 04:21:02 GMT+00:00
+  Asunto: La respuesta a consulta en Dattatec que no hice
+
+
+  En estos momentos, estamos teniendo problemas de conectividad con todos lo=
+s servicios de Dattatec.
+
+  Cuando intent=C3=A9 reabrir la consulta de seguimiento, sin haber recibido=
+ notificaci=C3=B3n acerca del mail para aviso t=C3=A9cnico al WebMaster que =
+envi=C3=A9 hoy por la madrugada, me encontr=C3=A9 con una nueva consulta abi=
+erta.
+
+  No s=C3=A9 si la realizaste (porque al =C3=BAnico que comuniqu=C3=A9 todas=
+ las contrase=C3=B1as de seguridad fue a vos); ya est=C3=A1 la respuesta.
+
+  Copio los textos y pego ac=C3=A1 abajo, adem=C3=A1s de adjuntar archivo PD=
+F (el cual se lee parcialmente).
+
+  Dejo a criterio del que realiz=C3=B3 la consulta. 
+  Hoy a la madrugada me demor=C3=A9 m=C3=A1s de una hora y media por los mis=
+mos inconvenientes y pas=C3=A9 el diagn=C3=B3stico correspondiente de Dattat=
+ec, con pedido de aviso al WebMaster.
+
+
+
+no puedo visualizar la web, me sale una leyenda de Time Out, verificar, grac=
+ias=21launion2011-04-05 13:35:56Hace 9 hs   Estimado,
+
+El error ya se encuentra solucionado, el servicio de Apache se encontraba co=
+lgado por eso aparec=C3=ADa el error de =22time out=22 que reportas.
+
+Ademas he verificado tu VPS, y estoy notando que la aplicaci=C3=B3n que esta=
+s utilizando esta generando un gran consumo de =22CPU=22, podes verificar es=
+to, ingresando por SSH y ejecutando el comando: =22top=22.
+
+Como recomendaci=C3=B3n, te pido que tengas pensando en realizar un =22upgra=
+de=22 hacia un Servidor Dedicado, ya que en este tipo de planes, posees un g=
+ran =22CPU=22 donde tu sitio funcionara sin intermitencias, obteniendo un me=
+jor rendimiento que en el un VPS.
+
+Derivo tu consulta al =C3=A1rea de ventas donde un operador de dicha =C3=A1r=
+ea te brindara toda la informaci=C3=B3n correspondiente sobre planes dedicad=
+os.
+
+Quedamos a tu disposici=C3=B3n para cualquier consulta adicional.
+
+
+Gracias por comunicarte con el Departamento de Soporte T=C3=A9cnico.
+
+Saludos Cordiales.
+-----------------
+Emanuel Gonzalez.
+Soporte T=C3=A9cnico.
+Soluciones de web hosting
+Dattatec.com :: Su hosting hecho Simple ..=21 Emanuel Gonzalez05/04/2011 15:=
+10:48Hace 7 hsCalificaci=C3=B3n: N/A     Estimado Usuario:
+
+Para iniciarte en un servidor dedicado, te sugerimos hacerlo en principio co=
+n un Celeron. Como esto es un upgrade, si queda tiempo sin utilizar del plan=
+ anterior es posible reconocerlo y acreditarlo.
+
+El equipo inicial es un Intel Celeron 2.66 GHz con 512 mb de RAM, a =24412 p=
+esos mensuales. Este equipo te aclaro, permite el alojamiento de varias cuen=
+tas dentro de el y te permite disponer de un CPU propio y asignado a tu siti=
+o.
+
+Si deseas realizar la actualizacion o tenes alguna pregunta adicional, te ag=
+radezco me contactes a mi correo o bien reabras esta consulta, sera un gusto=
+ poder ayudarte. 
+
+
+Si deseara mayor informaci=C3=B3n, contactese v=C3=ADa mail a mi casilla: el=
+iana.pomponio=40dattatec.com
+ 
+Igualmente, puede canalizar sus dudas a trav=C3=A9s de la Asistencia en Line=
+a de Lunes a S=C3=A1bados de 7 a 24 (hora Argentina -3 GMT).
+
+
+Quedamos a su disposicion para cualquier consulta adicional. 
+
+Saludos Cordiales.
+ -------------
+Eliana Pomponio
+Atencion al cliente 
+Dattatec.com :: Soluciones de Hosting
+Su hosting hecho simple=21
+ 
+
+
+Buscas presencia en internet?
+Obtenela ya con todo lo que necesitas con nuestro SuperPack=21=21=21
+Dominios internacionales para proteger tu marca, Email Marketing, Constructo=
+r de
+sitio online, alta en buscadores gratis, cup=C3=B3n google adwords, aplicaci=
+ones gratuitas=21=21=21
+http://dattatec.com/site/super-pack
+ Eliana Pomponio05/04/2011 15:37:18Hace 7 hsCalificaci=C3=B3n: N/A
+
+
+-----
+Se certific=C3=B3 que el correo no contiene virus.
+Comprobada por AVG - www.avg.es
+Versi=C3=B3n: 10.0.1209 / Base de datos de virus: 1500/3555 - Fecha de la ve=
+rsi=C3=B3n: 06/04/2011
+
+------=_NextPart_000_0042_01CBF476.708258E0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=EF=BB=BF<=21DOCTYPE HTML PUBLIC =22-//W3C//DTD HTML 4.0 Transitional//EN=22=
+>
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D=22text/html; charset=3Dutf-8=22>=
+
+<STYLE type=3Dtext/css>BODY =7B
+	BACKGROUND-COLOR: =23ffffff; WORD-WRAP: break-word
+=7D
+</STYLE>
+
+<META content=3D=22MSHTML 6.00.2800.1491=22 name=3DGENERATOR></HEAD>
+<BODY bgColor=3D=23ffffff>
+<DIV>&nbsp;</DIV>
+<DIV style=3D=22FONT: 10pt arial=22>----- Original Message ----- 
+<DIV style=3D=22BACKGROUND: =23e4e4e4; font-color: black=22><B>From:</B> <A =
+
+title=3Dadrian=40ruetalo.com href=3D=22mailto:adrian=40ruetalo.com=22>Lic. N=
+=2E Adrian Ruetalo 
+Soria</A> </DIV>
+<DIV><B>To:</B> <A title=3Dinformatica=40launion.com.ar 
+href=3D=22mailto:informatica=40launion.com.ar=22>Inform=C3=A1tica - LA UNION=
+</A> </DIV>
+<DIV><B>Sent:</B> Wednesday, April 06, 2011 7:50 AM</DIV>
+<DIV><B>Subject:</B> Re: La respuesta a consulta en Dattatec que no 
+hice</DIV></DIV>
+<DIV><BR></DIV>
+<DIV style=3D=22FONT-SIZE: 16px; FONT-FAMILY: sans-serif=22>Nunca ingrese a =
+
+Dattatec.<BR><BR><FONT color=3D=23333333><I><SPAN style=3D=22FONT-SIZE: 14px=
+=22><FONT 
+face=3Dsans-serif>Conectado por 
+MOTOBLUR=E2=84=A2</FONT></SPAN></I></FONT></DIV><BR><BR>-----Mensaje origina=
+l-----<BR>
+<BLOCKQUOTE 
+style=3D=22PADDING-LEFT: 5px; MARGIN-LEFT: 5px; BORDER-LEFT: rgb(16,16,255) =
+2px solid=22>
+  <DIV style=3D=22FONT-SIZE: 14px; FONT-FAMILY: sans-serif=22><B>De: </B>=22=
+Inform=C3=A1tica 
+  - LA UNION=22 &lt;<A 
+  href=3D=22mailto:informatica=40launion.com.ar=22>informatica=40launion.com=
+=2Ear</A>&gt;<B><BR>Para: 
+  </B><A href=3D=22mailto:director=40launion.com.ar=22>director=40launion.co=
+m.ar</A>, 
+  =22Lic. N. Adri=C3=A1n Ru=C3=A9talo Soria=22 &lt;<A 
+  href=3D=22mailto:adrian=40ruetalo.com=22>adrian=40ruetalo.com</A>&gt;<B><B=
+R>Enviado: 
+  </B>mi=C3=A9, 06 abr 2011, 04:21:02 GMT+00:00<B><BR>Asunto: </B>La respues=
+ta a 
+  consulta en Dattatec que no hice<BR><BR></DIV>
+  <DIV>
+  <META content=3D=22MSHTML 8.00.6001.18928=22 name=3DGENERATOR>
+  <STYLE></STYLE>
+
+  <DIV bgColor=3D=22=23ffffff=22>
+  <DIV><FONT face=3DArial size=3D2>En estos momentos, estamos teniendo probl=
+emas de 
+  conectividad con todos los servicios de Dattatec.</FONT></DIV>
+  <DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3DArial size=3D2>Cuando intent=C3=A9 reabrir la consulta d=
+e 
+  seguimiento, sin haber recibido notificaci=C3=B3n acerca del mail para avi=
+so 
+  t=C3=A9cnico al WebMaster que envi=C3=A9 hoy por la madrugada, me encontr=
+=C3=A9 con una nueva 
+  consulta abierta.</FONT></DIV>
+  <DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3DArial size=3D2>No s=C3=A9 si la realizaste (porque al =
+=C3=BAnico que 
+  comuniqu=C3=A9 todas las contrase=C3=B1as de seguridad fue a vos);&nbsp;ya=
+ est=C3=A1 la 
+  respuesta.</FONT></DIV>
+  <DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3DArial size=3D2>Copio los textos y pego ac=C3=A1 abajo, a=
+dem=C3=A1s de 
+  adjuntar archivo PDF (el cual se lee parcialmente).</FONT></DIV>
+  <DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3DArial size=3D2>Dejo a criterio del que realiz=C3=B3 la c=
+onsulta. 
+  </FONT></DIV>
+  <DIV><FONT face=3DArial size=3D2>Hoy a la madrugada me demor=C3=A9 m=C3=A1=
+s de una hora y 
+  media por los mismos inconvenientes y pas=C3=A9 el diagn=C3=B3stico corres=
+pondiente de 
+  Dattatec, con pedido de aviso al WebMaster.</FONT></DIV>
+  <DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3DArial size=3D2></FONT>&nbsp;</DIV>
+  <DIV><PRE>no puedo visualizar la web, me sale una leyenda de Time Out, ver=
+ificar, gracias=21</PRE><PRE><P><STRONG>launion</STRONG><BR><STRONG>2011-04-=
+05 13:35:56</STRONG><BR><SPAN>Hace 9 hs</SPAN></P><P><SPAN><FONT face=3DAria=
+l size=3D2></FONT></SPAN>&nbsp;</P><P><SPAN><FONT face=3DArial size=3D2></FO=
+NT></SPAN>&nbsp;</P><P><SPAN><FONT face=3DArial size=3D2></FONT></SPAN>&nbsp=
+;</P><SPAN><PRE>Estimado,
+
+El error ya se encuentra solucionado, el servicio de Apache se encontraba co=
+lgado por eso aparec=C3=ADa el error de =22time out=22 que reportas.
+
+Ademas he verificado tu VPS, y estoy notando que la aplicaci=C3=B3n que esta=
+s utilizando esta generando un gran consumo de =22CPU=22, podes verificar es=
+to, ingresando por SSH y ejecutando el comando: =22top=22.
+
+Como recomendaci=C3=B3n, te pido que tengas pensando en realizar un =22upgra=
+de=22 hacia un Servidor Dedicado, ya que en este tipo de planes, posees un g=
+ran =22CPU=22 donde tu sitio funcionara sin intermitencias, obteniendo un me=
+jor rendimiento que en el un VPS.
+
+Derivo tu consulta al =C3=A1rea de ventas donde un operador de dicha =C3=A1r=
+ea te brindara toda la informaci=C3=B3n correspondiente sobre planes dedicad=
+os.
+
+Quedamos a tu disposici=C3=B3n para cualquier consulta adicional.
+
+
+Gracias por comunicarte con el Departamento de Soporte T=C3=A9cnico.
+
+Saludos Cordiales.
+-----------------
+Emanuel Gonzalez.
+Soporte T=C3=A9cnico.
+Soluciones de web hosting
+Dattatec.com :: Su hosting hecho Simple ...=21</PRE><PRE>&nbsp;</PRE><PRE><P=
+><STRONG>Emanuel Gonzalez</STRONG><BR><STRONG>05/04/2011 15:10:48</STRONG><B=
+R><SPAN>Hace 7 hs</SPAN><BR><SPAN>Calificaci=C3=B3n: <STRONG>N/A</STRONG></S=
+PAN></P><P><SPAN><STRONG></STRONG></SPAN>&nbsp;</P><P><SPAN><STRONG></STRONG=
+></SPAN>&nbsp;</P><P><SPAN><STRONG></STRONG></SPAN>&nbsp;</P><P><SPAN><STRON=
+G></STRONG></SPAN>&nbsp;</P><P><SPAN><STRONG></STRONG></SPAN>&nbsp;</P><SPAN=
+><PRE>Estimado Usuario:
+
+Para iniciarte en un servidor dedicado, te sugerimos hacerlo en principio co=
+n un Celeron. Como esto es un upgrade, si queda tiempo sin utilizar del plan=
+ anterior es posible reconocerlo y acreditarlo.
+
+El equipo inicial es un Intel Celeron 2.66 GHz con 512 mb de RAM, a =24412 p=
+esos mensuales. Este equipo te aclaro, permite el alojamiento de varias cuen=
+tas dentro de el y te permite disponer de un CPU propio y asignado a tu siti=
+o.
+
+Si deseas realizar la actualizacion o tenes alguna pregunta adicional, te ag=
+radezco me contactes a mi correo o bien reabras esta consulta, sera un gusto=
+ poder ayudarte. 
+
+
+Si deseara mayor informaci=C3=B3n, contactese v=C3=ADa mail a mi casilla: el=
+iana.pomponio=40dattatec.com
+ 
+Igualmente, puede canalizar sus dudas a trav=C3=A9s de la Asistencia en Line=
+a de Lunes a S=C3=A1bados de 7 a 24 (hora Argentina -3 GMT).
+
+
+Quedamos a su disposicion para cualquier consulta adicional. 
+
+Saludos Cordiales.
+ -------------
+Eliana Pomponio
+Atencion al cliente 
+Dattatec.com :: Soluciones de Hosting
+Su hosting hecho simple=21
+ 
+
+
+Buscas presencia en internet?
+Obtenela ya con todo lo que necesitas con nuestro SuperPack=21=21=21
+Dominios internacionales para proteger tu marca, Email Marketing, Constructo=
+r de
+sitio online, alta en buscadores gratis, cup=C3=B3n google adwords, aplicaci=
+ones gratuitas=21=21=21
+http://dattatec.com/site/super-pack
+</PRE><PRE>&nbsp;</PRE><PRE><P><STRONG>Eliana Pomponio</STRONG><BR><STRONG>0=
+5/04/2011 15:37:18</STRONG><BR><SPAN>Hace 7 hs</SPAN><BR><SPAN>Calificaci=C3=
+=B3n: <STRONG>N/A</STRONG></SPAN></P></PRE></SPAN></PRE></SPAN></PRE></DIV><=
+/DIV></DIV></BLOCKQUOTE></BODY><hr noshade=3D=22noshade=22 size=3D=221=22><p=
+ class=3D=22avgcert=22 align=3D=22left=22 color=3D=22=23000000=22>Se certifi=
+c&=23243; que el correo no contiene virus.<br>
+Comprobada por AVG - <a href=3D'http://www.avg.es'>www.avg.es</a><br>
+Versi&=23243;n: 10.0.1209 / Base de datos de virus: 1500/3555 - Fecha de la =
+versi&=23243;n: 06/04/2011</p></HTML>
+
+
+------=_NextPart_000_0042_01CBF476.708258E0--
+

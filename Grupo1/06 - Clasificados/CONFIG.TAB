@@ -1,0 +1,86 @@
+;------------------------------------------------------------------------------;
+;									       ;
+;	TABLA DE CONFIGURACION DE INSTALACION				       ;
+;									       ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.49 o superior    ;
+;		Versi¢n de Software del SDCLASS: 1.57 			       ;
+;									       ;
+;------------------------------------------------------------------------------;
+; Especificaciones Generales:
+;			No renombrar y no borrar la tabla CONFIG.TAB, siempre
+; debe existir un archivo con este nombre.
+;			No borrar, no modificar, y no cambiar el orden de las 
+; palabras claves (literales). Estas son todas aquellas que se encuentran
+; encerradas entre corchetes.
+;			No usar tabuladores al editar las tablas.
+;			Todas las lineas que comiencen con punto y coma ser n
+; consideradas como comentarios, sin tener ning£n efecto sobre la configuraci¢n.
+;
+;-------------------------------------------------------------------------------
+;	 +---------------------------------+
+;	 | Caminos de Busqueda de Archivos |
+;	 +---------------------------------+
+; (m x. 40 caracteres)   [LA]=40
+
+
+[CamTAB]=S:\TAB\
+
+
+;	 +----------------------+
+;	 |	Varios		|
+;	 +----------------------+
+; Caracter de inicio y fin de textos con m s de una linea
+; Por omisi¢n el caracter es el signo de porcentaje. (no modif.)
+
+
+[CarTxt]='%'
+
+
+;	 +------------------------------+
+;	 |	Nombres de Tablas	|
+;	 +------------------------------+
+; (m x. 12 caracteres)      [LA]=14
+
+
+[TabGen]=GENERAL.TAB                    		; Tabla general
+
+[TabAge]=AGENCIA.TAB                       		; Tabla para agencias
+[TipAvi]=T-AVISO.TAB                     		; Tabla para tipos de avisos
+[TabRub]=RUBROS.TAB                      		; Tabla para rubros y sub-rubros
+[ForPag]=F-PAGO.TAB                      		; Tabla para formas de pago
+[ForPre]=FORMULAS.TAB                         		; Tabla para definir formulas para el calculo de precio
+[DiaBon]=D-BONIF.TAB                       		; Tabla para d¡as bonificados
+[TabImp]=EPSON.TAB                        		; Tabla de impresora
+
+
+	; Tablas de filtro (caracter a caracter)
+[TxtFot]=FILTRO3.TAB                         		; Tabla de filtro de texto en composicion, archivos con extension RUB
+[TxtLis]=FILTRO2.TAB                   			; Tabla de filtro de texto en la emision de listados
+[TxtRec]=FILTRO2.TAB                       		; Tabla de filtro de texto en la emision de recibos
+[OrdAvi]=FILTRO3.TAB                       		; Tabla de filtro para el ordenamiento de avisos
+[ArcFIL]=FILTRO1.TAB                      		; Tabla de filtro para generar los archivos con extension FIL a partir de los RUB
+[MulFil]=FIL-MC.TAB                     		; Tabla de filtro multic¢digo para los archivos FIL
+
+
+[TabUsu]=USERS.TAB                        		; Tabla de Configuraci¢n de Usuarios
+
+
+	;  Tablas de Mensajes
+[MsjIng]=ING.SPA                        		; Ingreso de avisos
+[MsjFot]=FOT.SPA                         		; Composici¢n
+[MsjAge]=AGE.SPA                           		; Agencia
+[MsjUpd]=UPD.SPA                          		; Update
+[MsjLis]=LIS.SPA                           		; Listados
+[MsjCli]=CLI.SPA                         		; Mantenimiento de Clientes
+[MsjCar]=CAR.SPA                           		; Cargador de Tablas
+[MsjIns]=INST.SPA                          		; Instalador (NO MODIFICAR)
+[MsjErr]=ERRORES.SPA                         		; Mensajes de Errores
+[MsjHos]=HOST.SPA                                 	; Principal
+[MsjCre]=CRE.SPA                                        ; M¢dulo de control de credito
+
+
+	; Tabla de Listados de Contabilidad
+[LisCon]=LIS-CONT.TAB
+
+; fin de archivo
+

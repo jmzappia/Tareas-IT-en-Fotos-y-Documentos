@@ -1,0 +1,749 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	CONFIGURATION TABLES FOR LISTINGS				      ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.5  (o superior) ;
+;									      ;
+;-----------------------------------------------------------------------------;
+[INI]=
+
+;-------------------------------------------------------------------------------
+;	DEFINITIONS FOR THE LISTINGS OF ADS BY RECOVERY ASST.
+;-------------------------------------------------------------------------------
+[LisRef]=1
+;	Amount of lines per pages 
+[LisCor]=57
+;	Sort by the order of
+;		1 -> n£mber of ads
+;		2 -> name of client
+;		3 -> address of client
+;		4 -> city of the  client
+;		5 -> telephone of  client
+;		6 -> code of the  client
+;		7 -> name of the recovery asst.
+;		8 -> indice especial
+;		9 -> indice especial
+[LisOrd]=7
+;	Filter by order
+;		1 -> Ads to be  assinged to the recovery asst.
+;		2 -> Ads waiting for payment with Rec. asst. just assigned
+;		3 -> Ads with debit balance 
+;		4 -> Ads with credit balance
+;		5 -> Matched Ads.
+;		6 -> 4 bases
+[LisFil]=2
+;	Printer ports
+;		0 -> default
+;		1 -> LPT1
+;		2 -> LPT2
+;		3 -> LPT3
+[LisLpt]=0
+;	String with code secuence to execute a form feed at the beginning
+[LisXCo]=%
+   SUBTOTAL ---------------------------------------------------------------------------------------------    &10.2f
+
+
+%
+[LisXTC]=%
+   TOTAL VALUES *****************************************************************************************    &10.2f
+
+%
+;	Header of the listing Page
+[LisCab]=%[8]ADS WITHOUT PAYMENT/RECOVERY ASSIST.
+Page Number: [NRO_HOJA]
+[TIT(1)]
+[9]
+[0]   =========================================================================================================================
+   INVOICE#  INVOICE DATE   RECOVERY ASSISTANT   CUSTOMER NAME     CUSTOMER ADDRESS    TELEPHONE #                PRICE
+   =========================================================================================================================
+%
+;	Footer of the listing page
+;	(Should be less than 200 characters)
+[LisPie]=%
+Listing of Ads without payment by Recovery Assistant
+Requested on [FECHA] at [HORA]                                                                           KHALEEJ TIMES
+[1][7]%
+;
+;
+;	DATA COLUMNS DEFINITIONS
+;	(dO NOT EXIST LIMIT in the amount of columns)
+;	Column 1
+;	Name of the Fiels to print
+[ColDat]=NRO_AVISO
+;	Type of Information to print
+;		C -> character (enable with control field)
+;		N -> numeric ( the with of the field to print is fixed )
+[ColTip]=N
+;	With Control Field ( amount of character to print )
+[ColAnc]=10
+;	Amount of Blanc Spaces ( indent ) before the column, left margin
+[ColTab]=0
+;
+;	Column 1.5
+[ColDat]=FECHA_CAP
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 2
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=4
+;	Column 4
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=6
+;	Column 4
+[ColDat]=CITY_CLI
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=4
+;	Column 4
+[ColDat]=TELE_CLI
+[ColTip]=C
+[ColAnc]=20
+[ColTab]=4
+;	Column 5
+[ColDat]=PRECIO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+
+;-------------------------------------------------------------------------------
+; DEFINITION FOR THE LISTING OF MATCHED ADS
+;-------------------------------------------------------------------------------
+[LisRef]=2
+[LisCor]=57
+[LisOrd]=7
+[LisFil]=5
+[LisLpt]=1
+[LisXCo]=%
+   SUBTOTAL -------------------------------------------------------------------------------------    &10.2f  &10.2f
+   ------------------------------------------------------------------------------------------    PARCIAL BALANCE:&10.2f
+
+%
+[LisXTC]=%
+   TOTAL VALUES *********************************************************************************    &10.2f  &10.2f
+   ********************************************************************************************    TOTAL BALANCE:&10.2f
+%
+[LisCab]=%[8]              MATCHED ADS
+Page number: [NRO_HOJA]
+[TIT(2)]
+[9]
+[0]   =========================================================================================================================
+   INVOICE#  INVOICE DATE     RECEIPT#  RECEIPT DATE        RECOVERY ASSISTANT      CUSTOMER NAME         PRICE      PAYMENT
+   =========================================================================================================================
+%
+[LisPie]=%
+Listing of Matched Ads
+Requested on [FECHA] at [HORA]                                                                           KHALEEJ TIMES
+[1][7]%
+;	Column 1
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 1.5
+[ColDat]=FECHA_CAP
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 2
+[ColDat]=NRO_PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 2.5
+[ColDat]=FECHA_PAGO
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 3
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=9
+;	Column 4
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=9
+;	Column 5
+[ColDat]=PRECIO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 6
+[ColDat]=PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+
+;-------------------------------------------------------------------------------
+;	DEFINITION FOR THE LISTING OF THE DEBIT BALANCE ADS 
+;-------------------------------------------------------------------------------
+[LisRef]=3
+[LisCor]=57
+[LisOrd]=7
+[LisFil]=3
+[LisLpt]=1
+[LisXCo]=%
+   SUBTOTAL -------------------------------------------------------------------------------------    &10.2f  &10.2f
+   ------------------------------------------------------------------------------------------    PARCIAL BALANCE:&10.2f
+
+%
+[LisXTC]=%
+   TOTAL VALUES *********************************************************************************    &10.2f  &10.2f
+   ********************************************************************************************    TOTAL BALANCE:&10.2f
+%
+[LisCab]=%[8]         ADS WITH DEBIT BALANCE
+Page number: [NRO_HOJA]
+[TIT(3)]
+[9]
+[0]   =========================================================================================================================
+   INVOICE#  INVOICE DATE     RECEIPT#  RECEIPT DATE        RECOVERY ASSISTANT      CUSTOMER NAME         PRICE      PAYMENT
+   =========================================================================================================================
+%
+[LisPie]=%
+Listing of Ads with Debit Balance
+Requested on [FECHA] at [HORA]                                                                           KHALEEJ TIMES
+[1][7]%
+;	Column 1
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 1.5
+[ColDat]=FECHA_CAP
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 2
+[ColDat]=NRO_PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 2.5
+[ColDat]=FECHA_PAGO
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 3
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=9
+;	Column 4
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=9
+;	Column 5
+[ColDat]=PRECIO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 6
+[ColDat]=PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+
+;-------------------------------------------------------------------------------
+;	DEFINITION OF LISTING FOR THE ADS WITH CREDIT BALANCE
+;-------------------------------------------------------------------------------
+[LisRef]=4
+[LisCor]=57
+[LisOrd]=7
+[LisFil]=4
+[LisLpt]=1
+[LisXCo]=%
+   SUBTOTAL -------------------------------------------------------------------------------------    &10.2f  &10.2f
+   ------------------------------------------------------------------------------------------    PARCIAL BALANCE:&10.2f
+
+%
+[LisXTC]=%
+   TOTAL VALUES *********************************************************************************    &10.2f  &10.2f
+   ********************************************************************************************    TOTAL BALANCE:&10.2f
+%
+[LisCab]=%[8]        ADS WITH CREDIT BALANCE
+Page number: [NRO_HOJA]
+[TIT(4)]
+[9]
+[0]   =========================================================================================================================
+   INVOICE#  INVOICE DATE     RECEIPT#  RECEIPT DATE        RECOVERY ASSISTANT      CUSTOMER NAME         PRICE      PAYMENT
+   =========================================================================================================================
+%
+[LisPie]=%
+Listing of Ads with Credit Balance
+Requested on [FECHA] at [HORA]                                                                           KHALEEJ TIMES
+[1][7]%
+;	Column 1
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 1.5
+[ColDat]=FECHA_CAP
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 2
+[ColDat]=NRO_PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 2.5
+[ColDat]=FECHA_PAGO
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 3
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=9
+;	Column 4
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=9
+;	Column 5
+[ColDat]=PRECIO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 6
+[ColDat]=PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+
+;-------------------------------------------------------------------------------
+;	(LISTADO DE CUENTA DE UN COBRADOR POR MES)
+;-------------------------------------------------------------------------------
+[LisRef]=6
+[LisCor]=57
+[LisOrd]=1           ; DO NOT MODIFY
+[LisFil]=6           ; DO NOT MODIFY
+[LisLpt]=1
+[LisXCo]=% %
+[LisXTC]=%
+   TOTAL VALUES *********************************************************************************    &10.2f  &10.2f
+   ********************************************************************************************    TOTAL BALANCE:&10.2f
+%
+[LisCab]=%[8]  MONTHLY BALANCE BY RECOVERY ASSISTANT
+Page number: [NRO_HOJA]
+[TIT(5)]
+Recovery assistant: [X_DAT]
+[9]
+[0]   =========================================================================================================================
+   INVOICE#  INVOICE DATE     RECEIPT#  RECEIPT DATE        RECOVERY ASSISTANT      CUSTOMER NAME         PRICE      PAYMENT
+   =========================================================================================================================
+%
+[LisPie]=%
+Monthly balance by recovery assistant
+Requested on [FECHA] at [HORA]                                                                           KHALEEJ TIMES
+[1][7]%
+;	Column 1
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 1.5
+[ColDat]=FECHA_CAP
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 2
+[ColDat]=NRO_PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 2.5
+[ColDat]=FECHA_PAGO
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 3
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=9
+;	Column 4
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=9
+;	Column 5
+[ColDat]=PRECIO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 6
+[ColDat]=PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+
+;-------------------------------------------------------------------------------
+; DEFINITION FOR THE LISTING (BALANCE DE UN MES POR NRO/AVISO)
+;-------------------------------------------------------------------------------
+[LisRef]=7
+[LisCor]=57
+[LisOrd]=1            ; DO NOT MODIFY
+[LisFil]=6            ; DO NOT MODIFY
+[LisLpt]=1
+[LisXCo]=% %
+[LisXTC]=%
+   TOTAL VALUES *********************************************************************************    &10.2f  &10.2f
+   ********************************************************************************************    TOTAL BALANCE:&10.2f
+%
+[LisCab]=%[8]  MONTHLY BALANCE BY INVOICE NUMBER
+Page number: [NRO_HOJA]
+[TIT(6)]
+[9]
+[0]   =========================================================================================================================
+   INVOICE#  INVOICE DATE     RECEIPT#  RECEIPT DATE        RECOVERY ASSISTANT      CUSTOMER NAME         PRICE      PAYMENT
+   =========================================================================================================================
+%
+[LisPie]=%
+Monthly balance by invoice number
+Requested on [FECHA] at [HORA]                                                                           KHALEEJ TIMES
+[1][7]%
+;	Column 1
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 1.5
+[ColDat]=FECHA_CAP
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 2
+[ColDat]=NRO_PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 2.5
+[ColDat]=FECHA_PAGO
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 3
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=9
+;	Column 4
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=9
+;	Column 5
+[ColDat]=PRECIO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 6
+[ColDat]=PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+
+;-------------------------------------------------------------------------------
+; DEFINITION FOR THE LISTING (BALANCE DE UN MES POR NRO/RECIBO)
+;-------------------------------------------------------------------------------
+[LisRef]=8
+[LisCor]=57
+[LisOrd]=8            ; DO NOT MODIFY
+[LisFil]=6            ; DO NOT MODIFY
+[LisLpt]=1
+[LisXCo]=% %
+[LisXTC]=%
+   TOTAL VALUES *********************************************************************************    &10.2f  &10.2f
+   ********************************************************************************************    TOTAL BALANCE:&10.2f
+%
+[LisCab]=%[8]  MONTHLY BALANCE BY RECEIPT NUMBER
+Page number: [NRO_HOJA]
+[TIT(7)]
+[9]
+[0]   =========================================================================================================================
+      RECEIPT#  RECEIPT DATE  INVOICE#  INVOICE DATE        RECOVERY ASSISTANT      CUSTOMER NAME         PRICE      PAYMENT
+   =========================================================================================================================
+%
+[LisPie]=%
+Monthly balance by receipt number
+Requested on [FECHA] at [HORA]                                                                           KHALEEJ TIMES
+[1][7]%
+;	Column 2
+[ColDat]=NRO_PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 2.5
+[ColDat]=FECHA_PAGO
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 1
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 1.5
+[ColDat]=FECHA_CAP
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 3
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=9
+;	Column 4
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=9
+;	Column 5
+[ColDat]=PRECIO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 6
+[ColDat]=PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+
+;-------------------------------------------------------------------------------
+; DEFINITION FOR THE LISTING (DESEMPE¥O DE UN COBRADOR HISTORICO)
+;-------------------------------------------------------------------------------
+[LisRef]=9
+[LisCor]=57
+[LisOrd]=9           ; DO NOT MODIFY
+[LisFil]=6           ; DO NOT MODIFY
+[LisLpt]=1
+[LisXCo]=%
+&s &6d &10.2f &6.0f &10.2f &6.2f  &6.0f  &10.2f    &6.2f
+%
+[LisXTC]=%
+--------------------------------------------------------------------------------
+ TOTAL: &6d &10.2f &6.0f &10.2f &6.2f  &6.0f  &10.2f    &6.2f
+--------------------------------------------------------------------------------
+%
+[LisCab]=%
+[8] MONTHLY RECOVERY ASSISTANT PERFORMANCE
+
+[TIT(8)]
+
+
+Recovery assistant: [X_DAT]
+[9]
+
+================================================================================
+  MONTH/  |  ADS ASSIGNED  |      ADS  COLLECTED    |    CUMMULATIVE OUTSTANDING
+  YEAR    |  #     AMOUNT  |   #     AMOUNT   PCNT  |    #      AMOUNT      PCNT	
+================================================================================
+%
+
+[LisPie]=%
+
+
+
+
+[0]Recovery assistant performance
+Requested on [FECHA] at [HORA]                                                                           KHALEEJ TIMES
+[1][7]%
+
+
+;-------------------------------------------------------------------------------
+; DEFINITION FOR THE LISTING (CUENTA DE UN CLIENTE POR MES)
+;-------------------------------------------------------------------------------
+[LisRef]=10
+[LisCor]=57
+[LisOrd]=1           ; DO NOT MODIFY
+[LisFil]=6           ; DO NOT MODIFY
+[LisLpt]=1
+[LisXCo]=% %    ; DO NOT MODIFY
+[LisXTC]=%
+   TOTAL VALUES *********************************************************************************    &10.2f  &10.2f
+   ********************************************************************************************    TOTAL BALANCE:&10.2f
+%
+[LisCab]=%[8]       MONTHLY CUSTOMER BALANCE
+Page number: [NRO_HOJA]
+[TIT(9)]
+CUSTOMER : [X_DAT]
+
+[9]
+[0]   =========================================================================================================================
+   INVOICE#  INVOICE DATE     RECEIPT#  RECEIPT DATE        RECOVERY ASSISTANT      CUSTOMER NAME         PRICE      PAYMENT
+   =========================================================================================================================
+%
+[LisPie]=%
+Monthly customer balance
+Requested on [FECHA] at [HORA]                                                                           KHALEEJ TIMES
+[1][7]%
+;	Column 1
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 1.5
+[ColDat]=FECHA_CAP
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 2
+[ColDat]=NRO_PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 2.5
+[ColDat]=FECHA_PAGO
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 3
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=9
+;	Column 4
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=9
+;	Column 5
+[ColDat]=PRECIO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 6
+[ColDat]=PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+
+
+;-------------------------------------------------------------------------------
+; DEFINITION FOR THE LISTING (DESEMPE¥O DE UN COBRADOR HISTORICO POR ZONA)
+;-------------------------------------------------------------------------------
+[LisRef]=11
+[LisCor]=57
+[LisOrd]=9           ; DO NOT MODIFY
+[LisFil]=6           ; DO NOT MODIFY
+[LisLpt]=1
+[LisXCo]=%
+&s &6d &10.2f &6.0f &10.2f &6.2f  &6.0f  &10.2f    &6.2f
+%
+[LisXTC]=%
+--------------------------------------------------------------------------------
+ TOTAL: &6d &10.2f &6.0f &10.2f &6.2f  &6.0f  &10.2f    &6.2f
+--------------------------------------------------------------------------------
+%
+[LisCab]=%
+[8] MONTHLY RECOVERY ASSISTANT PERFORMANCE (zona)
+
+[TIT(8)]
+
+
+Recovery assistant: [X_DAT]
+Zona: [XX_DAT]
+[9]
+
+================================================================================
+  MONTH/  |  ADS ASSIGNED  |      ADS  COLLECTED    |    CUMMULATIVE OUTSTANDING
+  YEAR    |  #     AMOUNT  |   #     AMOUNT   PCNT  |    #      AMOUNT      PCNT	
+================================================================================
+%
+
+[LisPie]=%
+
+
+
+
+[0]Recovery assistant performance
+Requested on [FECHA] at [HORA]                                                                           KHALEEJ TIMES
+[1][7]%
+
+
+
+
+
+// *********************************************************************
+// *********************************************************************
+
+;-------------------------------------------------------------------------------
+; XXXXXXXXXXXXXXXXXXXX
+;-------------------------------------------------------------------------------
+[LisRef]=12
+[LisCor]=57
+[LisOrd]=1           ; DO NOT MODIFY
+[LisFil]=6           ; DO NOT MODIFY
+[LisLpt]=1
+[LisXCo]=% %
+[LisXTC]=%
+   TOTAL VALUES *********************************************************************************    &10.2f  &10.2f
+   ********************************************************************************************    TOTAL BALANCE:&10.2f
+%
+[LisCab]=%[8]  MONTHLY BALANCE BY RECOVERY ASSISTANT(zona)
+Page number: [NRO_HOJA]
+[TIT(5)]
+Zona: [XX_DAT]
+[9]
+[0]   =========================================================================================================================
+   INVOICE#  INVOICE DATE     RECEIPT#  RECEIPT DATE        RECOVERY ASSISTANT      CUSTOMER NAME         PRICE      PAYMENT
+   =========================================================================================================================
+%
+[LisPie]=%
+Monthly balance by recovery assistant
+Requested on [FECHA] at [HORA]                                                                           KHALEEJ TIMES
+[1][7]%
+;	Column 1
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 1.5
+[ColDat]=FECHA_CAP
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 2
+[ColDat]=NRO_PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 2.5
+[ColDat]=FECHA_PAGO
+[ColTip]=D
+[ColAnc]=10
+[ColTab]=5
+;	Column 3
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=9
+;	Column 4
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=9
+;	Column 5
+[ColDat]=PRECIO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 6
+[ColDat]=PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+
+
+; fin de archivo         [EOF]=              
+

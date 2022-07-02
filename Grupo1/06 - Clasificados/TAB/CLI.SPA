@@ -1,0 +1,210 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE MENSAJES GENERALES (CASTELLANO\ESPA¥OL)     ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.50 o superior   ;
+;									      ;
+;-----------------------------------------------------------------------------;
+
+[LA]=90
+
+
+[LIM]=85
+[REF]=0    [MSJ]=%Presione 'ESC' para continuar%
+[REF]=1    [MSJ]=%%
+[REF]=2    [MSJ]=%%
+[REF]=3    [MSJ]=%%
+[REF]=4    [MSJ]=%%
+[REF]=5    [MSJ]=%DESEA SALIR DEL INGRESO DE AVISOS (S/N)%
+[REF]=6    [MSJ]=%para seleccionar%
+[REF]=7    [MSJ]=%ÄÙ para entrar     (ESC) para salir%
+[REF]=8    [MSJ]=%S%
+[REF]=9    [MSJ]=%N%
+[REF]=10   [MSJ]=%TERMINAL EN PROCESO DE CARGA%
+[REF]=11   [MSJ]=%   Inicializando el sistema...   %
+[REF]=12   [MSJ]=%    Cargando clasificaci¢n...    %
+[REF]=13   [MSJ]=%Cargando parametros de configuraci¢n...%
+[REF]=14   [MSJ]=%       Cargando c¢digos de printer...       %
+[REF]=15   [MSJ]=%       Cargando tablas de filtros...    %
+[REF]=16   [MSJ]=%      Inicializando calendario...       %
+[REF]=17   [MSJ]=%Agencia: %
+[REF]=18   [MSJ]=%Cliente%
+[REF]=19   [MSJ]=%Forma pago :%
+[REF]=20   [MSJ]=%Nombre :%
+
+[REF]=21   [MSJ]=%%
+[REF]=22   [MSJ]=%%
+[REF]=23   [MSJ]=%IVA :%
+[REF]=24   [MSJ]=%CUIT :%
+[REF]=25   [MSJ]=%%
+[REF]=26   [MSJ]=%%
+[REF]=27   [MSJ]=%%
+[REF]=28   [MSJ]=%%
+[REF]=29   [MSJ]=%%
+[REF]=30   [MSJ]=%%
+[REF]=31   [MSJ]=%%
+[REF]=32   [MSJ]=%%
+[REF]=33   [MSJ]=%%
+[REF]=34   [MSJ]=%%
+[REF]=35   [MSJ]=%%
+[REF]=36   [MSJ]=%%
+[REF]=37   [MSJ]=%%
+[REF]=38   [MSJ]=%%
+[REF]=39   [MSJ]=%%
+
+[REF]=40   [MSJ]=%%
+[REF]=41   [MSJ]=%%
+[REF]=42   [MSJ]=%%
+[REF]=43   [MSJ]=%%
+[REF]=44   [MSJ]=%%
+[REF]=45   [MSJ]=%%
+[REF]=46   [MSJ]=%%
+[REF]=47   [MSJ]=%    Alta de Registros de Clientes    %
+[REF]=48   [MSJ]=%(F2) GRABAR    (F3) Datos Administrativos    (F4) y (F5) Comentarios%
+[REF]=49   [MSJ]=%(F6) EDITAR REG. DE BUSQUEDA    (F7) RESETEAR REG. DE BUSQUEDA%
+[REF]=50   [MSJ]=%.. REGISTROS DE BUSQUEDA ..%
+[REF]=51   [MSJ]=%Clientes localizados%
+[REF]=52   [MSJ]=%Comentario:%
+[REF]=53   [MSJ]=%El Registro actual se dar  de BAJA%
+[REF]=54   [MSJ]=%CONFIRMA LA OPERACION (S/N)%
+[REF]=55   [MSJ]=%%
+[REF]=56   [MSJ]=%%
+[REF]=57   [MSJ]=%%
+[REF]=58   [MSJ]=%%
+[REF]=59   [MSJ]=%%
+[REF]=60   [MSJ]=%      Registro de Clientes      %
+[REF]=61   [MSJ]=%1.- Alta de registros%
+[REF]=62   [MSJ]=%2.- Baja y modificaci¢n de registro%
+[REF]=63   [MSJ]=%3.- Listado por impresora%
+[REF]=64   [MSJ]=%%
+[REF]=65   [MSJ]=%%
+[REF]=66   [MSJ]=%%
+[REF]=67   [MSJ]=%    (inicio)%
+[REF]=68   [MSJ]=%    (fin)%
+[REF]=69   [MSJ]=%%
+[REF]=70   [MSJ]=%%
+[REF]=71   [MSJ]=%%
+[REF]=72   [MSJ]=%%
+[REF]=73   [MSJ]=%%
+[REF]=74   [MSJ]=%%
+[REF]=75   [MSJ]=%%
+[REF]=76   [MSJ]=%%
+[REF]=77   [MSJ]=%%
+[REF]=78   [MSJ]=%%
+[REF]=79   [MSJ]=%%
+[REF]=80   [MSJ]=%%
+[REF]=81   [MSJ]=%%
+[REF]=82   [MSJ]=%%
+[REF]=83   [MSJ]=%%
+[REF]=84   [MSJ]=%%
+[REF]=85   [MSJ]=%%
+[REF]=86   [MSJ]=%%
+[REF]=87   [MSJ]=%%
+[REF]=88   [MSJ]=%%
+[REF]=89   [MSJ]=%%
+[REF]=90   [MSJ]=%%
+
+[REF]=91   [MSJ]=%Nombre/Raz¢n Social:%
+[REF]=92   [MSJ]=%Direcci¢n:%
+[REF]=93   [MSJ]=%Localidad:%
+[REF]=94   [MSJ]=%C¢digo Postal:%
+[REF]=95   [MSJ]=%Provincia:%
+[REF]=96   [MSJ]=%Tel‚fonos:%
+[REF]=97   [MSJ]=%N£meros de:%
+[REF]=98   [MSJ]=%DNI :%
+[REF]=99   [MSJ]=%C¢digo :%
+[REF]=100   [MSJ]=%Datos Administrativos:%
+[REF]=101   [MSJ]=%Cr‚dito:%
+[REF]=102   [MSJ]=%Saldo:%
+[REF]=103   [MSJ]=%Descuento:%
+
+[REF]=104   [MSJ]=%%
+[REF]=105   [MSJ]=%%
+[REF]=106   [MSJ]=%%
+[REF]=107   [MSJ]=%%
+[REF]=108   [MSJ]=%%
+[REF]=109   [MSJ]=%%
+[REF]=110   [MSJ]=%%
+[REF]=111   [MSJ]=%%
+[REF]=112   [MSJ]=%%
+[REF]=113   [MSJ]=%%
+[REF]=114   [MSJ]=%%
+[REF]=115   [MSJ]=%%
+[REF]=116   [MSJ]=%%
+[REF]=117   [MSJ]=%%
+[REF]=118   [MSJ]=%%
+[REF]=119   [MSJ]=%%
+
+[REF]=120   [MSJ]=%%
+[REF]=121   [MSJ]=%%
+[REF]=122   [MSJ]=%%
+[REF]=123   [MSJ]=%%
+[REF]=124   [MSJ]=%%
+[REF]=125   [MSJ]=%%
+[REF]=126   [MSJ]=%%
+[REF]=127   [MSJ]=%%
+[REF]=128   [MSJ]=%%
+[REF]=129   [MSJ]=%%
+
+[REF]=130   [MSJ]=%%
+[REF]=131   [MSJ]=%%
+[REF]=132   [MSJ]=%%
+[REF]=133   [MSJ]=%%
+[REF]=134   [MSJ]=%%
+[REF]=135   [MSJ]=%%
+[REF]=136   [MSJ]=%%
+[REF]=137   [MSJ]=%%
+[REF]=138   [MSJ]=%%
+[REF]=139   [MSJ]=%%
+
+[REF]=140   [MSJ]=%%
+[REF]=141   [MSJ]=%%
+[REF]=142   [MSJ]=%%
+[REF]=143   [MSJ]=%%
+[REF]=144   [MSJ]=%%
+[REF]=145   [MSJ]=%%
+[REF]=146   [MSJ]=%%
+[REF]=147   [MSJ]=%%
+[REF]=148   [MSJ]=%%
+[REF]=149   [MSJ]=%%
+
+[REF]=150   [MSJ]=%%
+[REF]=151   [MSJ]=%%
+[REF]=152   [MSJ]=%%
+[REF]=153   [MSJ]=%%
+[REF]=154   [MSJ]=%%
+[REF]=155   [MSJ]=%%
+[REF]=156   [MSJ]=%%
+[REF]=157   [MSJ]=%%
+[REF]=158   [MSJ]=%%
+
+
+[REF]=159   [MSJ]=%DD-MM-CCYY%
+[REF]=160   [MSJ]=%DD-MM-YY%
+
+[REF]=161   [MSJ]=%%
+[REF]=162   [MSJ]=%%
+[REF]=163   [MSJ]=%%
+[REF]=164   [MSJ]=%%
+[REF]=165   [MSJ]=%%
+[REF]=166   [MSJ]=%%
+[REF]=167   [MSJ]=%%
+[REF]=168   [MSJ]=%%
+[REF]=169   [MSJ]=%%
+
+[REF]=170   [MSJ]=%Instalaci¢n:%
+[REF]=171   [MSJ]=%BUSCAR POR:%
+[REF]=172   [MSJ]=%(F2) GRABAR  (F8) BAJA  (F3) Datos Administrativos  (F4) y (F5) Comentarios%
+[REF]=173   [MSJ]=%Pais:%
+[REF]=174   [MSJ]=%###(####)###-#####%
+[REF]=175   [MSJ]=%IVA:%
+[REF]=176   [MSJ]=%FAX:%
+[REF]=177   [MSJ]=%CUIT:%
+[REF]=178   [MSJ]=%TELEX:%
+[REF]=179   [MSJ]=%Ciudad:   %
+
+
+
+; fin de archivo  [EOF]=   
+
+

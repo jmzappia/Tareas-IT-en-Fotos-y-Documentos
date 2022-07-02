@@ -1,0 +1,44 @@
+[14]
+
+
+
+
+
+
+
+
+
+
+
+
+[ESP(66)][FECHA]
+
+
+[ESP(08)][CLI_NOM][ESP(12)][CLI_DIR]
+
+[ESP(05)][CLI_IVA]
+
+[ESP(16)]CONTADO en d¢lares[ESP(13)][CLI_CUIT]
+
+
+
+   [TXT(01)]
+   [TXT(02)]
+   [TXT(03)]
+   [TXT(04)]
+   [TXT(05)]
+   [TXT(06)]
+   [TXT(07)]
+   [TXT(08)]
+   [TXT(09)]
+   [TXT(10)]
+   [TXT(11)]
+   [TXT(12)]
+   [TXT(13)]
+   [TXT(14)]
+
+
+   N£mero de aviso: [NRO_A]
+
+[ESP(05)][C_PAL] palabras[ESP(44)]U$S[PCIO_TOTAL]
+[7]

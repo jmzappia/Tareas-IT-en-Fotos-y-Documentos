@@ -1,0 +1,192 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE MENSAJES GENERALES (CASTELLANO\ESPA¥OL)     ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.50 o superior   ;
+;									      ;
+;-----------------------------------------------------------------------------;
+
+[LA]=90
+
+
+[LIM]=85
+[REF]=0    [MSJ]=%Press 'ESC' to continue%
+[REF]=1    [MSJ]=%%
+[REF]=2    [MSJ]=%%
+[REF]=3    [MSJ]=%%
+[REF]=4    [MSJ]=%%
+[REF]=5    [MSJ]=%EXIT FROM CLASSIFIED INPUT SYSTEM (Y/N)%
+[REF]=6    [MSJ]=%to select       %
+[REF]=7    [MSJ]=%ÄÙ to accept     (ESC) to exit%
+[REF]=8    [MSJ]=%Y%
+[REF]=9    [MSJ]=%N%
+[REF]=10   [MSJ]=%TERMINAL IN LOADING PROCESS%
+[REF]=11   [MSJ]=%Initializing system...%
+[REF]=12   [MSJ]=%Loading classification...%
+[REF]=13   [MSJ]=%Loading configuration parameters...%
+[REF]=14   [MSJ]=%      Loading printer codes...      %
+[REF]=15   [MSJ]=%Loading Filter tables...%
+[REF]=16   [MSJ]=%Initializing calendar...%
+[REF]=17   [MSJ]=%Agency : %
+[REF]=18   [MSJ]=%%
+[REF]=19   [MSJ]=%%
+[REF]=20   [MSJ]=%%
+
+
+[REF]=21   [MSJ]=%Load Tables module%
+[REF]=22   [MSJ]=%Deleting Old Configuration%
+[REF]=23   [MSJ]=%   Loading GENERAL TABLE   %
+[REF]=24   [MSJ]=% Loading AGENCY TABLE %
+[REF]=25   [MSJ]=%Loading KIND of AD TABLE%
+[REF]=26   [MSJ]=%  Loading SECTION TABLE  %
+[REF]=27   [MSJ]=%Loading PAYMENT TABLE%
+[REF]=28   [MSJ]=%Loading PRICE CALCULATION EQUATIONS TABLE%
+[REF]=29   [MSJ]=%      Loading ALLOWANCED DAYS TABLE      %
+[REF]=30   [MSJ]=% Loading PRINTER CODES TABLE %
+[REF]=31   [MSJ]=%  Loading FILTER TABLE (1)  %
+[REF]=32   [MSJ]=%Loading FILTER TABLE (2)%
+[REF]=33   [MSJ]=%Loading FILTER TABLE (3)%
+[REF]=34   [MSJ]=%Loading FILTER TABLE (4)%
+[REF]=35   [MSJ]=%Loading FILTER TABLE (5)%
+[REF]=36   [MSJ]=%   Loading USERS TABLE   %
+[REF]=37   [MSJ]=%Loading MULTICODE FILTER TABLE%
+[REF]=38   [MSJ]=%Loading GENERAL MESSAGES TABLE (ING)%
+[REF]=39   [MSJ]=%    Loading ERROR MESSAGES TABLE    %
+[REF]=40   [MSJ]=%Loading GENERAL MESSAGES TABLE (FOT)%
+[REF]=41   [MSJ]=%Loading GENERAL MESSAGES TABLE (AGE)%
+[REF]=42   [MSJ]=%Loading GENERAL MESSAGES TABLE (UPD)%
+[REF]=43   [MSJ]=%Loading GENERAL MESSAGES TABLE (LIS)%
+[REF]=44   [MSJ]=%Loading GENERAL MESSAGES TABLE (CLI)%
+[REF]=45   [MSJ]=%Loading GENERAL MESSAGES TABLE (CAR)%
+[REF]=46   [MSJ]=%Loading GENERAL MESSAGES TABLE (INST)%
+[REF]=47   [MSJ]=%Loading GENERAL MESSAGES TABLE (HOST)%
+[REF]=48   [MSJ]=%Loading GENERAL MESSAGES TABLE (CRE) %
+[REF]=49   [MSJ]=%Loading LISTS CONFIGURATION TABLE%
+[REF]=50   [MSJ]=%%
+[REF]=51   [MSJ]=%%
+[REF]=52   [MSJ]=%%
+[REF]=53   [MSJ]=%%
+[REF]=54   [MSJ]=%%
+[REF]=55   [MSJ]=%%
+[REF]=56   [MSJ]=%%
+[REF]=57   [MSJ]=%%
+[REF]=58   [MSJ]=%%
+[REF]=59   [MSJ]=%%
+
+[REF]=60   [MSJ]=%%
+[REF]=61   [MSJ]=%%
+[REF]=62   [MSJ]=%%
+[REF]=63   [MSJ]=%%
+[REF]=64   [MSJ]=%%
+[REF]=65   [MSJ]=%%
+[REF]=66   [MSJ]=%%
+[REF]=67   [MSJ]=%%
+[REF]=68   [MSJ]=%%
+[REF]=69   [MSJ]=%%
+
+[REF]=70   [MSJ]=%%
+[REF]=71   [MSJ]=%%
+[REF]=72   [MSJ]=%%
+[REF]=73   [MSJ]=%%
+[REF]=74   [MSJ]=%%
+[REF]=75   [MSJ]=%%
+[REF]=76   [MSJ]=%%
+[REF]=77   [MSJ]=%%
+[REF]=78   [MSJ]=%%
+[REF]=79   [MSJ]=%%
+
+[REF]=80   [MSJ]=%%
+[REF]=81   [MSJ]=%%
+[REF]=82   [MSJ]=%%
+[REF]=83   [MSJ]=%%
+[REF]=84   [MSJ]=%%
+[REF]=85   [MSJ]=%%
+[REF]=86   [MSJ]=%%
+[REF]=87   [MSJ]=%%
+[REF]=88   [MSJ]=%%
+[REF]=89   [MSJ]=%%
+
+[REF]=90   [MSJ]=%%
+[REF]=91   [MSJ]=%%
+[REF]=92   [MSJ]=%%
+[REF]=93   [MSJ]=%%
+[REF]=94   [MSJ]=%%
+[REF]=95   [MSJ]=%%
+[REF]=96   [MSJ]=%%
+[REF]=97   [MSJ]=%%
+[REF]=98   [MSJ]=%%
+[REF]=99   [MSJ]=%%
+
+[REF]=100   [MSJ]=%%
+[REF]=101   [MSJ]=%%
+[REF]=102   [MSJ]=%%
+[REF]=103   [MSJ]=%%
+[REF]=104   [MSJ]=%%
+[REF]=105   [MSJ]=%%
+[REF]=106   [MSJ]=%%
+[REF]=107   [MSJ]=%%
+[REF]=108   [MSJ]=%%
+[REF]=109   [MSJ]=%%
+
+[REF]=110   [MSJ]=%%
+[REF]=111   [MSJ]=%%
+[REF]=112   [MSJ]=%%
+[REF]=113   [MSJ]=%%
+[REF]=114   [MSJ]=%%
+[REF]=115   [MSJ]=%%
+[REF]=116   [MSJ]=%%
+[REF]=117   [MSJ]=%%
+[REF]=118   [MSJ]=%%
+[REF]=119   [MSJ]=%%
+
+[REF]=120   [MSJ]=%%
+[REF]=121   [MSJ]=%%
+[REF]=122   [MSJ]=%%
+[REF]=123   [MSJ]=%%
+[REF]=124   [MSJ]=%%
+[REF]=125   [MSJ]=%%
+[REF]=126   [MSJ]=%%
+[REF]=127   [MSJ]=%%
+[REF]=128   [MSJ]=%%
+[REF]=129   [MSJ]=%%
+
+[REF]=130   [MSJ]=%%
+[REF]=131   [MSJ]=%%
+[REF]=132   [MSJ]=%%
+[REF]=133   [MSJ]=%%
+[REF]=134   [MSJ]=%%
+[REF]=135   [MSJ]=%%
+[REF]=136   [MSJ]=%%
+[REF]=137   [MSJ]=%%
+[REF]=138   [MSJ]=%%
+[REF]=139   [MSJ]=%%
+
+[REF]=140   [MSJ]=%%
+[REF]=141   [MSJ]=%%
+[REF]=142   [MSJ]=%%
+[REF]=143   [MSJ]=%%
+[REF]=144   [MSJ]=%%
+[REF]=145   [MSJ]=%%
+[REF]=146   [MSJ]=%%
+[REF]=147   [MSJ]=%%
+[REF]=148   [MSJ]=%%
+[REF]=149   [MSJ]=%%
+
+[REF]=150   [MSJ]=%%
+[REF]=151   [MSJ]=%%
+[REF]=152   [MSJ]=%%
+[REF]=153   [MSJ]=%%
+[REF]=154   [MSJ]=%%
+[REF]=155   [MSJ]=%%
+[REF]=156   [MSJ]=%%
+[REF]=157   [MSJ]=%%
+[REF]=158   [MSJ]=%%
+
+
+[REF]=159   [MSJ]=%DD-MM-CCYY%
+[REF]=160   [MSJ]=%DD-MM-YY%
+
+
+; fin de archivo  [EOF]=   
+
+

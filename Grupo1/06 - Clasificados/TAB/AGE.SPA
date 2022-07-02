@@ -1,0 +1,192 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE MENSAJES GENERALES (CASTELLANO\ESPA¥OL)     ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.50 o superior   ;
+;									      ;
+;-----------------------------------------------------------------------------;
+
+[LA]=90
+
+
+[LIM]=85
+[REF]=0    [MSJ]=%Presione 'ESC' para continuar%
+[REF]=1    [MSJ]=%%
+[REF]=2    [MSJ]=%%
+[REF]=3    [MSJ]=%%
+[REF]=4    [MSJ]=%%
+[REF]=5    [MSJ]=%DESEA SALIR DEL INGRESO DE AVISOS (S/N)%
+[REF]=6    [MSJ]=%para seleccionar%
+[REF]=7    [MSJ]=%ÄÙ para entrar     (ESC) para salir%
+[REF]=8    [MSJ]=%S%
+[REF]=9    [MSJ]=%N%
+[REF]=10   [MSJ]=%TERMINAL EN PROCESO DE CARGA%
+[REF]=11   [MSJ]=%   Inicializando el sistema...   %
+[REF]=12   [MSJ]=%    Cargando clasificaci¢n...    %
+[REF]=13   [MSJ]=%Cargando parametros de configuraci¢n...%
+[REF]=14   [MSJ]=%       Cargando c¢digos de printer...       %
+[REF]=15   [MSJ]=%       Cargando tablas de filtros...    %
+[REF]=16   [MSJ]=%      Inicializando calendario...       %
+[REF]=17   [MSJ]=%Agencia: %
+[REF]=18   [MSJ]=%%
+[REF]=19   [MSJ]=%%
+[REF]=20   [MSJ]=%%
+
+
+[REF]=21   [MSJ]=%      Agencias      %
+[REF]=22   [MSJ]=%1.- Recibir de agencias%
+[REF]=23   [MSJ]=%2.- Enviar%
+[REF]=24   [MSJ]=%Esta seguro, CONFIRME (S/N)%
+[REF]=25   [MSJ]=%Avisos capturados el :%
+[REF]=26   [MSJ]=%RESUMEN DE ENVIO de%
+[REF]=27   [MSJ]=%ENVIO: D¡a:%
+[REF]=28   [MSJ]=%Hora:%
+[REF]=29   [MSJ]=%AVISOS CAPTURADOS: D¡a:%
+[REF]=30   [MSJ]=%ALTAS ENVIADAS%
+[REF]=31   [MSJ]=%Verificando el aviso n£mero:%
+[REF]=32   [MSJ]=%Preparando y enviando informaci¢n.%
+[REF]=33   [MSJ]=%Espere un momento...%
+[REF]=34   [MSJ]=%FALLA DE PATH O FALTA DE BASES  ### ERROR DE INSTALACION o HARDWARE ###%
+[REF]=35   [MSJ]=%AVISO sin d¡as a publicar ### ERROR ###%
+[REF]=36   [MSJ]=%AVISO ENVIADO  >>> O.K. <<<%
+[REF]=37   [MSJ]=%BAJAS ENVIADAS%
+[REF]=38   [MSJ]=%ATENCION !!!!!!!!               ### ERROR DE INSTALACION o HARDWARE ###%
+[REF]=39   [MSJ]=%NO SE PUDO EJECUTAR EL BATCH 'AG_ENVIO.BAT'%
+[REF]=40   [MSJ]=%>>>>>>>>>>>>>>>>>>>>>>>> CIERRE DE ENVIO <<<<<<<<<<<<<<<<<<<<<<<<<<<<<%
+[REF]=41   [MSJ]=%NO SE PUDO EJECUTAR EL BATCH 'AG_RECIB.BAT'%
+[REF]=42   [MSJ]=%RESUMEN DE RECEPCION de%
+[REF]=43   [MSJ]=%D¡a:%
+[REF]=44   [MSJ]=%ALTAS INCORPORADAS%
+[REF]=45   [MSJ]=%AVISO RECIBIDO  >>> O.K. <<<%
+[REF]=46   [MSJ]=%BAJAS INCORPORADAS%
+[REF]=47   [MSJ]=%NO SE PUDO DAR DE BAJA ### ERROR ###%
+[REF]=48   [MSJ]=%AVISO DADO DE BAJA (T1)%
+[REF]=49   [MSJ]=%AVISO DADO DE BAJA en el d¡a (T2)%
+[REF]=50   [MSJ]=%>>>>>>>>>>>>>>>>>>>>>>> CIERRE DE RECEPCION <<<<<<<<<<<<<<<<<<<<<<<<<%
+[REF]=51   [MSJ]=%Seleccione la Agencia a utilizar%
+[REF]=52   [MSJ]=%Recibiendo y archivando informaci¢n%
+[REF]=53   [MSJ]=%de %
+[REF]=54   [MSJ]=%%
+[REF]=55   [MSJ]=%%
+[REF]=56   [MSJ]=%%
+[REF]=57   [MSJ]=%%
+[REF]=58   [MSJ]=%%
+[REF]=59   [MSJ]=%%
+
+[REF]=60   [MSJ]=%%
+[REF]=61   [MSJ]=%%
+[REF]=62   [MSJ]=%%
+[REF]=63   [MSJ]=%%
+[REF]=64   [MSJ]=%%
+[REF]=65   [MSJ]=%%
+[REF]=66   [MSJ]=%%
+[REF]=67   [MSJ]=%%
+[REF]=68   [MSJ]=%%
+[REF]=69   [MSJ]=%%
+
+[REF]=70   [MSJ]=%%
+[REF]=71   [MSJ]=%%
+[REF]=72   [MSJ]=%%
+[REF]=73   [MSJ]=%%
+[REF]=74   [MSJ]=%%
+[REF]=75   [MSJ]=%%
+[REF]=76   [MSJ]=%%
+[REF]=77   [MSJ]=%%
+[REF]=78   [MSJ]=%%
+[REF]=79   [MSJ]=%%
+
+[REF]=80   [MSJ]=%%
+[REF]=81   [MSJ]=%%
+[REF]=82   [MSJ]=%%
+[REF]=83   [MSJ]=%%
+[REF]=84   [MSJ]=%%
+[REF]=85   [MSJ]=%%
+[REF]=86   [MSJ]=%%
+[REF]=87   [MSJ]=%%
+[REF]=88   [MSJ]=%%
+[REF]=89   [MSJ]=%%
+
+[REF]=90   [MSJ]=%%
+[REF]=91   [MSJ]=%%
+[REF]=92   [MSJ]=%%
+[REF]=93   [MSJ]=%%
+[REF]=94   [MSJ]=%%
+[REF]=95   [MSJ]=%%
+[REF]=96   [MSJ]=%%
+[REF]=97   [MSJ]=%%
+[REF]=98   [MSJ]=%%
+[REF]=99   [MSJ]=%%
+
+[REF]=100   [MSJ]=%%
+[REF]=101   [MSJ]=%%
+[REF]=102   [MSJ]=%%
+[REF]=103   [MSJ]=%%
+[REF]=104   [MSJ]=%%
+[REF]=105   [MSJ]=%%
+[REF]=106   [MSJ]=%%
+[REF]=107   [MSJ]=%%
+[REF]=108   [MSJ]=%%
+[REF]=109   [MSJ]=%%
+
+[REF]=110   [MSJ]=%%
+[REF]=111   [MSJ]=%%
+[REF]=112   [MSJ]=%%
+[REF]=113   [MSJ]=%%
+[REF]=114   [MSJ]=%%
+[REF]=115   [MSJ]=%%
+[REF]=116   [MSJ]=%%
+[REF]=117   [MSJ]=%%
+[REF]=118   [MSJ]=%%
+[REF]=119   [MSJ]=%%
+
+[REF]=120   [MSJ]=%%
+[REF]=121   [MSJ]=%%
+[REF]=122   [MSJ]=%%
+[REF]=123   [MSJ]=%%
+[REF]=124   [MSJ]=%%
+[REF]=125   [MSJ]=%%
+[REF]=126   [MSJ]=%%
+[REF]=127   [MSJ]=%%
+[REF]=128   [MSJ]=%%
+[REF]=129   [MSJ]=%%
+
+[REF]=130   [MSJ]=%%
+[REF]=131   [MSJ]=%%
+[REF]=132   [MSJ]=%%
+[REF]=133   [MSJ]=%%
+[REF]=134   [MSJ]=%%
+[REF]=135   [MSJ]=%%
+[REF]=136   [MSJ]=%%
+[REF]=137   [MSJ]=%%
+[REF]=138   [MSJ]=%%
+[REF]=139   [MSJ]=%%
+
+[REF]=140   [MSJ]=%%
+[REF]=141   [MSJ]=%%
+[REF]=142   [MSJ]=%%
+[REF]=143   [MSJ]=%%
+[REF]=144   [MSJ]=%%
+[REF]=145   [MSJ]=%%
+[REF]=146   [MSJ]=%%
+[REF]=147   [MSJ]=%%
+[REF]=148   [MSJ]=%%
+[REF]=149   [MSJ]=%%
+
+[REF]=150   [MSJ]=%%
+[REF]=151   [MSJ]=%%
+[REF]=152   [MSJ]=%%
+[REF]=153   [MSJ]=%%
+[REF]=154   [MSJ]=%%
+[REF]=155   [MSJ]=%%
+[REF]=156   [MSJ]=%%
+[REF]=157   [MSJ]=%%
+[REF]=158   [MSJ]=%%
+
+
+[REF]=159   [MSJ]=%DD-MM-CCYY%
+[REF]=160   [MSJ]=%DD-MM-YY%
+
+
+; fin de archivo  [EOF]=   
+
+

@@ -1,0 +1,122 @@
+===SETUP===
+(FT)= 01;
+(CP)= 80;
+(CL)= 90;
+(LL)= 114;
+(BN)= 45;
+(BX)= 200;
+(BP)= 50;
+(MU)= 2;
+(MD)= 2;
+(HC)= 6;
+(KR)= 0;
+(LT)= 1;
+(CC)= 2;
+(NT)= 0;
+(HY)= 1;
+(GU)= 120;
+(UR)= 100;
+(UI)= 16;
+(AG)= 540;
+(LB)= 105;
+(MR)= 0;
+(AA)= 0;
+(AH)= 0;
+(HP)= 100;
+(F1)= FT01;
+(F2)= FT12;
+(F3)= FT01;
+(F4)= FT12;
+(F5)= FT01;
+(F6)= FT12;
+(F7)= FT01;
+(F8)= FT12;
+(M1)= M;
+(M2)= W;
+(M3)= R;
+(M4)= T;
+(PC)= 10;
+
+
+(TI) ; 
+,BK,BK,BK,BK,BK,BK,IG,BK,BK,BK,BK,BK,IG,BK,BK,BK
+,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,IG
+,SB,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,FB,BK,BK
+,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,CO,BK,CX,BK
+,BK,V1,LI,LI,LI,V1,LI,LI,L3,V2,LI,LI,L1,NL,NL,V1
+,LI,LI,L2,NL,LI,V2,LI,LI,NL,NL,LI,BK,BK,BK,BK,BK
+,BK,V1,LI,LI,LI,V1,LI,LI,L3,V2,LI,LI,L1,NL,NL,V1
+,LI,LI,L2,NL,LI,V2,LI,LI,NL,NL,LI,BK,BK,BK,BK,BK
+,LI,V2,V1,V1,V1,V1,V1,LI,V1,V1,V1,V1,V1,V1,V1,V1
+,V1,BK,BK,V1,V1,V1,V1,V1,V1,V1,V2,LI,BK,BK,BK,BK
+,V1,V1,V1,V1,NL,NL,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK
+,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK
+,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK
+,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK
+,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK
+,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK,BK
+
+
+(00)= IN;
+(01)= LL;
+(02)= LS;
+(03)= FT;
+(04)= PS;
+(05)= SS;
+(06)= HYX;
+(07)= HYO;
+(08)= HA;
+(09)= HD;
+(10)= HS;
+(11)= DH;
+(12)= SB;
+(13)= CM;
+(14)= CN;
+(15)= KO;
+(16)= KX;
+(17)= KN;
+(18)= LO;
+(19)= LX;
+(20)= CC;
+(21)= CCX;
+(22)= CCO;
+(23)= ACO;
+(24)= AJ;
+(25)= AR;
+(26)= AL;
+(27)= AC;
+(28)= SP;
+(29)= RP;
+(30)= SJ;
+(31)= RJ;
+(32)= EM;
+(33)= EN;
+(34)= TH;
+(35)= GS;
+(36)= ALD;
+(37)= ALD;
+(38)= RLU;
+(39)= RLD;
+(40)= EL;
+(41)= MLS;
+(42)= MCO;
+(43)= RFL;
+(44)= CP;
+(45)= AA;
+(46)= XA;
+(47)= EC;
+(48)= XE;
+(49)= CD;
+(50)= EX;
+(51)= RVO;
+(52)= RVX;
+...........;
+(99)= XX ; Idem;
+
+000-180=0;
+180-420=1;
+420-720=2;
+720-999=3;
+999-XXX=4;
+
+

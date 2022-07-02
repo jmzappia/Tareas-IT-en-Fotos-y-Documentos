@@ -1,0 +1,249 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE FORMULAS PARA EL CALCULO DEL PRECIO	      ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.27 (o superior) ;
+;									      ;
+;-----------------------------------------------------------------------------;
+;
+; Grupos f¢rmulas programables por el instalador del (1) al (998).
+; El grupo de  f¢rmula (999) esta reservada para el sistema.
+; El grupo de f¢rmulas (999) es la utilizada por omisi¢n o en caso de error.
+; Esta debe ser escrita siempre aunque no se utilice.
+; (Ancho m ximo para argumentos: 95 caracteres)   [LA]=98
+; NOTA: Se puede utilizar en las f¢rmulas los resultados retornados por otra
+; de nivel superior o con prioridad de calculo.
+;       Los literales de las ecuaciones pueden ser escritos en may£sculas o
+; en min£sculas.
+;
+
+	+-----------------------------------------------+
+	|	Bloque de f¢rmula (999) FORMULA DEFAULT	|
+	+-----------------------------------------------+
+
+
+[REL]=999      ; n£mero de relaci¢n de f¢rmula
+
+Total     [EC]=%[C_D]*[V_T_AVI]%
+
+
+	+-----------------------------------------------+
+	|	Bloque de f¢rmula (001) FORM. GRAL.	|
+	+-----------------------------------------------+
+
+[REL]=001
+
+Parcial  1 [EC]=%0%
+Parcial  2 [EC]=%[C_SAB]+[C_DOM]%
+Parcial  3 [EC]=%0%
+Parcial  4 [EC]=%[C_D]-[#02]%
+Parcial  5 [EC]=%[C_PAL]+[V_ESP]%
+Parcial  6 [EC]=%IIF([#05]>10,[#05]-10,0)%
+Parcial  7 [EC]=%0%
+Parcial  8 [EC]=%IIF([#02]>0,([V_SUB]+([EX_SUB]*[#06])),0)%
+Parcial  9 [EC]=%0%
+Parcial 10 [EC]=%IIF([#04]>0,([S_JUE]+([S_VIE]*[#06])),0)%
+Parcial 11 [EC]=%0%
+Parcial 12 [EC]=%([#08]*[#02])+([#10]*[#04])%
+Parcial 13 [EC]=%0%
+Parcial 14 [EC]=%IIF([C_D]=1.OR.[C_D]=2,[#12],0)%
+Parcial 15 [EC]=%0%
+Parcial 16 [EC]=%IIF([C_D]=3.OR.[C_D]=4,[#12]-(([#12]*10)/100),0)%
+Parcial 17 [EC]=%0%
+Parcial 18 [EC]=%IIF([C_D]=5.OR.[C_D]=6,[#12]-(([#12]*15)/100),0)%
+Parcial 19 [EC]=%0%
+Parcial 20 [EC]=%IIF([C_D]>6,[#12]-(([#12]*20)/100),0)%
+Parcial 21 [EC]=%0%
+Parcial 22 [EC]=%[#14]+[#16]+[#18]+[#20]%
+Parcial 23 [EC]=%0%
+Total      [EC]=%IIF([V_F_PAGO]=2,0,[#22])%
+
+
+	+---------------------------------------------------------------+
+	|	Bloque de f¢rmula (002) DESTACADOS SIN RECUADRO   	|
+	+---------------------------------------------------------------+
+
+[REL]=002
+
+           [EC]=%0%
+Parcial  2 [EC]=%[C_SAB]+[C_DOM]%
+Parcial  3 [EC]=%[C_CEN]+0.5%
+Parcial  4 [EC]=%[C_LUN]+[C_MAR]+[C_MIE]+[C_JUE]+[C_VIE]%
+Parcial  5 [EC]=%[DEC_P(03)]%
+Parcial  6 [EC]=%IIF([#02]>0,IIF([V_AGE]=1,[EX_T_AVI],IIF([V_AGE]=2,[T_DOM],[T_MIE])),0)%
+Parcial  7 [EC]=%IIF([#05]=0.0,0,IIF([#05]<=0.5,0.5,IIF([#05]>0.5,1,0)))%
+Parcial  8 [EC]=%IIF([#04]>0,IIF([V_AGE]=1,[V_T_AVI],IIF([V_AGE]=2,[T_LUN],[T_MAR])),0)%
+Parcial  9 [EC]=%[ENT_P(03)]+[#07]%
+Parcial 10 [EC]=%IIF([#02]>0,IIF([#09]<2,[#06]*2,[#09]*[#06]),0)%
+           [EC]=%0%
+Parcial 12 [EC]=%IIF([#04]>0,IIF([#09]<2,[#08]*2,[#09]*[#08]),0)%
+           [EC]=%0%
+Parcial 14 [EC]=%([#10]*[#02])+([#12]*[#04])%
+           [EC]=%0%
+Parcial 16 [EC]=%IIF([V_F_PAGO]=0,IIF([#14]<60,[#14],[#14]-(([#14]*10)/100)),[#14])%
+           [EC]=%0%
+Total      [EC]=%IIF([V_F_PAGO]=2,0,[#16])%
+
+
+	+---------------------------------------------------------------+
+	|	Bloque de f¢rmula (003) DESTACADOS CON RECUADRO   	|
+	+---------------------------------------------------------------+
+
+[REL]=003
+
+           [EC]=%0%
+Parcial  2 [EC]=%[C_SAB]+[C_DOM]%
+Parcial  3 [EC]=%[C_CEN]+0.5%
+Parcial  4 [EC]=%[C_LUN]+[C_MAR]+[C_MIE]+[C_JUE]+[C_VIE]%
+Parcial  5 [EC]=%[DEC_P(03)]%
+Parcial  6 [EC]=%IIF([#02]>0,IIF([V_AGE]=1,[EX_T_AVI],IIF([V_AGE]=2,[T_DOM],[T_MIE])),0)%
+Parcial  7 [EC]=%IIF([#05]=0.0,0,IIF([#05]<=0.5,0.5,IIF([#05]>0.5,1,0)))%
+Parcial  8 [EC]=%IIF([#04]>0,IIF([V_AGE]=1,[V_T_AVI],IIF([V_AGE]=2,[T_LUN],[T_MAR])),0)%
+Parcial  9 [EC]=%[ENT_P(03)]+[#07]%
+Parcial 10 [EC]=%IIF([#02]>0,IIF([#09]<3,[#06]*2,[#09]*[#06]),0)%
+           [EC]=%0%
+Parcial 12 [EC]=%IIF([#04]>0,IIF([#09]<3,[#08]*2,[#09]*[#08]),0)%
+           [EC]=%0%
+Parcial 14 [EC]=%([#10]*[#02])+([#12]*[#04])%
+           [EC]=%0%
+Parcial 16 [EC]=%IIF([V_F_PAGO]=0,IIF([#14]<60,[#14],[#14]-(([#14]*10)/100)),[#14])%
+           [EC]=%0%
+Total      [EC]=%IIF([V_F_PAGO]=2,0,[#16])%
+
+
+	+-------------------------------------------------------+
+	|	Bloque de f¢rmula (004) MARTILLEROS COMUN   	|
+	+-------------------------------------------------------+
+
+[REL]=004
+
+           [EC]=%0%
+Parcial  2 [EC]=%IIF([C_PAL]>10,[C_PAL]-10,0)%
+           [EC]=%0%
+Parcial  4 [EC]=%[V_RUB]+([EX_RUB]*[#02])%
+           [EC]=%0%
+Parcial  6 [EC]=%[C_D]*[#04]%
+           [EC]=%0%
+Total      [EC]=%IIF([V_F_PAGO]=2,0,[#06])%
+
+
+	+-------------------------------------------------------+
+	|	Bloque de f¢rmula (005) MARTILLEROS DESTACADOS	|
+	+-------------------------------------------------------+
+
+[REL]=005
+
+Parcial  1 [EC]=%[C_CEN]%
+Parcial  2 [EC]=%[DEC_P(01)]%
+Parcial  3 [EC]=%IIF([#02]=0.0,0,IIF([#02]<=0.5,0.5,IIF([#02]>0.5,1,0)))%
+Parcial  4 [EC]=%[ENT_P(01)]+[#03]%
+           [EC]=%0%
+Parcial  6 [EC]=%IIF([#04]<2,[V_T_AVI]*2,[V_T_AVI]*[#04])%
+           [EC]=%0%
+Parcial  8 [EC]=%[C_D]*[#06]%
+           [EC]=%0%
+Parcial 10 [EC]=%IIF([#08]>49,[#08]-(([#08]*20)/100),[#08])%
+           [EC]=%0%
+Total      [EC]=%IIF([V_F_PAGO]=2,0,[#10])%
+
+
+	+-------------------------------------------------------+
+	|	Bloque de f¢rmula (006) AVISOS INSTITUCIONALES	|
+	+-------------------------------------------------------+
+
+[REL]=006
+
+Parcial  1 [EC]=%[C_CEN]%
+Parcial  2 [EC]=%[DEC_P(01)]%
+Parcial  3 [EC]=%IIF([#02]=0.0,0,IIF([#02]<=0.5,0.5,IIF([#02]>0.5,1,0)))%
+Parcial  4 [EC]=%[ENT_P(01)]+[#03]%
+           [EC]=%0%
+Parcial  6 [EC]=%[V_T_AVI]*[CC_CEN]*[CC_COL]%
+           [EC]=%0%
+Parcial  8 [EC]=%[C_D]*[#06]%
+           [EC]=%0%
+Parcial 10 [EC]=%IIF([#08]>49,[#08]-(([#08]*20)/100),[#08])%
+           [EC]=%0%
+Total      [EC]=%IIF([V_F_PAGO]=2,0,[#10])%
+
+
+	+---------------------------------------------------------------+
+	|	Bloque de f¢rmula (007) EDICTOS, FUNEBRES Y SOCIALES	|
+	+---------------------------------------------------------------+
+
+[REL]=007
+
+           [EC]=%0%
+Parcial  2 [EC]=%IIF([PCIO_TOTAL]>0,[PCIO_TOTAL],5000)%
+           [EC]=%0%
+Total      [EC]=%IIF([V_F_PAGO]=2,0,[#02])%
+
+
+	+-----------------------------------------------+
+	|	Bloque de f¢rmula (008) NOTABLES	|
+	+-----------------------------------------------+
+
+[REL]=008
+
+           [EC]=%0%
+Parcial  2 [EC]=%[CC_CEN]*[CC_COL]%
+           [EC]=%0%
+Parcial  4 [EC]=%IIF([S_SAB]=0,[#02],IIF([S_SAB]<[#02],[#02],[S_SAB]))%
+           [EC]=%0%
+Parcial  6 [EC]=%[C_SAB]+[C_DOM]%
+           [EC]=%0%
+Parcial  8 [EC]=%[C_LUN]+[C_MAR]+[C_MIE]+[C_JUE]+[C_VIE]%
+           [EC]=%0%
+Parcial 10 [EC]=%IIF([#06]>0,IIF([V_AGE]=2,[EX_SUB]*[#04],[S_DOM]*[#04]),0)%
+Parcial 11 [EC]=%[#06]*[#10]%
+Parcial 12 [EC]=%IIF([#08]>0,IIF([V_AGE]=2,[V_SUB]*[#04],[S_LUN]*[#04]),0)%
+Parcial 13 [EC]=%[#08]*[#12]%
+Parcial 14 [EC]=%IIF([V_SUB]=[EX_SUB],([C_D]-[V_IMP])*[#12],[#11]+[#13])%
+           [EC]=%0%
+Parcial 16 [EC]=%IIF([V_AGE]=1,IIF([V_IMP]=0,[#14]-(([#14]*15)/100),[#14]),[#14])%
+           [EC]=%0%
+Parcial 18 [EC]=%IIF([V_AGE]=1,IIF([C_D]>9,IIF([V_IMP]=0,[#16]-(([#16]*20)/100),[#16]),[#16]),[#16])%
+           [EC]=%0%
+Parcial 20 [EC]=%IIF([V_AGE]=1,IIF([V_IMP]=0,IIF([V_ESP]=0,[#18],[#18]-(([#18]*20.83)/100)),[#18]),[#18])%
+           [EC]=%0%
+Parcial 22 [EC]=%IIF([V_AGE]=1,IIF([V_IMP]=0,IIF([V_DES]=0,[#20],[#20]-(([#20]*20)/100)),[#20]),[#20])%
+           [EC]=%0%
+Parcial 24 [EC]=%IIF([V_IMP]=0,IIF([#22]>49,[#22]-(([#22]*20)/100),[#22]),[#22])%
+           [EC]=%0%
+Total      [EC]=%IIF([V_F_PAGO]=2,0,[#24])%
+
+
+	+---------------------------------------------------------------+
+	|    Bloque de f¢rmula (009) DESTACADOS 1-6 COL CON RECUADRO   	|
+	+---------------------------------------------------------------+
+
+[REL]=009
+
+           [EC]=%0%
+Parcial  2 [EC]=%[C_SAB]+[C_DOM]%
+Parcial  3 [EC]=%[CC_CEN]*[CC_COL]%
+Parcial  4 [EC]=%[C_LUN]+[C_MAR]+[C_MIE]+[C_JUE]+[C_VIE]%
+Parcial  5 [EC]=%[DEC_P(03)]%
+Parcial  6 [EC]=%IIF([#02]>0,IIF([V_AGE]=1,[EX_T_AVI],IIF([V_AGE]=2,[T_DOM],[T_MIE])),0)%
+Parcial  7 [EC]=%IIF([#05]=0.0,0,IIF([#05]<=0.5,0.5,IIF([#05]>0.5,1,0)))%
+Parcial  8 [EC]=%IIF([#04]>0,IIF([V_AGE]=1,[V_T_AVI],IIF([V_AGE]=2,[T_LUN],[T_MAR])),0)%
+Parcial  9 [EC]=%[ENT_P(03)]+[#07]%
+Parcial 10 [EC]=%IIF([#02]>0,IIF([#09]<3,[#06]*2,[#09]*[#06]),0)%
+           [EC]=%0%
+Parcial 12 [EC]=%IIF([#04]>0,IIF([#09]<3,[#08]*2,[#09]*[#08]),0)%
+           [EC]=%0%
+Parcial 14 [EC]=%([#10]*[#02])+([#12]*[#04])%
+           [EC]=%0%
+Parcial 16 [EC]=%IIF([V_F_PAGO]=0,IIF([#14]<50,[#14],[#14]-(([#14]*20)/100)),[#14])%
+           [EC]=%0%
+Parcial 18 [EC]=%IIF([V_AGE]=1,[#16]-(([#16]*15)/100),[#16])%
+           [EC]=%0%
+Parcial 20 [EC]=%IIF([C_D]>10,[#18]-(([#18]*20)/100),[#18])%
+           [EC]=%0%
+Total      [EC]=%IIF([V_F_PAGO]=2,0,[#20])%
+
+
+
+; fin de archivo     [EOF]=
+
+

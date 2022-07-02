@@ -1,0 +1,380 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE MENSAJES DE ERRORES (CASTELLANO\ESPA¥OL)    ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.50 o superior   ;
+;									      ;
+;-----------------------------------------------------------------------------;
+
+   /* General Disk Access Errors */
+[NRO]=100                                        ; E_CREATE
+[MSJ1]=%Creating File%
+[MSJ2]=
+[NRO]=120                                        ; E_OPEN
+[MSJ1]=%Opening File%
+[MSJ2]=
+[NRO]=140                                        ; E_READ
+[MSJ1]=%Reading from File%
+[MSJ2]=
+[NRO]=150                                        ; E_LSEEK
+[MSJ1]=%Seeking to File Position%
+[MSJ2]=
+[NRO]=160                                        ; E_WRITE
+[MSJ1]=%Writing to File%
+[MSJ2]=
+[NRO]=180                                        ; E_CLOSE
+[MSJ1]=%Closing File%
+[MSJ2]=
+[NRO]=190                                        ; E_REMOVE
+[MSJ1]=%Removing File%
+[MSJ2]=
+[NRO]=192                                        ; NO_FREE_DISK
+[MSJ1]=%WARNING: NOT ENOUGH SPACE ON DISC%
+[MSJ2]=%<< CALL SUPERVISOR >>%
+[NRO]=193                                        ; FATAL_NO_FREE_DISK
+[MSJ1]=%ERROR FATAL: NO HAY ESPACIO EN DISCO%
+[MSJ2]=%OPERACION ACTUAL ABORTADA%
+[NRO]=194                                        ; A_PURGE
+[MSJ1]=%ATTENTION: Purge !!!!%
+[MSJ2]=
+[NRO]=195                                        ; W_PURGE
+[MSJ1]=%WARNING: < PURGE  !!!! >%
+[MSJ2]=
+
+
+   /* Database Specific Errors */
+[NRO]=200
+[MSJ1]=%File is not a Database:%
+[MSJ2]=
+[NRO]=240
+[MSJ1]=%No Open Database%
+[MSJ2]=
+[NRO]=260
+[MSJ1]=%Record Length is Too Large%
+[MSJ2]=
+[NRO]=270
+[MSJ1]=%Unrecognized Field%
+[MSJ2]=
+
+
+   /* Index File Specific Errors */
+[NRO]=300
+[MSJ1]=%Building Index File%
+[MSJ2]=
+[NRO]=310
+[MSJ1]=%Closing Index File%
+[MSJ2]=
+[NRO]=320
+[MSJ1]=%File is not an Index File%
+[MSJ2]=
+[NRO]=330
+[MSJ1]=%Index File is out of Date%
+[MSJ2]=
+[NRO]=335
+[MSJ1]=%Index File Record does not Exist%
+[MSJ2]=
+[NRO]=340
+[MSJ1]=%Key is not Unique%
+[MSJ2]=
+[NRO]=350
+[MSJ1]=%Key Evaluates to Logical Result%
+[MSJ2]=
+[NRO]=360
+[MSJ1]=%Key Length or Type has Changed%
+[MSJ2]=
+[NRO]=370
+[MSJ1]=%Key Length over 100 Characters%
+[MSJ2]=
+[NRO]=380
+[MSJ1]=%Seek on Database with no Index File%
+[MSJ2]=
+
+
+   /* Multi-User Errors */
+[NRO]=400
+[MSJ1]=%Locking a File%
+[MSJ2]=
+[NRO]=450
+[MSJ1]=%Unlocking a File%
+[MSJ2]=
+
+
+   /* Expression Evaluation Errors */
+[NRO]=500
+[MSJ1]=%Database not Located while Evaluating Expression%
+[MSJ2]=
+[NRO]=510
+[MSJ1]=%Executing Null Expression%
+[MSJ2]=
+[NRO]=515
+[MSJ1]=%Illegal Date%
+[MSJ2]=
+[NRO]=520
+[MSJ1]=%Expecting ',' o ')' while Evaluating Expression%
+[MSJ2]=
+[NRO]=530
+[MSJ1]=%Expression is not Complete%
+[MSJ2]=
+[NRO]=540
+[MSJ1]=%Overflow while Evaluating Expression%
+[MSJ2]=
+[NRO]=550
+[MSJ1]=%Parameter or Operator has the Wrong Type%
+[MSJ2]=
+[NRO]=560
+[MSJ1]=%Right Bracket Missing in Expression%
+[MSJ2]=
+[NRO]=570
+[MSJ1]=%Unrecognized Function in Expression%
+[MSJ2]=
+[NRO]=575
+[MSJ1]=%Unrecognized Operator in Expression%
+[MSJ2]=
+[NRO]=580
+[MSJ1]=%Unrecognized Value in Expression%
+[MSJ2]=
+[NRO]=590
+[MSJ1]=%Unterminated String in Expression%
+[MSJ2]=
+[NRO]=595
+[MSJ1]=%Wrong Number of Parameters in Expression%
+[MSJ2]=
+
+
+   /* Memo File Errors */
+[NRO]=600
+[MSJ1]=%Editing Memo File with Editor%
+[MSJ2]=
+[NRO]=620
+[MSJ1]=%Memo File Name Inconsistency%
+[MSJ2]=
+[NRO]=640
+[MSJ1]=%Memo File Entry is over 32767 Bytes%
+[MSJ2]=
+
+   /* Windowing and Menuing Errors */
+[NRO]=700
+[MSJ1]=%Illegal Window Reference Number%
+[MSJ2]=
+
+
+   /* Extended Routine Errors */
+[NRO]=800
+[MSJ1]=%Relating Databases%
+[MSJ2]=
+[NRO]=820
+[MSJ1]=%No Controlling Database%
+[MSJ2]=
+[NRO]=840
+[MSJ1]=%Illegal Related Database%
+[MSJ2]=
+
+   /* Memory Error */
+[NRO]=900
+[MSJ1]=%Out of Memory%
+[MSJ2]=
+[NRO]=920
+[MSJ1]=%Memory Allocation Error%
+[MSJ2]=
+
+   /* Internal Error */
+[NRO]=950
+[MSJ1]=%Overwritten Memory%
+[MSJ2]=
+
+   /* Sorting Errors */
+[NRO]=1000
+[MSJ1]=%Not Enough Memory to Sort%
+[MSJ2]=
+[NRO]=1010
+[MSJ1]=%Too Many Records in Sort%
+[MSJ2]=
+
+
+[NRO]=1500                                       ; E_INSTALL
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=
+[NRO]=1510                                       ; E_PACK
+[MSJ1]=%Compression ERROR (PACK)%
+[MSJ2]=
+[NRO]=1520
+[MSJ1]=%AD Record ERROR%
+[MSJ2]=
+[NRO]=1530                                       ; E_PACK
+[MSJ1]=%Table ERROR%
+[MSJ2]=
+[NRO]=1540                                       ; E_OPERACION
+[MSJ1]=%OPERATION ERROR%
+[MSJ2]=
+
+
+
+[NRO]=1600
+[MSJ1]=%VERIFICATION ERROR%
+[MSJ2]=%Words too short in Name or Company Field%
+[NRO]=1605
+[MSJ1]=%VERIFICATION ERROR%
+[MSJ2]=%AD BAD SAVED%
+[NRO]=1610
+[MSJ1]=%VERIFICATION ERROR%
+[MSJ2]=%VERIFIY DAYS TO PUBLISH%
+
+
+
+[NRO]=1700
+[MSJ1]=%OPERATION ERROR%
+[MSJ2]=%PAYMENT WAY ERROR%
+[NRO]=1705
+[MSJ1]=%OPERATION ERROR%
+[MSJ2]=%Searching range cutted > PARTIAL VIEW <%
+[NRO]=1710
+[MSJ1]=%OPERATION ERROR%
+[MSJ2]=%TOO MUCH LOG_IN RETRIES%
+[NRO]=1715
+[MSJ1]=%OPERATION ERROR%
+[MSJ2]=%TEXT NOT JUSTIFIED (call editor and press F10)%
+[NRO]=1720
+[MSJ1]=%OPERATION ERROR%
+[MSJ2]=%AD NOT FOUND%
+[NRO]=1725
+[MSJ1]=%OPERATION ERROR%
+[MSJ2]=%SECTION ERROR%
+[NRO]=1730
+[MSJ1]=%OPERATION ERROR%
+[MSJ2]=%SUBSECTION ERROR%
+[NRO]=1735
+[MSJ1]=%OPERATION ERROR%
+[MSJ2]=%KINF OF AD ERROR%
+[NRO]=1740
+[MSJ1]=%OPERATION ERROR%
+[MSJ2]=%TEXT ERROR (TEXT NOT TYPED)%
+[NRO]=1745
+[MSJ1]=%OPERATION ERROR%
+[MSJ2]=%CALENDAR ERROR (DAYS NOT TAGGED)%
+[NRO]=1750
+[MSJ1]=%OPERATION ERROR%
+[MSJ2]=%KEY/OPTION DISABLED (Security system)%
+[NRO]=1755
+[MSJ1]=%OPERATION ERROR%
+[MSJ2]=%REPRINTING OUT OF THE ACTUAL DATE IS NOT ALLOWED%
+[NRO]=1760
+[MSJ1]=%OPERATION ERROR%
+[MSJ2]=%KEY NOT AVAILABLE FOR THESE KIND OF AD SELECTED%
+[NRO]=1765
+[MSJ1]=%OPERATION ERROR%
+[MSJ2]=%AD WITH THESE DATE NOT FOUND%
+[NRO]=1770
+[MSJ1]=%OPERATION ERROR%
+[MSJ2]=%ADS IN SECTION NOT FOUND%
+[NRO]=1775					/* E_COLUMNA  */
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%COLUMNS INCORRECT%
+[NRO]=1780					/* E_CENTIMETRO  */
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%CENTIMETERS INCORRECT%
+[NRO]=1785					// E_NO_DEPUR
+[MSJ1]=%ERROR, UPDATE NOT EXECUTED%
+[MSJ2]=%%
+[NRO]=1790			
+[MSJ1]=%NOT ENOUGH SPACE%				// E_NO_ESPACIO
+[MSJ2]=%%
+[NRO]=1795
+[MSJ1]=%NEW INPUTS NOT ALLWED WHEN YOU MODIFY%	// E_NO_ALTA
+[MSJ2]=%%
+
+
+
+
+
+
+[NRO]=1800
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%Reference without record%
+[NRO]=1805                                       ; E_S_DIAS
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%Ad without days to publish.%
+[NRO]=1810                                       ; E_IMPRESORA
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%PRINTER OUT OF ORDER%
+[NRO]=1815
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%Printer Buffer full.%
+[NRO]=1820
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%BAD PARAMETER WHILE PRINTING%
+[NRO]=1825
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%DEFAULT EQUATIONS ASSUMED%
+[NRO]=1830
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%TOO MUCH LINES IN EQUATIONS%
+[NRO]=1835
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%PARTIAL OF EQUATIONS OUT OF RANGE%
+[NRO]=1840
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%BAD VARIABLE IN EQUATIONS%
+[NRO]=1845
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%NO TEXT IN AD%
+[NRO]=1850                                	; E_NO_BATCH
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%BATCH NOT EXECUTED%
+[NRO]=1855
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%BAD VARIABLE IN FORMAT%
+[NRO]=1860
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%SECTION NOT FOUND%
+[NRO]=1865
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%SUBSECTION NOT FOUND%
+[NRO]=1870
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%SECTION WITHOUT SUBSECTIONS%
+[NRO]=1875                                       ; E_SYS_DOS
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%Verify PATH, FILE and FREE MEMORY%
+[NRO]=1880                                       ; E_REG_NULL
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%NULL REGISTR%
+[NRO]=1885                                       ; E_FEC_S_AVI
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%DATES TO PUBLISH WITHOUT DATA FROM AD%
+[NRO]=1890                                       ; E_NO_AVISOS
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%NO ADS INTO THE SYSTEM%
+[NRO]=1895                                       ; E_NO_VERSION
+[MSJ1]=%INSTALLATION or HARDWARE ERROR%
+[MSJ2]=%INCORRECT VERSION%
+
+
+
+
+[NRO]=2000
+[MSJ1]=%TABLE ERROR%
+[MSJ2]=%End of File at middle of string.%
+[NRO]=2005
+[MSJ1]=%TABLE ERROR%
+[MSJ2]=%String too large.%
+[NRO]=2010
+[MSJ1]=%TABLE ERROR%
+[MSJ2]=%End of File after string (No '={data}')%
+[NRO]=2015
+[MSJ1]=%TABLE ERROR%
+[MSJ2]=%Argument too large.%
+[NRO]=2020
+[MSJ1]=%TABLE ERROR%
+[MSJ2]=%String not recognized.%
+[NRO]=2025
+[MSJ1]=%TABLE ERROR%
+[MSJ2]=%No '=' after string%
+
+
+
+
+
+
+; End of file
+
+

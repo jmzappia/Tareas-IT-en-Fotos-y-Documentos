@@ -1,0 +1,187 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE MENSAJES GENERALES (CASTELLANO\ESPA¥OL)     ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.50 o superior   ;
+;									      ;
+;-----------------------------------------------------------------------------;
+
+[LA]=142
+
+
+[LIM]=140
+[REF]=0    [MSJ]=%Press 'ESC' to continue%
+[REF]=1    [MSJ]=%%
+[REF]=2    [MSJ]=%%
+[REF]=3    [MSJ]=%%
+[REF]=4    [MSJ]=%%
+[REF]=5    [MSJ]=%EXIT FROM CLASSIFIED INPUT SYSTEM (Y/N)%
+[REF]=6    [MSJ]=%to select       %
+[REF]=7    [MSJ]=%ÄÙ to accept     (ESC) to exit%
+[REF]=8    [MSJ]=%Y%
+[REF]=9    [MSJ]=%N%
+[REF]=10   [MSJ]=%TERMINAL IN LOADING PROCESS%
+[REF]=11   [MSJ]=%Initializing system...%
+[REF]=12   [MSJ]=%Loading classification...%
+[REF]=13   [MSJ]=%Loading configuration parameters...%
+[REF]=14   [MSJ]=%      Loading printer codes...      %
+[REF]=15   [MSJ]=%Loading Filter tables...%
+[REF]=16   [MSJ]=%Initializing calendar...%
+[REF]=17   [MSJ]=%Agency : %
+[REF]=18   [MSJ]=%%
+[REF]=19   [MSJ]=%%
+[REF]=20   [MSJ]=%%
+[REF]=21   [MSJ]=%%
+[REF]=22   [MSJ]=%%
+[REF]=23   [MSJ]=%%
+[REF]=24   [MSJ]=%%
+[REF]=25   [MSJ]=%%
+[REF]=26   [MSJ]=%%
+[REF]=27   [MSJ]=%%
+[REF]=28   [MSJ]=%%
+[REF]=29   [MSJ]=%%
+[REF]=30   [MSJ]=%%
+[REF]=31   [MSJ]=%%
+[REF]=32   [MSJ]=%%
+[REF]=33   [MSJ]=%%
+[REF]=34   [MSJ]=%%
+[REF]=35   [MSJ]=%%
+[REF]=36   [MSJ]=%%
+[REF]=37   [MSJ]=%%
+[REF]=38   [MSJ]=%%
+[REF]=39   [MSJ]=%%
+[REF]=40   [MSJ]=%%
+[REF]=41   [MSJ]=%%
+[REF]=42   [MSJ]=%%
+[REF]=43   [MSJ]=%%
+[REF]=44   [MSJ]=%%
+[REF]=45   [MSJ]=%%
+[REF]=46   [MSJ]=%%
+[REF]=47   [MSJ]=%%
+[REF]=48   [MSJ]=%%
+[REF]=49   [MSJ]=%%
+
+
+[REF]=50   [MSJ]=%Are you sure? CONFIRM (Y/N)%
+[REF]=51   [MSJ]=%Lists and Statistics%
+[REF]=52   [MSJ]=%1.- AGENCY BALANCE :%
+[REF]=53   [MSJ]=%2.- GENERAL BALANCE (Administration)%
+[REF]=54   [MSJ]=%3.- GENERAL & AGENCY BALANCE (Administration)%
+[REF]=55   [MSJ]=%4.- Ads by CAPTURED DATE (Correctors)%
+[REF]=56   [MSJ]=%5.- Ads by PUBLICATION DATE (Office)%
+[REF]=57   [MSJ]=%6.- Centimeters by CAPTURED DATE (Sales statistics)%
+[REF]=58   [MSJ]=%7.- Centimeters by PUBLICATION DATE (Diagramation Area)%
+[REF]=59   [MSJ]=%8.- Centimeters of Ads to Publish by section/subsection%
+[REF]=60   [MSJ]=%Ads captured on       :%
+[REF]=61   [MSJ]=%Sending information to printer.%
+[REF]=62   [MSJ]=%Wait a moment...%
+[REF]=63   [MSJ]=%ADS CAPTURED ON %
+[REF]=64   [MSJ]=%ADS KILLED ON %
+[REF]=65   [MSJ]=%BILL NUMBER|   PAYMENT  | AD NUMBER |  OPERATOR  | TIME |    CUSTOMER NAME     |    PHONE   |           ADDRESS           | TOTAL PRICE%
+[REF]=66   [MSJ]=%Number of ad     FROM :%
+[REF]=67   [MSJ]=%                 UNTIL:%
+[REF]=68   [MSJ]=%Sect.:%
+[REF]=69   [MSJ]=%Subsect.:%
+[REF]=70   [MSJ]=%Number of Ad :%
+[REF]=71   [MSJ]=%Kind of Ad   :%
+[REF]=72   [MSJ]=%To Publish on :%
+[REF]=73   [MSJ]=%Ads to publish on    :%
+[REF]=74   [MSJ]=%  ADS TO PUBLISH ON  %
+[REF]=75   [MSJ]=%CENT. IN SUBSECTION :%
+[REF]=76   [MSJ]=%ADS IN SUBSECTION   :%
+[REF]=77   [MSJ]=%CENTIMETERS OF ADS  :%
+[REF]=78   [MSJ]=%CENT. OF HEADER     :%
+[REF]=79   [MSJ]=%CENT. OF DIV. FMT.  :%
+[REF]=80   [MSJ]=%CENT. OF BASE FORMAT:%
+[REF]=81   [MSJ]=%TOTAL IN SECTION    :%
+[REF]=82   [MSJ]=%AMOUNT OF ADS x SECT:%
+[REF]=83   [MSJ]=% Ads        Kind of Ad         Ends    Wrd Points Lines  Cent  Col CentxCol%
+[REF]=84   [MSJ]=%TOTAL CENTIMETERS   :%
+[REF]=85   [MSJ]=%TOTAL OF ADS        :%
+[REF]=86   [MSJ]=%ADS PER AGENCY FROM %
+[REF]=87   [MSJ]=%Agency :%
+[REF]=88   [MSJ]=%                                                                                         TOTAL REGISTRADO POR:%
+[REF]=89   [MSJ]=%                                                                                                          TOTAL GENERAL : $%
+[REF]=90   [MSJ]=%Page:%
+[REF]=91   [MSJ]=%LIST Number :%
+[REF]=92   [MSJ]=%Issued :%
+[REF]=93   [MSJ]=%A.- Amount of Ads Captured per Day (Statistics)%
+[REF]=94   [MSJ]=%B.- Amount of Ads Captured per Day by each Agency%
+[REF]=95   [MSJ]=%C.- Amount of Ads Captured per Day by Operator%
+[REF]=96   [MSJ]=%D.- Amount of Ads Captured per Day & Time%
+[REF]=97   [MSJ]=%Amount of Days%
+[REF]=98   [MSJ]=%Evaluate  (0-9):%
+[REF]=99   [MSJ]=%Evaluate :%
+[REF]=100   [MSJ]=%Kind of grafic :%
+[REF]=101   [MSJ]=%(0) Vertical Bars  %
+[REF]=102   [MSJ]=%(1) Horizontal Bars%
+[REF]=103   [MSJ]=%(2) Cake format%
+[REF]=104   [MSJ]=%(2) Lines%
+[REF]=105   [MSJ]=%Amount of users%
+[REF]=106   [MSJ]=%Amount of Agencies%
+[REF]=107   [MSJ]=%Amount of time tables%
+[REF]=108   [MSJ]=%9.- Amount of centimeters free per Place%
+[REF]=109   [MSJ]=%CENT. SUBR. CABEZAL :%
+
+[REF]=110   [MSJ]=%0.- Subdiario IVA Ventas%
+[REF]=111   [MSJ]=%%
+[REF]=112   [MSJ]=%%
+[REF]=113   [MSJ]=%%
+[REF]=114   [MSJ]=%%
+[REF]=115   [MSJ]=%FC C    0001-%
+[REF]=116   [MSJ]=%DD/MM/YY%
+[REF]=117   [MSJ]=%anulado   0.00%
+[REF]=118   [MSJ]=%0.- Totales de Caja discriminada%
+[REF]=119   [MSJ]=%TOTALES DE CAJA del %
+
+[REF]=120   [MSJ]=%Total en PESOS:   %
+[REF]=121   [MSJ]=%Total en DOLARES: %
+[REF]=122   [MSJ]=%Total en CHEQUES: %
+[REF]=123   [MSJ]=%TOTAL DE CAJA:    %
+[REF]=124   [MSJ]=%11.- Listado de avisos de arte (destacados)%
+[REF]=125   [MSJ]=%DESTACADOS A PUBLICAR EL %
+[REF]=126   [MSJ]=% Aviso      Tipo de Aviso      Venc.   Anunciante        Cent  Col CentxCol%
+[REF]=127   [MSJ]=%%
+[REF]=128   [MSJ]=%%
+[REF]=129   [MSJ]=%%
+
+[REF]=130   [MSJ]=%%
+[REF]=131   [MSJ]=%%
+[REF]=132   [MSJ]=%%
+[REF]=133   [MSJ]=%%
+[REF]=134   [MSJ]=%%
+[REF]=135   [MSJ]=%%
+[REF]=136   [MSJ]=%%
+[REF]=137   [MSJ]=%%
+[REF]=138   [MSJ]=%%
+[REF]=139   [MSJ]=%%
+
+[REF]=140   [MSJ]=%%
+[REF]=141   [MSJ]=%%
+[REF]=142   [MSJ]=%%
+[REF]=143   [MSJ]=%%
+[REF]=144   [MSJ]=%%
+[REF]=145   [MSJ]=%%
+[REF]=146   [MSJ]=%%
+[REF]=147   [MSJ]=%%
+[REF]=148   [MSJ]=%%
+[REF]=149   [MSJ]=%%
+
+[REF]=150   [MSJ]=%%
+[REF]=151   [MSJ]=%%
+[REF]=152   [MSJ]=%%
+[REF]=153   [MSJ]=%%
+[REF]=154   [MSJ]=%%
+[REF]=155   [MSJ]=%%
+[REF]=156   [MSJ]=%%
+[REF]=157   [MSJ]=%%
+[REF]=158   [MSJ]=%%
+
+
+[REF]=159   [MSJ]=%DD-MM-CCYY%
+[REF]=160   [MSJ]=%DD-MM-YY%
+
+
+; End of file     [EOF]=   
+
+

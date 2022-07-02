@@ -1,0 +1,41 @@
+***** TABLA DE VIAS (Incluye parametros base) *****
+Solo para programa de Avisos Clasificados
+Vias (Paths) origen y destino (Maximo 17 caracteres).
+(PO) = S:\TABLAS         ; Via origen.
+(PD) = S:\TABLAS         ; Via destino.
+
+Listado de comandos para los cambios de atributos de video (Puede ser cualquier string entre comandos, MAXIMO 8 Caracteres).
+(F1) = FT01 ; Normalmente corresponde a fuente ROMANA #1
+(F2) = FT12 ; Normalmente corresponde a fuente BOLD #1
+(F3) = FT01 ; Normalmente corresponde a fuente ITALICA #1
+(F4) = FT12 ; Normalmente corresponde a fuente BD IT #1
+(F5) = FT01 ; Normalmente corresponde a fuente ROMANA #2
+(F6) = FT12 ; Normalmente corresponde a fuente BOLD #2
+(F7) = FT01 ; Normalmente corresponde a fuente ITALICA #2
+(F8) = FT12 ; Normalmente corresponde a fuente BD IT #2
+
+VIA Y NOMBRE DEL ARCHIVO QUE CONTIENE UN NUMERO DE 4 DIGITOS
+(para la numeracion automatica en la mascara de grabar)
+(NU)=NO 
+
+Disco de BackUp, colocar el disco (A: hasta M:) o No
+(BK)= NO 
+
+Graba o no junto con el archivo la informacion de conteo (Trailer) 
+(TR)= No 
+
+Graba o no junto con el archivo la informacion de H&J (Trailer) 
+(TH)= No 
+
+Codigo de abrir y cerrar comando ha ser grabados en disco, solo acepta el codigo en Hexadecimal. El primer valor corresponde con abrir y el segundo con cerrar.
+(CM)= H3C,H3E 
+
+Habilita o no la ayuda de teclas de funcion.
+(FU)= No 
+
+Fuerza o no la via destino en mascara de Grabar.
+(FD)= No
+
+Definicion de como grabar los retornos QL, QC, QR, etc y Retorno Duro en disco; 0 = Generico; 1 = Deskset; 2 = Ventura Publisher
+(RD)= 0 
+

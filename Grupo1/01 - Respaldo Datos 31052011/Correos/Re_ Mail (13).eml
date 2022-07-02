@@ -1,0 +1,549 @@
+From: =?Windows-1252?Q?Inform=E1tica_-_LA_UNION?= <informatica@launion.com.ar>
+To: <carlosbisignano@gmail.com>
+Bcc: <federico.otermin@gmail.com>
+References: <BANLkTimjvSRxzWG7tw2fj6qUrjSKL4ZbnQ@mail.gmail.com><000f01cc05da$30c30b80$b1b433be@aries071> <BANLkTikQVjXC_PRM84GJHJncPJKpA9WKEQ@mail.gmail.com><009001cc0612$580e9370$6cc8a8c0@launion.com> <608686071-1304035913-cardhu_decombobulator_blackberry.rim.net-271485127-@bda2010.bisx.prod.on.blackberry>
+Subject: Re: Mail
+Date: Thu, 28 Apr 2011 21:31:54 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00C3_01CC05EB.B17B4100"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.3664
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3664
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_00C3_01CC05EB.B17B4100
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Carlos:
+
+No, no pude.
+Tuve que atender otros temas en el Diario y cuando vi tu correo, ya era =
+tarde (apenas pasadas las 20 hs).
+Espero entiendas que, adem=E1s que esper=E9 el mensaje de error =
+solicitado para determinar t=E9cnicamente el inconveniente, tengo otros =
+requerimientos internos en la Empresa.
+
+Y, justamente, al Sr. Ignacio no le van a llegar los correos que envi=E9 =
+antes porque el mail server de lomasdezamora.gov.ar rebota los mails.
+
+Si intentan enviarlos desde all=ED, ese es el problema; sino, ser=E1 =
+otro, el cual desconozco por no haber recibido respuesta de Mart=EDn.
+
+El mail server launion.com.ar, soporta hasta 1000 correos por d=EDa. Ese =
+no ser=EDa el inconveniente. No s=E9 con que aplicaci=F3n env=EDan los =
+newsletter, pero tengan la precauci=F3n de enviarlos por tandas.
+El env=EDo de ejemplo que envi=E9 anteriormente fue a 50 correos de =
+distintos dominios (incluyendo Hotmail y GMail). Como habr=E1s notado, =
+utilic=E9 Outlook y no una aplicaci=F3n para env=EDo masivo de correos.
+
+Insisto. La casilla newsletter@launion.com.ar no es el problema. Depende =
+el tipo de error, puede ser: por exceder la "cuota" (Exceded Quota), por =
+"mail failure" (como el caso de lomasdezamora.gov.ar) o puede arrojar un =
+"Timed Out" por exceso en remitentes.
+
+Saludos cordiales.
+
+
+Juli=E1n Marcelo Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+
+  ----- Original Message -----=20
+  From: carlosbisignano@gmail.com=20
+  To: Inform=E1tica - LA UNION=20
+  Sent: Thursday, April 28, 2011 7:11 PM
+  Subject: Re: Mail
+
+
+  Julian, pudiste hablar con Ignacio?
+
+  Saludos,
+
+-------------------------------------------------------------------------=
+-----
+
+  From: Inform=E1tica - LA UNION <informatica@launion.com.ar>=20
+  Date: Thu, 28 Apr 2011 21:08:31 -0500
+  To: Carlos Bisignano Burgos<carlosbisignano@gmail.com>
+  Cc: Mart=C3=ADn Vi=C3=B1uales<vinuales@hotmail.com>
+  Subject: Re: Mail
+
+
+  Estimado Carlos:
+
+  En el env=EDo anteriormente citado, ocurri=F3 un solo error, y no por =
+problemas en nuestro sistema de e-mails.
+  Copio y pego el contenido del mail de respuesta de inconveniente:
+
+
+
+  ----- Original Message -----=20
+  From: "Mail Delivery System" <Mailer-Daemon@launio.launion.com.ar>
+  To: <newsletter@launion.com.ar>
+  Sent: Thursday, April 28, 2011 6:57 PM
+  Subject: Mail delivery failed: returning message to sender
+
+
+  > This message was created automatically by mail delivery software.
+  >=20
+  > A message that you sent could not be delivered to one or more of its
+  > recipients. This is a permanent error. The following address(es) =
+failed:
+  >=20
+  >  ignacionitto@lomasdezamora.gov.ar
+  >    SMTP error from remote mail server after MAIL =
+FROM:<newsletter@launion.com.ar> SIZE=3D7154895:
+  >    host mail.lomasdezamora.gov.ar [200.5.114.181]:
+  >    552 Requested mail action aborted: exceeded storage allocation
+  >=20
+  > ------ This is a copy of the message, including all the headers. =
+------
+  > ------ The body of the message is 7061318 characters long; only the =
+first
+  > ------ 106496 or so are included here.
+
+
+
+  El error ocurre sobre el mail server de la casilla de correo con =
+dominio lomasdezamora.gov.ar; el error #502 indica: Requested mail =
+action aborted: exceeded storage allocation. Significa que excede la =
+capacidad de almacenamiento.
+
+  Adjunto capturas de pantalla de configuraciones en Outlook, con el fin =
+de informar nuevamente ante cualquier duda. Tambi=E9n, adjunto correo =
+electr=F3nico con contenido completo del error anteriormente mencionado.
+
+  Si el error se produce desde el mail server (dominio) anteriormente =
+mencionado, deber=EDa consultarse con el proveedor del servicio. No es =
+un inconveniente en nuestros correos electr=F3nicos.
+
+
+  Saludos cordiales
+
+
+  Juli=E1n Marcelo Zappia
+  Analista de Sistemas
+  Diario LA UNION S.A.
+
+    ----- Original Message -----=20
+    From: Carlos Bisignano Burgos=20
+    To: Inform=E1tica LA UNION=20
+    Cc: Mart=EDn Vi=F1uales=20
+    Sent: Thursday, April 28, 2011 2:41 PM
+    Subject: Re: Mail
+
+
+    Mart=EDn, te pido que le pases el error a Julian, a fin de =
+solucionar los inconvenientes.
+
+    Saludos.
+
+
+    El 28 de abril de 2011 16:26, Inform=E1tica LA UNION =
+<informatica@launion.com.ar> escribi=F3:
+
+      Carlos:
+
+      Por favor, remitime en detalle el error que est=E1 produciendo el =
+env=EDo masivo de correos, e indicame si son errores temporarios o =
+constantes.
+
+      Saludos
+
+      Juli=E1n Marcelo Zappia
+      Analista de Sistemas
+      Diario LA UNION S.A.
+
+        ----- Original Message -----=20
+        From: Carlos Bisignano Burgos=20
+        To: Inform=E1tica - LA UNION=20
+        Cc: Mart=EDn Vi=F1uales=20
+        Sent: Thursday, April 28, 2011 1:48 PM
+        Subject: Mail
+
+
+        Julian, no me puedo comunicar telefonicamente con vos.
+        Me informan que est=E1 dando error el env=EDo de mails con el =
+servidor que pasaste la otra vez, para enviar newsletters.
+        Te pido por favor que te comuniques urgente conmigo o con =
+Mart=EDn Vi=F1uales (vinuales@hotmail.com)
+
+        Gracias.
+
+        --=20
+        Carlos Bisignano Burgos
+        carlosbisignano@gmail.com
+
+
+
+
+
+    --=20
+    Carlos Bisignano Burgos
+    carlosbisignano@gmail.com
+
+
+
+-------------------------------------------------------------------------=
+---
+
+-------------------------------------------------------------------------=
+---
+
+    Se certific=F3 que el correo no contiene virus.
+    Comprobada por AVG - www.avg.es
+    Versi=F3n: 10.0.1209 / Base de datos de virus: 1500/3603 - Fecha de =
+la versi=F3n: 28/04/2011
+
+
+-------------------------------------------------------------------------=
+-----
+
+  Se certific=F3 que el correo no contiene virus.
+  Comprobada por AVG - www.avg.es
+  Versi=F3n: 10.0.1209 / Base de datos de virus: 1500/3603 - Fecha de la =
+versi=F3n: 28/04/2011
+
+------=_NextPart_000_00C3_01CC05EB.B17B4100
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Dwindows-1252" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18928">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial><STRONG>Carlos:</STRONG></FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>No, no =
+pude.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Tuve que atender otros =
+temas en el=20
+Diario y cuando vi tu correo, ya era tarde (apenas pasadas las 20=20
+hs).</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Espero entiendas que, =
+adem=E1s que=20
+esper=E9 el mensaje de error solicitado para determinar t=E9cnicamente =
+el=20
+inconveniente, tengo otros requerimientos internos en la =
+Empresa.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Y, justamente, al Sr. =
+Ignacio no le=20
+van a llegar los correos que envi=E9 antes porque el mail server de=20
+lomasdezamora.gov.ar rebota los mails.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Si intentan enviarlos =
+desde all=ED, ese=20
+es el problema; sino, ser=E1 otro, el cual desconozco por no haber =
+recibido=20
+respuesta de Mart=EDn.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>El mail server =
+launion.com.ar,=20
+soporta hasta 1000 correos por d=EDa. Ese no ser=EDa el inconveniente. =
+No s=E9 con que=20
+aplicaci=F3n env=EDan los newsletter, pero tengan la precauci=F3n de =
+enviarlos por=20
+tandas.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>El env=EDo de ejemplo =
+que envi=E9=20
+anteriormente fue a 50 correos de distintos dominios (incluyendo Hotmail =
+y=20
+GMail). Como habr=E1s notado, utilic=E9 Outlook y no una aplicaci=F3n =
+para env=EDo=20
+masivo de correos.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Insisto. La casilla <A=20
+href=3D"mailto:newsletter@launion.com.ar">newsletter@launion.com.ar</A> =
+no es el=20
+problema. Depende el tipo de error, puede ser: por exceder la "cuota" =
+(Exceded=20
+Quota), por "mail failure" (como el caso de lomasdezamora.gov.ar) o =
+puede=20
+arrojar un "Timed Out" por exceso en remitentes.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Saludos =
+cordiales.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial>Juli=E1n Marcelo =
+Zappia</FONT></DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial>Analista de =
+Sistemas</FONT></DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial>Diario LA UNION =
+S.A.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<BLOCKQUOTE=20
+style=3D"BORDER-LEFT: #000000 2px solid; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 0px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px"=20
+dir=3Dltr>
+  <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+  <DIV=20
+  style=3D"FONT: 10pt arial; BACKGROUND: #e4e4e4; font-color: =
+black"><B>From:</B>=20
+  <A title=3Dcarlosbisignano@gmail.com=20
+  =
+href=3D"mailto:carlosbisignano@gmail.com">carlosbisignano@gmail.com</A> =
+</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A =
+title=3Dinformatica@launion.com.ar=20
+  href=3D"mailto:informatica@launion.com.ar">Inform=E1tica - LA =
+UNION</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Thursday, April 28, 2011 =
+7:11=20
+  PM</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> Re: Mail</DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT><FONT size=3D2 =
+face=3DArial></FONT><FONT=20
+  size=3D2 face=3DArial></FONT><BR></DIV>Julian, pudiste hablar con=20
+  Ignacio?<BR><BR>Saludos,<BR>
+  <HR>
+
+  <DIV><B>From: </B>Inform=E1tica - LA UNION &lt;<A=20
+  =
+href=3D"mailto:informatica@launion.com.ar">informatica@launion.com.ar</A>=
+&gt;=20
+  </DIV>
+  <DIV><B>Date: </B>Thu, 28 Apr 2011 21:08:31 -0500</DIV>
+  <DIV><B>To: </B>Carlos Bisignano Burgos&lt;<A=20
+  =
+href=3D"mailto:carlosbisignano@gmail.com">carlosbisignano@gmail.com</A>&g=
+t;</DIV>
+  <DIV><B>Cc: </B>Mart=C3&shy;n Vi=C3=B1uales&lt;<A=20
+  =
+href=3D"mailto:vinuales@hotmail.com">vinuales@hotmail.com</A>&gt;</DIV>
+  <DIV><B>Subject: </B>Re: Mail</DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT><FONT size=3D2 =
+face=3DArial></FONT><FONT=20
+  size=3D2 face=3DArial></FONT><BR></DIV>
+  <DIV><FONT size=3D2 face=3DArial><STRONG>Estimado =
+Carlos:</STRONG></FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>En el env=EDo anteriormente citado, =
+ocurri=F3 un solo=20
+  error, y no por problemas en nuestro sistema de e-mails.</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial>Copio y pego el contenido del mail de =
+respuesta=20
+  de inconveniente:</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV>----- Original Message ----- </DIV>
+  <DIV>From: "Mail Delivery System" &lt;<A=20
+  =
+href=3D"mailto:Mailer-Daemon@launio.launion.com.ar">Mailer-Daemon@launio.=
+launion.com.ar</A>&gt;</DIV>
+  <DIV>To: &lt;<A=20
+  =
+href=3D"mailto:newsletter@launion.com.ar">newsletter@launion.com.ar</A>&g=
+t;</DIV>
+  <DIV align=3Djustify>Sent: Thursday, April 28, 2011 6:57 PM</DIV>
+  <DIV align=3Djustify>Subject: Mail delivery failed: returning message =
+to=20
+  sender</DIV><FONT size=3D2 face=3DArial></FONT><FONT size=3D2 =
+face=3DArial></FONT>
+  <DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT><FONT size=3D2 =
+
+  face=3DArial></FONT><FONT size=3D2 face=3DArial></FONT><FONT size=3D2=20
+  face=3DArial></FONT><FONT size=3D2 face=3DArial></FONT><BR></DIV>
+  <DIV align=3Djustify>&gt; This message was created automatically by =
+mail=20
+  delivery software.<BR>&gt; <BR>&gt; A message that you sent could not =
+be=20
+  delivered to one or more of its<BR>&gt; recipients. This is a =
+permanent error.=20
+  The following address(es) failed:<BR>&gt; <BR>&gt;&nbsp; <A=20
+  =
+href=3D"mailto:ignacionitto@lomasdezamora.gov.ar">ignacionitto@lomasdezam=
+ora.gov.ar</A><BR>&gt;&nbsp;&nbsp;&nbsp;=20
+  SMTP error from remote mail server after MAIL FROM:&lt;<A=20
+  =
+href=3D"mailto:newsletter@launion.com.ar">newsletter@launion.com.ar</A>&g=
+t;=20
+  SIZE=3D7154895:<BR>&gt;&nbsp;&nbsp;&nbsp; host =
+mail.lomasdezamora.gov.ar=20
+  [200.5.114.181]:<BR>&gt;&nbsp;&nbsp;&nbsp; 552 Requested mail action =
+aborted:=20
+  exceeded storage allocation<BR>&gt; <BR>&gt; ------ This is a copy of =
+the=20
+  message, including all the headers. ------<BR>&gt; ------ The body of =
+the=20
+  message is 7061318 characters long; only the first<BR>&gt; ------ =
+106496 or so=20
+  are included here.<BR></DIV>
+  <DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT size=3D2 face=3DArial>El error ocurre sobre =
+el mail=20
+  server de la casilla de correo con dominio lomasdezamora.gov.ar; el =
+error #502=20
+  indica: <FONT size=3D3 face=3D"Times New Roman"><STRONG>Requested mail =
+action=20
+  aborted: exceeded storage allocation. </STRONG><FONT size=3D2=20
+  face=3DArial>Significa que excede la capacidad de=20
+  almacenamiento.</FONT></FONT></FONT></DIV>
+  <DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT size=3D2 face=3DArial>Adjunto capturas de =
+pantalla de=20
+  configuraciones en Outlook, con el fin de informar nuevamente ante =
+cualquier=20
+  duda. Tambi=E9n, adjunto correo electr=F3nico con contenido completo =
+del error=20
+  anteriormente mencionado.</FONT></DIV>
+  <DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV align=3Djustify><FONT size=3D2 face=3DArial>Si el error se =
+produce desde el=20
+  mail server (dominio) anteriormente mencionado, deber=EDa consultarse =
+con el=20
+  proveedor del servicio. No es un inconveniente&nbsp;en&nbsp;nuestros =
+correos=20
+  electr=F3nicos.</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>Saludos cordiales</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV align=3Dcenter><FONT size=3D2 face=3DArial>Juli=E1n Marcelo =
+Zappia</FONT></DIV>
+  <DIV align=3Dcenter><FONT size=3D2 face=3DArial>Analista de =
+Sistemas</FONT></DIV>
+  <DIV align=3Dcenter><FONT size=3D2 face=3DArial>Diario LA UNION =
+S.A.</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <BLOCKQUOTE=20
+  style=3D"BORDER-LEFT: #000000 2px solid; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 0px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px"=20
+  dir=3Dltr>
+    <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+    <DIV=20
+    style=3D"FONT: 10pt arial; BACKGROUND: #e4e4e4; font-color: =
+black"><B>From:</B>=20
+    <A title=3Dcarlosbisignano@gmail.com=20
+    href=3D"mailto:carlosbisignano@gmail.com">Carlos Bisignano =
+Burgos</A> </DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A =
+title=3Dinformatica@launion.com.ar=20
+    href=3D"mailto:informatica@launion.com.ar">Inform=E1tica LA =
+UNION</A> </DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>Cc:</B> <A =
+title=3Dvinuales@hotmail.com=20
+    href=3D"mailto:vinuales@hotmail.com">Mart=EDn Vi=F1uales</A> </DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Thursday, April 28, =
+2011 2:41=20
+    PM</DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> Re: Mail</DIV>
+    <DIV><FONT size=3D2 face=3DArial></FONT><FONT size=3D2 =
+face=3DArial></FONT><FONT=20
+    size=3D2 face=3DArial></FONT><BR></DIV>Mart=EDn, te pido que le =
+pases el error a=20
+    Julian, a fin de solucionar los =
+inconvenientes.<BR><BR>Saludos.<BR><BR>
+    <DIV class=3Dgmail_quote>El 28 de abril de 2011 16:26, Inform=E1tica =
+LA UNION=20
+    <SPAN dir=3Dltr>&lt;<A=20
+    =
+href=3D"mailto:informatica@launion.com.ar">informatica@launion.com.ar</A>=
+&gt;</SPAN>=20
+    escribi=F3:<BR>
+    <BLOCKQUOTE=20
+    style=3D"BORDER-LEFT: #ccc 1px solid; MARGIN: 0px 0px 0px 0.8ex; =
+PADDING-LEFT: 1ex"=20
+    class=3Dgmail_quote>
+      <DIV bgcolor=3D"#ffffff">
+      <DIV><FONT size=3D2 face=3DArial>Carlos:</FONT></DIV>
+      <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+      <DIV><FONT size=3D2 face=3DArial>Por favor, remitime en detalle el =
+error que=20
+      est=E1 produciendo el env=EDo masivo de correos,&nbsp;e indicame =
+si son=20
+      errores temporarios o constantes.</FONT></DIV>
+      <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+      <DIV><FONT size=3D2 face=3DArial>Saludos</FONT></DIV>
+      <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+      <DIV align=3Dcenter><FONT size=3D2 face=3DArial>Juli=E1n Marcelo=20
+      Zappia</FONT></DIV>
+      <DIV align=3Dcenter><FONT size=3D2 face=3DArial>Analista de=20
+Sistemas</FONT></DIV>
+      <DIV align=3Dcenter><FONT size=3D2 face=3DArial>Diario LA UNION=20
+S.A.</FONT></DIV>
+      <DIV>
+      <DIV></DIV>
+      <DIV class=3Dh5>
+      <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+      <BLOCKQUOTE=20
+      style=3D"BORDER-LEFT: #000000 2px solid; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 0px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px">
+        <DIV style=3D"FONT: 10pt arial">----- Original Message ----- =
+</DIV>
+        <DIV style=3D"FONT: 10pt arial; BACKGROUND: =
+#e4e4e4"><B>From:</B> <A=20
+        title=3Dcarlosbisignano@gmail.com =
+href=3D"mailto:carlosbisignano@gmail.com"=20
+        target=3D_blank>Carlos Bisignano Burgos</A> </DIV>
+        <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A=20
+        title=3Dinformatica@launion..com.ar=20
+        href=3D"mailto:informatica@launion.com.ar" =
+target=3D_blank>Inform=E1tica - LA=20
+        UNION</A> </DIV>
+        <DIV style=3D"FONT: 10pt arial"><B>Cc:</B> <A =
+title=3Dvinuales@hotmail.com=20
+        href=3D"mailto:vinuales@hotmail.com" target=3D_blank>Mart=EDn =
+Vi=F1uales</A>=20
+        </DIV>
+        <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Thursday, April 28, =
+2011 1:48=20
+        PM</DIV>
+        <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> Mail</DIV>
+        <DIV><FONT size=3D2 face=3DArial></FONT><FONT size=3D2 =
+face=3DArial></FONT><FONT=20
+        size=3D2 face=3DArial></FONT><BR></DIV>Julian, no me puedo =
+comunicar=20
+        telefonicamente con vos.<BR>Me informan que est=E1 dando error =
+el env=EDo de=20
+        mails con el servidor que pasaste la otra vez, para enviar=20
+        newsletters.<BR>Te pido por favor que te comuniques urgente =
+conmigo o=20
+        con Mart=EDn Vi=F1uales (<A href=3D"mailto:vinuales@hotmail.com" =
+
+        target=3D_blank>vinuales@hotmail.com</A>)<BR><BR>Gracias.<BR=20
+        clear=3Dall><BR>-- <BR>Carlos Bisignano Burgos<BR><A=20
+        href=3D"mailto:carlosbisignano@gmail.com"=20
+        =
+target=3D_blank>carlosbisignano@gmail.com</A><BR><BR></BLOCKQUOTE></DIV><=
+/DIV></DIV></BLOCKQUOTE></DIV><BR><BR=20
+    clear=3Dall><BR>-- <BR>Carlos Bisignano Burgos<BR><A=20
+    =
+href=3D"mailto:carlosbisignano@gmail.com">carlosbisignano@gmail.com</A><B=
+R><BR><BR>
+    <HR>
+
+    <HR SIZE=3D1 noShade>
+
+    <P class=3Davgcert align=3Dleft color=3D"#000000">Se certific=F3 que =
+el correo no=20
+    contiene virus.<BR>Comprobada por AVG - <A=20
+    href=3D"http://www.avg.es">www.avg.es</A><BR>Versi=F3n: 10.0.1209 / =
+Base de=20
+    datos de virus: 1500/3603 - Fecha de la versi=F3n: =
+28/04/2011</P></BLOCKQUOTE>
+  <HR SIZE=3D1 noShade>
+
+  <P class=3Davgcert align=3Dleft color=3D"#000000">Se certific=F3 que =
+el correo no=20
+  contiene virus.<BR>Comprobada por AVG - <A=20
+  href=3D"http://www.avg.es">www.avg.es</A><BR>Versi=F3n: 10.0.1209 / =
+Base de datos=20
+  de virus: 1500/3603 - Fecha de la versi=F3n:=20
+28/04/2011</P></BLOCKQUOTE></BODY></HTML>
+
+------=_NextPart_000_00C3_01CC05EB.B17B4100--

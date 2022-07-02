@@ -1,0 +1,147 @@
+Return-path: <julian.zappia@gmail.com>
+Envelope-to: director@launion.com.ar
+Delivery-date: Tue, 15 Mar 2011 05:53:22 -0300
+Received: from [209.85.216.43] (helo=mail-qw0-f43.google.com)
+	by launio.launion.com.ar with esmtp (Exim 4.63)
+	(envelope-from <julian.zappia@gmail.com>)
+	id 1PzQ0I-00022H-2E; Tue, 15 Mar 2011 05:53:22 -0300
+Received: by qwf6 with SMTP id 6so298001qwf.16
+        for <multiple recipients>; Tue, 15 Mar 2011 01:53:19 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:date:message-id:subject:from:to
+         :content-type:content-transfer-encoding;
+        bh=E7YgdPdQPwWE4jZWFq+g1T+2HY/pXSq/ziN4diihpcM=;
+        b=DxL8LIQ4zFQsw6e+da0hLOrDrD+ExtXaidrTWV3n4Z+AmcAr7PcQYH1hvyVfA9jVMX
+         182oN//21c5P5gHBjyfl177PwN8PUY7rDFEBEgoNeT0JHBo9sppITkupTd7atbg0xqqf
+         5Y/osY8LAORAxotvWgmejWpXSqJuPi0xRgFdU=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        b=TOLjy+k1VqmX4hymWuMkLG2DIQ/DOFJ1LnBS0zw7V+Z5oDnE9reouKV8FUH7J0tBEK
+         xkU8MtvEj/hs3xwEbvUdOeAAPCKnSBPyD8djGN3aUPXSazwTCeXindI+DdTmPkCoifHI
+         zRjcXFpjmhwbkNpZkgc86t3PjQd9gNKgRcHCQ=
+MIME-Version: 1.0
+Received: by 10.224.135.213 with SMTP id o21mr5585527qat.196.1300179198626;
+ Tue, 15 Mar 2011 01:53:18 -0700 (PDT)
+Received: by 10.224.67.14 with HTTP; Tue, 15 Mar 2011 01:53:18 -0700 (PDT)
+Date: Tue, 15 Mar 2011 05:53:18 -0300
+Message-ID: <AANLkTind4Yg7+XBA0JEt+F938xrm1NQ-hMOy5HtPQYEd@mail.gmail.com>
+Subject: Novedades 14-15032011 (1)
+From: =?ISO-8859-1?Q?Juli=E1n_Zappia?= <julian.zappia@gmail.com>
+To: director <director@launion.com.ar>, adrian <adrian@ruetalo.com>, 
+	informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Score: 5.9
+X-Spam-Score-Int: 59
+X-Spam-Bar: +++++
+X-Spam-Report: Spam detection software, running on the system "launio.launion.com.ar", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Adrián: Omití tareas de mantenimiento en equipos de Diseño.
+	Apago todo y me retiro. Dejo ambas Pc´s copiando archivos con un cartel pegado
+	para dar aviso de que están trabajando. [...] 
+	Content analysis details:   (5.9 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	-1.0 RCVD_IN_DNSWL_LOW      RBL: Sender listed at http://www.dnswl.org/, low
+	trust
+	[209.85.216.43 listed in list.dnswl.org]
+	2.4 DNS_FROM_OPENWHOIS     RBL: Envelope sender listed in bl.open-whois.org.
+	3.4 FH_DATE_PAST_20XX      The date is grossly in the future.
+	1.0 FUZZY_AMBIEN           BODY: Attempt to obfuscate words in spam
+	0.1 RDNS_NONE              Delivered to trusted network by a host with no rDNS
+X-Antivirus: AVG for E-mail 10.0.1204 [1498/3508]
+X-AVG-ID: ID2F8749D6-388225C7
+
+Adri=E1n:
+
+Omit=ED tareas de mantenimiento en equipos de Dise=F1o.
+
+Apago todo y me retiro. Dejo ambas Pc=B4s copiando archivos con un
+cartel pegado para dar aviso de que est=E1n trabajando.
+
+Juli=E1n Marcelo Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+
+
+
+---------- Forwarded message ----------
+From: Juli=E1n Zappia <julian.zappia=40gmail.com>
+Date: Tue, 15 Mar 2011 05:43:55 -0300
+Subject: Novedades 14-15032011
+To: director <director=40launion.com.ar>, adrian <adrian=40ruetalo.com>,
+informatica <informatica=40launion.com.ar>
+
+Adri=E1n:
+
+Escribo desde esta casilla (y en otra Pc) porque la Pc que tiene la
+cuenta de Inform=E1tica configurada la tengo copiando archivos y est=E1
+=22pesada=22.
+
+Novedades:
+
+- Sitio launion.com.ar. Ya est=E1s al tanto con todo el cruce de correos
+con el Sr. Carlos Bisignano y un mail formal que te envi=E9. Destaco eso
+que dice =22no te tir=E9 tierra encima=22 en una de sus contestaciones.
+
+- Configuraci=F3n de nuevas contrase=F1as de cuentas de correo en equipo
+utilizado generalmente por la Srta. Milagros Oreja. Tambi=E9n, en la
+Pc=B4s utilizadas por la Srta. Nancy Garnica y por el Sr. Carlos R=EDmoli.
+
+- Mantenimiento preventivo/correctivo de datos en equipos de
+Redacci=F3n. Instalaci=F3n de actualizaciones. Liberaci=F3n de espacio en
+disco. Optimizaci=F3n. Tarea aplicada a equipos de: Correcci=F3n,
+Comercial, Administraci=F3n, Recepci=F3n.
+
+- Por mal funcionamiento de equipo utilizado normalmente por mi,
+debido a falta de espacio en disco (por copia ya informada de archivo
+de Dise=F1o desde la red). Copia de archivos desde Pc Administrativa a
+4=BA equipo de Dise=F1o. En este momento, contin=FAa la tarea de copia de
+119 GB de datos entre Pc=60s mencionadas.
+Esta tarea se realiza por falta de medio de almacenamiento acorde para
+copia de respaldo.
+
+- Verificaci=F3n constante de estado del sitio launion.com.ar. Cuentas
+de correo funcionales. Hasta el momento, se encuentra la misma p=E1gina
+que a las 5 AM (enviada en captura de pantalla). Adem=E1s de la
+realizaci=F3n de tareas extensas, aprovech=E9 para esperar la posibilidad
+de cargar datos en el sitio web.
+
+- Anulaci=F3n de 2 (dos) cuentas de Facebook con denominaci=F3n =22Diario LA=
+
+UNION=22 creadas con anterioridad y abandonadas.
+
+- Creaci=F3n de una nueva cuenta en Facebook bajo el usuario de correo
+electr=F3nico launion=40launion.com.ar. Se analizar=E1 utilidad en el
+transcurso de los pr=F3ximos d=EDas.
+
+- Por llamado telef=F3nico del Sr. Omar Violante, me present=E9 en Loria
+475 para reparar la instalaci=F3n de la aplicaci=F3n QuarkXPress 3.3 que
+estaba corrupta. Sin dudas, el motivo del da=F1o es un cierre inadecuado
+de la aplicaci=F3n y/o un reseteo de Pc.
+
+Otras tareas menores ya informadas (como ser el caso de detecci=F3n de
+avisos mal impresos, etc.), no se reiteran.
+
+
+Saludo atte.
+
+
+
+Juli=E1n Marcelo Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+
+
+-----
+Se certific=F3 que el correo no contiene virus.
+Comprobada por AVG - www.avg.es
+Versi=F3n: 10.0.1204 / Base de datos de virus: 1498/3508 - Fecha de la versi=
+=F3n: 15/03/2011
+

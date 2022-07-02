@@ -1,0 +1,548 @@
+From: =?iso-8859-1?Q?Inform=E1tica_-_LA_UNION?= <informatica@launion.com.ar>
+To: "Carlos - Diario LA UNION" <carlos@launion.com.ar>
+Bcc: =?iso-8859-1?Q?Inform=E1tica_LA_UNION?= <informatica@launion.com.ar>
+Subject: Novedades 12 - 13/05/2011
+Date: Fri, 13 May 2011 04:36:13 -0500
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0029_01CC1127.4A079770"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.3664
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3664
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0029_01CC1127.4A079770
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_002A_01CC1127.4A079770"
+
+
+------=_NextPart_001_002A_01CC1127.4A079770
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Estimado Carlos:
+
+
+Te informo las novedades m=E1s importantes de la jornada:
+
+
+1. Revisi=F3n de inconveniente de funcionamiento espor=E1dico informado =
+acerca de conectividad Tango, solucionado con reinicios del equipo =
+servidor. Se realizan las siguientes tareas:
+
+a. Exigencia del sistema (ejecutando en estaciones de trabajo diferentes =
+procesos). No ocurrieron problemas.
+
+b. An=E1lisis de estructura de base de datos mediante SQL Doctor. No se =
+detectaron problemas en archivos. Se adjuntan archivos de log=B4s =
+generados que fueron revisados.
+
+c. Revisi=F3n de red ejecutando comandos varios de comprobaci=F3n de =
+conectividad. No se detectaron problemas.
+
+d. Revisi=F3n de red f=EDsica. No existen problemas f=EDsicos en el =
+tendido de red; pero, en la realizaci=F3n de las comprobaciones, se =
+detect=F3 carga el=E9ctrica inductiva importante en los gabinetes de los =
+equipos.
+
+e. Referido al punto "d". Se intent=F3 comprobar el origen de la =
+inducci=F3n de voltaje (lo cual genera inconvenientes en funcionamiento =
+de equipos y problemas en transmisi=F3n de datos en redes). Los trabajos =
+realizados fueron: apagado de todos los equipos y encendido uno a uno de =
+los mismos, desconexi=F3n / conexi=F3n a la red el=E9ctrica de =
+componentes e impresora, cambio de posici=F3n de tomas el=E9ctricas, =
+etc.
+
+La inducci=F3n de voltaje contin=FAa y es, seguramente, la causante de =
+los fallos espor=E1dicos en el funcionamiento de la conectividad al =
+servidor Tango. Puede comprobarse con el equipamiento inform=E1tico =
+encendido y, por ejemplo, tocando el gabinete de la Pc servidor Tango (u =
+otra) en la parte posterior, justo encima del conector RJ45 de red.
+
+Sin tener conocimientos suficientes de electricidad, y habiendo =
+observado detenidamente la instalaci=F3n el=E9ctrica adicional realizada =
+al momento de cambio de posici=F3n de gabinetes (en los "cajones") =
+podr=EDa deducir lo siguiente:
+
+- que la instalaci=F3n el=E9ctrica es deficiente e insegura. Se =
+observaron varios empalmes de cables entre las "zapatillas" que no son =
+recomendables t=E9cnicamente (muy cerca del equipamiento inform=E1tico y =
+cableados de Pc y redes).
+
+- que existe alg=FAn corte de la l=EDnea a tierra en alg=FAn sitio del =
+nuevo tendido (lo que produce una incorrecta descarga y la =
+correspondiente inducci=F3n).
+
+- que existe algun "ligado" de cableado en alg=FAn lugar del tendido =
+nuevo (si se junta el positivo con la tierra, existe inducci=F3n).
+
+- que la l=EDnea a tierra instalada no es suficiente para cumplir su =
+funci=F3n con todas las tomas de corriente existentes.
+
+- que existe alguna "zapatilla" con incorrecto funcionamiento.
+
+El voltaje inducido a los equipos no pudo ser calculado, pero es =
+importante por las descargas recibidas en mi mano.
+
+
+2. Asistencia a usuario por no detecci=F3n de archivo de Microsoft Word =
+(no hab=EDa sido almacenado antes de cerrar la aplicaci=F3n).
+
+
+3. Recorte / retoque de im=E1genes web. Carga de contenidos de cuerpo =
+principal al sitio launion.com.ar.
+
+
+4. An=E1lisis de estad=EDsticas varias (por ejemplo: promedio de visitas =
+en lo que va de Mayo de 2011, sin filtrado de direcciones IP: 1502 =
+diarias; promedio aproximado de descargas del diario en formato PDF en =
+mismo per=EDodo: 467).
+
+
+5. An=E1lisis de estado de base de datos. Aproxim=E1ndose a tama=F1o que =
+pudo haber desencadenado el fallo total de conectividad al servidor de =
+hosting a principios de Abril del corriente a=F1o.
+
+
+
+Hora de ingreso: 18:00 hs. (del 12/05/2011)
+Hora de egreso: 04:30 hs. (del 13/05/2011)
+
+
+
+Saludos cordiales.
+
+
+
+
+Juli=E1n Marcelo Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+
+------=_NextPart_001_002A_01CC1127.4A079770
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18928">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial><STRONG>Estimado =
+Carlos:</STRONG></FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Te informo las =
+novedades m=E1s=20
+importantes de la jornada:</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial><STRONG>1.</STRONG> =
+Revisi=F3n de=20
+inconveniente de funcionamiento espor=E1dico informado acerca de =
+conectividad=20
+Tango, solucionado con reinicios del equipo servidor. Se realizan las =
+siguientes=20
+tareas:</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>a. Exigencia del =
+sistema (ejecutando=20
+en estaciones de trabajo diferentes procesos). No ocurrieron=20
+problemas.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>b. An=E1lisis de =
+estructura de base de=20
+datos mediante SQL Doctor. No se detectaron problemas en archivos. Se =
+adjuntan=20
+archivos de log=B4s generados que fueron revisados.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>c. Revisi=F3n de red =
+ejecutando=20
+comandos varios de comprobaci=F3n de conectividad. No se detectaron=20
+problemas.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>d. Revisi=F3n de red =
+f=EDsica. No existen=20
+problemas f=EDsicos en el tendido de red; pero, en la realizaci=F3n de =
+las=20
+comprobaciones, se detect=F3 carga el=E9ctrica inductiva importante en =
+los gabinetes=20
+de los equipos.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>e. Referido al punto =
+"d". Se intent=F3=20
+comprobar el origen de la inducci=F3n de voltaje (lo cual genera =
+inconvenientes en=20
+funcionamiento de equipos y problemas en transmisi=F3n de datos en =
+redes). Los=20
+trabajos realizados fueron: apagado de todos los equipos y encendido uno =
+a uno=20
+de los mismos, desconexi=F3n / conexi=F3n a la red el=E9ctrica de =
+componentes e=20
+impresora, cambio de posici=F3n de tomas el=E9ctricas, etc.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>La inducci=F3n de =
+voltaje contin=FAa y=20
+es, seguramente, la causante de los fallos espor=E1dicos en el =
+funcionamiento de=20
+la conectividad al servidor Tango. Puede comprobarse con el equipamiento =
+
+inform=E1tico encendido y, por ejemplo, tocando el gabinete de la Pc =
+servidor=20
+Tango (u otra) en la parte posterior, justo encima del conector RJ45 de=20
+red.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Sin tener conocimientos =
+suficientes=20
+de electricidad, y habiendo observado detenidamente la instalaci=F3n =
+el=E9ctrica=20
+adicional realizada al momento de cambio de posici=F3n de gabinetes (en =
+los=20
+"cajones") podr=EDa deducir lo siguiente:</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- que la instalaci=F3n =
+el=E9ctrica es=20
+deficiente e insegura. Se observaron varios empalmes de cables entre las =
+
+"zapatillas" que no son recomendables t=E9cnicamente (muy cerca del =
+equipamiento=20
+inform=E1tico y cableados de Pc y redes).</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- que existe alg=FAn =
+corte de la l=EDnea=20
+a tierra en alg=FAn sitio del nuevo tendido (lo que produce una =
+incorrecta=20
+descarga y la correspondiente inducci=F3n).</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- que existe algun =
+"ligado" de=20
+cableado en alg=FAn lugar del tendido nuevo (si se junta el positivo con =
+la=20
+tierra, existe inducci=F3n).</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- que la l=EDnea a =
+tierra instalada no=20
+es suficiente para cumplir su funci=F3n con todas las tomas de corriente =
+
+existentes.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- que existe alguna =
+"zapatilla" con=20
+incorrecto funcionamiento.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>El voltaje inducido a =
+los equipos no=20
+pudo ser calculado, pero es importante por las descargas recibidas en mi =
+
+mano.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial><STRONG>2.</STRONG> =
+Asistencia a=20
+usuario por no detecci=F3n de archivo de Microsoft Word (no hab=EDa sido =
+almacenado=20
+antes de cerrar la aplicaci=F3n).</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial><STRONG>3.</STRONG> =
+Recorte / retoque=20
+de im=E1genes web. Carga de contenidos de cuerpo principal al sitio=20
+launion.com.ar.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial><STRONG>4.</STRONG> =
+An=E1lisis de=20
+estad=EDsticas varias (por ejemplo: promedio de visitas en lo que va de =
+Mayo de=20
+2011, sin filtrado de direcciones IP: 1502 diarias; promedio aproximado =
+de=20
+descargas del diario en formato PDF en mismo per=EDodo: =
+467).</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial><STRONG>5.</STRONG> =
+An=E1lisis de=20
+estado de base de datos. Aproxim=E1ndose a tama=F1o que pudo haber =
+desencadenado el=20
+fallo total de conectividad al servidor de hosting a principios de Abril =
+del=20
+corriente a=F1o.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Hora de ingreso: 18:00 =
+hs. (del=20
+12/05/2011)</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Hora de egreso: 04:30 =
+hs. (del=20
+13/05/2011)</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Saludos =
+cordiales.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial>Juli=E1n Marcelo =
+Zappia</FONT></DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial>Analista de =
+Sistemas</FONT></DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial>Diario LA UNION =
+S.A.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 =
+face=3DArial></FONT>&nbsp;</DIV></BODY></HTML>
+
+------=_NextPart_001_002A_01CC1127.4A079770--
+
+------=_NextPart_000_0029_01CC1127.4A079770
+Content-Type: application/octet-stream;
+	name="Logs TE7 12022011.rar"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+	filename="Logs TE7 12022011.rar"
+
+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
+
+------=_NextPart_000_0029_01CC1127.4A079770--

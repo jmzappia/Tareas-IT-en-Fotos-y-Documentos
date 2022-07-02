@@ -1,0 +1,855 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE TIPOS DE AVISOS			      ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.52 (o superior) ;
+;									      ;
+;-----------------------------------------------------------------------------;
+
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (01)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=01 CLASIFICADO COMUN
+[TaCab]=</CLASIF>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=0                     ; precio base por tipo de aviso
+[TaPcioExce]=0                     ; precio por excedente
+[TaRecDom]=0
+[TaRecLun]=0
+[TaRecMar]=0
+[TaRecMie]=0
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=001                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (02)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=DEST-1 SIN REC
+[TaCab]=</DEST-1>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=13.93                ; precio base por tipo de aviso
+[TaPcioExce]=16.25                ; precio por excedente
+[TaRecDom]=7
+[TaRecLun]=6
+[TaRecMar]=11
+[TaRecMie]=13
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=002                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (03)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=DEST-2 SIN REC
+[TaCab]=</DEST-2>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=13.93                ; precio base por tipo de aviso
+[TaPcioExce]=16.25                ; precio por excedente
+[TaRecDom]=7
+[TaRecLun]=6
+[TaRecMar]=11
+[TaRecMie]=13
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=002                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (04)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=DEST-3 SIN REC
+[TaCab]=</DEST-3>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=13.93                ; precio base por tipo de aviso
+[TaPcioExce]=16.25                ; precio por excedente
+[TaRecDom]=7
+[TaRecLun]=6
+[TaRecMar]=11
+[TaRecMie]=13
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=002                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (05)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=DEST-1 CON REC
+[TaCab]=</DESR-1>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=16.25                ; precio base por tipo de aviso
+[TaPcioExce]=18.56                 ; precio por excedente
+[TaRecDom]=8
+[TaRecLun]=7
+[TaRecMar]=13
+[TaRecMie]=15
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=003                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (06)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=DEST-2 CON REC
+[TaCab]=</DESR-2>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=16.25                ; precio base por tipo de aviso
+[TaPcioExce]=18.56                 ; precio por excedente
+[TaRecDom]=8
+[TaRecLun]=7
+[TaRecMar]=13
+[TaRecMie]=15
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=003                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (07)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=07 MARTILLERO COMUN
+[TaCab]=</CLASIF>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=0                     ; precio base por tipo de aviso
+[TaPcioExce]=0                     ; precio por excedente
+[TaRecDom]=0
+[TaRecLun]=0
+[TaRecMar]=0
+[TaRecMie]=0
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=004                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (08)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=08 MARTILLERO DESTACADO-1
+[TaCab]=</DEST-1>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=3                     ; precio base por tipo de aviso
+[TaPcioExce]=0                     ; precio por excedente
+[TaRecDom]=0
+[TaRecLun]=0
+[TaRecMar]=0
+[TaRecMie]=0
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=005                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (09)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=09 MARTILLERO DESTACADO-2
+[TaCab]=</DEST-2>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=3                     ; precio base por tipo de aviso
+[TaPcioExce]=0                     ; precio por excedente
+[TaRecDom]=0
+[TaRecLun]=0
+[TaRecMar]=0
+[TaRecMie]=0
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=005                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (10)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=10 MARTILLERO DESTACADO-3
+[TaCab]=</DEST-3>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=3                     ; precio base por tipo de aviso
+[TaPcioExce]=0                     ; precio por excedente
+[TaRecDom]=0
+[TaRecLun]=0
+[TaRecMar]=0
+[TaRecMie]=0
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=005                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (11)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=11 MARTILLERO RECUADRO-1
+[TaCab]=</DESR-1>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=3                     ; precio base por tipo de aviso
+[TaPcioExce]=0                     ; precio por excedente
+[TaRecDom]=0
+[TaRecLun]=0
+[TaRecMar]=0
+[TaRecMie]=0
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=005                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (12)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=12 MARTILLERO RECUADRO-2
+[TaCab]=</DESR-2>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=3                     ; precio base por tipo de aviso
+[TaPcioExce]=0                     ; precio por excedente
+[TaRecDom]=0
+[TaRecLun]=0
+[TaRecMar]=0
+[TaRecMie]=0
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=005                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (13)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=13 AVISOS INSTITUCIONALES
+[TaCab]=</CLASIF>
+[TaPedMed]=si
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=2
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=4                     ; precio base por tipo de aviso
+[TaPcioExce]=0                     ; precio por excedente
+[TaRecDom]=0
+[TaRecLun]=0
+[TaRecMar]=0
+[TaRecMie]=0
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=006                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (14)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=14 EDICTOS
+[TaCab]=</EDICTO>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=4                     ; precio base por tipo de aviso
+[TaPcioExce]=0                     ; precio por excedente
+[TaRecDom]=0
+[TaRecLun]=0
+[TaRecMar]=0
+[TaRecMie]=0
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=007                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (15)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=15 NOTABLES
+[TaCab]=</CLASIF>
+[TaPedMed]=si
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=2
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=0                     ; precio base por tipo de aviso
+[TaPcioExce]=0                     ; precio por excedente
+[TaRecDom]=0
+[TaRecLun]=0
+[TaRecMar]=0
+[TaRecMie]=0
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=008                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (16)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=16 DEST.1-6 COL.C/RECUADRO
+[TaCab]=</CLASIF>
+[TaPedMed]=si
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=2
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=16.25                ; precio base por tipo de aviso
+[TaPcioExce]=18.56                 ; precio por excedente
+[TaRecDom]=8
+[TaRecLun]=7
+[TaRecMar]=13
+[TaRecMie]=15
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=009                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (17)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=DEST-4 SIN REC
+[TaCab]=</DEST-4>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=13.93                ; precio base por tipo de aviso
+[TaPcioExce]=16.25                ; precio por excedente
+[TaRecDom]=7
+[TaRecLun]=6
+[TaRecMar]=11
+[TaRecMie]=13
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=002                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (18)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=DEST-5 SIN REC
+[TaCab]=</DEST-5>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=13.93                ; precio base por tipo de aviso
+[TaPcioExce]=16.25                ; precio por excedente
+[TaRecDom]=7
+[TaRecLun]=6
+[TaRecMar]=11
+[TaRecMie]=13
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=002                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (19)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=DEST-6 SIN REC
+[TaCab]=</DEST-6>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=13.93                ; precio base por tipo de aviso
+[TaPcioExce]=16.25                ; precio por excedente
+[TaRecDom]=7
+[TaRecLun]=6
+[TaRecMar]=11
+[TaRecMie]=13
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=002                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (20)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=DEST-7 SIN REC
+[TaCab]=</DEST-7>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=13.93                ; precio base por tipo de aviso
+[TaPcioExce]=16.25                ; precio por excedente
+[TaRecDom]=7
+[TaRecLun]=6
+[TaRecMar]=11
+[TaRecMie]=13
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=002                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (21)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=DEST-8 SIN REC
+[TaCab]=</DEST-8>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=13.93                ; precio base por tipo de aviso
+[TaPcioExce]=16.25                ; precio por excedente
+[TaRecDom]=7
+[TaRecLun]=6
+[TaRecMar]=11
+[TaRecMie]=13
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=002                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (22)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=DEST-3 CON REC
+[TaCab]=</DESR-3>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=16.25                ; precio base por tipo de aviso
+[TaPcioExce]=18.56                 ; precio por excedente
+[TaRecDom]=8
+[TaRecLun]=7
+[TaRecMar]=13
+[TaRecMie]=15
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=003                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (23)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=DEST-4 CON REC
+[TaCab]=</DESR-4>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=13.93                ; precio base por tipo de aviso
+[TaPcioExce]=16.25                ; precio por excedente
+[TaRecDom]=7
+[TaRecLun]=6
+[TaRecMar]=11
+[TaRecMie]=13
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=003                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (24)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=DEST-5 CON REC
+[TaCab]=</DESR-5>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=13.93                ; precio base por tipo de aviso
+[TaPcioExce]=16.25                ; precio por excedente
+[TaRecDom]=7
+[TaRecLun]=6
+[TaRecMar]=11
+[TaRecMie]=13
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=003                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (25)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=DEST-6 CON REC
+[TaCab]=</DESR-6>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=13.93                ; precio base por tipo de aviso
+[TaPcioExce]=16.25                ; precio por excedente
+[TaRecDom]=7
+[TaRecLun]=6
+[TaRecMar]=11
+[TaRecMie]=13
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=003                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (26)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=DEST-7 CON REC
+[TaCab]=</DESR-7>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=13.93                ; precio base por tipo de aviso
+[TaPcioExce]=16.25                ; precio por excedente
+[TaRecDom]=7
+[TaRecLun]=6
+[TaRecMar]=11
+[TaRecMie]=13
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=003                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (27)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=DEST-8 CON REC
+[TaCab]=</DESR-8>
+[TaPedMed]=no
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=0
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=13.93                ; precio base por tipo de aviso
+[TaPcioExce]=16.25                ; precio por excedente
+[TaRecDom]=7
+[TaRecLun]=6
+[TaRecMar]=11
+[TaRecMie]=13
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=003                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (28)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=28 FUNEBRES
+[TaCab]=</CLASIF>
+[TaPedMed]=si
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=2
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=4                     ; precio base por tipo de aviso
+[TaPcioExce]=0                     ; precio por excedente
+[TaRecDom]=0
+[TaRecLun]=0
+[TaRecMar]=0
+[TaRecMie]=0
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=007                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+
+;	+-------------------------------+
+;	|	Tipo de Aviso (29)	|
+;	+-------------------------------+
+[Ta]=inicio
+[TaNom]=29 SOCIALES
+[TaCab]=</CLASIF>
+[TaPedMed]=si
+; Control de centimetros vendidos por tipo de avisos (destacados)
+; 	0 desactivado   1-50 ubicaciones
+[TaCtrCen]=0
+; Salida a Composici¢n
+;	0 -> salida a composici¢n en archivos FIL (default)
+;	1 -> salida a composici¢n en archivo A01.OUT
+;	2 -> salida a composici¢n en archivo D01.OUT
+[TaEnComp]=2
+[TaMedMin]=1                      ; en centimetros, lineas,...
+[TaDiaMinPub]=1
+[TaPcioBase]=4                     ; precio base por tipo de aviso
+[TaPcioExce]=0                     ; precio por excedente
+[TaRecDom]=0
+[TaRecLun]=0
+[TaRecMar]=0
+[TaRecMie]=0
+[TaRecJue]=0
+[TaRecVie]=0
+[TaRecSab]=0
+[TaRelFor]=007                        ; n£mero de relaci¢n de f¢rmula a utilizar
+[Ta]=fin
+
+
+
+; fin de archivo
+

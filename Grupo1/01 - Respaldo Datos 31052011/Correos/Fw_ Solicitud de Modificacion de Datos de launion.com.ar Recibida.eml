@@ -1,0 +1,215 @@
+Return-path: <informatica@launion.com.ar>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Fri, 11 Mar 2011 10:05:06 -0700
+Received: from [190.51.186.220] (helo=aries071)
+	by host221.hostmonster.com with esmtpa (Exim 4.69)
+	(envelope-from <informatica@launion.com.ar>)
+	id 1Py5ly-0007w1-7j
+	for informatica@launion.com.ar; Fri, 11 Mar 2011 10:05:06 -0700
+Message-ID: <002f01cbe00d$87077280$dcba33be@aries071>
+Reply-To: =?iso-8859-1?Q?Inform=E1tica_LA_UNION?= <informatica@launion.com.ar>
+From: =?iso-8859-1?Q?Inform=E1tica_LA_UNION?= <informatica@launion.com.ar>
+To: <informatica@launion.com.ar>
+Subject: Fw: Solicitud de Modificacion de Datos de launion.com.ar Recibida
+Date: Fri, 11 Mar 2011 13:58:18 -0300
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-Identified-User: {1238:host221.hostmonster.com:launionc:launion.com.ar} {sentby:smtp auth 190.51.186.220 authed with informatica@launion.com.ar}
+X-Antivirus: AVG for E-mail 10.0.1204 [1498/3500]
+X-AVG-ID: ID385806C-B826D50
+
+
+----- Original Message -----
+From: "Julián Zappia" <julian.zappia@gmail.com>
+To: "director" <director@launion.com.ar>; "adrian" <adrian@ruetalo.com>;
+"informatica" <informatica@launion.com.ar>
+Sent: Friday, March 11, 2011 4:27 AM
+Subject: Fwd: Solicitud de Modificacion de Datos de launion.com.ar Recibida
+
+
+---------- Forwarded message ----------
+From: tramites-ack@nic.ar
+Date: Fri, 11 Mar 2011 04:26:08 -0300 (ART)
+Subject: Solicitud de Modificacion de Datos de launion.com.ar Recibida
+To: tramites-ack@nic.ar
+
+--------8<--------8<--------8<--------8<--------8<--------8<
+
+Este es un acuse de recibo de su requerimiento.
+
+Su requerimiento ha recibido el identificador de
+ tramite DEL5107291. Conserve este mail para referencia
+ futura.
+
+El resultado de su requerimiento le sera informado
+ al concluirse el tramite, mediante otro mensaje de correo
+ electronico.
+
+
+
+NIC-ARGENTINA
+
+--------8<--------8<--------8<--------8<--------8<--------8<
+
+>From julian.zappia@gmail.com  Fri Mar 11 03:54:46 2011
+Return-Path: <julian.zappia@gmail.com>
+X-Original-To: newdelegdom@nic.ar
+Delivered-To: asig2@maderna.nic.ar
+Received: from mx2.mrecic.gov.ar (belusi.mrec.ar [200.16.97.20])
+by maderna.nic.ar (Postfix) with ESMTP id 96DEFDDD64
+for <newdelegdom@nic.ar>; Fri, 11 Mar 2011 03:54:46 -0300 (ART)
+Received: from mail-qw0-f49.google.com ([209.85.216.49])
+  by mx2.mrecic.gov.ar with ESMTP; 11 Mar 2011 03:51:33 -0300
+Received: by qwj9 with SMTP id 9so2209254qwj.8
+        for <newdelegdom@nic.ar>; Thu, 10 Mar 2011 22:54:22 -0800 (PST)
+Received: by 10.224.126.140 with SMTP id c12mr7906590qas.246.1299826462052;
+ Thu, 10 Mar 2011 22:54:22 -0800 (PST)
+Received: by 10.224.67.14 with HTTP; Thu, 10 Mar 2011 22:54:22 -0800 (PST)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result:
+AvgCAJtVeU3RVdgxkGdsb2JhbACZIY0MCBQBAQEBCQkNBxQEIaYIijGCHoUWL4hbAQEDBYVdBIxO
+iGo6hC4
+X-IronPort-AV: E=Sophos;i="4.62,301,1297047600";
+   d="scan'208";a="7210818"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=N+tHBW0F6Fm3RqbNKYZmZfps16Sx/9v3Vmdlk7CQfNE=;
+        b=pYZfmkVxoVfxRhC7OIcRUywlRkYx11XXZ77u8xWKcefyD96aKH89OZmrdxmnGtxweZ
+
+01mr0+a+/zn+3gttFAncRLxxaaRxTTno6GaUVWIUJ7LnFJbh9bnMYqV0SHq9Z8dOOehz
+         0YHj/5HEIEptzqJhaYxwxZfk5x1mwXC8D8VoM=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+
+h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        b=OvwSvcSR2KFS9U+bGmvEPUMjMfmX7+DJENtW2cJ0zJWcL5WwRo44BwqW4d0I394JGE
+
+0Hw7mv9p5AK4MthrLIIXsT7/QuYXhZfcVBr2vEa22ZD6HzEBbKAISEyIo8qNQFXIEWl6
+         q1E6CiqRPEq0V3sBQWoe9fgxns+AYTNwc1WBY=
+MIME-Version: 1.0
+In-Reply-To: <20110311064940.2AB06DF405@maderna.nic.ar>
+References: <20110311064940.2AB06DF405@maderna.nic.ar>
+Date: Fri, 11 Mar 2011 03:54:22 -0300
+Message-ID: <AANLkTimf98f0rn_3kyncbA_-_H=A0YgUQxEdM7DBKLLD@mail.gmail.com>
+Subject: Re: Modificacion de datos de launion.com.ar
+From: Julián Zappia
+From: <julian.zappia@gmail.com>
+To: newdelegdom@nic.ar
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+*************************************************************
+*************************************************************
+
+IMPORTANTE: NO RESPONDA ESTE E-MAIL SIN LEERLO CUIDADOSAMENTE.
+
+*************************************************************
+*************************************************************
+
+Al responder este e-mail Ud. iniciara un tramite ante NIC-Argentina.
+
+Verifique que los datos correspondan al formulario que Ud.
+lleno en forma interactiva en el Web de NIC-Argentina en la
+fecha y hora del envio de este e-mail.
+
+Si Ud. no lleno este formulario en el Web del NIC, o los
+datos del formulario no corresponden a un tramite que Ud.
+desee iniciar en esta oportunidad ante el NIC, NO RESPONDA
+ESTE E-MAIL.
+
+Si Ud. desea iniciar el tramite, responda, con cuidado de no
+modificar en nada su contenido.
+------------------------------------------------------------
+Version 1.0 - NIC-ARGENTINA - Requerimiento de Actualizacion
+de Datos
+
+1. Accion ( <A>ctualizar/<N>o-Actualizar ): A
+2. Control Interno: 55322
+------------------------------------------------------------
+Version 1.7 - Julio 2002 - newdelegdom@nic.ar
+Delegacion de Denominacion
+
+0. Proposito del formulario
+
+a. (D)elegacion, (M)odificacion:Modificacion
+
+1. Denominacion:launion.com.ar
+
+2. Registrante:
+
+a. Nombre:DIARIO LA UNION
+b. Domicilio:Loria 475
+c. Ciudad:Lomas de Zamora
+d. Pais:Argentina
+e. Actividad Principal:Editorial
+
+3. Persona Responsable:
+a. Apellido y Nombre:Julian Marcelo Zappia
+b. Domicilio:Herminio Constanzo 484
+c. Ciudad:Monte Grande
+d. Pais:Argentina
+e. Correo Electronico:RESERVADO
+
+4. Entidad Administradora
+
+a. Nombre:Dattatec.com SRL
+b. Domicilio:Cordoba 3753
+c. Ciudad:Rosario
+d. Codigo Postal:2000
+e. Pais:Argentina
+f. Telefonos:541152388127
+g. Fax:541152388127
+h. Actividad Principal:Informatica
+
+5. Contacto Tecnico
+
+a. Apellido y Nombre:Dattatec.com SRL
+b. Domicilio:Cordoba 3753
+c. Ciudad:Rosario
+d. Codigo Postal:2000
+e. Pais:Argentina
+f. Telefonos:0341 4360555
+g. Horarios para contacto:24 horas
+h. Fax:0341 5169001
+i. Correo Electronico:RESERVADO
+
+6. DNS Primario
+
+a.Direccion IP:200.58.116.206
+b.Nombre:ns5.hostmar.com
+
+7. DNS Secundario
+
+a.Direccion IP:200.58.116.207
+b.Nombre:ns6.hostmar.com
+
+8.1. DNS secundario opcional 1
+
+a.Direccion IP:
+b.Nombre:
+
+8.2. DNS secundario opcional 2
+
+a.Direccion IP:
+b.Nombre:
+
+8.3. DNS secundario opcional 3
+
+a.Direccion IP:
+b.Nombre:
+NICARCTRL41077ZD718C28612FD4F7EDEDC9C53D6C71803Z1299825509Z
+
+
+
+-----
+Se certificó que el correo no contiene virus.
+Comprobada por AVG - www.avg.es
+Versión: 10.0.1204 / Base de datos de virus: 1498/3500 - Fecha de la versión: 11/03/2011

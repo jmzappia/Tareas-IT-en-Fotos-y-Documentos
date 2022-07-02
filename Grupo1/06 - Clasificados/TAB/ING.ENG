@@ -1,0 +1,212 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;               GENERAL MESSAGE CONFIGURATION  TABLE  (ENGLISH)               ;
+;									      ;
+;	       Classified Ad System - SDCLASS V. 2.00 or grater               ;
+;									      ;
+;-----------------------------------------------------------------------------;
+
+[LA]=90
+
+
+[LIM]=85
+[REF]=0    [MSJ]=%Press 'ESC' to continue%
+[REF]=1    [MSJ]=%%
+[REF]=2    [MSJ]=%%
+[REF]=3    [MSJ]=%%
+[REF]=4    [MSJ]=%%
+[REF]=5    [MSJ]=%EXIT FROM CLASSIFIED INPUT SYSTEM (Y/N)%
+[REF]=6    [MSJ]=%to select       %
+[REF]=7    [MSJ]=%ÄÙ to accept     (ESC) to exit%
+[REF]=8    [MSJ]=%Y%
+[REF]=9    [MSJ]=%N%
+[REF]=10   [MSJ]=%TERMINAL IN LOADING PROCESS%
+[REF]=11   [MSJ]=%Initializing system...%
+[REF]=12   [MSJ]=%Loading classification...%
+[REF]=13   [MSJ]=%Loading configuration parameters...%
+[REF]=14   [MSJ]=%      Loading printer codes...      %
+[REF]=15   [MSJ]=%Loading Filter tables...%
+[REF]=16   [MSJ]=%Initializing calendar...%
+[REF]=17   [MSJ]=%Agency : %
+
+[REF]=18   [MSJ]=%Customer %
+[REF]=19   [MSJ]=%Payment %
+[REF]=20   [MSJ]=%      Name :%
+[REF]=21   [MSJ]=%   Address :%
+[REF]=22   [MSJ]=%  Phone ## :%
+[REF]=23   [MSJ]=% C.Order # :%
+[REF]=24   [MSJ]=% Booked by :%
+[REF]=25   [MSJ]=% Customer# :%
+[REF]=26   [MSJ]=%   Sect. :%
+[REF]=27   [MSJ]=%SubSect. :%
+[REF]=28   [MSJ]=%Kind of Ad %
+[REF]=29   [MSJ]=% # of AD  :%
+[REF]=30   [MSJ]=%TOTAL TO PAY%
+[REF]=31   [MSJ]=%                             Save this Ad (Y/N)                          %
+[REF]=32   [MSJ]=%Confirm to Print the bill (Y/N)%
+[REF]=33   [MSJ]=%Saving and optimizing information..%
+[REF]=34   [MSJ]=%Wait a moment please%
+[REF]=35   [MSJ]=%Input Tax please:%
+[REF]=36   [MSJ]=%Input special condition   :%
+[REF]=37   [MSJ]=%Input the amount  to pay :%
+[REF]=38   [MSJ]=%Input extra charge:%
+[REF]=39   [MSJ]=%Input discounts     :%
+[REF]=40   [MSJ]=%Input the number of Ad    :%
+[REF]=41   [MSJ]=%Amount of columns      :%
+[REF]=42   [MSJ]=%Amount of centimeters  :%
+[REF]=43   [MSJ]=%Days/publish :%
+[REF]=44   [MSJ]=%           Input of Ads            %
+[REF]=45   [MSJ]=%(F1) HELP    (F2) SAVE     (F3) CALENDAR     (F4) EDITOR   (F5) REFRESH %
+[REF]=46   [MSJ]=%(F6) CALL Ads    (F7) Measure   (F8) Price   (F9) Reprint BILL   (F10) KILL%
+[REF]=47   [MSJ]=%          Customer list input        %
+[REF]=48   [MSJ]=%(F2) SAVE      (F3) Accounting Information   (F4) & (F5) Commentary %
+[REF]=49   [MSJ]=%(F6) EDIT SEARCHING RECORD      (F7) RESET SEARCHING RECORD   %
+[REF]=50   [MSJ]=%.. SEARCHING RECORDS ..%
+[REF]=51   [MSJ]=%Localized Customers%
+[REF]=52   [MSJ]=%Commentary:%
+[REF]=53   [MSJ]=%This register will be DELETED     %
+[REF]=54   [MSJ]=%CONFIRM OPERATION (Y/N)    %
+[REF]=55   [MSJ]=%      Kill of Ads       %
+[REF]=56   [MSJ]=%Confirm to kill (Y/N) %
+[REF]=57   [MSJ]=%Killing...    %
+[REF]=58   [MSJ]=%Find options%
+[REF]=59   [MSJ]=%  1.-  Number of Ad,direct %
+[REF]=60   [MSJ]=%  2.-  Number range of Ads %
+[REF]=61   [MSJ]=%  3.-  Customer Name       %
+[REF]=62   [MSJ]=%  4.-  Phone Number        %
+[REF]=63   [MSJ]=%  5.-  Customer Code       %
+[REF]=64   [MSJ]=% Searching by Number of AD    %
+[REF]=65   [MSJ]=%Input the number of Ad    :%
+[REF]=66   [MSJ]=% Number of Ad %
+[REF]=67   [MSJ]=%    (start) %
+[REF]=68   [MSJ]=%    (end)%
+[REF]=69   [MSJ]=% Searching by Customer Name      %
+[REF]=70   [MSJ]=%Input range      :%
+[REF]=71   [MSJ]=% Searching by Customer phone number%
+[REF]=72   [MSJ]=% Phone %
+[REF]=73   [MSJ]=% Searching by Customer Code      %
+[REF]=74   [MSJ]=% Code %
+[REF]=75   [MSJ]=% January %
+[REF]=76   [MSJ]=%February %
+[REF]=77   [MSJ]=%  March  %
+[REF]=78   [MSJ]=%  April  %
+[REF]=79   [MSJ]=%   May   %
+[REF]=80   [MSJ]=%  June   %
+[REF]=81   [MSJ]=%  July   %
+[REF]=82   [MSJ]=% August  %
+[REF]=83   [MSJ]=%September%
+[REF]=84   [MSJ]=% October %
+[REF]=85   [MSJ]=%November %
+[REF]=86   [MSJ]=%December %
+[REF]=87   [MSJ]=%Sun Mon Tue Wed Thu Fri Sat%
+[REF]=88   [MSJ]=%                   Saving...         wait a moment.                       %
+[REF]=89   [MSJ]=%                  Verifing....       wait a moment.                       %
+[REF]=90   [MSJ]=%                  Printing....       wait a moment.                       %
+[REF]=91   [MSJ]=%Name or Company    :%
+[REF]=92   [MSJ]=%Address  :%
+[REF]=93   [MSJ]=%Neighbor.:%
+[REF]=94   [MSJ]=%Post Code    :%
+[REF]=95   [MSJ]=%Emirate  :%
+[REF]=96   [MSJ]=%Phones   :%
+[REF]=97   [MSJ]=%Numbers of:%
+[REF]=98   [MSJ]=%DOC :%
+[REF]=99   [MSJ]=%Code   :%
+[REF]=100   [MSJ]=%Accounting informat. :%
+[REF]=101   [MSJ]=%Credit :%
+[REF]=102   [MSJ]=%Balan:%
+[REF]=103   [MSJ]=%Discount :%
+[REF]=104   [MSJ]=%Payment%
+[REF]=105   [MSJ]=%ATENTION%
+[REF]=106   [MSJ]=%Customer not Exist !%
+[REF]=107   [MSJ]=%DO YOU WANT ADD IT ? (Y/N)%
+[REF]=108   [MSJ]=%Sections availables%
+[REF]=109   [MSJ]=%Subsections availables%
+[REF]=110   [MSJ]=%Kind of Ads%
+[REF]=111   [MSJ]=%  IN.TAX     DISCOUNT     CHARGES      SPECIAL      PRICE EXTERNAL  LOGIN     %
+[REF]=112   [MSJ]=%       CORRECTION of Ads       SYSTEM Status       MEMORY Map                 %
+[REF]=113   [MSJ]=%Instal.:%
+[REF]=114   [MSJ]=%Superv.:%
+[REF]=115   [MSJ]=%Operat.:%
+[REF]=116   [MSJ]=%                   SECURITY SYSTEM                     %
+[REF]=117   [MSJ]=%Operator Name   :%
+[REF]=118   [MSJ]=%Access Password :%
+[REF]=119   [MSJ]=%(F6) CALL Ad  (F7) Measure  (F8) Price  (ESC) Exit from Ads Modifications%
+[REF]=120   [MSJ]=%Value  :%
+[REF]=121   [MSJ]=%Excedent :%
+[REF]=122   [MSJ]=%               Exit from Ads modifications (Y/N)                  %
+[REF]=123   [MSJ]=%Select the Agency to use        %
+[REF]=124   [MSJ]=%SYSTEM CONFIGURATION     %
+[REF]=125   [MSJ]=%Registered Ads (Inp/Kill)%
+[REF]=126   [MSJ]=%Ads      : (I)%
+[REF]=127   [MSJ]=% (K)%
+[REF]=128   [MSJ]=%Published: (I)%
+[REF]=129   [MSJ]=%Auto-Configuration Setup   %
+[REF]=130   [MSJ]=%Amount of Sections     : %
+[REF]=131   [MSJ]=%Amount of SubSections  : %
+[REF]=132   [MSJ]=%Agencies               : %
+[REF]=133   [MSJ]=%Allowanced  lines      : %
+[REF]=134   [MSJ]=%Ecuations lines        : %
+[REF]=135   [MSJ]=%Bill max Size          : %
+[REF]=136   [MSJ]=%Text max Size          : %
+[REF]=137   [MSJ]=%Message buffer max Size: %
+[REF]=138   [MSJ]=%Amount of Messages     : %
+[REF]=139   [MSJ]=%AD Text%
+[REF]=140   [MSJ]=%Ads modifcations%
+[REF]=141   [MSJ]=%Press 'ESC' to continue%
+[REF]=142   [MSJ]=%Searching and preparing information%
+[REF]=143   [MSJ]=%Place of the Ad        :%
+[REF]=144   [MSJ]=% Measures and Place of the Ad  %
+[REF]=145   [MSJ]=% Customers Names     %
+[REF]=146   [MSJ]=% (HOME) of Window  (END) of Window  (PG UP) one Window  (PG DOWN) one Window %
+[REF]=147   [MSJ]=%DO YOU WISH to SAVE the AD although%
+[REF]=148   [MSJ]=%the amount allowed is reached ?.%
+[REF]=149   [MSJ]=%(Yes/No) ?%
+[REF]=150   [MSJ]=%Place     %
+[REF]=151   [MSJ]=% Edition :%
+[REF]=152   [MSJ]=%      City :%
+[REF]=153   [MSJ]=%(F1) Loop grabar  (F2) Debug precio (ON/OFF)  (F3) Test dongle%
+[REF]=154   [MSJ]=%(F4) Ajuste de Caja%
+[REF]=155   [MSJ]=%%
+[REF]=156   [MSJ]=%%
+[REF]=157   [MSJ]=%###(####)###-#####XX%
+[REF]=158   [MSJ]=%DD/MM/YY%
+[REF]=159   [MSJ]=%DD-MM-CCYY%
+[REF]=160   [MSJ]=%DD-MM-YY%
+[REF]=161   [MSJ]=%TOTAL:%
+[REF]=162   [MSJ]=%Nro. Fact.:%
+[REF]=163   [MSJ]=%%
+[REF]=164   [MSJ]=%%
+[REF]=165   [MSJ]=%%
+[REF]=166   [MSJ]=%%
+[REF]=167   [MSJ]=%%
+[REF]=168   [MSJ]=%%
+[REF]=169   [MSJ]=%%
+
+[REF]=170   [MSJ]=%Comments   :%
+[REF]=171   [MSJ]=%SEARCH BY :%
+[REF]=172   [MSJ]=%(F2) SAVE    (F8) KILL  (F3) Accounting Information (F4) & (F5) Commentary %
+[REF]=173   [MSJ]=%Country:%
+[REF]=174   [MSJ]=%###(####)###-#####%
+[REF]=175   [MSJ]=%Ord.#:%
+[REF]=176   [MSJ]=%FAX:%
+[REF]=177   [MSJ]=%Booked by:%
+[REF]=178   [MSJ]=%TELEX:%
+[REF]=179   [MSJ]=%City:     %
+
+[REF]=180   [MSJ]=%Discriminaci¢n de Caja%
+[REF]=181   [MSJ]=%Pesos:%
+[REF]=182   [MSJ]=%Dolares:%
+[REF]=183   [MSJ]=%Cheques:%
+[REF]=184   [MSJ]=%Cot/dolar:%
+[REF]=185   [MSJ]=%Vuelto:%
+[REF]=186   [MSJ]=%Ingrese la discriminaci¢n del pago actual%
+[REF]=187   [MSJ]=% Ajuste de Caja %
+[REF]=188   [MSJ]=%Incorpore modificaciones en la caja%
+[REF]=189   [MSJ]=%Extracci¢n de caja:%
+
+[REF]=190   [MSJ]=%Los valores deben coincidir con el Total a Pagar.%
+
+
+; fin de archivo  [EOF]=   
+
+

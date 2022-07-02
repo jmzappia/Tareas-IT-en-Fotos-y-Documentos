@@ -1,0 +1,191 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE MENSAJES GENERALES (CASTELLANO\ESPA¥OL)     ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.50 o superior   ;
+;									      ;
+;-----------------------------------------------------------------------------;
+
+[LA]=90
+
+
+[LIM]=85
+[REF]=0    [MSJ]=%Press 'ESC' to continue%
+[REF]=1    [MSJ]=%%
+[REF]=2    [MSJ]=%%
+[REF]=3    [MSJ]=%%
+[REF]=4    [MSJ]=%%
+[REF]=5    [MSJ]=%EXIT FROM CLASSIFIED INPUT SYSTEM (Y/N)%
+[REF]=6    [MSJ]=%to select       %
+[REF]=7    [MSJ]=%ÄÙ to accept     (ESC) to exit%
+[REF]=8    [MSJ]=%Y%
+[REF]=9    [MSJ]=%N%
+[REF]=10   [MSJ]=%TERMINAL IN LOADING PROCESS%
+[REF]=11   [MSJ]=%Initializing system...%
+[REF]=12   [MSJ]=%Loading classification...%
+[REF]=13   [MSJ]=%Loading configuration parameters...%
+[REF]=14   [MSJ]=%      Loading printer codes...      %
+[REF]=15   [MSJ]=%      Loading Filter tables...      %
+[REF]=16   [MSJ]=%      Initializing calendar...      %
+[REF]=17   [MSJ]=%Agency : %
+[REF]=18   [MSJ]=%%
+[REF]=19   [MSJ]=%%
+[REF]=20   [MSJ]=%%
+
+
+[REF]=21   [MSJ]=%WARNING !!! A DATE CHANGE WAS DETECTED%
+[REF]=22   [MSJ]=%IN ANOTHER TERMINAL%
+[REF]=23   [MSJ]=%Please verify if these change is correct !!!.%
+[REF]=24   [MSJ]=%WARNING A DATE CHANGE WAS DETECTED%
+[REF]=25   [MSJ]=%ITS CORRECT ?%
+[REF]=26   [MSJ]=%If you accept the oldest Ads will be deleted.%
+[REF]=27   [MSJ]=%Actual Machine Date       :%
+[REF]=28   [MSJ]=%Do you accept date change (Y/N)%
+[REF]=29   [MSJ]=%Purge and optimzation operations in progress%
+[REF]=30   [MSJ]=%on the main network server.%
+[REF]=31   [MSJ]=%Wait a moment...%
+[REF]=32   [MSJ]=%Purging and optimizing...%
+[REF]=33   [MSJ]=%SEARCHING ADS TO PURGE    (1)%
+[REF]=34   [MSJ]=%       PURGING ADS    (1)     %
+[REF]=35   [MSJ]=%      REINDEXING   (1)    %
+[REF]=36   [MSJ]=%     PURGING DATAS  (1)   %
+[REF]=37   [MSJ]=%SEARCHING ADS TO PURGE (2)   %
+[REF]=38   [MSJ]=%       PURGING ADS    (2)     %
+[REF]=39   [MSJ]=%  PURGING  DATAS (2)%
+[REF]=40   [MSJ]=%   INICIALIZING BLOCKS   %
+[REF]=41   [MSJ]=%INITIALIZING SOLD CENTIMETERS TABLE%
+[REF]=42   [MSJ]=%      REINDEXING   (2)    %
+[REF]=43   [MSJ]=%ARRANGING INFORMATION << 1 >>%
+[REF]=44   [MSJ]=%ARRANGING INFORMATION >> 2 <<%
+[REF]=45   [MSJ]=%ARRANGING INFORMATION << 3 >>%
+[REF]=46   [MSJ]=%ARRANGING INFORMATION >> 4 <<%
+[REF]=47   [MSJ]=%ARRANGING INFORMATION << 5 >>%
+[REF]=48   [MSJ]=%           DEPURANDO << 1 >>           %
+[REF]=49   [MSJ]=% PURGING >> 2 << %
+[REF]=50   [MSJ]=% PURGING << 3 >> %
+[REF]=51   [MSJ]=% PURGING >> 4 << %
+[REF]=52   [MSJ]=% PURGING << 5 >> %
+[REF]=53   [MSJ]=% PURGING >> 6 << %
+[REF]=54   [MSJ]=%< <   CHEQUEANDO ESPACIO EN DISCO   > >%
+[REF]=55   [MSJ]=%%
+[REF]=56   [MSJ]=%%
+[REF]=57   [MSJ]=%%
+[REF]=58   [MSJ]=%%
+[REF]=59   [MSJ]=%%
+
+[REF]=60   [MSJ]=%MODULO DE DEPURACION Y OPTIMIZACION%
+[REF]=61   [MSJ]=%DEL SISTEMA DE%
+[REF]=62   [MSJ]=%< AVISOS CLASIFICADOS ( SDCLASS ) >%
+[REF]=63   [MSJ]=%< CONTROL DE CREDITOS >%
+[REF]=64   [MSJ]=%Progreso...                    %
+[REF]=65   [MSJ]=%%
+[REF]=66   [MSJ]=%%
+[REF]=67   [MSJ]=%%
+[REF]=68   [MSJ]=%%
+[REF]=69   [MSJ]=%%
+
+[REF]=70   [MSJ]=%%
+[REF]=71   [MSJ]=%%
+[REF]=72   [MSJ]=%%
+[REF]=73   [MSJ]=%%
+[REF]=74   [MSJ]=%%
+[REF]=75   [MSJ]=%%
+[REF]=76   [MSJ]=%%
+[REF]=77   [MSJ]=%%
+[REF]=78   [MSJ]=%%
+[REF]=79   [MSJ]=%%
+
+[REF]=80   [MSJ]=%%
+[REF]=81   [MSJ]=%%
+[REF]=82   [MSJ]=%%
+[REF]=83   [MSJ]=%%
+[REF]=84   [MSJ]=%%
+[REF]=85   [MSJ]=%%
+[REF]=86   [MSJ]=%%
+[REF]=87   [MSJ]=%%
+[REF]=88   [MSJ]=%%
+[REF]=89   [MSJ]=%%
+
+[REF]=90   [MSJ]=%%
+[REF]=91   [MSJ]=%%
+[REF]=92   [MSJ]=%%
+[REF]=93   [MSJ]=%%
+[REF]=94   [MSJ]=%%
+[REF]=95   [MSJ]=%%
+[REF]=96   [MSJ]=%%
+[REF]=97   [MSJ]=%%
+[REF]=98   [MSJ]=%%
+[REF]=99   [MSJ]=%%
+
+[REF]=100   [MSJ]=%%
+[REF]=101   [MSJ]=%%
+[REF]=102   [MSJ]=%%
+[REF]=103   [MSJ]=%%
+[REF]=104   [MSJ]=%%
+[REF]=105   [MSJ]=%%
+[REF]=106   [MSJ]=%%
+[REF]=107   [MSJ]=%%
+[REF]=108   [MSJ]=%%
+[REF]=109   [MSJ]=%%
+
+[REF]=110   [MSJ]=%%
+[REF]=111   [MSJ]=%%
+[REF]=112   [MSJ]=%%
+[REF]=113   [MSJ]=%%
+[REF]=114   [MSJ]=%%
+[REF]=115   [MSJ]=%%
+[REF]=116   [MSJ]=%%
+[REF]=117   [MSJ]=%%
+[REF]=118   [MSJ]=%%
+[REF]=119   [MSJ]=%%
+
+[REF]=120   [MSJ]=%%
+[REF]=121   [MSJ]=%%
+[REF]=122   [MSJ]=%%
+[REF]=123   [MSJ]=%%
+[REF]=124   [MSJ]=%%
+[REF]=125   [MSJ]=%%
+[REF]=126   [MSJ]=%%
+[REF]=127   [MSJ]=%%
+[REF]=128   [MSJ]=%%
+[REF]=129   [MSJ]=%%
+
+[REF]=130   [MSJ]=%%
+[REF]=131   [MSJ]=%%
+[REF]=132   [MSJ]=%%
+[REF]=133   [MSJ]=%%
+[REF]=134   [MSJ]=%%
+[REF]=135   [MSJ]=%%
+[REF]=136   [MSJ]=%%
+[REF]=137   [MSJ]=%%
+[REF]=138   [MSJ]=%%
+[REF]=139   [MSJ]=%%
+
+[REF]=140   [MSJ]=%%
+[REF]=141   [MSJ]=%%
+[REF]=142   [MSJ]=%%
+[REF]=143   [MSJ]=%%
+[REF]=144   [MSJ]=%%
+[REF]=145   [MSJ]=%%
+[REF]=146   [MSJ]=%%
+[REF]=147   [MSJ]=%%
+[REF]=148   [MSJ]=%%
+[REF]=149   [MSJ]=%%
+
+[REF]=150   [MSJ]=%%
+[REF]=151   [MSJ]=%%
+[REF]=152   [MSJ]=%%
+[REF]=153   [MSJ]=%%
+[REF]=154   [MSJ]=%%
+[REF]=155   [MSJ]=%%
+[REF]=156   [MSJ]=%%
+[REF]=157   [MSJ]=%%
+[REF]=158   [MSJ]=%%
+
+
+[REF]=159   [MSJ]=%DD-MM-CCYY%
+[REF]=160   [MSJ]=%DD-MM-YY%
+
+; End of file     [EOF]=   
+
+

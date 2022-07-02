@@ -1,0 +1,216 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE MENSAJES GENERALES (CASTELLANO\ESPA¥OL)     ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.50 o superior   ;
+;									      ;
+;-----------------------------------------------------------------------------;
+
+[LA]=90
+
+
+[LIM]=85
+[REF]=0    [MSJ]=%Press 'ESC' to continue%
+[REF]=1    [MSJ]=%%
+[REF]=2    [MSJ]=%%
+[REF]=3    [MSJ]=%%
+[REF]=4    [MSJ]=%%
+[REF]=5    [MSJ]=%EXIT FROM INPUT AD SYSTEM ? (Y/N)%
+[REF]=6    [MSJ]=%to select%
+[REF]=7    [MSJ]=%ÄÙ to accept     (ESC) to exit%
+[REF]=8    [MSJ]=%Y%
+[REF]=9    [MSJ]=%N%
+[REF]=10   [MSJ]=%TERMINAL IN LOADING PROCESS%
+[REF]=11   [MSJ]=%     Initializing  system ...    %
+[REF]=12   [MSJ]=%    Loading classification...    %
+[REF]=13   [MSJ]=%  Loading Configuration parameters...  %
+[REF]=14   [MSJ]=%         Loading printer codes ...          %
+[REF]=15   [MSJ]=%         Loading filter tables ...      %
+[REF]=16   [MSJ]=%        Initializing calendar ...       %
+[REF]=17   [MSJ]=%Agency : %
+[REF]=18   [MSJ]=%DD/MM/CCYY%
+[REF]=19   [MSJ]=%%
+[REF]=20   [MSJ]=%%
+
+
+[REF]=21   [MSJ]=%Credit Control%
+[REF]=22   [MSJ]=%%
+[REF]=23   [MSJ]=%%
+[REF]=24   [MSJ]=%Are you sure, CONFIRM (Y/N)%
+[REF]=25   [MSJ]=%Ads captured on      :%
+[REF]=26   [MSJ]=%%
+[REF]=27   [MSJ]=%%
+[REF]=28   [MSJ]=%Time:%
+[REF]=29   [MSJ]=%%
+[REF]=30   [MSJ]=%%
+[REF]=31   [MSJ]=%Verifying the ad number    :%
+[REF]=32   [MSJ]=%%
+[REF]=33   [MSJ]=%Wait a moment ... %
+[REF]=34   [MSJ]=%PATHNAME OR BASES NOT FOUND     ### HARDWARE OR INSTALLATION ERROR  ###%
+[REF]=35   [MSJ]=%AD without days to publish### ERROR ###%
+[REF]=36   [MSJ]=%%
+[REF]=37   [MSJ]=%%
+[REF]=38   [MSJ]=%WARNING  !!!!!!!!               ### HARDWARE OR INSTALLATION ERROR  ###%
+[REF]=39   [MSJ]=%%
+[REF]=40   [MSJ]=%%
+[REF]=41   [MSJ]=% 'CO_RECIB.BAT' NOT EXECUTED %
+[REF]=42   [MSJ]=%RECEPTION LISTING from %
+[REF]=43   [MSJ]=%Day:%
+[REF]=44   [MSJ]=%ADS ADDED %
+[REF]=45   [MSJ]=%AD RECEIVED >>> O.K. <<<%
+[REF]=46   [MSJ]=%ADS KILLED%
+[REF]=47   [MSJ]=%ERROR KILLING AN AD ### ERROR ###%
+[REF]=48   [MSJ]=%AD KILLED (T1)%
+[REF]=49   [MSJ]=%AD KILLED on DATE (T2)%
+[REF]=50   [MSJ]=%>>>>>>>>>>>>>>>>>>>>>>> RECEPTION CLOSED <<<<<<<<<<<<<<<<<<<<<<<<<%
+[REF]=51   [MSJ]=%Select the Agency to use%
+[REF]=52   [MSJ]=%Receiving and saving information%
+[REF]=53   [MSJ]=%of %
+[REF]=54   [MSJ]=%%
+[REF]=55   [MSJ]=%%
+[REF]=56   [MSJ]=%%
+[REF]=57   [MSJ]=%%
+[REF]=58   [MSJ]=%%
+[REF]=59   [MSJ]=%%
+
+[REF]=60    [MSJ]=%Verifique fecha:%
+[REF]=61    [MSJ]=%%
+[REF]=62    [MSJ]=%%
+[REF]=63    [MSJ]=%%
+[REF]=64    [MSJ]=%%
+[REF]=65    [MSJ]=%%
+[REF]=66    [MSJ]=%%
+[REF]=67    [MSJ]=%%
+[REF]=68    [MSJ]=%%
+[REF]=69    [MSJ]=%%
+
+[REF]=70   [MSJ]=%Rec. Ass.%
+[REF]=71   [MSJ]=%Rec. Assist. Assignment %
+[REF]=72   [MSJ]=%_ Number od Ad --------:%
+[REF]=73   [MSJ]=%_ Customer Name -------:%
+[REF]=74   [MSJ]=%_ Address -------------:%
+[REF]=75   [MSJ]=%_ City ----------------:%
+[REF]=76   [MSJ]=%_ Telephone -----------:%
+[REF]=77   [MSJ]=%_ Price of the Ad -----:%
+[REF]=78   [MSJ]=%_ Number of Payment ---:%
+[REF]=79   [MSJ]=%_ Date of Payment -----:%
+[REF]=80   [MSJ]=%_ Name of Rec. Assist.-:%
+[REF]=81   [MSJ]=%_ Total Payment -------:%
+[REF]=82   [MSJ]=%AD number%
+[REF]=83   [MSJ]=%Customer Name%
+[REF]=84   [MSJ]=%Address%
+[REF]=85   [MSJ]=%City%
+[REF]=86   [MSJ]=%Code%
+[REF]=87   [MSJ]=%_ Customer account # --:%
+[REF]=88   [MSJ]=%_ Authorising booking -:%
+[REF]=89   [MSJ]=%_ Customer Order number:%
+[REF]=90   [MSJ]=%_ Kind of Payment -----:%
+[REF]=91   [MSJ]=%_ Special -------------:%
+[REF]=92   [MSJ]=%_ Taxes ---------------:%
+[REF]=93   [MSJ]=%_ Charges -------------:%
+[REF]=94   [MSJ]=%_ Discounts -----------:%
+[REF]=95   [MSJ]=%_ Price of the AD E ---:%
+[REF]=96   [MSJ]=%_ Days to Publish -----:%
+[REF]=97   [MSJ]=%_ Operator of capture -:%
+[REF]=98   [MSJ]=%_ Date of Capture -----:%
+[REF]=99   [MSJ]=%_ Time of Capture -----:%
+[REF]=100   [MSJ]=%_ Number of Receipt ---:%
+[REF]=101   [MSJ]=%Input of Payment%
+[REF]=102   [MSJ]=%Matched Payment Ads (remaining into the system)%
+[REF]=103   [MSJ]=%< <  PROCESSING INFORMATION  > >%
+[REF]=104   [MSJ]=%<<  P R I N T I N G  >>%
+[REF]=105   [MSJ]=%Backup de Avisos Saldados%
+[REF]=106   [MSJ]=%%
+[REF]=107   [MSJ]=%%
+[REF]=108   [MSJ]=%%
+[REF]=109   [MSJ]=%%
+
+[REF]=110   [MSJ]=%0.# Recovery Assistant Assignment by Customer             %
+[REF]=111   [MSJ]=%1.# Recovery Assistant Assignment by Address              %
+[REF]=112   [MSJ]=%2.# Input Ads Payments                                    %
+[REF]=113   [MSJ]=%3.# Ads with payment received LESS than the Value         %
+[REF]=114   [MSJ]=%4.# Ads with payment received MORE than the Value         %
+[REF]=115   [MSJ]=%5.# Matched Payment Ads (remaining into the system)       %
+[REF]=116   [MSJ]=%A.- Listing of Ads WITHOUT PAYMENT by RECOVERY ASSISTANT  %
+[REF]=117   [MSJ]=%B.- Listing of MATCHED Ads (active ads)                   %
+[REF]=118   [MSJ]=%C.- Listing of Ads with DEBIT Balance (active ads)        %
+[REF]=119   [MSJ]=%D.- Listing of Ads with CREDIT Balance (actice ads)       %
+[REF]=120   [MSJ]=%E.- Monthly Balance by RECOVERY ASSISTANT                 %
+[REF]=121   [MSJ]=%F.- Monthly Balance by INVOICE number                     %
+[REF]=122   [MSJ]=%G.- Monthly Balance by RECEIPT number                     %
+[REF]=123   [MSJ]=%H.- Monthly RECOVERY ASSISTANT PERFORMANCE                %
+[REF]=124   [MSJ]=%I.- Monthly CUSTOMER Balance                              %
+[REF]=125   [MSJ]=%J.- Listado general por cobrador y zona                   %
+[REF]=126   [MSJ]=%K.- Listado por ciudad                                    %
+[REF]=127   [MSJ]=%6.# Input Ads                                             %
+[REF]=128   [MSJ]=%7.# Call Active Backup of Matched Ads                     %
+[REF]=129   [MSJ]=%8.# Call Disc Backup of Matched Ads                       %
+
+[REF]=130   [MSJ]=%Number od AD%
+[REF]=131   [MSJ]=%Customer Name%
+[REF]=132   [MSJ]=%Customer Address%
+[REF]=133   [MSJ]=%Customer City%
+[REF]=134   [MSJ]=%Customer Telephone%
+[REF]=135   [MSJ]=%Customer Account #%
+[REF]=136   [MSJ]=%Recovery Assistant%
+[REF]=137   [MSJ]=%%
+[REF]=138   [MSJ]=%%
+[REF]=139   [MSJ]=%%
+
+[REF]=140   [MSJ]=%NO HAY INFORMACION PARA%
+[REF]=141   [MSJ]=%IMPRIMIR%
+[REF]=142   [MSJ]=%(presione una tecla)%
+[REF]=143   [MSJ]=%%
+[REF]=144   [MSJ]=%%
+[REF]=145   [MSJ]=%%
+[REF]=146   [MSJ]=%%
+[REF]=147   [MSJ]=%%
+[REF]=148   [MSJ]=%%
+[REF]=149   [MSJ]=%%
+
+[REF]=150   [MSJ]=%%
+[REF]=151   [MSJ]=%Start of the Window%
+[REF]=152   [MSJ]=%End of the Window%
+[REF]=153   [MSJ]=%Number of record (order of input)%
+[REF]=154   [MSJ]=%Select Ordering by ...%
+[REF]=155   [MSJ]=%Search by : %
+[REF]=156   [MSJ]=%Input the information to search:%
+[REF]=157   [MSJ]=%%
+[REF]=159   [MSJ]=%DD-MM-CCYY%
+[REF]=160   [MSJ]=%DD-MM-YY%
+
+[REF]=158   [MSJ]=% Help %
+[REF]=161   [MSJ]=%You can use the Menu to select an Option or you can Press%
+[REF]=162   [MSJ]=%one of the following Command Keys%
+[REF]=163   [MSJ]=%%
+[REF]=164   [MSJ]=%E  Change to Edit screen (Edit Mode).%
+[REF]=165   [MSJ]=%Z  Change to Search screen (Search Mode).%
+[REF]=166   [MSJ]=%H  Change to Help screen (Help).%
+[REF]=167   [MSJ]=%X  Change to Main Menu screen (Exit).%
+[REF]=168   [MSJ]=%%
+[REF]=169   [MSJ]=%M  Modify the selected record.%
+[REF]=170   [MSJ]=%%
+[REF]=171   [MSJ]=%F  Find a record by selected ordering.%
+[REF]=172   [MSJ]=%S  Select a record ordering.%
+[REF]=173   [MSJ]=%%
+[REF]=174   [MSJ]=%T  Move to the Top record of the window.%
+[REF]=175   [MSJ]=%B  Move to the bottom record of the window.%
+[REF]=176   [MSJ]=%%
+[REF]=177   [MSJ]=%<Arrows Up or Down> Move up/down one record.%
+[REF]=178   [MSJ]=%<PgUp>  or <PgDn> Move up/down one record screen.%
+[REF]=179   [MSJ]=%%
+
+[REF]=180   [MSJ]=%Help%
+[REF]=181   [MSJ]=%Edit%
+[REF]=182   [MSJ]=%%
+[REF]=183   [MSJ]=%Go to..%
+[REF]=184   [MSJ]=%Find%
+[REF]=185   [MSJ]=%Exit%
+[REF]=186   [MSJ]=%Edit Mode  %
+[REF]=187   [MSJ]=%Search Mode%
+[REF]=188   [MSJ]=%%
+[REF]=189   [MSJ]=%%
+
+; fin de archivo  [EOF]=   
+
+

@@ -1,0 +1,49 @@
+[1]
+
+
+
+
+
+
+
+
+
+
+
+
+[ESP(66)][FECHA]
+
+
+[ESP(08)][CLI_NOM][ESP(12)][CLI_DIR]
+
+[ESP(05)][CLI_IVA]
+
+[ESP(16)]CONTADO[ESP(24)][CLI_CUIT]
+
+
+
+   [0][TXT(01)][1]
+   [0][TXT(02)][1]
+   [0][TXT(03)][1]
+   [0][TXT(04)][1]
+   [0][TXT(05)][1]
+   [0][TXT(06)][1]
+   [0][TXT(07)][1]
+   [0]N§ aviso: [NRO_A] D¡as:[DIA_P(01)] [DIA_P(02)] [DIA_P(03)] [DIA_P(04)] [DIA_P(05)] [DIA_P(06)] [DIA_P(07)] [DIA_P(08)] [DIA_P(09)] [DIA_P(10)] [DIA_P(11)] [DIA_P(12)] [DIA_P(13)] [DIA_P(14)] [DIA_P(15)] [DIA_P(16)] [DIA_P(17)][1]
+   [0][DIA_P(18)] [DIA_P(19)] [DIA_P(20)] [DIA_P(21)] [DIA_P(22)] [DIA_P(23)] [DIA_P(24)] [DIA_P(25)] [DIA_P(26)] [DIA_P(27)] [DIA_P(28)] [DIA_P(29)] [DIA_P(30)] [DIA_P(31)] [DIA_P(32)] [DIA_P(33)] [DIA_P(34)] [DIA_P(35)] [DIA_P(36)] [DIA_P(37)] [DIA_P(38)][1]
+
+   Abonado con pesos  : [C_PESOS]         Vuelto en pesos  : [VC_PESOS]
+               d¢lares: [C_DOLARES]                   d¢lares: [VC_DOLARES]
+               cheques: [C_CHEQUES]                   cheques: [VC_CHEQUES]
+   N£mero de cheque:
+   Banco librador:
+   Monto del cheque:
+   Fecha a cobrar:
+
+[ESP(05)][C_PAL] palabras[ESP(45)]$[PCIO_TOTAL]
+
+
+
+
+
+[6]

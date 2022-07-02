@@ -1,0 +1,445 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE LISTADOS				      ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.5  (o superior) ;
+;									      ;
+;-----------------------------------------------------------------------------;
+[INI]=
+
+;-------------------------------------------------------------------------------
+;	DEFINICION DE LISTADO DE AVISOS A COBRAR CON COBRADORES ASIGNADOS
+;-------------------------------------------------------------------------------
+[LisRef]=1
+;	Cantidad de lineas por hoja
+[LisCor]=10
+;	String con secuencia de codigos para relizar un salto de formulario
+;	(No debe ser mayor de 40 caracteres)
+[LisXCo]=%[7]%
+;	Orden de Salida por
+;		1 -> n£mero de aviso
+;		2 -> nombre del cliente
+;		3 -> direcci¢n del cliente
+;		4 -> ciudad del cliente
+;		5 -> tel‚fono del cliente
+;		6 -> c¢digo del cliente
+;		7 -> nombre del cobrador
+[LisOrd]=7
+;	Filtro de Salida
+;		1 -> Avisos a cobrar sin Cobrador asignado
+;		2 -> Avisos a cobrar con Cobrador asignado
+;		3 -> Avisos Cobrados con un valor inferior al mismo
+;		4 -> Avisos Cobrados con un valor superior al mismo
+;		5 -> Avisos Saldados
+[LisFil]=2
+;	Puerta Paralelo de Salida
+;		0 -> default
+;		1 -> LPT1
+;		2 -> LPT2
+;		3 -> LPT3
+[LisLpt]=1
+;	Cabezal de Hoja del Listado
+;	(No debe se mayor de 500 caracteres)
+[LisCab]=%AVISOS A COBRAR X COBRADOR
+[HORA]
+[FECHA]
+%
+;	Pie de Hoja del Listado
+;	(No debe ser mayor de 200 caracteres)
+[LisPie]=%[0]Pie en letra comprimida[1] letra normal
+%
+;
+;
+;
+;	DEFINICION DE COLUMNAS DE DATOS
+;	(No existen limites en la cantidad de columnas)
+;	Columna 1
+;	Nombre del Campo a visualizar
+[ColDat]=NRO_AVISO
+;	Tipo de Informaci¢n a visualizar
+;		C -> caracter (activa el control de anchos)
+;		N -> numerico
+[ColTip]=N
+;	Ancho del Campo a visualizar
+[ColAnc]=10
+;	Cantidad de Espacios en blanco a dejar como margen derecho
+[ColTab]=2
+;
+;	Columna 2
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=20
+[ColTab]=2
+;
+;	Columna 3
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=20
+[ColTab]=2
+;
+;	Columna 4
+[ColDat]=DIRE_CLI
+[ColTip]=C
+[ColAnc]=10
+[ColTab]=2
+
+
+
+;-------------------------------------------------------------------------------
+;	DEFINICION DE LISTADO DE AVISOS SALDADOS
+;-------------------------------------------------------------------------------
+[LisRef]=2
+[LisCor]=55
+[LisXCo]=%[7]%
+[LisOrd]=1
+[LisFil]=5
+[LisLpt]=1
+[LisCab]=%AVISOS SALDADOS
+%
+[LisPie]=%Pie
+%
+;
+;	Columna 1
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=2
+;	Columna 2
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=20
+[ColTab]=2
+;	Columna 3
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=20
+[ColTab]=2
+;	Columna 4
+[ColDat]=PRECIO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=2
+;	Columna 5
+[ColDat]=PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=2
+
+
+
+;-------------------------------------------------------------------------------
+;	DEFINICION DE LISTADO DE AVISOS CON SALDO DEUDOR
+;-------------------------------------------------------------------------------
+[LisRef]=3
+[LisCor]=55
+[LisXCo]=%[7]%
+[LisOrd]=7
+[LisFil]=3
+[LisLpt]=1
+[LisCab]=%AVISOS CON SALDO DEUDOR
+%
+[LisPie]=%Pie
+%
+;
+;	Columna 1
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=2
+;	Columna 2
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=20
+[ColTab]=2
+;	Columna 3
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=20
+[ColTab]=2
+;	Columna 4
+[ColDat]=PRECIO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=2
+;	Columna 5
+[ColDat]=PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=2
+
+
+
+;-------------------------------------------------------------------------------
+;	DEFINICION DE LISTADO DE AVISOS CON SALDO ACREEDOR
+;-------------------------------------------------------------------------------
+[LisRef]=4
+[LisCor]=55
+[LisXCo]=%[7]%
+[LisOrd]=7
+[LisFil]=4
+[LisLpt]=1
+[LisCab]=%AVISOS CON SALDO ACREEDOR
+%
+[LisPie]=%Pie
+%
+;
+;	Columna 1
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=2
+;	Columna 2
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=20
+[ColTab]=2
+;	Columna 3
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=20
+[ColTab]=2
+;	Columna 4
+[ColDat]=PRECIO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=2
+;	Columna 5
+[ColDat]=PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=2
+
+
+;-------------------------------------------------------------------------------
+;	a definir
+;-------------------------------------------------------------------------------
+[LisRef]=5
+[LisCor]=0
+[LisXCo]=%[7]%
+[LisOrd]=0
+[LisFil]=0
+[LisLpt]=0
+[LisCab]=%cabezal%
+[LisPie]=%Pie%
+;
+;	Columna 1
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=2
+
+;-------------------------------------------------------------------------------
+;	(LISTADO DE CUENTA DE UN COBRADOR POR MES)
+;-------------------------------------------------------------------------------
+[LisRef]=6
+[LisCor]=55
+[LisXCo]=%%
+[LisOrd]=1           ; NO TOCAR
+[LisFil]=6           ; NO TOCAR
+[LisLpt]=1
+[LisCab]=%[8]  LISTING NEW 0 (LISTADO DE CUENTA DE UN COBRADOR POR MES)
+[9]
+   INVOICE#  RECOVERY ASSISTANT     CUSTOMER NAME            PRICE       PAYMENT
+
+%
+[LisPie]=%[0]
+Listing of Ads with Debit Balance
+Requested on [FECHA] at [HORA]
+[1][7]%
+;
+;	Columna 1
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Columna 2
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=5
+;	Columna 3
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=8
+;	Columna 4
+[ColDat]=PRECIO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=2
+;	Columna 5
+[ColDat]=PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=1
+
+
+
+;-------------------------------------------------------------------------------
+; DEFINITION FOR THE LISTING (BALANCE DE UN MES POR NRO/AVISO)
+;-------------------------------------------------------------------------------
+[LisRef]=7
+[LisCor]=55
+[LisXCo]=%%
+[LisOrd]=1            ; NO TOCAR
+[LisFil]=6            ; NO TOCAR
+[LisLpt]=1
+[LisCab]=%[8]  NEW LIST 1 (BALANCE DE UN MES POR NRO/AVISO)
+[9]
+   INVOICE#  RECOVERY ASSISTANT     CUSTOMER NAME            PRICE       PAYMENT
+
+%
+[LisPie]=%[0]
+Listing of Matched Ads
+Requested on [FECHA] at [HORA]
+[1][7]%
+;
+;	Column 1
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 2
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=5
+;	Column 3
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=8
+;	Column 4
+[ColDat]=PRECIO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=2
+;	Column 5
+[ColDat]=PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=1
+;
+
+;-------------------------------------------------------------------------------
+; DEFINITION FOR THE LISTING (BALANCE DE UN MES POR NRO/RECIBO)
+;-------------------------------------------------------------------------------
+[LisRef]=8
+[LisCor]=55
+[LisXCo]=%%
+[LisOrd]=8            ; NO TOCAR
+[LisFil]=6            ; NO TOCAR
+[LisLpt]=1
+[LisCab]=%[8]  NEW LIST 2 (BALANCE DE UN MES POR NRO/RECIBO)
+[9]
+   INVOICE#  RECOVERY ASSISTANT     CUSTOMER NAME            PRICE       PAYMENT
+
+%
+[LisPie]=%[0]
+Listing of Matched Ads
+Requested on [FECHA] at [HORA]
+[1][7]%
+;
+;	Column 1
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 2
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=5
+;	Column 3
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=8
+;	Column 4
+[ColDat]=PRECIO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=2
+;	Column 5
+[ColDat]=PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=1
+;
+
+;-------------------------------------------------------------------------------
+; DEFINITION FOR THE LISTING (DESEMPE¥O DE UN COBRADOR HISTORICO)
+;-------------------------------------------------------------------------------
+[LisRef]=9
+[LisCor]=55
+[LisXCo]=%%
+[LisOrd]=9           ; NO TOCAR
+[LisFil]=6           ; NO TOCAR
+[LisLpt]=1
+[LisCab]=%[8]  NEW LIST 3 (DESEMPE¥O DE UN COBRADOR HISTORICO)
+[9]
+                                                             PRICE       PAYMENT
+
+%
+[LisPie]=%[0]
+Listing of Matched Ads
+Requested on [FECHA] at [HORA]
+[1][7]%
+;
+;	Column 1 (NULL)
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;
+
+
+;-------------------------------------------------------------------------------
+; DEFINITION FOR THE LISTING (CUENTA DE UN CLIENTE POR MES)
+;-------------------------------------------------------------------------------
+[LisRef]=10
+[LisCor]=55
+[LisXCo]=%%
+[LisOrd]=1           ; NO TOCAR
+[LisFil]=6           ; NO TOCAR
+[LisLpt]=1
+[LisCab]=%[8]  NEW LIST 4 (CUENTA DE UN CLIENTE POR MES)
+[9]
+   INVOICE#  RECOVERY ASSISTANT     CUSTOMER NAME            PRICE       PAYMENT
+
+%
+[LisPie]=%[0]
+Listing of Matched Ads
+Requested on [FECHA] at [HORA]
+[1][7]%
+;
+;	Column 1
+[ColDat]=NRO_AVISO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=0
+;	Column 2
+[ColDat]=COBRADOR
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=5
+;	Column 3
+[ColDat]=NOMBRE_CLI
+[ColTip]=C
+[ColAnc]=15
+[ColTab]=8
+;	Column 4
+[ColDat]=PRECIO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=2
+;	Column 5
+[ColDat]=PAGO
+[ColTip]=N
+[ColAnc]=10
+[ColTab]=1
+;
+
+
+; fin de archivo         [EOF]=              
+

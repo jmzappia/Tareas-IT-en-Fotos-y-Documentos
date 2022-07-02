@@ -1,0 +1,189 @@
+;-----------------------------------------------------------------------------;
+;                                                                             ;
+;       TABLA DE CONFIGURACION GENERAL                                        ;
+;                                                                             ;
+;               Sistema de Avisos Clasificados - SDCLASS V. 1.50 (o superior) ;
+;                                                                             ;
+;-----------------------------------------------------------------------------;
+; ACLARACIONES:
+;       Los valores acompa¤ados por la palabra 'default' son los sugeridos para
+; cada item de configuraci¢n.
+;       Los literales 'LA' son para uso interno del cargador de tablas, no
+; deben ser modificados en ningun caso.
+
+
+;       +-------------------------------+
+;       |       Informaci¢n General     |
+;       +-------------------------------+
+; (m x. 28 caracteres)  [LA]=28
+
+[RazonSocial]=DIARIO "LA UNION"
+
+
+; Sistema de Seguridad (activar si / no)
+[CtrlUs]=si
+; tiempo sin uso con logeo (0=desactiva) (n minutos) (default 12)
+[TimeUs]=12
+
+
+; Tiempo de Apagado de pantalla y Conmutaci¢n de M¢dulos(n minutos)(default 15)
+[TimeDe]=15
+
+; Reservado (siempre 0)
+[TipMon]=0
+
+
+; Monitoreo de errores (archivo ERRORES.STA)
+[ErrAct]=si
+;       Largo m x. de archivo de monitoreo(n bytes)(default 50000)
+[ErrLar]=50000
+
+
+; Tiempo de retardo para el HOST antes de atender a los usuarios
+; (n segundos)(default 10)
+[TimeHo]=10
+
+
+; Verificaci¢n de alta de avisos (default si)
+[VerAlt]=si
+
+
+;       +---------------+
+;       | Ediciones     |
+;       +---------------+
+; Cantidad de ediciones (1-8) (default 1)
+[EdiCan]=1
+; Habilitar publicaci¢n con ediciones combinadas (si/no)
+;       Al seleccionar '1' en cantidad de ediciones las combinaciones
+;       quedan automaticamente anuladas
+[EdiCom]=si
+
+
+;       +-------------------------------+
+;       | Avisos con m s de una columna |
+;       +-------------------------------+
+;       Validaci¢n de cm y col (valores m x. en el ingreso) (tecla F7)
+[MaxCen]=36
+[MaxCol]=6
+
+
+;       +---------------------------------+
+;       | Control de Centimetraje vendido |
+;       +---------------------------------+
+;       Control de centimetros vendidos por ubicacion (si/no)
+;       Las ubicaciones pueden ser paginas, secciones, suplementos, etc.
+;       Existen 50 ubicaciones posibles.
+[CtrCen]=no
+;       Valor base por ubicaci¢n expresado en centimetros (formato xxxx.xx).
+;       El reset de la ubicacion se realiza por 5.
+[-01-05]=200                                 ; Ubicaciones de 01 a 05
+[-06-10]=200                                 ; Ubicaciones de 06 a 10
+[-11-15]=200                                 ; Ubicaciones de 11 a 15
+[-16-20]=200                                 ; Ubicaciones de 16 a 20
+[-21-25]=200                                 ; Ubicaciones de 21 a 25
+[-26-30]=200                                 ; Ubicaciones de 26 a 30
+[-31-35]=200                                 ; Ubicaciones de 31 a 35
+[-36-40]=200                                 ; Ubicaciones de 36 a 40
+[-41-45]=200                                 ; Ubicaciones de 41 a 45
+[-46-50]=200                                 ; Ubicaciones de 46 a 50
+
+;       +----------------------------+
+;       | Informaci¢n de Composici¢n |
+;       +----------------------------+
+; Formato de salida del texto en los archivos con extension RUB
+; Los parametros disponibles son:
+;       1 -> no modifica el texto
+;       2 -> texto justificado
+;       3 -> idem 2, mas formatos por evento
+;       4 -> idem 3, mas desplegando todos los formatos
+[ComFot]=3
+
+; Formato de Salida a Composici¢n
+;       0 -> Salida Standard (default)
+;       1 -> Salida Preformateada 1 (extensi¢n de toma de destacados para Quark de MAC)
+[ComTip]=0
+
+
+;       +---------------------------------------+
+;       | Informaci¢n para el Recibo y Listados |
+;       +---------------------------------------+
+;       Par metros para el texto del aviso (recibo)
+[TxtJustif]=no
+[LineasRec]=9
+[AnchoRec]=136
+
+;       impresora 1 o impresora 2 para listados
+[LPTList]=2
+
+;       N£mero de aviso  ( n/a = no alterar )
+[NroAviso]=118224
+;       Rango para el n£mero de aviso
+[NroRangoInf]=0
+[NroRangoSup]=999999
+
+;       Tama¤o m ximo del los buffers de texto  (rango de 1000 a 8000)
+;        (default 6000)
+[TTxt]=6000
+;       Tama¤o del buffer auxiliar del recibo   (buffer de desbordamiento)
+;        (default 1000)
+[TARe]=3000
+
+
+;       +------------------------------+
+;       | Avisos con Caja discriminada |
+;       +------------------------------+
+; Habilita o deshabilita la caja discriminada (pesos/dolares/cheques) (default no)
+[CajDis]=si
+; Cotizaci¢n del dolar con respecto al peso.
+[CotDol]=1
+
+
+;       +------------------------------+
+;       | Informaci¢n para Depuraci¢n  |
+;       +------------------------------+
+
+; Remanencia en la base de datos de avisos activos (default 0) Rango 0 a 6
+; (n d¡as de remanencia a partir del £ltimo d¡a a publicar)
+[RemAct]=3
+
+; Remanencia en la base de datos de avisos inactivos (default 7) Rango 1 a 27
+; (n d¡as de remanencia a partir de la fecha de incorporaci¢n en la base)
+[RemUpd]=1
+
+; Remanencia en la base de datos de control de creditos (default 1) Rango 1 a 4
+; (n meses de remanencia a partir de la fecha de pago)
+[RemCre]=1
+
+; Remanencia en la base de datos de backup de control de creditos (default 2)
+; (n meses de remanencia a partir de la fecha de pago) Rango 1 a 4
+[RemCBa]=1
+
+
+;       +----------------------------+
+;       | Informaci¢n del Calendario |
+;       +----------------------------+
+;       Colores del Calendario (VGA mono,Herc,MGA ps/25)
+[ColCursor1]=135
+[ColCursor2]=143
+[ColCursor3]=137
+[ColNormal]=7
+[ColBloquear]=112
+[ColMarcar]=15
+[ColPublicar]=113
+[ColBonificar]=48
+
+;       D¡as Bloqueados en el Calendario ( si/no )
+[BloqDiaActual]=si
+[BloqLun]=no
+[BloqMar]=no
+[BloqMie]=no
+[BloqJue]=no
+[BloqVie]=no
+[BloqSab]=no
+[BloqDom]=no
+;       Bloqueo individual de d¡as (m x. 85 caracteres por linea)   [LA]=85
+[Bloq]=1/1/95 14/4/95 1/5/95 7/11/95 25/12/95 
+
+
+;   fin de archivo
+

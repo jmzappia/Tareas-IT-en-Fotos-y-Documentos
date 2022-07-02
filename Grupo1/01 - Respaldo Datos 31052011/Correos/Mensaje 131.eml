@@ -1,0 +1,74 @@
+Return-path: <julian.zappia@gmail.com>
+Envelope-to: director@launion.com.ar
+Delivery-date: Tue, 15 Mar 2011 05:11:16 -0300
+Received: from [209.85.216.178] (helo=mail-qy0-f178.google.com)
+	by launio.launion.com.ar with esmtp (Exim 4.63)
+	(envelope-from <julian.zappia@gmail.com>)
+	id 1PzPLY-0001Bw-2A
+	for director@launion.com.ar; Tue, 15 Mar 2011 05:11:16 -0300
+Received: by qyk2 with SMTP id 2so270139qyk.16
+        for <director@launion.com.ar>; Tue, 15 Mar 2011 01:11:13 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:date:message-id:subject:from:to
+         :content-type:content-transfer-encoding;
+        bh=RfsFaLVJIkXNlx0riBKyKmAfKIB9EbyRYBCuZYOUL8k=;
+        b=anBT437yAZzAjdaLrGbP+jKXo4ZH4vzchISQw7I9zl6jjw6VtoV+ZtBIaNyDWnJDhq
+         CnWBg0BbuoU6IZbNH9WjGQKaQJ2o08VCZOu1wXpInIVq64PfL0bS55OMi9eAsYBPO4aD
+         gfS6qe3rdG2cHeCt7R4Vn5RKg0xiV3KRvsMs8=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=bcc:mime-version:date:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        b=hwjrKNQUPeLpWRij76WyFq+7RtmSadKsdyoGYTGWHAiVW8qQ30BrQKAGiMeyucl/HD
+         BMlhRAtXyTU2MrFWUlQakTr+hTN7IFjVY5pJYRgU0PElL+ts7jmUYEbrAzV3TdJRZXab
+         ubIIHRLczfQrs6E+347x5E5+EDywdlqSgAPdY=
+Bcc: director@launion.com.ar
+MIME-Version: 1.0
+Received: by 10.224.126.140 with SMTP id c12mr11935484qas.246.1300176673135;
+ Tue, 15 Mar 2011 01:11:13 -0700 (PDT)
+Received: by 10.224.67.14 with HTTP; Tue, 15 Mar 2011 01:11:13 -0700 (PDT)
+Date: Tue, 15 Mar 2011 05:11:13 -0300
+Message-ID: <AANLkTi=Y8zHs6RpmikMQJdRWQ4BN8REkk7TK_5Lc18=j@mail.gmail.com>
+Subject: 
+From: =?ISO-8859-1?Q?Juli=E1n_Zappia?= <julian.zappia@gmail.com>
+To: carlosbisignano <carlosbisignano@gmail.com>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Score: 6.2
+X-Spam-Score-Int: 62
+X-Spam-Bar: ++++++
+X-Spam-Report: Spam detection software, running on the system "launio.launion.com.ar", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Carlos: Estoy en el diario laburando. Si necesitás algo, estoy
+	atento acá por un rato más. Julián [...] 
+	Content analysis details:   (6.2 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	2.4 DNS_FROM_OPENWHOIS     RBL: Envelope sender listed in bl.open-whois.org.
+	3.4 FH_DATE_PAST_20XX      The date is grossly in the future.
+	-1.0 RCVD_IN_DNSWL_LOW      RBL: Sender listed at http://www.dnswl.org/, low
+	trust
+	[209.85.216.178 listed in list.dnswl.org]
+	1.3 MISSING_SUBJECT        Missing Subject: header
+	0.1 RDNS_NONE              Delivered to trusted network by a host with no rDNS
+X-Antivirus: AVG for E-mail 10.0.1204 [1498/3508]
+X-AVG-ID: ID2BED9AD0-379BDD20
+
+Carlos:
+
+Estoy en el diario laburando.
+Si necesit=E1s algo, estoy atento ac=E1 por un rato m=E1s.
+
+Juli=E1n
+
+
+-----
+Se certific=F3 que el correo no contiene virus.
+Comprobada por AVG - www.avg.es
+Versi=F3n: 10.0.1204 / Base de datos de virus: 1498/3508 - Fecha de la versi=
+=F3n: 15/03/2011
+

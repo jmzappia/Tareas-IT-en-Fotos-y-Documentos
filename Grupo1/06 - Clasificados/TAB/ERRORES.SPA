@@ -1,0 +1,415 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE MENSAJES DE ERRORES (CASTELLANO\ESPA¥OL)    ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.50 o superior   ;
+;									      ;
+;-----------------------------------------------------------------------------;
+
+
+;+-------------------------------------+
+;| ERRORES GENERALES DE ACCESO A DISCO |
+;+-------------------------------------+
+[NRO]=100                                        ; E_CREATE
+[MSJ1]=%ERROR Creando Archivo%
+[MSJ2]=
+[NRO]=120                                        ; E_OPEN
+[MSJ1]=%ERROR Abriendo Archivo%
+[MSJ2]=
+[NRO]=140                                        ; E_READ
+[MSJ1]=%ERROR Leyendo de Disco%
+[MSJ2]=
+[NRO]=150                                        ; E_LSEEK
+[MSJ1]=%ERROR Buscando de Disco%
+[MSJ2]=
+[NRO]=160                                        ; E_WRITE
+[MSJ1]=%ERROR Escribiendo en Disco%
+[MSJ2]=
+[NRO]=180                                        ; E_CLOSE
+[MSJ1]=%ERROR Cerrando Archivo%
+[MSJ2]=
+[NRO]=190                                        ; E_REMOVE
+[MSJ1]=%ERROR Removiendo Archivo%
+[MSJ2]=
+[NRO]=192                                        ; NO_FREE_DISK
+[MSJ1]=%ADVERTENCIA: NO HAY ESPACIO EN DISCO%
+[MSJ2]=%<< LLAME AL SUPERVISOR >>%
+[NRO]=193                                        ; FATAL_NO_FREE_DISK
+[MSJ1]=%ERROR FATAL: NO HAY ESPACIO EN DISCO%
+[MSJ2]=%OPERACION ACTUAL ABORTADA%
+[NRO]=194                                        ; A_PURGE
+[MSJ1]=%ATENCION: Debe Depurar !!!%
+[MSJ2]=
+[NRO]=195                                        ; W_PURGE
+[MSJ1]=%PELIGRO: Depure el Sistema !!!!%
+[MSJ2]=
+
+
+
+
+
+;+---------------------------------------+
+;| ERRORES ESPECIFICOS DE BASES DE DATOS |
+;+---------------------------------------+
+[NRO]=200
+[MSJ1]=%ERROR Formato de Base de Datos%
+[MSJ2]=
+[NRO]=240
+[MSJ1]=%ERROR Base de Datos no Abierta%
+[MSJ2]=
+[NRO]=260
+[MSJ1]=%ERROR Registro demasiado Largo%
+[MSJ2]=
+[NRO]=270
+[MSJ1]=%ERROR Campo Irreconocible%
+[MSJ2]=
+
+;+-----------------------------------------------+
+;| ERRORES ESPECIFICOS DE ARCHIVOS INDICES (NTX) |
+;+-----------------------------------------------+
+[NRO]=300
+[MSJ1]=%ERROR Construyendo Indice% 
+[MSJ2]=
+[NRO]=310
+[MSJ1]=%ERROR Cerrando Indice%
+[MSJ2]=
+[NRO]=320
+[MSJ1]=%ERROR Formato de Indice% 
+[MSJ2]=
+[NRO]=330
+[MSJ1]=%ERROR Indice Desactualizado%
+[MSJ2]=
+[NRO]=335
+[MSJ1]=%ERROR Registro de Indice Inexistente%
+[MSJ2]=
+[NRO]=340
+[MSJ1]=%ERROR Llave de Indice no Unica%
+[MSJ2]=
+[NRO]=350
+[MSJ1]=%ERROR Llave de Indice Evaluada%
+[MSJ2]=
+[NRO]=360
+[MSJ1]=%ERROR Llave larga o tipo cambiado%
+[MSJ2]=
+[NRO]=370
+[MSJ1]=%ERROR Llave de m s de 100 caracteres%
+[MSJ2]=
+[NRO]=380
+[MSJ1]=%ERROR Busqueda sin Indice%
+[MSJ2]=
+
+;+-----------------------+
+;| ERRORES DE USO EN RED |
+;+-----------------------+
+[NRO]=400
+[MSJ1]=%ERROR Bloqueando Archivo%
+[MSJ2]=
+[NRO]=450
+[MSJ1]=%ERROR Desbloqueando Archivo%
+[MSJ2]=
+
+
+;+-----------------------------------------------+
+;| ERRORES EVALUANDO (INTERPRETANDO) EXPRESIONES |
+;+-----------------------------------------------+
+[NRO]=500
+[MSJ1]=%ERROR Interpretando Expresi¢n%
+[MSJ2]=
+[NRO]=510
+[MSJ1]=%ERROR Interpretando Expresi¢n Nula%
+[MSJ2]=
+[NRO]=515
+[MSJ1]=%ERROR Fecha Incorrecta%
+[MSJ2]=
+[NRO]=520
+[MSJ1]=%ERROR Falta ',' o ')'%
+[MSJ2]=
+[NRO]=530
+[MSJ1]=%ERROR Expresi¢n Incompleta%
+[MSJ2]=
+[NRO]=540
+[MSJ1]=%ERROR Desbordamiento en Expresi¢n%
+[MSJ2]=
+[NRO]=550
+[MSJ1]=%ERROR Parametro en Expresi¢n%
+[MSJ2]=
+[NRO]=560
+[MSJ1]=%ERROR Falta ')' en Expresi¢n%
+[MSJ2]=
+[NRO]=570
+[MSJ1]=%ERROR Funci¢n Irreconocible%
+[MSJ2]=
+[NRO]=575
+[MSJ1]=%ERROR Operador Irreconocible%
+[MSJ2]=
+[NRO]=580
+[MSJ1]=%ERROR Valor Irreconocible%
+[MSJ2]=
+[NRO]=590
+[MSJ1]=%ERROR String en Expresi¢n%
+[MSJ2]=
+[NRO]=595
+[MSJ1]=%ERROR Parametros Erroneos%
+[MSJ2]=
+
+;+---------------------------------+
+;| ERRORES DE ARCHIVOS MEMOS (DBT) |
+;+---------------------------------+
+[NRO]=600
+[MSJ1]=%ERROR Editando Memo%
+[MSJ2]=
+[NRO]=620
+[MSJ1]=%ERROR Nombre de Memo%
+[MSJ2]=
+[NRO]=640
+[MSJ1]=%ERROR Memo Mayor de 32767 bytes%
+[MSJ2]=
+
+;+------------------------------+
+;| ERRORES DE VENTANAS Y MENUES |
+;+------------------------------+
+[NRO]=700
+[MSJ1]=%ERROR Nro Referencia de Ventana%
+[MSJ2]=
+
+;+-------------------------------+
+;| ERRORES DE RUTINAS EXTENDIDAS |
+;+-------------------------------+
+[NRO]=800
+[MSJ1]=%ERROR Relacionando Bases de Datos%
+[MSJ2]=
+[NRO]=820
+[MSJ1]=%ERROR Base de Datos no Controlada%
+[MSJ2]=
+[NRO]=840
+[MSJ1]=%ERROR Relaci¢n Ilegal%
+[MSJ2]=
+
+;+--------------------+
+;| ERRORES DE MEMORIA |
+;+--------------------+
+[NRO]=900
+[MSJ1]=%ERROR Fuera de Memoria%
+[MSJ2]=%No hay suficiente memoria.%
+[NRO]=920
+[MSJ1]=%ERROR Alocando Memoria%
+[MSJ2]=
+
+;+------------------+
+;| ERRORES INTERNOS |
+;+------------------+
+[NRO]=950
+[MSJ1]=%ERROR Memoria sobre Escrita%
+[MSJ2]=%No hay suficiente memoria.%
+
+;+-------------------------+
+;| ERRORES DE ORDENAMIENTO |
+;+-------------------------+
+[NRO]=1000
+[MSJ1]=%ERROR No hay Memoria para Ordenar%
+[MSJ2]=
+[NRO]=1010
+[MSJ1]=%ERROR Orden: Demasiados registros%
+[MSJ2]=
+
+;+--------------------------+
+;| ERRORES GENERALES VARIOS |
+;+--------------------------+
+[NRO]=1500                                       ; E_INSTALL
+[MSJ1]=%INCONSISTENCIA%
+[MSJ2]=
+[NRO]=1510                                       ; E_PACK
+[MSJ1]=%ERROR de Compresi¢n (PACK)%
+[MSJ2]=
+[NRO]=1520
+[MSJ1]=%ERROR Registro de AVISO%
+[MSJ2]=
+[NRO]=1530                                       ; E_PACK
+[MSJ1]=%ERROR de TABLA%
+[MSJ2]=
+[NRO]=1540                                       ; E_OPERACION
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=
+[NRO]=1550                                       ; E_LIMITE_ALTA
+[MSJ1]=%ATENCION <LLAME AL SUPERVISOR>%
+[MSJ2]=%Esta versi¢n reducida no admite m s altas.%
+
+
+;+--------------------------------+
+;| ERRORES VARIOS DE VERIFICACION |
+;+--------------------------------+
+[NRO]=1600
+[MSJ1]=%ERROR en VERIFICACION%
+[MSJ2]=%Palabras muy cortas en RANZON SOCIAL(nombre)%
+[NRO]=1605
+[MSJ1]=%ERROR en VERIFICACION%
+[MSJ2]=%AVISO MAL GRABADO%
+[NRO]=1610
+[MSJ1]=%ERROR en VERIFICACION%
+[MSJ2]=%VERIFIQUE DIAS A PUBLICAR%
+
+
+;+-----------------------------+
+;| ERRORES VARIOS DE OPERACION |
+;+-----------------------------+
+[NRO]=1700
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%EN FORMA DE PAGO%
+[NRO]=1705
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%Rango de b£squeda recortado > VISUALIZACION PARCIAL <%
+[NRO]=1710
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%DEMASIADOS REINTENTOS DE LOGEO%
+[NRO]=1715
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%TEXTO NO JUSTIFICADO (entre al editor y presione F10)%
+[NRO]=1720
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%AVISO NO ENCONTRADO%
+[NRO]=1725
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%EN RUBRO%
+[NRO]=1730
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%EN SUBRUBRO%
+[NRO]=1735
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%EN TIPO DE AVISO%
+[NRO]=1740
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%EN TEXTO (NO HA TIPEADO EL TEXTO)%
+[NRO]=1745
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%EN CALENDARIO (NO HA MARCADO DIAS)%
+[NRO]=1750
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%TECLA/OPCION DESHABILITADA (Sistema de Seguridad)%
+[NRO]=1755
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%NO ESTA PERMITIDO REIMPRIMIR FUERA DE LA FECHA ACTUAL%
+[NRO]=1760
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%TECLA NO DISPONIBLE PARA EL TIPO DE AVISO SELECCIONADO%
+[NRO]=1765
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%NO SE HAN ENCONTRADO AVISOS CON ESA FECHA%
+[NRO]=1770
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%NO SE HAN ENCONTRADO AVISOS EN EL RUBRO%
+[NRO]=1775					/* E_COLUMNA  */
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%COLUMNAS INCORRECTAS%
+[NRO]=1780					/* E_CENTIMETRO  */
+[MSJ1]=%ERROR De OPERACION%
+[MSJ2]=%CENTIMETROS INCORRECTOS%
+[NRO]=1785					// E_NO_DEPUR
+[MSJ1]=%ERROR, NO SE HA DEPURADO%
+[MSJ2]=%%
+[NRO]=1790			
+[MSJ1]=%NO HAY ESPACIO%				// E_NO_ESPACIO
+[MSJ2]=%%
+[NRO]=1795
+[MSJ1]=%NO ESTAN PERMITIDAS ALTAS CUANDO MODIFICA%	// E_NO_ALTA
+[MSJ2]=%%
+
+
+
+
+
+;+---------------------------------------------+
+;| ERRORES VARIOS DE INSTALACION O DE HARDWARE |
+;+---------------------------------------------+
+[NRO]=1800
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%Referencia sin registro%
+[NRO]=1805                                       ; E_S_DIAS
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%El aviso actual carece de d¡as a publicar.%
+[NRO]=1810                                       ; E_IMPRESORA
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%IMPRESORA FUERA DE SERVICIO%
+[NRO]=1815
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%Buffer de impresi¢n saturado.%
+[NRO]=1820
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%VARIABLE INCORRECTA EN IMPRESION%
+[NRO]=1825
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%SE TOMAN LAS FORMULAS DE DEFAULT%
+[NRO]=1830
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%DEMASIADAS LINEAS DE FORMULAS%
+[NRO]=1835
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%PARCIAL DE FORMULAS FUERA DE RANGO%
+[NRO]=1840
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%VARIABLE INCORRECTA EN FORMULAS%
+[NRO]=1845
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%AVISO SIN TEXTO%
+[NRO]=1850                                         	; E_NO_BATCH
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%NO SE PUDO EJECUTAR EL BATCH%
+[NRO]=1855
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%VARIABLE INCORRECTA EN FORMATO%
+[NRO]=1860
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%NO SE ENCONTRO RUBRO%
+[NRO]=1865
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%NO SE ENCONTRO SUBRUBRO%
+[NRO]=1870
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%RUBRO SIN SUBRUBROS%
+[NRO]=1875                                       ; E_SYS_DOS
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%Verificar PATH, ARCHIVO, y MEMORIA LIBRE%
+[NRO]=1880                                       ; E_REG_NULL
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%REGISTRO NULO%
+[NRO]=1885                                       ; E_FEC_S_AVI
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%FECHAS A PUBLICAR SIN DATOS DEL AVISO%
+[NRO]=1890                                       ; E_NO_AVISOS
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%NO HAY AVISOS EN EL SISTEMA%
+[NRO]=1895                                       ; E_NO_VERSION
+[MSJ1]=%ERROR De INSTALACION o de HARDWARE%
+[MSJ2]=%VERSION INCORRECTA%
+
+
+
+;+-------------------+
+;| ERRORES DE TABLAS |
+;+-------------------+
+[NRO]=2000
+[MSJ1]=%ERROR de TABLA%
+[MSJ2]=%Fin de archivo a mitad de un literal.%
+[NRO]=2005
+[MSJ1]=%ERROR de TABLA%
+[MSJ2]=%Literal demasiado largo.%
+[NRO]=2010
+[MSJ1]=%ERROR de TABLA%
+[MSJ2]=%Fin de archivo despu‚s de un literal (Falta '={dato}')%
+[NRO]=2015
+[MSJ1]=%ERROR de TABLA%
+[MSJ2]=%Argumento demasiado largo.%
+[NRO]=2020
+[MSJ1]=%ERROR de TABLA%
+[MSJ2]=%Literal irreconocible.%
+[NRO]=2025
+[MSJ1]=%ERROR de TABLA%
+[MSJ2]=%Falta '=' despu‚s de un literal%
+
+
+
+
+
+
+; fin de archivo
+
+

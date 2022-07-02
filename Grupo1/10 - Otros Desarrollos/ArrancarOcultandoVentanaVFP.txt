@@ -1,0 +1,6 @@
+Application.Visible = .F.
+Clear
+*Do Form <Nombre del Formulario de Nivel Superior>
+*Do <Nombre del Menu Principal de la Aplicacion>
+Read Event
+Application.Visible = .T.

@@ -1,0 +1,29 @@
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=1750122; 
+var sc_invisible=1; 
+var sc_security="670c90c0"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="wordpress stats "
+href="http://statcounter.com/wordpress.com/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/1750122/0/670c90c0/1/"
+alt="wordpress stats " ></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+
+
+Esto va dentro del <Body> (podés ponerlo al final, antes del </body>)
+
+
+1 - Después, tenés que descomprimir el archivo adjunto en la carpeta "wp-content/plugins" 
+2 - Abrir la pantalla de plugin`s en la consola de administración de WordPress
+3 - Llenar el detalle según las instrucciones.
+4 - Activar el plugin en la consola de administración
+
+
+Los resultados de las estadísticas pueden verse desde http://statcounter.com/project/standard/stats.php?project_id=1750122&guest=1
+

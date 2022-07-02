@@ -1,0 +1,228 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE MENSAJES GENERALES (CASTELLANO\ESPA¥OL)     ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 2.00 o superior   ;
+;									      ;
+;-----------------------------------------------------------------------------;
+
+[LA]=90
+
+
+[LIM]=85
+; Respetar cantidad de caracteres y centrado
+[REF]=0    [MSJ]=%Presione 'ESC' para continuar%
+[REF]=1    [MSJ]=%%
+[REF]=2    [MSJ]=%%
+[REF]=3    [MSJ]=%%
+[REF]=4    [MSJ]=%%
+
+; Tama¤o variable
+[REF]=5    [MSJ]=%DESEA SALIR DEL INGRESO DE AVISOS (S/N)%
+
+; Respetar cantidad de caracteres
+[REF]=6    [MSJ]=%para seleccionar%
+[REF]=7    [MSJ]=%ÄÙ para entrar     (ESC) para salir%
+[REF]=8    [MSJ]=%S%
+[REF]=9    [MSJ]=%N%
+
+[REF]=10   [MSJ]=%TERMINAL EN PROCESO DE CARGA%
+[REF]=11   [MSJ]=%   Inicializando el sistema...   %
+[REF]=12   [MSJ]=%    Cargando clasificaci¢n...    %
+[REF]=13   [MSJ]=%Cargando parametros de configuraci¢n...%
+[REF]=14   [MSJ]=%       Cargando c¢digos de printer...       %
+[REF]=15   [MSJ]=%       Cargando tablas de filtros...    %
+[REF]=16   [MSJ]=%      Inicializando calendario...       %
+[REF]=17   [MSJ]=%Agencia: %
+
+[REF]=18   [MSJ]=%Cliente %
+[REF]=19   [MSJ]=%Forma de pago %
+[REF]=20   [MSJ]=%    Nombre :%
+[REF]=21   [MSJ]=% Direcci¢n :%
+[REF]=22   [MSJ]=% Tarj/Cheq :%
+[REF]=23   [MSJ]=%       IVA :%
+[REF]=24   [MSJ]=%      CUIT :%
+[REF]=25   [MSJ]=%    C¢digo :  %
+[REF]=26   [MSJ]=%   Rubro :%
+[REF]=27   [MSJ]=%Subrubro :%
+[REF]=28   [MSJ]=%Tipo de aviso %
+[REF]=29   [MSJ]=%Nro. AVISO:%
+[REF]=30   [MSJ]=%TOTAL A PAGAR%
+[REF]=31   [MSJ]=%                       Graba el aviso actual (S/N)                       %
+[REF]=32   [MSJ]=%Confirme si emite factura (S/N)%
+[REF]=33   [MSJ]=%Grabando y optimizando informaci¢n.%
+[REF]=34   [MSJ]=%Espere un momento...%
+[REF]=35   [MSJ]=%Ingrese impuesto:%
+[REF]=36   [MSJ]=%Ingrese condici¢n especial:%
+[REF]=37   [MSJ]=%Ingrese el precio a pagar:%
+[REF]=38   [MSJ]=%Ingrese el recargo:%
+[REF]=39   [MSJ]=%Ingrese el descuento:%
+[REF]=40   [MSJ]=%Ingrese el n£mero de aviso:%
+[REF]=41   [MSJ]=%Cantidad de columnas   :%
+[REF]=42   [MSJ]=%Cant.l¡neas/centimetros:%
+[REF]=43   [MSJ]=%D¡as/publicar:%
+[REF]=44   [MSJ]=%         Ingreso de avisos         %
+[REF]=45   [MSJ]=%(F1) Ayuda   (F2) GRABAR   (F3) CALENDARIO   (F4) EDITOR   (F5) BORRAR %
+[REF]=46   [MSJ]=%(F6) LLAMAR aviso  (F7) Medida  (F8) Precio  (F9) Reimp. RECIBO  (F10) BAJA%
+[REF]=47   [MSJ]=%    Alta de Registros de Clientes    %
+[REF]=48   [MSJ]=%(F2) GRABAR    (F3) Datos Administrativos    (F4) y (F5) Comentarios%
+[REF]=49   [MSJ]=%(F6) EDITAR REG. DE BUSQUEDA    (F7) RESETEAR REG. DE BUSQUEDA%
+[REF]=50   [MSJ]=%.. REGISTROS DE BUSQUEDA ..%
+[REF]=51   [MSJ]=%Clientes localizados%
+[REF]=52   [MSJ]=%Comentario:%
+[REF]=53   [MSJ]=%El Registro actual se dar  de BAJA%
+[REF]=54   [MSJ]=%CONFIRMA LA OPERACION (S/N)%
+[REF]=55   [MSJ]=%     Baja de avisos     %
+[REF]=56   [MSJ]=%Confirme la baja (S/N)%
+[REF]=57   [MSJ]=%Dando de baja.%
+[REF]=58   [MSJ]=% Opciones de B£squedas %
+[REF]=59   [MSJ]=%  1.-  Nro Aviso (directo) %
+[REF]=60   [MSJ]=%  2.-  N£mero de Aviso     %
+[REF]=61   [MSJ]=%  3.-  Nombre de Cliente   %
+[REF]=62   [MSJ]=%  4.-  N£mero de tel‚fono  %
+[REF]=63   [MSJ]=%  5.-  C¢digo de Cliente   %
+[REF]=64   [MSJ]=% B£squeda por N£mero de Aviso %
+[REF]=65   [MSJ]=%Ingrese el n£mero de aviso:%
+[REF]=66   [MSJ]=% N£mero de Aviso %
+[REF]=67   [MSJ]=%    (inicio)%
+[REF]=68   [MSJ]=%    (fin)%
+[REF]=69   [MSJ]=% B£squeda por Nombre del Cliente %
+[REF]=70   [MSJ]=%Ingrese el rango :%
+[REF]=71   [MSJ]=% B£squeda por Tel‚fono del Cliente %
+[REF]=72   [MSJ]=% Tel‚fono %
+[REF]=73   [MSJ]=% B£squeda por C¢digo del Cliente %
+[REF]=74   [MSJ]=% C¢digo %
+[REF]=75   [MSJ]=%  Enero  %
+[REF]=76   [MSJ]=% Febrero %
+[REF]=77   [MSJ]=%  Marzo  %
+[REF]=78   [MSJ]=%  Abril  %
+[REF]=79   [MSJ]=%  Mayo   %
+[REF]=80   [MSJ]=%  Junio  %
+[REF]=81   [MSJ]=%  Julio  %
+[REF]=82   [MSJ]=% Agosto  %
+[REF]=83   [MSJ]=%Setiembre%
+[REF]=84   [MSJ]=% Octubre %
+[REF]=85   [MSJ]=%Noviembre%
+[REF]=86   [MSJ]=%Diciembre%
+[REF]=87   [MSJ]=%Dom Lun Mar Mie Jue Vie Sab%
+[REF]=88   [MSJ]=%                 Grabando...         espere un momento.                   %
+[REF]=89   [MSJ]=%                Verificando...       espere un momento.                   %
+[REF]=90   [MSJ]=%                Imprimiendo...       espere un momento.                   %
+[REF]=91   [MSJ]=%Nombre/Raz¢n Social:%
+[REF]=92   [MSJ]=%Direcci¢n:%
+[REF]=93   [MSJ]=%Localidad:%
+[REF]=94   [MSJ]=%C¢digo Postal:%
+[REF]=95   [MSJ]=%Provincia:%
+[REF]=96   [MSJ]=%Tel‚fonos:%
+[REF]=97   [MSJ]=%N£meros de:%
+[REF]=98   [MSJ]=%DNI :%
+[REF]=99   [MSJ]=%C¢digo :%
+[REF]=100   [MSJ]=%Datos Administrativos:%
+[REF]=101   [MSJ]=%Cr‚dito:%
+[REF]=102   [MSJ]=%Saldo:%
+[REF]=103   [MSJ]=%Descuento:%
+[REF]=104   [MSJ]=%Formas de Pago%
+[REF]=105   [MSJ]=%ATENCION%
+[REF]=106   [MSJ]=%Cliente No Existente%
+[REF]=107   [MSJ]=%DESEA INCORPORARLO ? (S/N)%
+[REF]=108   [MSJ]=%Rubros disponibles%
+[REF]=109   [MSJ]=%Subrubros disponibles%
+[REF]=110   [MSJ]=%Tipos de Avisos%
+[REF]=111   [MSJ]=%  IMPUESTO   DESCUENTO   RECARGO   COND. ESPECIAL   PCIO. EXTERNO   LOGIN     %
+[REF]=112   [MSJ]=%       CORRECCION de Avisos   ESTADO del Sistema   MAPEO de Memoria           %
+[REF]=113   [MSJ]=%Instal.:%
+[REF]=114   [MSJ]=%Superv.:%
+[REF]=115   [MSJ]=%Operad.:%
+[REF]=116   [MSJ]=%                 SISTEMA DE SEGURIDAD                  %
+[REF]=117   [MSJ]=%Nombre Operador :%
+[REF]=118   [MSJ]=%Clave de Acceso :%
+[REF]=119   [MSJ]=%(F6) LLAMAR aviso   (F7) Medida   (F8) Precio   (ESC) Salir de Modif.%
+[REF]=120   [MSJ]=%Importe:%
+[REF]=121   [MSJ]=%Remanente:%
+[REF]=122   [MSJ]=%               Sale de modificaci¢n de avisos (S/N)               %
+[REF]=123   [MSJ]=%Seleccione la Agencia a utilizar%
+[REF]=124   [MSJ]=%CONFIGURACION DEL SISTEMA%
+[REF]=125   [MSJ]=%Avisos Reg. (Altas/Bajas)%
+[REF]=126   [MSJ]=%Avisos   : (A)%
+[REF]=127   [MSJ]=% (B)%
+[REF]=128   [MSJ]=%Publicac.: (A)%
+[REF]=129   [MSJ]=%Seteo de auto-configuraci¢n%
+[REF]=130   [MSJ]=%Cantidad de Rubros     : %
+[REF]=131   [MSJ]=%Cantidad de Subrubros  : %
+[REF]=132   [MSJ]=%Agencias               : %
+[REF]=133   [MSJ]=%Lineas de Bonificaci¢n : %
+[REF]=134   [MSJ]=%Lineas de Ecuaciones   : %
+[REF]=135   [MSJ]=%Tama¤o m x. de Recibo  : %
+[REF]=136   [MSJ]=%Tama¤o m x. de Texto   : %
+[REF]=137   [MSJ]=%Tam. Buffer de Mensajes: %
+[REF]=138   [MSJ]=%Cantidad de Mensajes   : %
+[REF]=139   [MSJ]=%Texto del Aviso%
+[REF]=140   [MSJ]=%Modificaci¢n de avisos%
+[REF]=141   [MSJ]=%Presione 'ESC' para continuar%
+[REF]=142   [MSJ]=%Buscando y preparando informaci¢n.%
+[REF]=143   [MSJ]=%Ubicaci¢n del aviso    :%
+[REF]=144   [MSJ]=% Medidas y Ubicaci¢n del Aviso %
+[REF]=145   [MSJ]=% Nombres de Clientes %
+[REF]=146   [MSJ]=%(HOME) inicio   (END) fin   (PG UP) p gina arriba   (PG DN) p gina abajo%
+[REF]=147   [MSJ]=%DESEA GRABAR EL AVISO a pesar%
+[REF]=148   [MSJ]=%de haber cubierto el cupo.%
+[REF]=149   [MSJ]=%(Si/No) ?%
+[REF]=150   [MSJ]=%Ubicaci¢n %
+[REF]=151   [MSJ]=% Edici¢n :%
+[REF]=152   [MSJ]=%    Ciudad :%
+[REF]=153   [MSJ]=%(F1) Loop grabar  (F2) Debug precio (ON/OFF)  (F3) Test dongle%
+[REF]=154   [MSJ]=%(F4) Ajuste de caja%
+[REF]=155   [MSJ]=%%
+[REF]=156   [MSJ]=%%
+[REF]=157   [MSJ]=%XXXXXXXXXXXXXXXXXXXX%
+[REF]=158   [MSJ]=%DD/MM%
+[REF]=159   [MSJ]=%DD-MM-CCYY%
+[REF]=160   [MSJ]=%DD-MM-YY%
+[REF]=161   [MSJ]=%TOTAL:%
+[REF]=162   [MSJ]=%Nro. Fact.:%
+[REF]=163   [MSJ]=%%
+[REF]=164   [MSJ]=%%
+[REF]=165   [MSJ]=%%
+[REF]=166   [MSJ]=%%
+[REF]=167   [MSJ]=%%
+[REF]=168   [MSJ]=%%
+[REF]=169   [MSJ]=%%
+
+[REF]=170   [MSJ]=%Instalaci¢n:%
+[REF]=171   [MSJ]=%BUSCAR POR:%
+[REF]=172   [MSJ]=%(F2) GRABAR  (F8) BAJA  (F3) Datos Administrativos  (F4) y (F5) Comentarios%
+[REF]=173   [MSJ]=%Pais:%
+[REF]=174   [MSJ]=%###(####)###-#####%
+[REF]=175   [MSJ]=%IVA:%
+[REF]=176   [MSJ]=%FAX:%
+[REF]=177   [MSJ]=%CUIT :%
+[REF]=178   [MSJ]=%TELEX:%
+[REF]=179   [MSJ]=%Ciudad:   %
+
+[REF]=180   [MSJ]=% Discriminaci¢n de Caja %
+[REF]=181   [MSJ]=%Pesos:%
+[REF]=182   [MSJ]=%Dolares:%
+[REF]=183   [MSJ]=%Cheques:%
+[REF]=184   [MSJ]=%Cot/Dolar:%
+[REF]=185   [MSJ]=%Vuelto:%
+[REF]=186   [MSJ]=%Ingrese la discriminaci¢n del pago actual%
+[REF]=187   [MSJ]=% Ajuste de Caja %
+[REF]=188   [MSJ]=%Incorpore modificaciones en la caja%
+[REF]=189   [MSJ]=%Extracci¢n de caja:%
+
+[REF]=190   [MSJ]=%Los valores deben coincidir con el Precio a Pagar.%
+[REF]=191   [MSJ]=%%
+[REF]=192   [MSJ]=%%
+[REF]=193   [MSJ]=%%
+[REF]=194   [MSJ]=%%
+[REF]=195   [MSJ]=%%
+[REF]=196   [MSJ]=%%
+[REF]=197   [MSJ]=%%
+[REF]=198   [MSJ]=%%
+[REF]=199   [MSJ]=%%
+
+
+
+; fin de archivo  [EOF]=   
+
+

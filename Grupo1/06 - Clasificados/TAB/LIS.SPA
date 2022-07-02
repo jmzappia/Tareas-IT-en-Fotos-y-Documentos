@@ -1,0 +1,189 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE MENSAJES GENERALES (CASTELLANO\ESPA¥OL)     ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.50 o superior   ;
+;									      ;
+;-----------------------------------------------------------------------------;
+
+[LA]=200
+
+
+[LIM]=200
+[REF]=0    [MSJ]=%Presione 'ESC' para continuar%
+[REF]=1    [MSJ]=%%
+[REF]=2    [MSJ]=%%
+[REF]=3    [MSJ]=%%
+[REF]=4    [MSJ]=%%
+[REF]=5    [MSJ]=%DESEA SALIR DEL INGRESO DE AVISOS (S/N)%
+[REF]=6    [MSJ]=%para seleccionar%
+[REF]=7    [MSJ]=%ÄÙ para entrar     (ESC) para salir%
+[REF]=8    [MSJ]=%S%
+[REF]=9    [MSJ]=%N%
+[REF]=10   [MSJ]=%TERMINAL EN PROCESO DE CARGA%
+[REF]=11   [MSJ]=%   Inicializando el sistema...   %
+[REF]=12   [MSJ]=%    Cargando clasificaci¢n...    %
+[REF]=13   [MSJ]=%Cargando parametros de configuraci¢n...%
+[REF]=14   [MSJ]=%       Cargando c¢digos de printer...       %
+[REF]=15   [MSJ]=%       Cargando tablas de filtros...    %
+[REF]=16   [MSJ]=%      Inicializando calendario...       %
+[REF]=17   [MSJ]=%Agencia: %
+[REF]=18   [MSJ]=%%
+[REF]=19   [MSJ]=%%
+[REF]=20   [MSJ]=%%
+[REF]=21   [MSJ]=%%
+[REF]=22   [MSJ]=%%
+[REF]=23   [MSJ]=%%
+[REF]=24   [MSJ]=%%
+[REF]=25   [MSJ]=%%
+[REF]=26   [MSJ]=%%
+[REF]=27   [MSJ]=%%
+[REF]=28   [MSJ]=%%
+[REF]=29   [MSJ]=%%
+[REF]=30   [MSJ]=%%
+[REF]=31   [MSJ]=%%
+[REF]=32   [MSJ]=%%
+[REF]=33   [MSJ]=%%
+[REF]=34   [MSJ]=%%
+[REF]=35   [MSJ]=%%
+[REF]=36   [MSJ]=%%
+[REF]=37   [MSJ]=%%
+[REF]=38   [MSJ]=%%
+[REF]=39   [MSJ]=%%
+[REF]=40   [MSJ]=%%
+[REF]=41   [MSJ]=%%
+[REF]=42   [MSJ]=%%
+[REF]=43   [MSJ]=%%
+[REF]=44   [MSJ]=%%
+[REF]=45   [MSJ]=%%
+[REF]=46   [MSJ]=%%
+[REF]=47   [MSJ]=%%
+[REF]=48   [MSJ]=%%
+[REF]=49   [MSJ]=%%
+
+
+[REF]=50   [MSJ]=%Esta seguro, CONFIRME (S/N)%
+[REF]=51   [MSJ]=%Listados / Estad¡sticas%
+[REF]=52   [MSJ]=%1.- CAJA DE AGENCIA:%
+[REF]=53   [MSJ]=%2.- CAJA GENERAL (Administraci¢n)%
+[REF]=54   [MSJ]=%3.- CAJA GENERAL por AGENCIAS (Administraci¢n)%
+[REF]=55   [MSJ]=%4.- Avisos por FECHA de CAPTURA (Correctores)%
+[REF]=56   [MSJ]=%5.- Avisos por FECHA de PUBLICACION (Taller)%
+[REF]=57   [MSJ]=%6.- Centimetraje por FECHA de CAPTURA (Est. ventas)%
+[REF]=58   [MSJ]=%7.- Centimetraje por FECHA de PUBLICACION (Diagramado)%
+[REF]=59   [MSJ]=%8.- Cant. de avisos a publicar por rubro/subrubro%
+[REF]=60   [MSJ]=%Avisos capturados el :%
+[REF]=61   [MSJ]=%Enviando informaci¢n a impresora.%
+[REF]=62   [MSJ]=%Espere un momento...%
+[REF]=63   [MSJ]=%AVISOS CAPTURADOS EL %
+[REF]=64   [MSJ]=%AVISOS DADOS DE BAJA EL %
+[REF]=65   [MSJ]=%NRO.RECIBO | FORMA PAGO | NRO.AVISO |  OPERADOR  | HORA |    NOMBRE CLIENTE    |  TELEFONO  |          DIRECCION          | PCIO.TOTAL%
+[REF]=66   [MSJ]=%N£mero de aviso  DESDE:%
+[REF]=67   [MSJ]=%                 HASTA:%
+[REF]=68   [MSJ]=%Rubro:%
+[REF]=69   [MSJ]=%Subrubro:%
+[REF]=70   [MSJ]=%Nro. de Aviso:%
+[REF]=71   [MSJ]=%Tipo de Aviso:%
+[REF]=72   [MSJ]=%A publicar el :%
+[REF]=73   [MSJ]=%Avisos a publicar el :%
+[REF]=74   [MSJ]=%AVISOS A PUBLICAR EL %
+[REF]=75   [MSJ]=%CENT. EN EL SUBRUBRO:%
+[REF]=76   [MSJ]=%AVISOS EN SUBRUBRO  :%
+[REF]=77   [MSJ]=%CENT. DE AVISOS     :%
+[REF]=78   [MSJ]=%CENT. DE CABEZAL    :%
+[REF]=79   [MSJ]=%CENT. DE FMT. DIV.  :%
+[REF]=80   [MSJ]=%CENT. DE FMT. de PIE:%
+[REF]=81   [MSJ]=%TOTAL DEL RUBRO     :%
+[REF]=82   [MSJ]=%CANT. AVISOS x RUBRO:%
+[REF]=83   [MSJ]=% Aviso      Tipo de Aviso      Venc.   Pal Puntos Lineas Cent  Col CentxCol%
+[REF]=84   [MSJ]=%TOTAL DE CENTIMETROS:%
+[REF]=85   [MSJ]=%TOTAL DE AVISOS     :%
+[REF]=86   [MSJ]=%AVISOS POR AGENCIAS DEL %
+[REF]=87   [MSJ]=%Agencia:%
+[REF]=88   [MSJ]=%                                                                                         TOTAL REGISTRADO POR:%
+[REF]=89   [MSJ]=%                                                                                                          TOTAL GENERAL : $%
+[REF]=90   [MSJ]=%Hoja:%
+[REF]=91   [MSJ]=%LISTADO Nro.:%
+[REF]=92   [MSJ]=%Emitido:%
+[REF]=93   [MSJ]=%A.- Cant. de Avisos Capturados por D¡a (Estadist.)%
+[REF]=94   [MSJ]=%B.- Cant. de Avisos Capturados por D¡a de cada Agencia%
+[REF]=95   [MSJ]=%C.- Cant. de Avisos Capturados por D¡a por Operador%
+[REF]=96   [MSJ]=%D.- Cant. de Avisos Capturados por D¡a y Hora%
+[REF]=97   [MSJ]=%Cantidad de d¡as%
+[REF]=98   [MSJ]=%a evaluar (0-9):%
+[REF]=99   [MSJ]=%a evaluar:%
+[REF]=100   [MSJ]=%Tipo de gr fico:%
+[REF]=101   [MSJ]=%(0) Barras verticales%
+[REF]=102   [MSJ]=%(1) Barras horizontales%
+[REF]=103   [MSJ]=%(2) Forma de torta%
+[REF]=104   [MSJ]=%(2) Lineas%
+[REF]=105   [MSJ]=%Cantidad de usuarios%
+[REF]=106   [MSJ]=%Cantidad de agencias%
+[REF]=107   [MSJ]=%Cantidad de turnos%
+[REF]=108   [MSJ]=%9.- Cant. de Cent¡metros Vacantes por Ubicaci¢n%
+[REF]=109   [MSJ]=%CENT. SUBR. CABEZAL :%
+
+[REF]=110   [MSJ]=%0.- Subdiario IVA Ventas%
+[REF]=111   [MSJ]=%FACTURACION DEL %
+[REF]=112   [MSJ]=%  Fecha | Comprob. |  Nro.Factura  |    Apellido y Nombre     |     Cond.IVA        |     C.U.I.T.        |        Importe EXENTO%
+[REF]=113   [MSJ]=%                                 SUBDIARIO IVA VENTAS
+                                   Factura C - 0001
+
+%
+[REF]=114   [MSJ]=%                                                                                                   Total General:%
+[REF]=115   [MSJ]=%    FC C     0001-%
+[REF]=116   [MSJ]=%DD/MM/YY%
+[REF]=117   [MSJ]=%      Anulado - - - - - - - - - - - - - - - - - - - - - - - - - - -                    0.00%
+[REF]=118   [MSJ]=%0.- Totales de Caja discriminada%
+[REF]=119   [MSJ]=%TOTALES DE CAJA del %
+
+[REF]=120   [MSJ]=%Total en PESOS:   %
+[REF]=121   [MSJ]=%Total en DOLARES: %
+[REF]=122   [MSJ]=%Total en CHEQUES: %
+[REF]=123   [MSJ]=%TOTAL DE CAJA:    %
+[REF]=124   [MSJ]=%11.- Listado de avisos de arte (destacados)%
+[REF]=125   [MSJ]=%DESTACADOS A PUBLICAR EL %
+[REF]=126   [MSJ]=% Aviso      Tipo de Aviso      Venc.   Anunciante        Cent  Col CentxCol%
+[REF]=127   [MSJ]=%%
+[REF]=128   [MSJ]=%%
+[REF]=129   [MSJ]=%%
+
+[REF]=130   [MSJ]=%%
+[REF]=131   [MSJ]=%%
+[REF]=132   [MSJ]=%%
+[REF]=133   [MSJ]=%%
+[REF]=134   [MSJ]=%%
+[REF]=135   [MSJ]=%%
+[REF]=136   [MSJ]=%%
+[REF]=137   [MSJ]=%%
+[REF]=138   [MSJ]=%%
+[REF]=139   [MSJ]=%%
+
+[REF]=140   [MSJ]=%%
+[REF]=141   [MSJ]=%%
+[REF]=142   [MSJ]=%%
+[REF]=143   [MSJ]=%%
+[REF]=144   [MSJ]=%%
+[REF]=145   [MSJ]=%%
+[REF]=146   [MSJ]=%%
+[REF]=147   [MSJ]=%%
+[REF]=148   [MSJ]=%%
+[REF]=149   [MSJ]=%%
+
+[REF]=150   [MSJ]=%%
+[REF]=151   [MSJ]=%%
+[REF]=152   [MSJ]=%%
+[REF]=153   [MSJ]=%%
+[REF]=154   [MSJ]=%%
+[REF]=155   [MSJ]=%%
+[REF]=156   [MSJ]=%%
+[REF]=157   [MSJ]=%%
+[REF]=158   [MSJ]=%%
+
+
+[REF]=159   [MSJ]=%DD-MM-CCYY%
+[REF]=160   [MSJ]=%DD-MM-YY%
+
+; fin de archivo  [EOF]=   
+
+

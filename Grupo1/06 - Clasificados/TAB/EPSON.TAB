@@ -1,0 +1,28 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE PRINTER (EPSON)			      ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.31 o superior   ;
+;									      ;
+;-----------------------------------------------------------------------------;
+;
+; Los valores deben estar ingresados en notaci¢n decimal
+; 
+[0]=015 000 000 000 000      ; select condensed mode          
+[1]=018 000 000 000 000      ; cancel condensed mode          
+[2]=027 052 000 000 000      ; select italic mode             
+[3]=027 053 000 000 000      ; cancel italic mode             
+[4]=027 071 000 000 000      ; select double-strike mode      
+[5]=027 072 000 000 000      ; cancel double-strike mode      
+[6]=027 064 000 000 000      ; initialize printer             
+[7]=012 000 000 000 000      ; form feed                      
+[8]=014 000 000 000 000      ; select double-wide mode        
+[9]=020 000 000 000 000      ; cancel double-wide mode        
+[10]=027 067 048 056 000      ; largo de p gina en 8 inch
+[11]=000 000 000 000 000      ; reservado para el sistema      
+[12]=000 000 000 000 000      ; para uso del instalador
+[13]=000 000 000 000 000      ; para uso del instalador        
+[14]=000 000 000 000 000      ; para uso del instalador        
+[15]=000 000 000 000 000      ; para uso del instalador        
+; fin de archivo
+

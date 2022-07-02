@@ -1,0 +1,278 @@
+From: =?iso-8859-1?Q?Inform=E1tica_-_LA_UNION?= <informatica@launion.com.ar>
+To: <javier@insumosuipacha.com.ar>
+Bcc: "Carlos - Diario LA UNION" <carlos@launion.com.ar>,
+	=?iso-8859-1?Q?Inform=E1tica_LA_UNION?= <informatica@launion.com.ar>
+Subject: LA UNION - Problema de conectividad en HP 8100 N
+Date: Thu, 21 Apr 2011 22:22:18 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01CC0072.93575E30"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.3664
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3664
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_000C_01CC0072.93575E30
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Jueves 21 de Abril de 2011
+
+
+Estimado Javier:
+
+
+Te escribo el presente, para comentarte que he detectado un posible =
+error de conectividad utilizando JetDirect en la impresora HP 8100 N.
+
+Realizando ayer las conexiones correspondientes utilizando cable de red =
+Categor=EDa 5, la impresora HP 8150 N conect=F3 correctamente, asignando =
+autom=E1ticamente direcci=F3n IP y posibilitando la impresi=F3n mediante =
+ese protocolo.
+
+Sin embargo, la 8100 N aparenta conectividad activa (por visualizaci=F3n =
+de estado en led correspondiente de switch) pero no inicializa el =
+protocolo TCP-IP y, por ende, no asigna numeraci=F3n IP.
+
+Ante todo, te comento que descarto inconvenientes de conectividad en =
+cableados por haber sido testeados previamente.
+
+Te detallo algunos items de la p=E1gina de configuraci=F3n de JetDirect =
+emitida por la impresora:
+
+- HP JETDIRECT: J3113A
+- DIRECCION HW LAN: 0030C103BDE3
+- PUERTO SELECCIONADO: RJ45
+- CONFIG. PUERTO: 100 TX FULL
+- NEGOCIACION AUTOMATICA: ACT.
+- TOT. PAQUETES RCBD: 4
+- PAQUETES TRANSMIT: 44
+
+(No arroja datos de colisiones ni errores de recepci=F3n, transmisi=F3n =
+y trama).
+
+En informaci=F3n de protocolos, cita algunos de los puntos que a =
+continuaci=F3n comento:
+
+- NOMB. CMTY SNMP SET: NINGUNO
+- ESTADO TCP/IP: INICIALIZAND (constantemente este indicador; en un =
+reinicio de equipo, esper=E9 casi 30 minutos y reimprim=ED las =
+configuraciones, obteniendo los mismos resultados).
+- BOOTP/DHCP EN PROGRESO
+
+- NOMBRE DE SISTEMA: NPI03BDE3
+- CONFIG. POR: NO CONFIGURADO (cuando en la 8150 dice "POR USUARIO").
+- DIRECCION IP: 0.0.0.0
+- PATRON SUBRED: NO ESPECIF
+(Otros items con el mismo estado, indicando no conectividad IP).
+
+- ESTADO IPX/SPX: 29
+- MODO: SERVIDOR DE COLA
+- NOMBRE DE NODO: NPI03BDE3
+
+- ESTADO APPLETALK: PREPARADO
+- RED ETALK: 65218 NODO: 004 F2
+- NOMBRE APPLETALK: HP LaserJet 8100 Series
+- ZONA ETALK: *
+
+- ESTADO DLC/LLC: PREPARADO
+
+Omito otros items. Aparentar=EDa imposibilidad de conectividad IP =
+=FAnicamente.
+
+Adem=E1s, he observado algunas diferencias en las caracter=EDsticas del =
+equipo, como por ejemplo:
+
+- la 8150 N posee 40 MB de memoria total, cuando la 8100 tiene 32 (antes =
+de la =FAltima actualizaci=F3n por parte del t=E9cnico, ten=EDa 16 MB).
+
+- la 8100 N, seg=FAn los datos de p=E1ginas de configuraci=F3n, =
+tendr=EDa aproximadamente 18 MB menos en el disco RAM que la 8150, y no =
+tiene memoria flash incorporada.
+
+Realizo el correspondiente informe debido a que solicit=E9 pedido de =
+asistencia t=E9cnica al Sr. Carlos Crecente; con el fin de que est=E9s =
+al tanto de una pronta comunicaci=F3n, y tengas documentado previamente =
+los datos t=E9cnicos de la HP 8100 N que no conecta por protocolo =
+TCP/IP.
+
+
+Saludos cordiales.
+
+
+
+Juli=E1n Marcelo Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+
+------=_NextPart_000_000C_01CC0072.93575E30
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18928">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dright><FONT size=3D2 face=3DArial>Jueves 21 de Abril de =
+2011</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial><STRONG>Estimado =
+Javier:</STRONG></FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Te escribo el presente, =
+para=20
+comentarte que he detectado un posible error de conectividad utilizando=20
+JetDirect en la impresora HP 8100 N.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Realizando ayer las =
+conexiones=20
+correspondientes utilizando cable de red Categor=EDa 5, la impresora HP =
+8150 N=20
+conect=F3 correctamente, asignando autom=E1ticamente direcci=F3n IP y =
+posibilitando la=20
+impresi=F3n mediante ese protocolo.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Sin embargo, la 8100 N =
+aparenta=20
+conectividad activa (por visualizaci=F3n de estado en led =
+correspondiente de=20
+switch) pero no inicializa el protocolo TCP-IP y, por ende, no asigna =
+numeraci=F3n=20
+IP.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Ante todo, te comento =
+que descarto=20
+inconvenientes de conectividad en cableados por haber sido testeados=20
+previamente.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Te detallo algunos =
+items de la p=E1gina=20
+de configuraci=F3n de JetDirect emitida por la impresora:</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- HP JETDIRECT: =
+J3113A</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- DIRECCION HW LAN:=20
+0030C103BDE3</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- PUERTO SELECCIONADO:=20
+RJ45</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- CONFIG. PUERTO: 100 =
+TX=20
+FULL</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- NEGOCIACION =
+AUTOMATICA:=20
+ACT.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- TOT. PAQUETES RCBD: =
+4</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- PAQUETES TRANSMIT: =
+44</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>(No arroja datos de =
+colisiones ni=20
+errores de recepci=F3n, transmisi=F3n y trama).</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>En informaci=F3n de =
+protocolos, cita=20
+algunos de los puntos que a continuaci=F3n comento:</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- NOMB. CMTY SNMP SET:=20
+NINGUNO</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- ESTADO TCP/IP: =
+INICIALIZAND=20
+(constantemente este indicador; en un reinicio de equipo, esper=E9 casi =
+30 minutos=20
+y reimprim=ED las configuraciones, obteniendo los mismos =
+resultados).</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- BOOTP/DHCP EN =
+PROGRESO</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- NOMBRE DE SISTEMA:=20
+NPI03BDE3</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- CONFIG. POR: NO =
+CONFIGURADO (cuando=20
+en la 8150 dice "POR USUARIO").</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- DIRECCION IP: =
+0.0.0.0</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- PATRON SUBRED: NO=20
+ESPECIF</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>(Otros items con el =
+mismo estado,=20
+indicando no conectividad IP).</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- ESTADO IPX/SPX: =
+29</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- MODO: SERVIDOR DE =
+COLA</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- NOMBRE DE NODO:=20
+NPI03BDE3</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- ESTADO APPLETALK:=20
+PREPARADO</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- RED ETALK: 65218 =
+NODO: 004=20
+F2</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- NOMBRE APPLETALK: HP =
+LaserJet 8100=20
+Series</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- ZONA ETALK: =
+*</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- ESTADO DLC/LLC:=20
+PREPARADO</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Omito otros items. =
+Aparentar=EDa=20
+imposibilidad de conectividad IP =FAnicamente.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Adem=E1s, he observado =
+algunas=20
+diferencias en las caracter=EDsticas del equipo, como por =
+ejemplo:</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- la 8150 N posee 40 MB =
+de memoria=20
+total, cuando la 8100 tiene 32 (antes de la =FAltima actualizaci=F3n por =
+parte del=20
+t=E9cnico, ten=EDa 16 MB).</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>- la 8100 N, seg=FAn =
+los datos de=20
+p=E1ginas de configuraci=F3n, tendr=EDa aproximadamente 18 MB menos en =
+el disco RAM=20
+que la 8150, y no tiene memoria flash incorporada.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Realizo el =
+correspondiente informe=20
+debido a que solicit=E9 pedido de asistencia t=E9cnica al Sr. Carlos =
+Crecente; con=20
+el fin de que est=E9s al tanto de una pronta comunicaci=F3n, y tengas =
+documentado=20
+previamente los datos t=E9cnicos de la HP 8100 N que no conecta por =
+protocolo=20
+TCP/IP.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial>Saludos =
+cordiales.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Djustify><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial>Juli=E1n Marcelo =
+Zappia</FONT></DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial>Analista de =
+Sistemas</FONT></DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial>Diario LA UNION =
+S.A.</FONT></DIV>
+<DIV align=3Djustify><FONT size=3D2 =
+face=3DArial></FONT>&nbsp;</DIV></BODY></HTML>
+
+------=_NextPart_000_000C_01CC0072.93575E30--

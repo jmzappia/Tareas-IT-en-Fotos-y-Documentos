@@ -1,0 +1,129 @@
+Return-path: <dlusa.lomas@gmail.com>
+Envelope-to: informatica@launion.com.ar
+Delivery-date: Wed, 09 Mar 2011 15:35:06 -0700
+Received: from mail-iw0-f195.google.com ([209.85.214.195])
+	by host221.hostmonster.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.69)
+	(envelope-from <dlusa.lomas@gmail.com>)
+	id 1PxRyE-0004Ax-1u
+	for informatica@launion.com.ar; Wed, 09 Mar 2011 15:35:06 -0700
+Received: by iwn19 with SMTP id 19so360679iwn.10
+        for <informatica@launion.com.ar>; Wed, 09 Mar 2011 14:35:04 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=ROO5Jflq6gjXKoi9A1nkcDxgdxB1kzJwsrVCy+5rhOA=;
+        b=Iyt723yKP6edDQeLvcBCazmP5OAqWJ1x02fb5Lx9girBaQ2HByTjlE1avIYGKndqbz
+         46i/2UKGruI7/1ITD/UddJSeyg/Ty253OL04KuOobUrOPPPxOhb83esOnbFEOBejXe27
+         QVSJTZP3POqfNutrE22ZNdb0rTQqkS5s+TBdU=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        b=K28aZ607/rqAme4bRlSjwvwHbV1HY7/bmdE5ORxARFyt8sVSXtdnpda2BGiULrpIJX
+         pcAKicKo99oh9mMqVAU0zD+LPOuHpHxlp6al+rmevVTncqdIyqduJDqTkp5p2SOlHuB4
+         eDnX3BXX7uCeyx7QQdNsP6/hAzLOjLWW6g7ac=
+MIME-Version: 1.0
+Received: by 10.231.130.9 with SMTP id q9mr5393763ibs.52.1299710104537; Wed,
+ 09 Mar 2011 14:35:04 -0800 (PST)
+Received: by 10.231.160.18 with HTTP; Wed, 9 Mar 2011 14:35:04 -0800 (PST)
+In-Reply-To: <20110309222918.E1ED3DDD64@maderna.nic.ar>
+References: <20110309222918.E1ED3DDD64@maderna.nic.ar>
+Date: Wed, 9 Mar 2011 17:35:04 -0500
+Message-ID: <AANLkTinXsSbnS339RfnKpeGw9in++4O8-eqAuPkE4YC9@mail.gmail.com>
+Subject: Fwd: Cambio de Responsable launion.com.ar
+From: Diario LA UNION <dlusa.lomas@gmail.com>
+To: informatica <informatica@launion.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1
+X-Antivirus: AVG for E-mail 10.0.1204 [1497/3494]
+X-AVG-ID: ID513EADD0-159F8114
+
+---------- Forwarded message ----------
+From: asigdom@nic.ar
+Date: Wed,  9 Mar 2011 19:29:18 -0300 (ART)
+Subject: Cambio de Responsable launion.com.ar
+To: dlusa.lomas@gmail.com
+
+*************************************************************
+*************************************************************
+
+IMPORTANTE: NO RESPONDA ESTE E-MAIL SIN LEERLO CUIDADOSAMENTE.
+
+*************************************************************
+*************************************************************
+
+Al responder este e-mail Ud. iniciara un tramite ante NIC-Argentina.
+
+Verifique que los datos correspondan al formulario que Ud.
+lleno en forma interactiva en el Web de NIC-Argentina en la
+fecha y hora del envio de este e-mail.
+
+Si Ud. no lleno este formulario en el Web del NIC, o los
+datos del formulario no corresponden a un tramite que Ud.
+desee iniciar en esta oportunidad ante el NIC, NO RESPONDA
+ESTE E-MAIL.
+
+Si Ud. desea iniciar el tramite, responda, con cuidado de no
+modificar en nada su contenido.
+------------------------------------------------------------
+Version 1.0 - NIC-ARGENTINA - Requerimiento de Actualizacion
+de Datos
+
+1. Accion ( <A>ctualizar/<N>o-Actualizar ): A
+2. Control Interno: 56147
+------------------------------------------------------------
+Version 2.5 - Agosto 2004 - asigdom@nic.ar
+
+Registracion de Nombres de Dominio
+
+0. Proposito del formulario:Cambio
+
+1. Nombre solicitado:launion.com.ar
+
+2. Entidad registrante
+
+a. Nombre:DIARIO LA UNION
+b. Domicilio:Loria 475
+c. Ciudad/Localidad:Lomas de Zamora
+d. Codigo Postal:1832
+e. Provincia:Buenos Aires
+f. Pais:Argentina
+g. Telefonos:4243-4441
+h. Fax:4243-4441
+i. Actividad principal:Editorial
+j. CUIT/CUIL:CUIT
+k. Nro CUIT/CUIL:30500091254
+l. Tipo Doc:
+m. Nro Doc:
+n. E-Mail:RESERVADO
+o. Domicilio en el Exterior (Entidades Extranjeras):
+p. Ciudad en el Exterior (Entidades Extranjeras):
+q. Codigo Postal en el Exterior (Entidades Extranjeras):
+r. Telefono en el Exterior (Entidades Extranjeras):
+s. Fax en el Exterior (Entidades Extranjeras):
+t. Numero de Identificacion (Entidades Extranjeras):
+u. Tipo de Entidad:
+
+3. Persona responsable
+
+a. Nombre y Apellido:Julian Marcelo Zappia
+b. Domicilio:Herminio Constanzo 484
+c. Ciudad/Localidad:Monte Grande
+d. Codigo Postal:1842
+e. Provincia:Buenos Aires
+f. Pais:Argentina
+g. Telefonos:15-6795-9575
+h. Horarios para contacto:15-17
+i. Fax:15-6795-9575
+j. Correo electronico:RESERVADO
+
+He leido y acepto las Reglas para el registro de nombres de
+dominio Internet en Argentina:SI
+NICARCTRL34139ZFA4179A1B50576A01FFC8CC7492C4E7AZ1299709095Z
+
+
+-----
+Se certificó que el correo no contiene virus.
+Comprobada por AVG - www.avg.es
+Versión: 10.0.1204 / Base de datos de virus: 1497/3494 - Fecha de la versión: 09/03/2011

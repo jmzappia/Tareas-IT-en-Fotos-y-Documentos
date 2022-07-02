@@ -1,0 +1,218 @@
+;-----------------------------------------------------------------------------;
+;									      ;
+;	TABLA DE CONFIGURACION DE MENSAJES GENERALES (CASTELLANO\ESPA¥OL)     ;
+;									      ;
+;		Sistema de Avisos Clasificados - SDCLASS V. 1.50 o superior   ;
+;									      ;
+;-----------------------------------------------------------------------------;
+
+[LA]=90
+
+
+[LIM]=85
+[REF]=0    [MSJ]=%Presione 'ESC' para continuar%
+[REF]=1    [MSJ]=%%
+[REF]=2    [MSJ]=%%
+[REF]=3    [MSJ]=%%
+[REF]=4    [MSJ]=%%
+[REF]=5    [MSJ]=%DESEA SALIR DEL INGRESO DE AVISOS (S/N)%
+[REF]=6    [MSJ]=%para seleccionar%
+[REF]=7    [MSJ]=%ÄÙ para entrar     (ESC) para salir%
+[REF]=8    [MSJ]=%S%
+[REF]=9    [MSJ]=%N%
+[REF]=10   [MSJ]=%TERMINAL EN PROCESO DE CARGA%
+[REF]=11   [MSJ]=%   Inicializando el sistema...   %
+[REF]=12   [MSJ]=%    Cargando clasificaci¢n...    %
+[REF]=13   [MSJ]=%Cargando parametros de configuraci¢n...%
+[REF]=14   [MSJ]=%       Cargando c¢digos de printer...       %
+[REF]=15   [MSJ]=%       Cargando tablas de filtros...    %
+[REF]=16   [MSJ]=%      Inicializando calendario...       %
+[REF]=17   [MSJ]=%Agencia: %
+[REF]=18   [MSJ]=%DD/MM/CCYY%
+[REF]=19   [MSJ]=%%
+[REF]=20   [MSJ]=%%
+
+
+[REF]=21   [MSJ]=%Control de Creditos%
+[REF]=22   [MSJ]=%%
+[REF]=23   [MSJ]=%%
+[REF]=24   [MSJ]=%Esta seguro, CONFIRME (S/N)%
+[REF]=25   [MSJ]=%Avisos capturados el :%
+[REF]=26   [MSJ]=%%
+[REF]=27   [MSJ]=%%
+[REF]=28   [MSJ]=%Hora:%
+[REF]=29   [MSJ]=%%
+[REF]=30   [MSJ]=%%
+[REF]=31   [MSJ]=%Verificando el aviso n£mero:%
+[REF]=32   [MSJ]=%%
+[REF]=33   [MSJ]=%Espere un momento...%
+[REF]=34   [MSJ]=%FALLA DE PATH O FALTA DE BASES  ### ERROR DE INSTALACION o HARDWARE ###%
+[REF]=35   [MSJ]=%AVISO sin d¡as a publicar ### ERROR ###%
+[REF]=36   [MSJ]=%%
+[REF]=37   [MSJ]=%%
+[REF]=38   [MSJ]=%ATENCION !!!!!!!!               ### ERROR DE INSTALACION o HARDWARE ###%
+[REF]=39   [MSJ]=%%
+[REF]=40   [MSJ]=%%
+[REF]=41   [MSJ]=%NO SE PUDO EJECUTAR EL BATCH 'AG_RECIB.BAT'%
+[REF]=42   [MSJ]=%RESUMEN DE RECEPCION de%
+[REF]=43   [MSJ]=%D¡a:%
+[REF]=44   [MSJ]=%ALTAS INCORPORADAS%
+[REF]=45   [MSJ]=%AVISO RECIBIDO  >>> O.K. <<<%
+[REF]=46   [MSJ]=%BAJAS INCORPORADAS%
+[REF]=47   [MSJ]=%NO SE PUDO DAR DE BAJA ### ERROR ###%
+[REF]=48   [MSJ]=%AVISO DADO DE BAJA (T1)%
+[REF]=49   [MSJ]=%AVISO DADO DE BAJA en el d¡a (T2)%
+[REF]=50   [MSJ]=%>>>>>>>>>>>>>>>>>>>>>>> CIERRE DE RECEPCION <<<<<<<<<<<<<<<<<<<<<<<<<%
+[REF]=51   [MSJ]=%Seleccione la Agencia a utilizar%
+[REF]=52   [MSJ]=%Recibiendo y archivando informaci¢n%
+[REF]=53   [MSJ]=%de %
+[REF]=54   [MSJ]=%%
+[REF]=55   [MSJ]=%%
+[REF]=56   [MSJ]=%%
+[REF]=57   [MSJ]=%%
+[REF]=58   [MSJ]=%%
+[REF]=59   [MSJ]=%%
+
+[REF]=60    [MSJ]=%Verifique fecha:%
+[REF]=61    [MSJ]=%%
+[REF]=62    [MSJ]=%%
+[REF]=63    [MSJ]=%%
+[REF]=64    [MSJ]=%%
+[REF]=65    [MSJ]=%%
+[REF]=66    [MSJ]=%%
+[REF]=67    [MSJ]=%%
+[REF]=68    [MSJ]=%%
+[REF]=69    [MSJ]=%%
+
+[REF]=70   [MSJ]=%Cobrador%
+[REF]=71   [MSJ]=%Asignaci¢n de Cobradores%
+[REF]=72   [MSJ]=%_ N£mero de Aviso -----:%
+[REF]=73   [MSJ]=%_ Nombre del Cliente --:%
+[REF]=74   [MSJ]=%_ Direcci¢n -----------:%
+[REF]=75   [MSJ]=%_ Ciudad --------------:%
+[REF]=76   [MSJ]=%_ Tel‚fono ------------:%
+[REF]=77   [MSJ]=%_ Precio del Anuncio --:%
+[REF]=78   [MSJ]=%_ N£mero de Pago ------:%
+[REF]=79   [MSJ]=%_ Fecha de Pago -------:%
+[REF]=80   [MSJ]=%_ Nombre del Cobrador -:%
+[REF]=81   [MSJ]=%_ Total Pagado --------:%
+[REF]=82   [MSJ]=%Nro Aviso%
+[REF]=83   [MSJ]=%Nombre del Cliente%
+[REF]=84   [MSJ]=%Direcci¢n%
+[REF]=85   [MSJ]=%Ciudad%
+[REF]=86   [MSJ]=%C¢digo%
+[REF]=87   [MSJ]=%_ C¢digo --------------:%
+[REF]=88   [MSJ]=%_ CUIT ----------------:%
+[REF]=89   [MSJ]=%_ IVA -----------------:%
+[REF]=90   [MSJ]=%_ Forma de Pago -------:%
+[REF]=91   [MSJ]=%_ Especial ------------:%
+[REF]=92   [MSJ]=%_ Impuesto ------------:%
+[REF]=93   [MSJ]=%_ Recargo -------------:%
+[REF]=94   [MSJ]=%_ Descuento -----------:%
+[REF]=95   [MSJ]=%_ Precio del Anuncio E :%
+[REF]=96   [MSJ]=%_ D¡as a Publicar -----:%
+[REF]=97   [MSJ]=%_ Operador de captura -:%
+[REF]=98   [MSJ]=%_ Fecha de Captura ----:%
+[REF]=99   [MSJ]=%_ Hora de Captura -----:%
+[REF]=100   [MSJ]=%_ Nro de Recibo -------:%
+[REF]=101   [MSJ]=%Ingreso de Pagos%
+[REF]=102   [MSJ]=%Avisos Saldados (remanentes en el sistema)%
+[REF]=103   [MSJ]=%< <  PROCESANDO INFORMACION  > >%
+[REF]=104   [MSJ]=%<<  I M P R I M I E N D O  >>%
+[REF]=105   [MSJ]=%Backup de Avisos Saldados%
+[REF]=106   [MSJ]=%%
+[REF]=107   [MSJ]=%%
+[REF]=108   [MSJ]=%%
+[REF]=109   [MSJ]=%%
+
+[REF]=110   [MSJ]=%0.# Asignar Cobradores por Cliente                        %
+[REF]=111   [MSJ]=%1.# Asignar Cobradores por Direcci¢n                      %
+[REF]=112   [MSJ]=%2.# Ingreso de Pagos de Avisos Cobrados                   %
+[REF]=113   [MSJ]=%3.# Avisos con Pagos Inferiores al valor del mismo        %
+[REF]=114   [MSJ]=%4.# Avisos con Pagos Superiores al valor del mismo        %
+[REF]=115   [MSJ]=%5.# Avisos Saldados (remanentes en el sistema)            %
+[REF]=116   [MSJ]=%A.- Listado de Avisos a Cobrar por Cobrador               %
+[REF]=117   [MSJ]=%B.- Listado de Avisos Saldados                            %
+[REF]=118   [MSJ]=%C.- Listado de Avisos con Saldo Deudor (historico)        %
+[REF]=119   [MSJ]=%D.- Listado de Avisos con Saldo Acreedor (historico)      %
+[REF]=120   [MSJ]=%E.- Listado de Cuenta por Cobrador por Mes                %
+[REF]=121   [MSJ]=%F.- Listado de Avisos de un Mes por nro/aviso             %
+[REF]=122   [MSJ]=%G.- Listado de Avisos de un Mes por nro/recibo            %
+[REF]=123   [MSJ]=%H.- Listado de Desempe¤o de Cobradores                    %
+[REF]=124   [MSJ]=%I.- Listado de Cuentas de Clientes por Mes                %
+[REF]=125   [MSJ]=%J.- Listado General por Cobrador y Zona                   %
+[REF]=126   [MSJ]=%K.- Listado por Ciudad                                    %
+[REF]=127   [MSJ]=%6.# Incorporar Avisos                                     %
+[REF]=128   [MSJ]=%7.# Ver Backup Activo de Avisos Saldados                  %
+[REF]=129   [MSJ]=%8.# Ver Backup de Disco de Avisos Saldados                %
+
+[REF]=130   [MSJ]=%N£mero de Aviso%
+[REF]=131   [MSJ]=%Nombre del Cliente%
+[REF]=132   [MSJ]=%Direcci¢n del Cliente%
+[REF]=133   [MSJ]=%Ciudad del Cliente%
+[REF]=134   [MSJ]=%Tel‚fono del Cliente%
+[REF]=135   [MSJ]=%C¢digo del Cliente%
+[REF]=136   [MSJ]=%Cobrador%
+[REF]=137   [MSJ]=%%
+[REF]=138   [MSJ]=%%
+[REF]=139   [MSJ]=%%
+
+[REF]=140   [MSJ]=%NO HAY INFORMACION PARA%
+[REF]=141   [MSJ]=%IMPRIMIR%
+[REF]=142   [MSJ]=%(presione una tecla)%
+[REF]=143   [MSJ]=%%
+[REF]=144   [MSJ]=%%
+[REF]=145   [MSJ]=%%
+[REF]=146   [MSJ]=%%
+[REF]=147   [MSJ]=%%
+[REF]=148   [MSJ]=%%
+[REF]=149   [MSJ]=%%
+
+[REF]=150   [MSJ]=%%
+[REF]=151   [MSJ]=%Comienzo de la Ventana%
+[REF]=152   [MSJ]=%Final de la Ventana%
+[REF]=153   [MSJ]=%N£mero de Registro (orden de entrada)%
+[REF]=154   [MSJ]=%Seleccionar Ordenamiento por...%
+[REF]=155   [MSJ]=%Buscar por: %
+[REF]=156   [MSJ]=%Ingrese la informaci¢n a buscar:%
+[REF]=157   [MSJ]=%%
+
+[REF]=159   [MSJ]=%DD-MM-CCYY%
+[REF]=160   [MSJ]=%DD-MM-YY%
+
+[REF]=158   [MSJ]=% Ayuda %
+[REF]=161   [MSJ]=%Puede usar el menu para seleccionar una opci¢n o puede presionar%
+[REF]=162   [MSJ]=%una de las siguientes teclas comando%
+[REF]=163   [MSJ]=%%
+[REF]=164   [MSJ]=%E  Cambiar a la pantalla de edici¢n (Modo Edici¢n).%
+[REF]=165   [MSJ]=%Z  Cambiar a la pantalla de busqueda (Modo Busqueda).%
+[REF]=166   [MSJ]=%H  Cambiar a la pantalla de ayuda (Ayuda).%
+[REF]=167   [MSJ]=%X  Cambiar a la pantalla de menu principal (Salir).%
+[REF]=168   [MSJ]=%%
+[REF]=169   [MSJ]=%M  Modificar el registro seleccionado.%
+[REF]=170   [MSJ]=%%
+[REF]=171   [MSJ]=%F  Buscar un registro por el ordenamiento selecionado.%
+[REF]=172   [MSJ]=%S  Seleccionar un ordenamiento de registros.%
+[REF]=173   [MSJ]=%%
+[REF]=174   [MSJ]=%T  Ir al primer registro de la ventana.%
+[REF]=175   [MSJ]=%B  Ir al £ltimo registro de la ventana.%
+[REF]=176   [MSJ]=%%
+[REF]=177   [MSJ]=%<Flechas Arriba o Abajo> Mover a un registro anterior o posterior.%
+[REF]=178   [MSJ]=%<PgUp>  or <PgDn> Mover a una pantalla anterior o posterior.%
+[REF]=179   [MSJ]=%%
+
+[REF]=180   [MSJ]=%Ayuda%
+[REF]=181   [MSJ]=%Editar%
+[REF]=182   [MSJ]=%%
+[REF]=183   [MSJ]=%Ir al..%
+[REF]=184   [MSJ]=%Buscar%
+[REF]=185   [MSJ]=%Salir%
+[REF]=186   [MSJ]=%Modo Edici¢n %
+[REF]=187   [MSJ]=%Modo Busqueda%
+[REF]=188   [MSJ]=%%
+[REF]=189   [MSJ]=%%
+
+
+; fin de archivo  [EOF]=   
+
+

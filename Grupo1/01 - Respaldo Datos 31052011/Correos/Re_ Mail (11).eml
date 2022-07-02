@@ -1,0 +1,188 @@
+From: =?iso-8859-15?Q?Inform=E1tica_-_LA_UNION?= <informatica@launion.com.ar>
+To: =?iso-8859-15?Q?Mart=EDn_Vi=F1uales_?= <vinuales@hotmail.com>,
+	<carlosbisignano@gmail.com>
+References: <BAY160-ds83FDDA53BA9C27EEF13B7D09A0@phx.gbl>
+Subject: Re: Mail
+Date: Thu, 28 Apr 2011 22:55:06 -0500
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-15";
+	reply-type=original
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.3664
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3664
+
+Martín:
+
+Utilizá la misma cuenta que utiliza Carlos.
+User: ftp1@launion.com.ar
+Pass: DLUftp00x
+
+Coordiná con él qué carpeta utilizar y demás detalles de almacenamiento de 
+contenidos.
+
+Saludos cordiales.
+
+Julián Marcelo Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+
+
+
+
+----- Original Message ----- 
+From: "Martín Viñuales " <vinuales@hotmail.com>
+To: "Informática - LA UNION " <informatica@launion.com.ar>; 
+<carlosbisignano@gmail.com>
+Sent: Thursday, April 28, 2011 8:38 PM
+Subject: Re: Mail
+
+
+Julian,
+Necesito me habilites una cuenta ftp con acceso a algún directorio para 
+dejar ahí imagenes para los newsletter
+
+Martin
+Enviado desde mi BlackBerry® de Claro Argentina
+
+-----Original Message-----
+From: Informática - LA UNION <informatica@launion.com.ar>
+Date: Fri, 29 Apr 2011 02:08:31
+To: <carlosbisignano@gmail.com>
+Cc: <vinuales@hotmail.com>
+Subject: Re: Mail
+
+Estimado Carlos:
+
+En el envío anteriormente citado, ocurrió un solo error, y no por problemas 
+en nuestro sistema de e-mails.
+Copio y pego el contenido del mail de respuesta de inconveniente:
+
+
+
+----- Original Message ----- 
+From: "Mail Delivery System" <Mailer-Daemon@launio.launion.com.ar 
+<mailto:Mailer-Daemon@launio.launion.com.ar> >
+To: <newsletter@launion.com.ar <mailto:newsletter@launion.com.ar> >
+Sent: Thursday, April 28, 2011 6:57 PM
+Subject: Mail delivery failed: returning message to sender
+
+
+> This message was created automatically by mail delivery software.
+>
+> A message that you sent could not be delivered to one or more of its
+> recipients. This is a permanent error. The following address(es) failed:
+>
+> ignacionitto@lomasdezamora.gov.ar 
+> <mailto:ignacionitto@lomasdezamora.gov.ar>
+> SMTP error from remote mail server after MAIL 
+> FROM:<newsletter@launion.com.ar <mailto:newsletter@launion.com.ar> > 
+> SIZE=7154895:
+> host mail.lomasdezamora.gov.ar [200.5.114.181]:
+> 552 Requested mail action aborted: exceeded storage allocation
+>
+> ------ This is a copy of the message, including all the headers. ------
+> ------ The body of the message is 7061318 characters long; only the first
+> ------ 106496 or so are included here.
+
+
+
+El error ocurre sobre el mail server de la casilla de correo con dominio 
+lomasdezamora.gov.ar; el error #502 indica: Requested mail action aborted: 
+exceeded storage allocation. Significa que excede la capacidad de 
+almacenamiento.
+
+Adjunto capturas de pantalla de configuraciones en Outlook, con el fin de 
+informar nuevamente ante cualquier duda. También, adjunto correo electrónico 
+con contenido completo del error anteriormente mencionado.
+
+Si el error se produce desde el mail server (dominio) anteriormente 
+mencionado, debería consultarse con el proveedor del servicio. No es un 
+inconveniente en nuestros correos electrónicos.
+
+
+Saludos cordiales
+
+
+Julián Marcelo Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+
+----- Original Message ----- 
+From: Carlos Bisignano Burgos <mailto:carlosbisignano@gmail.com>
+To: Informática LA UNION <mailto:informatica@launion.com.ar>
+Cc: Martín Viñuales <mailto:vinuales@hotmail.com>
+Sent: Thursday, April 28, 2011 2:41 PM
+Subject: Re: Mail
+
+Martín, te pido que le pases el error a Julian, a fin de solucionar los 
+inconvenientes.
+
+Saludos.
+
+
+El 28 de abril de 2011 16:26, Informática LA UNION 
+<informatica@launion.com.ar <mailto:informatica@launion.com.ar> > escribió:
+
+
+Carlos:
+
+Por favor, remitime en detalle el error que está produciendo el envío masivo 
+de correos, e indicame si son errores temporarios o constantes.
+
+Saludos
+
+Julián Marcelo Zappia
+Analista de Sistemas
+Diario LA UNION S.A.
+
+
+
+
+----- Original Message ----- 
+From: Carlos Bisignano Burgos <mailto:carlosbisignano@gmail.com>
+To: Informática - LA UNION <mailto:informatica@launion.com.ar>
+Cc: Martín Viñuales <mailto:vinuales@hotmail.com>
+Sent: Thursday, April 28, 2011 1:48 PM
+Subject: Mail
+
+Julian, no me puedo comunicar telefonicamente con vos.
+Me informan que está dando error el envío de mails con el servidor que 
+pasaste la otra vez, para enviar newsletters.
+Te pido por favor que te comuniques urgente conmigo o con Martín Viñuales 
+(vinuales@hotmail.com <mailto:vinuales@hotmail.com> )
+
+Gracias.
+
+-- 
+Carlos Bisignano Burgos
+carlosbisignano@gmail.com <mailto:carlosbisignano@gmail.com>
+
+
+
+
+-- 
+Carlos Bisignano Burgos
+carlosbisignano@gmail.com <mailto:carlosbisignano@gmail.com>
+
+
+
+----------------
+
+----------------
+
+Se certificó que el correo no contiene virus.
+Comprobada por AVG - www.avg.es <http://www.avg.es>
+Versión: 10.0.1209 / Base de datos de virus: 1500/3603 - Fecha de la 
+versión: 28/04/2011
+
+
+-----
+Se certificó que el correo no contiene virus.
+Comprobada por AVG - www.avg.es
+Versión: 10.0.1209 / Base de datos de virus: 1500/3603 - Fecha de la 
+versión: 28/04/2011
+
